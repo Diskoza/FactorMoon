@@ -1,0 +1,8 @@
+{
+  "skipped_wrong_game_version": 9,
+  "error:HTTPError": 6,
+  "skipped_wrong_loader": 1,
+  "already_downloaded_target_exists": 1,
+  "skipped_already_installed": 2,
+  "installed": 1
+}

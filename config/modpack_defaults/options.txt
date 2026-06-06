@@ -1,0 +1,7 @@
+enableVsync:false
+maxFps:250
+guiScale:2
+narrator:0
+simulationDistance:8
+syncChunkWrites:false
+onboardAccessibility:true

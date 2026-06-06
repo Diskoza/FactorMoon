@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "stardew_fishing_fabric",
+	"version": "${version}",
+	"name": "Stardew Fishing Fabric",
+	"description": "Fabric fishing minigame compatibility for vanilla rods and Cobblemon poke rods.",
+	"authors": [
+		"OpenAI"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.openai.stardewfishingfabric.StardewFishingFabric"
+		],
+		"client": [
+			"com.openai.stardewfishingfabric.client.StardewFishingFabricClient"
+		]
+	},
+	"mixins": [
+		"stardew_fishing_fabric.mixins.json",
+		{
+			"config": "stardew_fishing_fabric.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"cobblemon": ">=1.7.3"
+	}
+}

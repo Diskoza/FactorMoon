@@ -1,0 +1,16 @@
+{
+  "name": "Домашний центр",
+  "category": "cobbleverse_journal:base",
+  "icon": "cobblemon:healing_machine",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Минимальная база тренера: Healing Machine, PC, Storage Terminal, Waystone и кровать. Все остальное - стиль, но эти пять вещей держат прогресс."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ставь PC рядом с Healing Machine. После каждой экспедиции цикл должен быть коротким: вылечить, разобрать покемонов, выгрузить лут, выбрать новый маршрут."
+    }
+  ]
+}

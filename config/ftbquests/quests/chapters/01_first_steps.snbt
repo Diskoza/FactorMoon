@@ -1,0 +1,540 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "01_first_steps"
+	group: ""
+	id: "7B0E8ED392D7E92E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "71B004C2A61D2D5E"
+			rewards: [
+				{
+					count: 4
+					id: "6B459D6201FAC3F7"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "0E1DB7832F374C66"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "4CC155BF09738861"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "6AB1B008D4B8DDAB"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "52611F8CBBBAFE14"
+			rewards: [
+				{
+					count: 3
+					id: "57215A26BCE0B7C8"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4DE92023B9D91479"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "2A62B112E763A47A"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "2172CB2DE189D5B1"
+				item: { count: 1, id: "cobblemon:pokedex_red" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "2248FDA58DE8BCA2"
+			rewards: [
+				{
+					count: 5
+					id: "3572F35D65C76526"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "60920C0AE72A4D2E"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "7C166435917DAA7F"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1484E96DC5A60AAB"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "534689EC29D530EA"
+			rewards: [
+				{
+					count: 5
+					id: "0FC3BA98E6A2AE9B"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "331F34D61380B92A"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "131679C4BF93E160"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 5L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "059120B90DC18FD0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "65A0E16118AF0A8D"
+			rewards: [
+				{
+					count: 3
+					id: "4B9DF795C2C1875F"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4DECEE1BC549979A"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "1454F5DC454E959B"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 10L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0DDE6F82F1B5B9E9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			id: "1E93A38DEC3932C0"
+			rewards: [
+				{
+					count: 5
+					id: "23086F9AFD07F65C"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A3B4A7497732B18"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
+				}
+				{
+					id: "3861D4B4738F9FAE"
+					type: "xp"
+					xp: 800
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "240D12F90F6E67C8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			id: "413175877B24D164"
+			rewards: [
+				{
+					count: 5
+					id: "1B7D8E2B6F84998C"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6D8CB64FCB7ED621"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2579515D4B4AC4A5"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "3BAB46EFC6ACFA1C"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "639606B677D7047B"
+			rewards: [
+				{
+					count: 4
+					id: "43AFDB8557978ACE"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4905392EA2A89E4F"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+				{
+					id: "21E32B1F896D7E0A"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "4A74F357EEAEDB4C"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "6078BE05F2886217"
+			rewards: [
+				{
+					count: 4
+					id: "0844068924D263CD"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "59C68D69BDF1E601"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "307BFC07C8B31F8B"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 10L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "56D05347E4C7A7A3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "2662B3E9A29EF615"
+			rewards: [
+				{
+					id: "2B01E8A618EEC3EC"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3ADE2F8C1359386E"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "60028A0E46B4B589"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "604193A2C6227DE4"
+				max_level: 0
+				min_level: 10
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 4.0d
+		}
+		{
+			id: "3B34C0821DB953B2"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "5375016554A841C9"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6607E9D2E2B4A6BB"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "48544F2375450A09"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "0CC87AD424C93E33"
+				item: { count: 1, id: "comforts:sleeping_bag_white" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "035B8CC4DEB6EFFC"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "54D94A24BB81E707"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1F2DCD6B0BE4B606"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "409F78A2578C6FC1"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "326FAD655F88E77B"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+	]
+}

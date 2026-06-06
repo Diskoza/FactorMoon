@@ -1,0 +1,583 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "04_pokedex_chronicles"
+	group: ""
+	id: "5652C262A645BE87"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2107E3B47FDCCAF3"
+			rewards: [
+				{
+					count: 4
+					id: "4B92247119964719"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "64EC62EF8655A7CD"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 10L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6672A4232D2A0FB5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0D367A7B6D22C12F"
+			rewards: [
+				{
+					count: 5
+					id: "31739D816A2F7381"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "748712E70C57D46E"
+					type: "xp"
+					xp: 700
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 25L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0E0FFF928A2E286D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "36276F8F39DBD078"
+			rewards: [
+				{
+					count: 3
+					id: "665FB9D883CB939D"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0ED8F26FC093F8C1"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "3B9A084B36891C0A"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 50L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38DEFE937D252BA3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "63B2086956BAC57A"
+			rewards: [
+				{
+					count: 4
+					id: "50C77F7D44D907F5"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7142B43E9BDD8F20"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "0F61B04885E91C9B"
+					type: "xp"
+					xp: 1200
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 75L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "08FE598587743FE0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "6AD71A534CEB4183"
+			rewards: [
+				{
+					count: 6
+					id: "4AF7249A7A77122C"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "5F8C21E8C49BBB7A"
+					item: {
+						count: 1
+						id: "cobblemon:ability_capsule"
+					}
+					type: "item"
+				}
+				{
+					id: "513351631E57CEC1"
+					type: "xp"
+					xp: 1800
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 100L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2AEE051E78F16877"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			id: "1551BEF84895B231"
+			rewards: [
+				{
+					id: "67D0249B10A9BC7A"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5D5025DC36F3A683"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "672A6C1D39C6CA53"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				action: ""
+				amount: 150L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "265EE35ACFC4A28F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			id: "5C879D525D2A4107"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "46E525DCF742F67B"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "79A325324B4B7C88"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 20L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "07B838E6CC10B2A6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "43E0C039C96F0299"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "7EB06888E2D00E14"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "28BADC1A86FE2221"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "35D78933FB129151"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "6EE3506B32EEAA5A"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "6B8B5A686A2960B0"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "6D89AE428D3933A0"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 100L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5C1475622FC78C2E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "523196C1BF5DC203"
+			rewards: [
+				{
+					count: 3
+					id: "1DE942305794AFCA"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "167EAEEB393F84C6"
+					type: "xp"
+					xp: 900
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 5L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "790E547C2BD2FAD0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "0CBADD3C847BA5A9"
+			rewards: [
+				{
+					count: 3
+					id: "27E388B23D42B1FD"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0B9E8E8476AE175C"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "1ED592BDECE7C29D"
+					type: "xp"
+					xp: 1200
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				action: ""
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7E42245094EC0CB4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 4.0d
+		}
+		{
+			id: "64EEBC52BD4246D0"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "169DD1841B0D4D23"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "06C4587CAAD686A6"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "146B6541975480F3"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5C3092766BB64A1C"
+				max_level: 0
+				min_level: 30
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 4.0d
+		}
+	]
+}

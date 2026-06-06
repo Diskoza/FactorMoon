@@ -1,0 +1,162 @@
+﻿rel_path,file_name,size,sha1,metadata,mod_ids,display_names,loaders
+cobblemon-extra\mods\accessories-fabric-1.1.0-beta.53%2B1.21.1.jar,accessories-fabric-1.1.0-beta.53%2B1.21.1.jar,1095802,fa0b11de088893bb14aff945d0e8efdee165457b,fabric.mod.json,accessories,Accessories,fabric
+cobblemon-extra\mods\accessories_compat_layer-fabric-0.1.12+1.21.1.jar,accessories_compat_layer-fabric-0.1.12+1.21.1.jar,398321,44acb001881c063aa15fe66a26de5fae88e6564f,fabric.mod.json,accessories_compat_layer;tclayer;cclayer,Accessories Compatibility Layer,fabric
+cobblemon-extra\mods\advancementdisable-fabric-1.0.1+1.21.jar,advancementdisable-fabric-1.0.1+1.21.jar,430412,8bff07c3254e04ed4926051684f3af92151c650f,fabric.mod.json,advancementdisable,AdvancementDisable,fabric
+cobblemon-extra\mods\AdvancementPlaques-1.21.1-fabric-1.6.8.jar,AdvancementPlaques-1.21.1-fabric-1.6.8.jar,195505,e3a5a514bbcc18e2c4e3bc251eb9f48e64217405,fabric.mod.json,advancementplaques,Advancement Plaques,fabric
+cobblemon-extra\mods\architectury-13.0.8-fabric.jar,architectury-13.0.8-fabric.jar,600915,e71346a43c563e5784580dd096338acfb45f49d4,fabric.mod.json,architectury,Architectury,fabric
+cobblemon-extra\mods\artifacts-fabric-13.2.0.jar,artifacts-fabric-13.2.0.jar,1427967,f3403634b73df9e7813b907f804076a4b70f956e,fabric.mod.json,artifacts,Artifacts,fabric
+cobblemon-extra\mods\athena-fabric-1.21-4.0.2.jar,athena-fabric-1.21-4.0.2.jar,82788,d79183521f9bcb043ebdc6438f1987e46c12a067,fabric.mod.json,athena,Athena,fabric
+cobblemon-extra\mods\balm-fabric-1.21.1-21.0.56.jar,balm-fabric-1.21.1-21.0.56.jar,773504,0377b2e07551dc9fbcb40b94a3d38e098cd85d7e,fabric.mod.json,balm;balm-fabric,Balm,fabric
+cobblemon-extra\mods\beautify-2.0.0%2B1.21.1.jar,beautify-2.0.0%2B1.21.1.jar,837607,7b22fbf4997200c8f210a016f7af36309f52a1e1,fabric.mod.json,beautify,Beautify,fabric
+cobblemon-extra\mods\betterbeds-fabric-1.4.0.jar,betterbeds-fabric-1.4.0.jar,39918,18bc5c4f40ff6e47d65526a59244c9ea57b83e3f,fabric.mod.json,betterbeds,Better Beds,fabric
+cobblemon-extra\mods\BetterF1-Fabric-1.1+1.21.7.jar,BetterF1-Fabric-1.1+1.21.7.jar,22834,218c3aa2ae3356309997deae0861133e9f861581,fabric.mod.json,betterf1,BetterF1,fabric
+cobblemon-extra\mods\BetterF3-11.0.3-Fabric-1.21.1.jar,BetterF3-11.0.3-Fabric-1.21.1.jar,1810710,22442f5594bd537ab603cb36fba70363ebb7992a,fabric.mod.json,betterf3,BetterF3,fabric
+cobblemon-extra\mods\BetterThirdPerson-Fabric-1.21-1.9.0.jar,BetterThirdPerson-Fabric-1.21-1.9.0.jar,52188,ea0dd2747e5d52d1b64dd29498e59602e79d9b69,fabric.mod.json,betterthirdperson,Better Third Person,fabric
+cobblemon-extra\mods\biomereplacer-2.1-hippo-fabric.jar,biomereplacer-2.1-hippo-fabric.jar,138694,8e3573f3384e7031afa663d7fe3dbbd0011bae9c,fabric.mod.json,biome_replacer,Biome Replacer,fabric
+cobblemon-extra\mods\brb-1.10.0-rc5+1.21.jar,brb-1.10.0-rc5+1.21.jar,1213168,5831fc725b9834cef7b445913a701310536b17ab,fabric.mod.json,brb,Better Recipe Book,fabric
+cobblemon-extra\mods\capturexp-fabric-1.7.3-1.3.0.jar,capturexp-fabric-1.7.3-1.3.0.jar,22848,fe935920b30c7cce657c2fa5e4dd27f36ea640cf,fabric.mod.json,capture_xp,Cobblemon Capture XP,fabric
+cobblemon-extra\mods\cardinal-components-api-6.1.3.jar,cardinal-components-api-6.1.3.jar,229645,e762f5205c0fd0f9bed1c04432bf9b51ec832882,fabric.mod.json,cardinal-components,Cardinal Components API,fabric
+cobblemon-extra\mods\Carved%20Wood-fabric-1.21.1-1.8.2.jar,Carved%20Wood-fabric-1.21.1-1.8.2.jar,2458227,b33a37bd0da649d860bf70e32681e49f206e08a6,fabric.mod.json,carved_wood,Carved Wood,fabric
+cobblemon-extra\mods\catchindicator-fabric-1.4.1.jar,catchindicator-fabric-1.4.1.jar,284261,64cbe24381672d8ca66c64786a74d2614a227238,fabric.mod.json,catchindicator,Catch Indicator,fabric
+cobblemon-extra\mods\catchrate-display-fabric-2.7.8.jar,catchrate-display-fabric-2.7.8.jar,175500,040429b67da4320ad455721aadc77b0fc82b206c,fabric.mod.json,catchrate-display,Cobblemon Catch Rate Display,fabric
+cobblemon-extra\mods\cloth-config-15.0.140-fabric.jar,cloth-config-15.0.140-fabric.jar,1157166,5d82342a2df53fd6df712bfdd583a811572918a4,fabric.mod.json,cloth-config;cloth-config2,Cloth Config v15,fabric
+cobblemon-extra\mods\cobble-caf-forms-5.0.0.jar,cobble-caf-forms-5.0.0.jar,2884487,6ad87cbd0eb23e7a58157b48b4cca9924e66c7b9,fabric.mod.json;META-INF/neoforge.mods.toml,mr_cobble_cafforms,Cobblemon cafe,fabric;neoforge
+cobblemon-extra\mods\cobblecuisine-2.0.1-1.7-rc1.jar,cobblecuisine-2.0.1-1.7-rc1.jar,683115,31cf544fe61bb9c21fa8dafe5c03a428049a0f37,fabric.mod.json,cobblecuisine,CobbleCuisine,fabric
+cobblemon-extra\mods\cobbledgacha-fabric-1.21.1-3.0.2.jar,cobbledgacha-fabric-1.21.1-3.0.2.jar,1146787,5dea9ee78e68abb3b43a7a545af7281ca2dbb397,fabric.mod.json,cobbledgacha,Cobbled Gacha,fabric
+cobblemon-extra\mods\CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar,CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar,369528,48a2a30fb22e088ca9357fc95bdb4247ddc80b17,fabric.mod.json,cobbledollars,CobbleDollars,fabric
+cobblemon-extra\mods\CobbleFurnies-fabric-1.0.jar,CobbleFurnies-fabric-1.0.jar,2319618,b174451734d3a424fa239612a5814572f76f77db,fabric.mod.json,cobblefurnies,CobbleFurnies,fabric
+cobblemon-extra\mods\cobblemon-additions-4.1.6.jar,cobblemon-additions-4.1.6.jar,1961229,293c0fd6354114cd45d2dd8e4e771d48b1d89200,fabric.mod.json,,,fabric
+cobblemon-extra\mods\cobblemon-alphas-2.2.jar,cobblemon-alphas-2.2.jar,919007,26ad77dbff6995cf81c7f0abf71c925793a9dbb6,fabric.mod.json;META-INF/neoforge.mods.toml,mr_cobblemon_alphas,Cobblemon Alphas,fabric;neoforge
+cobblemon-extra\mods\cobblemon-battle-extras-fabric-1.13.44.jar,cobblemon-battle-extras-fabric-1.13.44.jar,1508883,ed807d24d3dd6ccb54ca53cfdd80f76025c9bb0b,fabric.mod.json,cobblemon-battle-extras,Cobblemon Battle Extras,fabric
+cobblemon-extra\mods\cobblemon-battle-positions-1.1.3.jar,cobblemon-battle-positions-1.1.3.jar,58572,2edbf7224a689b3463327f2970b481fd8e4ceae8,fabric.mod.json,cobblemonbattlepositions,Cobblemon Battle Positions,fabric
+cobblemon-extra\mods\cobblemon-extra-ride-compat-0.1.0.jar,cobblemon-extra-ride-compat-0.1.0.jar,14287,a92e4b37b1b61e4adf22a2e8262b8a1fb37f658b,fabric.mod.json,cobblemon_extra_ride_compat,Cobblemon Extra Ride Compat,fabric
+cobblemon-extra\mods\cobblemon-extra-ride-compat-0.1.0.pre-seat-fix-backup.jar,cobblemon-extra-ride-compat-0.1.0.pre-seat-fix-backup.jar,14718,58ed00ec3e88566e826920857acb98f344f93e96,fabric.mod.json,cobblemon_extra_ride_compat,Cobblemon Extra Ride Compat,fabric
+cobblemon-extra\mods\Cobblemon-fabric-1.7.3%2B1.21.1.jar,Cobblemon-fabric-1.7.3%2B1.21.1.jar,136549878,ce6cc96d6075ee2d8de0c65b6ada316f1b1e16c5,fabric.mod.json,cobblemon,Cobblemon,fabric
+cobblemon-extra\mods\cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3.jar,cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3.jar,365955,32c58d0d77bfcbb48eb4f0440f5d4b98602fe3d8,fabric.mod.json,cobblemon-fight-them-all,Cobblemon: Fight Them All,fabric
+cobblemon-extra\mods\cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,3508373,8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb,fabric.mod.json;META-INF/neoforge.mods.toml,mr_cobblemon_journeymounts,Cobblemon Journey Mounts,fabric;neoforge
+cobblemon-extra\mods\Cobblemon_Legends_Reborn-3.0.0-fabric.jar,Cobblemon_Legends_Reborn-3.0.0-fabric.jar,192006,fc2dad1007895dc8fdd5c1df0b1e9237f727e6df,fabric.mod.json,cobblemon_legends_reborn,Cobblemon Legends Untold Reborn,fabric
+cobblemon-extra\mods\cobblemon_quests-[1.21.1]-fabric-1.2.0.jar,cobblemon_quests-[1.21.1]-fabric-1.2.0.jar,61946,fe7624abe1bf1c2995bb10653ea8c5a7609fe65a,fabric.mod.json,cobblemon_quests,Cobblemon Quests,fabric
+cobblemon-extra\mods\cobblemon_shiny_rarities-0.2.1.jar,cobblemon_shiny_rarities-0.2.1.jar,12587812,fc971c97c96a6979d605028ba43b9c411025f275,fabric.mod.json;META-INF/neoforge.mods.toml,cobblemon_shiny_rarities,Cobblemon Shiny Rarities,fabric;neoforge
+cobblemon-extra\mods\cobblemon_wonder_trade-fabric-1.2.1.jar,cobblemon_wonder_trade-fabric-1.2.1.jar,2363152,e9b0f18c59d6ab7dc1495103d81fd49d705e6c60,fabric.mod.json,cobblemon_wonder_trade,Cobblemon Wonder Trade,fabric
+cobblemon-extra\mods\cobblemonopponents-fabric-1.6.1.jar,cobblemonopponents-fabric-1.6.1.jar,25599088,90d80e8c5eb926fea9230c5e4b1c81dfd38d16c1,fabric.mod.json,cobblemonopponents,Cobblemon Trainer Structures,fabric
+cobblemon-extra\mods\cobblemonraiddens-fabric-0.7.6%2B1.21.1.jar,cobblemonraiddens-fabric-0.7.6%2B1.21.1.jar,2513669,b274705fdbe4dc8396278550134fca11f8e4a460,fabric.mod.json,cobblemonraiddens,Cobblemon Raid Dens,fabric
+cobblemon-extra\mods\cobblenav-fabric-2.2.5.jar,cobblenav-fabric-2.2.5.jar,780131,c99fa8de40a178ce57d6ca92cadec268308f3b25,fabric.mod.json,cobblenav,Cobblenav,fabric
+cobblemon-extra\mods\Cobblepedia-Fabric-0.7.1.jar,Cobblepedia-Fabric-0.7.1.jar,8276577,4ed4f7be3f42f1989c8022e6ec46ee8708755ff6,fabric.mod.json,cobblepedia,Cobblepedia,fabric
+cobblemon-extra\mods\CobbleverseBadges-1.3.jar,CobbleverseBadges-1.3.jar,137015,8e213de6013b6a58485ba8ddfcff5c91b3beb41d,fabric.mod.json,,,fabric
+cobblemon-extra\mods\Cobbreeding-fabric-2.2.0.jar,Cobbreeding-fabric-2.2.0.jar,474198,c6ac6614e3d833665634e9e4dfedc71293cfa757,fabric.mod.json,cobbreeding,Cobbreeding,fabric
+cobblemon-extra\mods\comforts-fabric-9.0.5%2B1.21.1.jar,comforts-fabric-9.0.5%2B1.21.1.jar,914494,e47d6c2f0213abed8865dfa51ee05dea86c1baa9,fabric.mod.json,comforts,Comforts,fabric
+cobblemon-extra\mods\continuity-3.0.0+1.21.jar,continuity-3.0.0+1.21.jar,1014044,c7f09b53512604c2ba6803b1247bc70e4d0f8f8c,fabric.mod.json,continuity,Continuity,fabric
+cobblemon-extra\mods\Controlling-fabric-1.21.1-19.0.5.jar,Controlling-fabric-1.21.1-19.0.5.jar,83679,22d2407311298d0185b606aa1dd03ae33b98dff3,fabric.mod.json,controlling,Controlling,fabric
+cobblemon-extra\mods\CosmeticArmor%2B1.21.1-1.7.0.jar,CosmeticArmor%2B1.21.1-1.7.0.jar,18587,1728c4831129d0e1c95edc609951657cc4cb3273,fabric.mod.json,cosmeticarmor,Cosmetic Armor,fabric
+cobblemon-extra\mods\customsplashscreen-2.2.0.jar,customsplashscreen-2.2.0.jar,660554,bb79f8974e619e077d60a6bdffe389913b84defd,fabric.mod.json,customsplashscreen,Custom Splash Screen,fabric
+cobblemon-extra\mods\Debugify-1.21.1+1.0.jar,Debugify-1.21.1+1.0.jar,292202,6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4,fabric.mod.json,,,fabric
+cobblemon-extra\mods\defaultoptions-fabric-1.21.1-21.1.5.jar,defaultoptions-fabric-1.21.1-21.1.5.jar,98232,5825ff250f60bc88d7fde745fddbd48f2465f7fa,fabric.mod.json,defaultoptions,Default Options,fabric
+cobblemon-extra\mods\dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar,dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar,405957,df4303deb02246cde9c3a9b82c165bec3f37dada,fabric.mod.json;META-INF/neoforge.mods.toml;META-INF/mods.toml,dynamiclights,Dynamic Lights,fabric;neoforge;forge
+cobblemon-extra\mods\entity_model_features_1.21-fabric-3.0.12.jar,entity_model_features_1.21-fabric-3.0.12.jar,496342,61edf36251b3eec497d622fae9ea1baac6308a05,fabric.mod.json,entity_model_features,Entity Model Features,fabric
+cobblemon-extra\mods\entity_texture_features_1.21-fabric-7.0.9.jar,entity_texture_features_1.21-fabric-7.0.9.jar,728221,0616d3dd4c8a27350ee46e94577da2c247878558,fabric.mod.json,entity_texture_features,Entity Texture Features,fabric
+cobblemon-extra\mods\entityculling-fabric-1.9.5-mc1.21.1.jar,entityculling-fabric-1.9.5-mc1.21.1.jar,1560675,dffd306c5aeba040595e2f02badf441db638624b,fabric.mod.json,entityculling,EntityCulling,fabric
+cobblemon-extra\mods\EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar,EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar,2827550,b1fc5eb98ad63fba6d4594035964471925b3154f,fabric.mod.json,,,fabric
+cobblemon-extra\mods\extra-move-anims-cobblemon-1.7v1.0.2.jar,extra-move-anims-cobblemon-1.7v1.0.2.jar,584731,88f5f5290a98311bed5e9ce68553f4447d18af9f,fabric.mod.json;META-INF/neoforge.mods.toml,mr_extra_moveanimscobblemon,Extra Move Animations (Cobblemon),fabric;neoforge
+cobblemon-extra\mods\fabric-api-0.116.9+1.21.1.jar,fabric-api-0.116.9+1.21.1.jar,2425600,e41cb63b923a6064021c5a30afa4e844b82ca6e9,fabric.mod.json,fabric-api;fabric,Fabric API,fabric
+cobblemon-extra\mods\fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar,fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar,7642216,20b2200961e11994595ebb2d5f6624f232d13751,fabric.mod.json,fabric-language-kotlin,Fabric Language Kotlin,fabric
+cobblemon-extra\mods\fancymenu_fabric_3.8.1_MC_1.21.1.jar,fancymenu_fabric_3.8.1_MC_1.21.1.jar,4522643,65903483bbf770824d821c6065309648aae95304,fabric.mod.json,fancymenu,FancyMenu,fabric
+cobblemon-extra\mods\ferritecore-7.0.3-fabric.jar,ferritecore-7.0.3-fabric.jar,123450,a8a6a34fcda177da2828cedef44e0e538cf78aad,fabric.mod.json,ferritecore,FerriteCore,fabric
+cobblemon-extra\mods\fightorflight-fabric-0.10.7.jar,fightorflight-fabric-0.10.7.jar,1415149,a3169ed363d2483efd527fdd49455c9e05ac693f,fabric.mod.json,fightorflight,Cobblemon Fight or Flight Fabric,fabric
+cobblemon-extra\mods\ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar,ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar,633065,18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee,fabric.mod.json,forgeconfigapiport,Forge Config API Port,fabric
+cobblemon-extra\mods\forgivingvoid-fabric-1.21.1-21.1.6.jar,forgivingvoid-fabric-1.21.1-21.1.6.jar,76824,c10682c28fddc290d81f623f0bd2d2c4533a6ae8,fabric.mod.json,forgivingvoid,Forgiving Void,fabric
+cobblemon-extra\mods\ftb-library-fabric-2101.1.31.jar,ftb-library-fabric-2101.1.31.jar,1406585,18538c0a068a254a5dbf953d39d5017393b041d6,fabric.mod.json,ftblibrary,FTB Library,fabric
+cobblemon-extra\mods\ftb-quests-fabric-2101.1.23.jar,ftb-quests-fabric-2101.1.23.jar,1464674,77a354bf1c416a1dc5691257b24d14b22174dbb0,fabric.mod.json,ftbquests,FTB Quests,fabric
+cobblemon-extra\mods\ftb-ranks-fabric-2101.1.3.jar,ftb-ranks-fabric-2101.1.3.jar,87075,47b4946a3a8d8a1f0fb9b8bb98ee00acb5219063,fabric.mod.json,ftbranks,FTB Ranks,fabric
+cobblemon-extra\mods\ftb-teams-fabric-2101.1.9.jar,ftb-teams-fabric-2101.1.9.jar,287518,a96e1169958eb92939ae67a1beb0aada373cbbbe,fabric.mod.json,ftbteams,FTB Teams,fabric
+cobblemon-extra\mods\fusion-1.2.12-fabric-mc1.21.jar,fusion-1.2.12-fabric-mc1.21.jar,515411,6c5ef883ab46b3e6ab5f53b7c1b0b369162f9110,fabric.mod.json,fusion,Fusion,fabric
+cobblemon-extra\mods\geckolib-fabric-1.21.1-4.8.3.jar,geckolib-fabric-1.21.1-4.8.3.jar,653263,b82cb945e22f32d519c8a10face78149279e12ef,fabric.mod.json,geckolib,GeckoLib 4,fabric
+cobblemon-extra\mods\globalpacks-fabric-1.21.1-21.0.6.jar,globalpacks-fabric-1.21.1-21.0.6.jar,394707,6a0c4ccf2a8bc916173defc3c49c8e95285e66b9,fabric.mod.json;META-INF/neoforge.mods.toml;META-INF/mods.toml,globalpacks,Global Data- & Resourcepacks;Global Packs,fabric;neoforge;forge
+cobblemon-extra\mods\handcrafted-fabric-1.21.1-4.0.3.jar,handcrafted-fabric-1.21.1-4.0.3.jar,7127377,a9579fecd7ed429c282be21d5c921d220197acc6,fabric.mod.json,handcrafted,Handcrafted,fabric
+cobblemon-extra\mods\highlight-fabric-1.21-3.0.0.jar,highlight-fabric-1.21-3.0.0.jar,457352,68c9d99f271cd8ef8421358369d2d663dd7074fe,fabric.mod.json,highlight,Highlight,fabric
+cobblemon-extra\mods\huge-structure-blocks-fabric-1.1.6.jar,huge-structure-blocks-fabric-1.1.6.jar,100230,e47182aa7c96a04e79eab7db8851f4d7615d3f40,fabric.mod.json,hugestructureblocks,Huge Structure Blocks,fabric
+cobblemon-extra\mods\Iceberg-1.21.1-fabric-1.3.2.jar,Iceberg-1.21.1-fabric-1.3.2.jar,413302,170e30bf93ccba6d80dd481eedddae16cb549d29,fabric.mod.json,iceberg,Iceberg,fabric
+cobblemon-extra\mods\ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar,ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar,342770,ff2be016b12128fc0cd875a21a307d681edde817,fabric.mod.json,immediatelyfast,ImmediatelyFast,fabric
+cobblemon-extra\mods\immersive_aircraft-1.4.2+1.21.1-fabric.jar,immersive_aircraft-1.4.2+1.21.1-fabric.jar,2433403,20e278691c2c67222188418d8fee99f48380649e,fabric.mod.json,immersive_aircraft,Immersive Aircraft,fabric
+cobblemon-extra\mods\infinite-music-0.4.6.jar,infinite-music-0.4.6.jar,45913,72ac27231cd80aab7ea509da6694c3696dc4c96a,fabric.mod.json,infinite-music,Infinite Music,fabric
+cobblemon-extra\mods\interactic-0.2.3+1.21.jar,interactic-0.2.3+1.21.jar,118011,1bb259b6b82f75f9f7302b2f08efafc146ae576e,fabric.mod.json,interactic,Interactic,fabric
+cobblemon-extra\mods\iris-fabric-1.8.8+mc1.21.1.jar,iris-fabric-1.8.8+mc1.21.1.jar,2690177,4e0df4011503b4b36ba69877ea7247c1a47fea00,fabric.mod.json,iris,Iris,fabric
+cobblemon-extra\mods\konkrete_fabric_1.9.9_MC_1.21.jar,konkrete_fabric_1.9.9_MC_1.21.jar,786695,c521e23a8be17a941f4f95a76feba9df5e3de5d0,fabric.mod.json,konkrete,Konkrete,fabric
+cobblemon-extra\mods\krypton-0.2.8.jar,krypton-0.2.8.jar,161045,73e792eb5f120787becda4b87b6ff18b26caea50,fabric.mod.json,krypton,Krypton,fabric
+cobblemon-extra\mods\LegendaryMonuments-Cobbleverse.jar,LegendaryMonuments-Cobbleverse.jar,5736792,9c86e9dfda8be63bbc01ab03160c8bf5ae8185ac,fabric.mod.json,legendarymonuments,Legendary Monuments,fabric
+cobblemon-extra\mods\lenientdeath-1.2.5+1.21.1.jar,lenientdeath-1.2.5+1.21.1.jar,920915,cca7eb614db1053e9b8f8f413bc7bc82edcd472a,fabric.mod.json,lenientdeath,Lenient Death,fabric
+cobblemon-extra\mods\libjf-3.17.3.jar,libjf-3.17.3.jar,1283376,2a08178e0ce192f209f1f230e7ff211157563734,fabric.mod.json,libjf,LibJF,fabric
+cobblemon-extra\mods\lithium-fabric-0.15.2%2Bmc1.21.1.jar,lithium-fabric-0.15.2%2Bmc1.21.1.jar,797184,72d9c51e9ece62018f290bfbbf7bbb87190cc7ed,fabric.mod.json,lithium,Lithium,fabric
+cobblemon-extra\mods\lithostitched-1.6.1-fabric-1.21.1.jar,lithostitched-1.6.1-fabric-1.21.1.jar,767226,bde8f63f269191c2929a65a41dcdb9242f2fa970,fabric.mod.json,lithostitched,Lithostitched,fabric
+cobblemon-extra\mods\lootr-fabric-1.21.1-1.11.36.117.jar,lootr-fabric-1.21.1-1.11.36.117.jar,1013059,4a56e0ce135cf7c0dd7e5b06f22cbe7ce90c3f87,fabric.mod.json,lootr,Lootr,fabric
+cobblemon-extra\mods\lootrmon-fabric-1.21.1-0.0.0.3.jar,lootrmon-fabric-1.21.1-0.0.0.3.jar,107470,a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9,fabric.mod.json,lootrmon,Lootr & Cobblemon Compatibility,fabric
+cobblemon-extra\mods\Luckys-Cozyhome-Refurnished-1.1.20.jar,Luckys-Cozyhome-Refurnished-1.1.20.jar,3121070,e65e20f982be0be2bf5e94101f560049b0463ab3,fabric.mod.json,cozyhome,Cozy Home,fabric
+cobblemon-extra\mods\LumyMon-0.6.3.jar,LumyMon-0.6.3.jar,2323542,5a9f6bd4fab8118e62d8640ac5371efe9430cdbd,fabric.mod.json,lumymon,LumyMon,fabric
+cobblemon-extra\mods\LumyREI-1.1.2.jar,LumyREI-1.1.2.jar,68949,6236a041e4cd52087791d7341dfe795731ad5ac2,fabric.mod.json,lumyrei,LumyREI,fabric
+cobblemon-extra\mods\mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar,mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar,16330490,589af14f40b6d8ae133b24a0f90c1cfce00fec19,fabric.mod.json,,,fabric
+cobblemon-extra\mods\melody_fabric_1.0.10_MC_1.21.jar,melody_fabric_1.0.10_MC_1.21.jar,188035,5624eea73f251c70a9489192d326f9b4aab3b13c,fabric.mod.json,melody,Melody,fabric
+cobblemon-extra\mods\midnightlib-1.7.5-fabric+1.21.1.jar,midnightlib-1.7.5-fabric+1.21.1.jar,62853,c32c79bd001e400ec7ebaccfffaed465daf42835,fabric.mod.json,midnightlib,MidnightLib,fabric
+cobblemon-extra\mods\moar-concrete-1.3.1.jar,moar-concrete-1.3.1.jar,777538,541410660ff1198e24b99e007267a7ec256498e2,fabric.mod.json,moarconcrete,Moar Concrete,fabric
+cobblemon-extra\mods\modernfix-fabric-5.25.1+mc1.21.1.jar,modernfix-fabric-5.25.1+mc1.21.1.jar,471258,4ab39e9c736e7204146792c545ec5b29fc0a3872,fabric.mod.json,modernfix,ModernFix,fabric
+cobblemon-extra\mods\modmenu-11.0.3.jar,modmenu-11.0.3.jar,973066,6213120772192040a0aeb5c7cfe330c068605b1f,fabric.mod.json,modmenu,Mod Menu,fabric
+cobblemon-extra\mods\MoreCobblemonTweaks-fabric-1.3.3.jar,MoreCobblemonTweaks-fabric-1.3.3.jar,137626,1c1ce65f40b9409c209608680060866c2aaa1eb9,fabric.mod.json,more_cobblemon_tweaks,MoreCobblemonTweaks,fabric
+cobblemon-extra\mods\moreculling-fabric-1.21.1-1.0.6.jar,moreculling-fabric-1.21.1-1.0.6.jar,345544,e14150baf443abc24ee6236b837c287dd5950e95,fabric.mod.json,moreculling,More Culling,fabric
+cobblemon-extra\mods\MouseTweaks-fabric-mc1.21-2.26.jar,MouseTweaks-fabric-mc1.21-2.26.jar,75984,ee81af33a5606ef2cd057e075833d7c69836c210,fabric.mod.json,mousetweaks,Mouse Tweaks,fabric
+cobblemon-extra\mods\MusicNotification-fabric-mc1.21-2.1.0.jar,MusicNotification-fabric-mc1.21-2.1.0.jar,117260,8c521838a2bb68b7378a0686a259af00034ef27c,fabric.mod.json,musicnotification,Music Notification,fabric
+cobblemon-extra\mods\nethermap-4.0.0-1.21.1.jar,nethermap-4.0.0-1.21.1.jar,21464,4a4849b36757a268253a3a87b4a02b60f59816a6,fabric.mod.json,nethermap,Better Nether Map,fabric
+cobblemon-extra\mods\netherportalfix-fabric-1.21.1-21.1.3.jar,netherportalfix-fabric-1.21.1-21.1.3.jar,213294,970677295778926b09c3539b38e884854bc4d3c7,fabric.mod.json,netherportalfix,NetherPortalFix,fabric
+cobblemon-extra\mods\niftycarts-21.1.1.jar,niftycarts-21.1.1.jar,621307,f60653aefdc8d2bb081cbf167c54ac0e8c1fc5f2,fabric.mod.json,niftycarts,NiftyCarts,fabric
+cobblemon-extra\mods\notenoughanimations-fabric-1.11.3-mc1.21.1.jar,notenoughanimations-fabric-1.11.3-mc1.21.1.jar,1920525,1044f009e62ee7665b384f42f3d12df3145ef54c,fabric.mod.json,notenoughanimations,NotEnoughAnimations,fabric
+cobblemon-extra\mods\notenoughcrashes-fabric-4.4.9+1.21.1.jar,notenoughcrashes-fabric-4.4.9+1.21.1.jar,601087,0de122f1e94b85308bcecb0ebc40ac48c13367a9,fabric.mod.json,notenoughcrashes,Not Enough Crashes,fabric
+cobblemon-extra\mods\Only Bottle Caps-1.3.0.jar,Only Bottle Caps-1.3.0.jar,250451,23ef87de0db4ec6914b67ad96d72c204874dc613,fabric.mod.json,obc,Only Bottle Caps,fabric
+cobblemon-extra\mods\owo-lib-0.12.15.4+1.21.jar,owo-lib-0.12.15.4+1.21.jar,1183559,45725e6d33b624e565a7a6e5d3627af40814288d,fabric.mod.json,owo;owo-impl;owo-lib,oωo,fabric
+cobblemon-extra\mods\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,46623,a8bb6e25807682e72c23bf4065f3cd5f6373ece3,fabric.mod.json;META-INF/neoforge.mods.toml,packetfixer,Packet Fixer;PacketFixer,fabric;neoforge
+cobblemon-extra\mods\paginatedadvancements-2.5.1.jar,paginatedadvancements-2.5.1.jar,71859,23a4570fb52d62135d705156079e52ddfe980b94,fabric.mod.json,paginatedadvancements,Paginated Advancements,fabric
+cobblemon-extra\mods\particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar,particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar,595246,e73a61bb88772a19b9609d388917f4c4b58830cc,fabric.mod.json,particlerain,Particle Rain,fabric
+cobblemon-extra\mods\particular-1.21.1-Fabric-1.1.2.jar,particular-1.21.1-Fabric-1.1.2.jar,240317,aa59b31359c2211f4a2d401235c4926084d4f97e,fabric.mod.json,particular,Particular,fabric
+cobblemon-extra\mods\pastureLoot-1.0.5+1.21.1.jar,pastureLoot-1.0.5+1.21.1.jar,45871,cc6bbf60b6a08d5b4f5c6416aa0279d92f761c73,fabric.mod.json,pasture-loot,PastureLoot,fabric
+cobblemon-extra\mods\Patchouli-1.21.1-93-FABRIC.jar,Patchouli-1.21.1-93-FABRIC.jar,861256,693eb5235ccbcef67569bd62d6c5dd34c4d73459,fabric.mod.json,patchouli,Patchouli,fabric
+cobblemon-extra\mods\Ping-Wheel-1.12.1-fabric-1.21.1.jar,Ping-Wheel-1.12.1-fabric-1.21.1.jar,152389,05a72b2b56b57bfc273d4f5c86146f88cd1ecf6b,fabric.mod.json,pingwheel,Ping Wheel,fabric
+cobblemon-extra\mods\Platform-fabric-1.21.1-1.2.11.5.jar,Platform-fabric-1.21.1-1.2.11.5.jar,731829,355c4ddaf0e9362c570ccd8d1576c6fae9290071,fabric.mod.json,platform,Platform,fabric
+cobblemon-extra\mods\playerxp-fabric-1.0.6%2B1.21.1.jar,playerxp-fabric-1.0.6%2B1.21.1.jar,9928,b32c9e88d3884926bba2cdb97bcc93e001a6829e,fabric.mod.json,playerxp,PlayerXP,fabric
+cobblemon-extra\mods\poke-clothing-1.1.2.jar,poke-clothing-1.1.2.jar,214816,06c460f4a6dae6f6480d559df913583d5f827bb0,fabric.mod.json,poke-clothing,Poke Clothing,fabric
+cobblemon-extra\mods\pokeblocks-1.4.0-1.21.1.jar,pokeblocks-1.4.0-1.21.1.jar,1606467,74a6bb7102596b326d07f64281ee80aca0eedaa6,fabric.mod.json,pokeblocks,Pokeblocks,fabric
+cobblemon-extra\mods\rctapi-fabric-1.21.1-0.14.8-beta.jar,rctapi-fabric-1.21.1-0.14.8-beta.jar,229381,f9b4f8dd9ef58e8faf61151b8a5656f918171c34,fabric.mod.json,rctapi,Radical Cobblemon Trainers API,fabric
+cobblemon-extra\mods\rctmod-fabric-1.21.1-0.17.6-beta.jar,rctmod-fabric-1.21.1-0.17.6-beta.jar,4757980,ebc4f12bbe69c57f5da00b13759c2816981bbdfd,fabric.mod.json,rctmod,Radical Cobblemon Trainers,fabric
+cobblemon-extra\mods\rechiseled-1.2.3-fabric-mc1.21.jar,rechiseled-1.2.3-fabric-mc1.21.jar,11913834,4adb82c379b9ac15bc8251d33782b40e37d8f41c,fabric.mod.json,rechiseled,Rechiseled,fabric
+cobblemon-extra\mods\reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar,reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar,81067,c72f07a8f139f0420cbce29bd9eb29fb24db427f,fabric.mod.json,reeses-sodium-options,Reese's Sodium Options,fabric
+cobblemon-extra\mods\repurposed_structures-7.5.18%2B1.21.1-fabric.jar,repurposed_structures-7.5.18%2B1.21.1-fabric.jar,8195855,1f736665a59132af52a96e3685803ce12feb9bd1,fabric.mod.json,repurposed_structures,Repurposed Structures,fabric
+cobblemon-extra\mods\resourcefullib-fabric-1.21-3.0.12.jar,resourcefullib-fabric-1.21-3.0.12.jar,485586,cb67e1302b5116953f45556cc61dbcf40d986ecd,fabric.mod.json,resourcefullib,Resourceful Lib,fabric
+cobblemon-extra\mods\ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar,ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar,80827,ea53b83821e3a584159d0bca490e2460e27c616d,fabric.mod.json,resourcepackoverrides,Resource Pack Overrides,fabric
+cobblemon-extra\mods\respackopts-4.11.3.jar,respackopts-4.11.3.jar,530926,a83c7cd89fc2ac4326c45a2570cfbf8c40f4efa7,fabric.mod.json,respackopts,Resource Pack Options,fabric
+cobblemon-extra\mods\RoughlyEnoughItems-16.0.799-fabric.jar,RoughlyEnoughItems-16.0.799-fabric.jar,2451799,ea0efe8b13a52e9d8d5a18d062810117a7efec0f,fabric.mod.json,roughlyenoughitems,Roughly Enough Items,fabric
+cobblemon-extra\mods\SafePastures-1.1.1+1.21.1.jar,SafePastures-1.1.1+1.21.1.jar,16518,da4ca736f1390553380dd1f8b596f17d35fafded,fabric.mod.json,safepastures,Safe Pastures,fabric
+cobblemon-extra\mods\Searchables-fabric-1.21.1-1.0.2.jar,Searchables-fabric-1.21.1-1.0.2.jar,79531,2777db0b967e80e0659053154f32f14a0e99a7a7,fabric.mod.json,searchables,Searchables,fabric
+cobblemon-extra\mods\simplehats-fabric-1.21.1-0.4.0.jar,simplehats-fabric-1.21.1-0.4.0.jar,1410902,f5ccce6c497bf8376b2c56f04d5e14c52bb72cb1,fabric.mod.json,simplehats,SimpleHats,fabric
+cobblemon-extra\mods\smallships-fabric-1.21.1-2.0.0-b2.1.jar,smallships-fabric-1.21.1-2.0.0-b2.1.jar,2412151,07dd4538868de7c43184e696ed5c171962bf3e23,fabric.mod.json,smallships,Small Ships,fabric
+cobblemon-extra\mods\smart_particles%2Bmc1.21.1-1.01.10.jar,smart_particles%2Bmc1.21.1-1.01.10.jar,50316,53155b5d35a0006b938cb35559fc548666674abf,fabric.mod.json,smart_particles,Smart Particles,fabric
+cobblemon-extra\mods\sodium-extra-fabric-0.6.0+mc1.21.1.jar,sodium-extra-fabric-0.6.0+mc1.21.1.jar,373661,66160fac4fdb9ddd854c5ed068fc329d24d09fd1,fabric.mod.json,sodium-extra,Sodium Extra,fabric
+cobblemon-extra\mods\sodium-fabric-0.6.13+mc1.21.1.jar,sodium-fabric-0.6.13+mc1.21.1.jar,1297761,928a2598178c3a58b0638bab842f467d2e49251a,fabric.mod.json,sodium;indium,Sodium,fabric
+cobblemon-extra\mods\sodiumoptionsapi-fabric-1.0.10-1.21.1.jar,sodiumoptionsapi-fabric-1.0.10-1.21.1.jar,903592,ca8c29ad2481ab5fe81095181541d183fa7faf19,fabric.mod.json;META-INF/neoforge.mods.toml;META-INF/mods.toml,sodiumoptionsapi,Sodium Options API,fabric;neoforge;forge
+cobblemon-extra\mods\sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar,sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar,988478,fc6d87d9b902225790bdfbc45ba412e8572e593f,fabric.mod.json,sophisticatedbackpacks,Sophisticated Backpacks,fabric
+cobblemon-extra\mods\sophisticatedcore-1.21.1-1.2.9.21.168.jar,sophisticatedcore-1.21.1-1.2.9.21.168.jar,2996065,857b3862af8a55b635c2f3b03ad92b2e3f3dfdeb,fabric.mod.json,sophisticatedcore,Sophisticated Core,fabric
+cobblemon-extra\mods\sophisticatedstorage-1.21.1-1.3.7.9.139.jar,sophisticatedstorage-1.21.1-1.3.7.9.139.jar,1670672,bfdf71e189715206733692d7c1f60af589e79d23,fabric.mod.json,sophisticatedstorage,Sophisticated Storage,fabric
+cobblemon-extra\mods\sound-physics-remastered-fabric-1.21.1-1.5.1.jar,sound-physics-remastered-fabric-1.21.1-1.5.1.jar,205671,07d9f758338ad5be38b7fa1eb32c71a7c4840ea0,fabric.mod.json,sound_physics_remastered,Sound Physics Remastered,fabric
+cobblemon-extra\mods\StackDeobfuscatorFabric-1.4.3+08e71cc.jar,StackDeobfuscatorFabric-1.4.3+08e71cc.jar,321213,c36982af69e6d9d9dbac52e4d6c43e8a64fc6163,fabric.mod.json,stackdeobfuscator,StackDeobfuscator,fabric
+cobblemon-extra\mods\stardew-fishing-fabric-0.1.1.jar,stardew-fishing-fabric-0.1.1.jar,42675,a8d6741e5b6e8ae59a6f4dc4f296e8eb94819ba9,fabric.mod.json,stardew_fishing_fabric,Stardew Fishing Fabric,fabric
+cobblemon-extra\mods\supermartijn642configlib-1.1.8-fabric-mc1.21.jar,supermartijn642configlib-1.1.8-fabric-mc1.21.jar,206993,8427e42f1db8ea7b4b6c21cc94bfcfa398f0ff63,fabric.mod.json;META-INF/neoforge.mods.toml,supermartijn642configlib,SuperMartijn642's Config Lib;SuperMartijn642's Config Library,fabric;neoforge
+cobblemon-extra\mods\supermartijn642corelib-1.1.20-fabric-mc1.21.jar,supermartijn642corelib-1.1.20-fabric-mc1.21.jar,616841,4fd5200ea2ce64a366100c9a78a0aebed273b5ed,fabric.mod.json,supermartijn642corelib,SuperMartijn642's Core Lib,fabric
+cobblemon-extra\mods\tectonic-3.0.21-fabric-21.1.jar,tectonic-3.0.21-fabric-21.1.jar,326663,503e0fb747447df8a44d4fcfe12fa698cd85ccdc,fabric.mod.json,tectonic,Tectonic,fabric
+cobblemon-extra\mods\Terralith_1.21.x_v2.5.8.jar,Terralith_1.21.x_v2.5.8.jar,3115385,bee0cfb1a8cd4bf3d96bccea224fb45d74de9085,fabric.mod.json;META-INF/neoforge.mods.toml;META-INF/mods.toml,terralith,Terralith,fabric;neoforge;forge
+cobblemon-extra\mods\timcore-fabric-1.7.3-1.31.0.jar,timcore-fabric-1.7.3-1.31.0.jar,297587,509129949a45f95b1150b4da4a222f7beed3de6b,fabric.mod.json,tim_core,Tim Core,fabric
+cobblemon-extra\mods\tmcraft-1.4.18+1.7.3.jar,tmcraft-1.4.18+1.7.3.jar,3360417,f423155efb2a99370fe838a6603c5f33c947946e,fabric.mod.json,tmcraft,TM Craft,fabric
+cobblemon-extra\mods\toms_storage_fabric-1.21-2.3.0.jar,toms_storage_fabric-1.21-2.3.0.jar,1962781,3f851ab4ba33b0efca0a03f3aa92a266415f5a87,fabric.mod.json,toms_storage,Tom's Simple Storage Mod,fabric
+cobblemon-extra\mods\tooltipfix-1.1.1-1.20.jar,tooltipfix-1.1.1-1.20.jar,12432,de704792c691e3d19316c87c21c9ad2bee6c66c3,fabric.mod.json,tooltipfix,ToolTip Fix,fabric
+cobblemon-extra\mods\trinkets-3.10.0.jar,trinkets-3.10.0.jar,272944,f54756f938c7c273713b9f97d4a987eec551e892,fabric.mod.json,trinkets,Trinkets,fabric
+cobblemon-extra\mods\VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar,VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar,28549222,a1d7396d5ab9b22dfbf7d18e125a8a7e8f57a968,fabric.mod.json,vanillabackport,VanillaBackport,fabric
+cobblemon-extra\mods\villagerconfig-fabric-4.5.2%2B1.21.1.jar,villagerconfig-fabric-4.5.2%2B1.21.1.jar,355221,f6256a8824292206e94a248cd8956586e3acb4ff,fabric.mod.json,villagerconfig,VillagerConfig,fabric
+cobblemon-extra\mods\waystones-fabric-1.21.1-21.1.28.jar,waystones-fabric-1.21.1-21.1.28.jar,898196,dfe6379bb15ac976bce58399165be55f8b134251,fabric.mod.json,waystones,Waystones,fabric
+cobblemon-extra\mods\xaerominimap-fabric-1.21.1-25.3.10.jar,xaerominimap-fabric-1.21.1-25.3.10.jar,2177333,a231fa03625036fb8118a1a5981f22eac54c3597,fabric.mod.json,xaerominimap,Xaero's Minimap,fabric
+cobblemon-extra\mods\xaeroworldmap-fabric-1.21.1-1.40.11.jar,xaeroworldmap-fabric-1.21.1-1.40.11.jar,1413973,879469ab8b697796219254a097d00ff48cabf3c5,fabric.mod.json,xaeroworldmap,Xaero's World Map,fabric
+cobblemon-extra\mods\yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar,yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar,1131541,b2807abb067142accce3c489e7e485fd97d4339c,fabric.mod.json,yet_another_config_lib_v3,YetAnotherConfigLib,fabric
+cobblemon-extra\mods\zamega-fabric-1.5.4.jar,zamega-fabric-1.5.4.jar,2390310,0a76dd7fd89db316eebdc4dfb878887292028abb,fabric.mod.json,zamega,zamega,fabric
+cobblemon-extra\mods\zoomify-2.15.1%2B1.21.1.jar,zoomify-2.15.1%2B1.21.1.jar,874396,4dc0d5209ac2b58d0d0e6a13735aa91d65347c8e,fabric.mod.json,zoomify,Zoomify,fabric

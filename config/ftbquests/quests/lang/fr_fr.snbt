@@ -1,0 +1,331 @@
+{
+	chapter.007B547630FF0478.title: "Theurgy"
+	chapter.05E614FDA677D85E.title: "Nourriture et Agriculture"
+	chapter.07210DDF872160BA.title: "Applied Energistics 2"
+	chapter.0731FA8830F28280.title: "Apotheosis Gear"
+	chapter.0A093D8C4429B627.title: "Mekanism: Reactors"
+	chapter.0A52D0932DA3F809.title: "Hostile Neural Networks"
+	chapter.0AB4F9AED808DE48.title: "Modular Routers"
+	chapter.0B826D13BAD43EEB.title: "Draconic Evolution"
+	chapter.0D990A1D1E088701.title: "Ère de la vapeur : premiers pas"
+	chapter.0E81CBCD6B1D1895.chapter_subtitle: ["Et autres spawners"]
+	chapter.0E81CBCD6B1D1895.title: "Apothic Spawners"
+	chapter.0F96DC3563DA78EF.title: "Mystical Agriculture"
+	chapter.100C477F4E63F20A.title: "Create"
+	chapter.11919EBB416B2BD0.title: "Relics"
+	chapter.12AD9789D962B179.title: "Apothic Enchanting"
+	chapter.13B172FA69904D9F.title: "Deeper and Darker"
+	chapter.15AAF17B6665223D.title: "Refined Storage"
+	chapter.18A429E7F56AF5A9.title: "Tableau des primes"
+	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
+	chapter.1BE666F01EFFC00D.title: "Astuces et conseils"
+	chapter.1D42B373285DEF81.chapter_subtitle: ["Et Productive Metalworks"]
+	chapter.1D42B373285DEF81.title: "Silent Gear"
+	chapter.1DB294A8F8686321.title: "Stockage de base"
+	chapter.1FAAEF0B9FD05CB9.title: "Productive Trees"
+	chapter.219B7A003658D24F.title: "XyCraft"
+	chapter.22C20C1827FE6805.title: "Immersive Engineering"
+	chapter.23983F4DC524B14B.title: "Mekanism"
+	chapter.25344A9254E02C8E.title: "Fin de partie"
+	chapter.26E6ED94168A05C4.title: "Productive Bees"
+	chapter.29EFE8220836C79A.title: "&aChapitre 2&r: &6L'ATM Star"
+	chapter.2A6EBEEBAB882679.title: "Powah"
+	chapter.2FB24A5A597459FC.title: "RailCraft"
+	chapter.306DBE1EBB85D02E.title: "Ère électrique : technologie avancée"
+	chapter.3456E0C530C0038E.title: "EvilCraft"
+	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
+	chapter.3DEB33F78398EAD6.chapter_subtitle: ["Et LaserIO"]
+	chapter.3DEB33F78398EAD6.title: "Logistique de base"
+	chapter.415BA265E2C00859.title: "Premiers pas"
+	chapter.4293754F9B2D05F0.title: "&aChapitre 2&r: &eAllthemodium"
+	chapter.43BB00A7A7E1042C.title: "Mahou Tsukai"
+	chapter.4791C8461B1B4D5F.title: "Armure de base"
+	chapter.48410B67C276ED1F.title: "The Bumblezone"
+	chapter.48DB721214AA88E0.title: "Énergie d'implosion"
+	chapter.49AD0D610C009D2F.title: "EnderIO"
+	chapter.4B9D26E0087CD163.title: "Outils de base"
+	chapter.4C507C004144BFEE.title: "Occultism"
+	chapter.4EAAE0CEB26378A6.title: "Just Dire Things"
+	chapter.4EBB2171D5A3AAAC.title: "Forbidden \\& Arcanus"
+	chapter.4EEDECACDE8F5A67.title: "Oritech"
+	chapter.5103E2D95685ADFF.title: "&aChapitre 3&r: &6L'ATM Star"
+	chapter.51A2FE60D8B76FC6.title: "Extended \\& Advanced AE"
+	chapter.56B11606F5F4DAB2.title: "Âge numérique"
+	chapter.5712300EF4E5E846.title: "Pylons"
+	chapter.59395B6806F2A98A.title: "Cataclysm"
+	chapter.5B00676D79306EA2.title: "Bienvenue"
+	chapter.5C4F10E65D86ED0E.title: "Ère électrique : technologie avancée"
+	chapter.5C764279146E5E66.title: "Mystical Agriculture"
+	chapter.5D045EF1AB73DF70.title: "Énergie de base"
+	chapter.5D8E83698AEF1092.title: "&bIce &fand &cFire"
+	chapter.5E31DF282998B992.title: "PneumaticCraft"
+	chapter.65A95C2312976E49.title: "The Undergarden"
+	chapter.69299302373C4CBC.title: "Integrated Dynamics"
+	chapter.6AEC23C6D526F362.title: "Eternal Starlight"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
+	chapter.73180B829B960E63.title: "Generators N Furnaces"
+	chapter.732824E03978A934.title: "&aChapitre 1&r: &bLe Commencement"
+	chapter.76DF5FAA7961E5E7.title: "Iron's Spells 'n Spellbooks"
+	chapter.7732CF7AAA63DB3A.title: "The Twilight Forest"
+	chapter.792AD692F1468B1F.chapter_subtitle: ["Automatisation de l'ATM Star !"]
+	chapter.792AD692F1468B1F.title: "&aChapitre 4&r: &dCréatif"
+	chapter.7A5C327771634A7D.title: "Conseils de construction"
+	chapter.7A72E12C3839D165.title: "Nature's Aura"
+	chapter.7AF827D2D101D343.title: "Artifacts"
+	chapter_group.02FE661031A105D8.title: "Magie"
+	chapter_group.15E5B587D291A4AA.title: "Outils et Équipement"
+	chapter_group.1AC60211DE7427FC.title: "Stockage"
+	chapter_group.2084F3F6FB861C5B.title: "Quête Principale"
+	chapter_group.22FB35B0FEF1343D.title: "Outils et Armes"
+	chapter_group.295BE417292024EC.title: "Modern Industrialization"
+	chapter_group.2B51AC12041E3F89.title: "Technologie"
+	chapter_group.3D4E23B1100491AB.title: "Logistique"
+	chapter_group.49AECADBA9E79A3B.title: "Énergie"
+	chapter_group.5A4775CCD6D26C80.title: "Exploration"
+	chapter_group.6614EE2378B8AFB9.title: "Ressources"
+	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
+	chapter_group.68BDE5700A9B0002.title: "Outils et Équipement"
+	file.0000000000000001.title: "All The Mods 10"
+	quest.019CA0E35F888222.title: "&eModule de restock avancée"
+	quest.0298A17C2AAC5765.title: "&bModule d'empillement Niveau 3"
+	quest.051E0C85E7B71CE0.quest_desc: ["Je vais partir du principe que tu es allé miner, non ? Après tout, c'est MINEcraft.\\n\\nTu trouveras une tonne de nouveaux minerais qui pourraient te perturber, mais tu peux rester sur les minerais vanilla pour bien commencer !\\n\\nLe cuivre est abondant et a plein d'utilités pour des choses comme les &aMarteau à minerai&r ou les &eAméliorations de stockage&r, alors pense à en récupérer un maximum !\\n\\nLe fer est probablement l'un des minerais les plus importants que tu voudras récolter à chaque fois que tu en croises. Le monde du Minecraft moddé repose en grande partie sur le fer."]
+	quest.051E0C85E7B71CE0.title: "L'Âge du &9Métal&r"
+	quest.0790D3BB481162A6.title: "l'Artisanat... sur un bâton!"
+	quest.08D1CC753F6B4283.title: "Tuer le Gardien Ancien"
+	quest.09C82CDDA800D8C9.title: "Tuer le Wither"
+	quest.0C856BBB1679A7DD.quest_desc: ["Sur cette page, vous trouverez quelques objets utiles et des informations pour vous aider dans votre périple!"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "Et d'autres objets utiles!"
+	quest.0C856BBB1679A7DD.title: "Conseils et Astuces!"
+	quest.0C93D7A607AB8B83.quest_desc: ["Pour revendiquer des chunks, ouvrez votre carte en appuyant sur &6M&r, puis cliquez sur l'icône &aClaim Map&r dans le coin supérieur gauche.\\n\\nPour revendiquer un chunk, cliquez gauche et faites glisser pour revendiquer.\\n\\nPour charger de force un chunk, maintenez la touche Maj/Shift enfoncée et cliquez gauche sur le chunk. Si cela est fait correctement, vous verrez des lignes à travers le chunk."]
+	quest.0D6D45DBA64E612D.quest_desc: ["Le Retard Maximum de Spawn est le temps qu'il pourrait mettre pour générer des monstres. Tout comme le Minimum, il peut être aussi bas que 100 et aussi haut que 32 767. Chaque Lingot donne 10. Les chiffres sont en ticks de Minecraft, 20 ticks équivaut à 1 seconde. Ainsi, le délai de spawn le plus rapide serait de 5 secondes entre chaque."]
+	quest.0D6D45DBA64E612D.title: "Retard maximum de Spawn"
+	quest.0E02CE4469FCA4C9.quest_desc: ["L'Activation Redstone donne à votre générateur un interrupteur marche/arrêt. Sans alimentation Redstone, il ne produira pas de spawn."]
+	quest.0E02CE4469FCA4C9.title: "Redstone Active"
+	quest.0E20A9B79D1C6637.title: "Tuer le Gardien des Profondeurs"
+	quest.0F026D5A17CCCF51.quest_desc: ["Les objets en &dNetherite&r sont encore meilleurs dans l'ensemble, et ne brûlent pas dans la lave ! Toi, si, même en portant l'armure. N'essaie pas.\\n\\nCes objets peuvent être utilisés pour fabriquer certaines des meilleures armes, armures et outils du jeu."]
+	quest.0F026D5A17CCCF51.title: "Palier &dNetherite&r"
+	quest.0F3D51FFD2FE8DCB.quest_desc: [
+		"Avec une pioche en diamant, tu pourras miner de l'&dObsidienne&r. L'obsidienne peut être utilisée pour créer un portail vers le &cNether&r.\\n\\nLe cadre du portail peut avoir plusieurs tailles, mais la plupart utilisent la forme basique de « porte ». Il s'agit d'une forme creuse de 4x5 utilisant au minimum 10 blocs d'obsidienne. Tu n'es pas obligé d'utiliser de l'obsidienne pour les coins, seulement pour le cadre du portail !\\n"
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+	]
+	quest.0F3D51FFD2FE8DCB.title: "&cVers le Nether&r !"
+	quest.0F55D0B4D5094EDB.quest_desc: ["'En créant de nombreuses lignes de quêtes pour l'ATM7, le Villageois Marchand a pensé que ce serait amusant de me pousser constamment dans l'écran de quête.\\n\\nÉliminez-les. Tous.'\\n\\n- AlfredGG"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "'C'est personnel' - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Tuer le Villageois Marchand et ses Ennuyeux Lamas"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Certains mobs (principalement des monstres) ont besoin de certains niveaux de lumière pour apparaître. Les mobs hostiles ont besoin de niveaux de luminosité plus basse et les mobs pacifiques ont besoin de niveaux de luminosité plus élevés. L'utilisation d'une Lanterne d'Âme fait en sorte que vous n'ayez jamais à vous soucier des niveaux de lumière car elle les ignore! Cela n'ignore pas les autres conditions de génération telles que les animaux d'élevage ayant besoin d'herbe. C'est une autre condition qui est négligée par l'Œuf de Dragon."]
+	quest.0F89BFD4A3F63A48.title: "Ignorer la Lumière"
+	quest.0F8F37D7E12078F5.quest_subtitle: "Terminez tous les conseils!"
+	quest.0F8F37D7E12078F5.title: "Conseils pour être bien équipé"
+	quest.110BF3A2BE85F911.quest_desc: ["Cette quête a été créée par le &6staff AllTheMods&r ou par un &2contributeur de la communauté&r pour les modpacks AllTheMods.\\n\\nLes packs &6AllTheMods&r sont sous licence &eTous droits réservés&r. Cette quête ne peut donc pas être utilisée dans des packs publics non publiés par la &6team AllTheMods&r sans autorisation explicite.\\n\\nCette quête est volontairement cachée. Si tu la vois, c'est que tu es en mode édition."]
+	quest.11D57C768032E3F7.title: "&eModule d'aimant avancée"
+	quest.15CD4BFDC56E9510.title: "&eModule d'échange d'outils avancée"
+	quest.167E1474644C9908.quest_desc: ["Le Quartz fait la même chose que l'autre objet, il fait l'inverse pour le Générateur. Avec le Quartz dans votre main secondaire et l'autre objet de modification du Générateur dans votre main principale, il fera l'inverse de son rôle. Avec du Quartz et des Bâtons de Blaze au lieu d'augmenter la Portée d'Apparition, elle la diminuera. Avec du Quartz et des Larmes de Ghast, elle diminuera le nombre d'Entités Max."]
+	quest.167E1474644C9908.title: "Jour opposé"
+	quest.17F3AC15ADCFB175.quest_subtitle: "Tuer 5 Enderman"
+	quest.17F3AC15ADCFB175.title: "&l&9Prime dans l'End:&r&e Enderman"
+	quest.1827DEEA2DF1B144.title: "Nourriture et Agriculture"
+	quest.186593EBCE3FE8D8.quest_desc: ["La Portée d'Apparition est la zone où les monstres peuvent apparaître. Plus la zone est grande, plus il y a de place pour qu'ils apparaissent. Plus la zone est petite, moins cher est l'usine."]
+	quest.186593EBCE3FE8D8.title: "Portée d'apparition"
+	quest.1985CFD1F0425E88.title: "&eModule de collecte avancée"
+	quest.1A739D36D5E3B1AD.title: "&eModule de nourriture avancée"
+	quest.1AD87CB3226ED224.quest_desc: ["La seule fonction de la Laine pour le générateur est de le rendre silencieux. Vous n'aimez pas entendre les bruits stupides du Générateur? Alors utilisez de la Laine! Indépendamment de la couleur, du fil ou du motif!"]
+	quest.1AD87CB3226ED224.title: "Calmez-vous, vous allez réveiller les monstres !"
+	quest.1E1EB7DC19DDCFB7.quest_desc: ["Pour créer des outils et armures en Netherite, tu devras trouver le &6Modèle de forge Netherite&r dans les coffres des Bastions.\\n\\nIls peuvent être combinés avec un lingot de &cNetherite&r et un outil ou une pièce d'armure en diamant dans une &atable de forge&r pour l'améliorer en &cNetherite&r.\\n\\nAstuce : n'utilise pas tous tes modèles d'un coup ! Tu peux en créer des copies avec la recette prévue pour ça."]
+	quest.1E1EB7DC19DDCFB7.title: "&6Modèle Netherite&r"
+	quest.1F18B64C84C8809D.quest_subtitle: "Tuer 5 Araignées"
+	quest.1F18B64C84C8809D.title: "&l&9Prime dans l'Overworld:&r&e Araignées"
+	quest.217DB12EA32E1724.title: "&bCrystal d'infusion"
+	quest.219A5BDA5A01A420.title: "&4Crystal d'infusion Infini"
+	quest.21A90474590FCDB8.title: "\"Four\""
+	quest.24C9BA6DC32CFAD9.quest_desc: ["Le charbon est ta première vraie source d'énergie. Si tu en manques et que tu n'en trouves pas, une alternative est d'utiliser du charbon de bois."]
+	quest.24C9BA6DC32CFAD9.quest_subtitle: "Fais cuire tes bûches"
+	quest.26988E22BD019628.title: "&eModule du haut fourneau automatique"
+	quest.282CE3A088AE5CFB.quest_desc: ["Je vais partir du principe que tu as déjà crafté, non ? Après tout, c'est MineCRAFT.\\n\\nBien sûr, tu peux fabriquer des objets dans ton inventaire avec la grille 2x2, mais ça ne t'emmènera pas bien loin. Il faut passer à l'étape supérieure en fabriquant une table de craft !"]
+	quest.282CE3A088AE5CFB.title: "Mettre le Craft dans Minecraft"
+	quest.2AEBE3F28996A6ED.quest_desc: ["Avec nos nouveaux métaux, on peut améliorer notre four grâce au mod &aIron Furnaces&r !\\n\\nLes fours du mod Iron Furnaces te permettent d'ajouter des &aAugments&r pour améliorer la vitesse d'un four, changer sa fonction et bien plus encore !\\n\\nCes fours facilitent l’automatisation en permettant d’extraire ou d’insérer automatiquement des objets sur les côtés via la configuration située à gauche de l’interface."]
+	quest.2AEBE3F28996A6ED.title: "&aAméliorations de four&r !"
+	quest.2B05A29C62676EB2.quest_subtitle: "Tuer 5 Zombies"
+	quest.2B05A29C62676EB2.title: "&l&9Prime dans l'Overworld:&r&e Zombies"
+	quest.2CCAA7C0FEDEB573.quest_desc: ["Si tu es comme la plupart des joueurs, c'est ce type d'énergie que tu recherches. Il suffit de le placer le plus haut possible et tu obtiens de l'énergie gratuite."]
+	quest.2CCAA7C0FEDEB573.title: "Énergie du vent"
+	quest.2EC9668ED4EA47CB.quest_desc: ["Cette quête te demande seulement de fabriquer un outil ou une pièce d'armure en diamant, mais c'est probablement une bonne idée de te faire un équipement complet !\\n\\nLes outils en diamant ont une grande durabilité, et l'armure offre globalement une excellente protection.\\n\\nPour fabriquer les meilleurs outils et armures du jeu, tu auras besoin d'équipement en diamant comme base !"]
+	quest.2EC9668ED4EA47CB.title: "&9On s'équipe"
+	quest.2F4458E9921DEB86.title: "&aTuyau de gaz"
+	quest.2F9B0C642A6BE30C.title: "&fSac à dos en Fer"
+	quest.2FC15D3916DBF4E4.title: "&eModule du Vide avancée"
+	quest.30EB438C66324213.quest_desc: ["Le Conduit fera ce que font les éclats de Prismarine, mais en mieux. Les joueurs n'ont plus besoin d'être près du générateur. Tant qu'il est chargé en chunk, il générera."]
+	quest.30EB438C66324213.title: "Ignorer les Joueurs"
+	quest.310969B8FE0A94DE.quest_desc: ["Un autre changement de jeu qu'apporte Apotheosis concerne les Générateurs. Vous vous souvenez de pouvoir extraire les générateurs avec Silk Touch? Eh bien, c'est de retour grâce à Apotheosis! Il y a aussi de nombreuses nouvelles modifications que vous pouvez ajouter aux Générateurs en cliquant avec le bouton droit sur n'importe lequel de ces objets."]
+	quest.310969B8FE0A94DE.title: "Apothic Spawners"
+	quest.33433A443B65D252.title: "&bTuyau de fluide"
+	quest.3371F9248D403664.quest_subtitle: "Tuer 5 Wither Squelettes"
+	quest.3371F9248D403664.title: "&l&cPrime dans le Nether:&r&e Wither Squelettes"
+	quest.346860B8EBC4C28C.quest_desc: ["Maintenant que tu as toute cette lave, qu'est-ce que tu vas en faire ? Encore plus d'énergie en début de partie !"]
+	quest.346860B8EBC4C28C.title: "Énergie de lave"
+	quest.36836AD948F96B9F.title: "&eTuyau d'item"
+	quest.36BCE35215B2B6E9.title: "&eModule du fumoir automatique"
+	quest.3708A4780ACEB34E.quest_desc: [
+		"Dans ce modpack, les quêtes sont facultatives. Les mods ne sont pas bloqués derrière l'achèvement de quêtes!"
+		""
+		"Les lignes de quêtes individuelles en dehors de la ligne principale des quêtes sont censées servir de guides pour les mods. Si vous souhaitez suivre la progression, assurez-vous de consulter la ligne principale des quêtes!"
+		""
+		"La plupart des quêtes dans le pack sont également créées par &2AlfredGG&r. Les quêtes demandent beaucoup de travail, donc si vous souhaitez le soutenir, vous pouvez cliquer sur son image de joueur ci-dessous!"
+	]
+	quest.378BF828DC931F0C.quest_desc: ["Personnellement, je déteste devoir courir jusqu'à un bloc juste pour crafter. C'est là que l' &2Établi sur un bâton&r entre en jeu !\\n\\nCet objet fonctionne comme une &atable de craft portable&r !\\n\\nAstuce : tu peux aussi la mettre dans ton slot &aCurio&r et définir une &btouche&r pour l'ouvrir !"]
+	quest.378BF828DC931F0C.title: "Le craft, mais sur un bâton"
+	quest.378C95C18798D413.title: "Ceinture à outils"
+	quest.3A1D07AED2A841E4.title: "&eModule du fourneau automatique"
+	quest.3ADCAD65EA6900BA.quest_desc: ["L'&2archéologie&r permet aux joueurs de trouver des objets dans des blocs &asuspects&r comme le sable et le gravier.\\n\\nCes blocs se trouvent dans différentes structures comme les ruines océaniques chaudes, les pyramides du désert, les puits du désert et les &eruines de sentier&r.\\n\\nPour révéler un objet dans un bloc suspect, tu dois fabriquer un &apinceau&r afin de brosser le bloc et faire apparaître l'objet."]
+	quest.3ADCAD65EA6900BA.title: "&2Archéologie&r !"
+	quest.3B6F1BD64C0C570F.quest_desc: ["Comme l’énergie du vent, cela produit beaucoup d’énergie sans consommer de ressources. Le seul inconvénient, c’est que cela ne fonctionne que le jour."]
+	quest.3B6F1BD64C0C570F.title: "Énergie solaire"
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
+	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10!"
+	quest.3E2A411FF5B4B0E7.quest_desc: ["La Portée d'Activation est la distance à laquelle le Joueur (vous) doit être du Générateur pour qu'il fonctionne. Le plus bas qu'il puisse être est de 1 bloc et le plus haut est de 48 blocs. Ils se déplacent en cercle autour du générateur plutôt que d'être placés directement sur des blocs. Le Conduit et l'Œuf de Dragon ignoreront cela."]
+	quest.3E2A411FF5B4B0E7.title: "Portée d'Activation"
+	quest.40096ED0B04C3EC5.quest_desc: ["Le must-have pour tous les Générateurs. Lorsqu'il mentionne qu'il ignore toutes les conditions, cela signifie qu'il néglige toutes les conditions (bien que pas vraiment toutes). Ignore les niveaux de lumière, les blocs nécessaires à la génération et les joueurs à proximité. Les conditions d'espace sont toujours nécessaires, comme les slimes ayant besoin d'une zone de 3x3 pour apparaître."]
+	quest.40096ED0B04C3EC5.title: "Ignorer TOUTES les Conditions"
+	quest.41C0948CD9D50322.quest_desc: [
+		"Ici, vous trouverez toutes les récompenses que vous pouvez obtenir en tuant des ennemis."
+		""
+		"Cette page est en cours d'élaboration!"
+	]
+	quest.41C0948CD9D50322.quest_subtitle: "Tuer toutes ces choses"
+	quest.42822B1E8A53D051.quest_subtitle: "Tuer 5 Squelettes"
+	quest.42822B1E8A53D051.title: "&l&9Prime dans l'Overworld:&r&e Squelettes"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["En appliquant une Pomme d'Or sur un générateur, vous extrayez les âmes des monstres qui seront générées, ne laissant qu'une coquille vide de leur forme originale. Les monstres perdront toute IA, ils feront donc essentiellement ce qu'un support d'armure fait. Ils ne peuvent pas vous frapper, ne peuvent pas se téléporter, ne peuvent pas se déplacer d'eux-mêmes. Ils restent là, prêts à être tués, quelle excitation!"]
+	quest.42D7C8CD8E6F5CD7.title: "Pas d'IA"
+	quest.45268A619787288F.title: "&eSac à dos en Or"
+	quest.46D756F4DC6CC894.title: "&dSac à dos en Netherite"
+	quest.47358ADC1470C82A.title: "&cFruit du rêve du démon"
+	quest.4869C413646CC4CC.quest_desc: [
+		"Transférer l'énergie depuis tes générateurs est probablement une bonne idée, mais comment faire ? "
+		""
+		"Pour commencer, tu peux utiliser les &cTuyaux d'énergie&r du mod &aPipez&r, ou les &cCables d'énergie&r de &9Powah&r si tu as déjà commencé à utiliser ce mod. "
+		""
+		"Ou si tu veux un petit retour en arrière, ce pack contient &6EnderIO&r et tu peux utiliser ses &6Conduits d'énergie&r."
+	]
+	quest.4A4C71C43519D5FE.quest_desc: [
+		"Pour invoquer le boss du Nether, nous devons d'abord rassembler quelques objets. "
+		""
+		"Il nous faudra au moins 3 &5crânes de Wither Squelette&r. Ce sont des butins rares obtenus en tuant des &7Wither Squelettes&r, ou ils peuvent être fabriqués à partir d'un drop plus courant, les &3fragments de crâne de Wither&r. "
+		""
+		"Il te faudra aussi au moins 4 blocs de sable des âmes, et probablement une très bonne armure."
+	]
+	quest.4A4C71C43519D5FE.title: "&6Invocation du &5Wither"
+	quest.4C0EAB9F795686D0.title: "&eModule de dépose avancée"
+	quest.4D07B0A4A2E77CDA.quest_desc: ["Le nombre maximal d'entités est la quantité de monstres qui peuvent être générés par un générateur et conservés. S'il n'y a que 6 entités maximales et que 6 monstres sont déjà générés, aucun autre ne sera généré tant qu'ils ne seront pas morts ou déplacés. Chaque Larme de Ghast le fait monter ou descendre de 2 entités. Maximum de 16 entités et minimum de 1."]
+	quest.4D07B0A4A2E77CDA.title: "Entités max"
+	quest.4DE1158931F84F22.quest_desc: [
+		"Une fois que tu as une pioche en fer ou mieux, tu peux miner la &cRedstone&r. "
+		""
+		"La redstone commence ton aventure dans de nombreux mods techniques, comme la production d'énergie ou la fabrication de gadgets. "
+		""
+		"C'est une ressource dont tu voudras une grande quantité !"
+	]
+	quest.4DE1158931F84F22.title: "&cRedstone&r"
+	quest.4E5238F00CEED8B2.quest_desc: ["Faire fondre les minerais bruts au début est nécessaire, mais tu passes à côté de ressources supplémentaires !\\n\\nIl existe plusieurs façons de doubler ton rendement par minerai brut, mais l'une des plus simples consiste à créer et utiliser un &eMarteau à minerai&r.\\n\\nIls permettent de transformer 1 minerai brut en 2 poudres de minerai, qui peuvent ensuite être fondues en lingots, doublant ainsi effectivement ton rendement !\\n\\nTu veux encore plus par minerai brut ? Va jeter un œil au mod &5Occultism&r !"]
+	quest.4E5238F00CEED8B2.title: "&eDoublement de minerai basique"
+	quest.4FBAB3A0FBF8CE2F.title: "&5Tuyau universel"
+	quest.53EC96FA0E7C4ED4.title: "&cTuyau d'énergie"
+	quest.56B80A7EBFE21428.title: "&eModule de pompe amélioré"
+	quest.56DA46DC82F6665D.quest_subtitle: "Ce n'est même pas ma forme finale"
+	quest.56DA46DC82F6665D.title: "Tuer la Chimère Wilden"
+	quest.5792CC9E3AFAB229.quest_desc: ["Nous avons aussi le mod &aGenerators Galore&r ! Ce mod ajoute des générateurs uniques qui utilisent du charbon ou d'autres objets."]
+	quest.57CF8C6C867B9BDA.title: "&eModule de filtre avancée"
+	quest.5AC1BE754210429E.quest_desc: ["Si vous souhaitez créer une équipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!"]
+	quest.5AC497F76A086A5C.quest_subtitle: "Tuer 5 Sorcières"
+	quest.5AC497F76A086A5C.title: "&l&9Prime dans l'Overworld:&r&e Sorcières"
+	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 est un pack &aTout-en-un&r, ce qui signifie que tu es libre d'explorer et de jouer au modpack comme tu le souhaites !\\n\\nCependant, il y a un objectif de fin de jeu : fabriquer l'&6ATM Star&r !\\n\\nCette suite de quêtes sert de guide pour tous les joueurs, que tu débutes complètement sur Minecraft ou que tu aies déjà joué à d'anciens packs ATM.\\n\\nComme dans presque tous les modpacks, commence par récupérer du bois !"]
+	quest.5CF320E9C4C1B1E1.title: "&eBienvenue dans les premiers pas&r !"
+	quest.5E4FE420B6D2C97F.title: "&eModule compacteur avancée"
+	quest.5E799B92358A8732.quest_desc: ["Dans le &cNether&r, tu trouveras des &6Débris antiques&r. Ils peuvent être fondus en fragments, qui peuvent être combinés avec de l'or pour créer des &6lingots de Netherite&r, un métal de fin de jeu utilisé pour fabriquer certains des outils et armures les plus puissants du jeu."]
+	quest.5E799B92358A8732.title: "&dMétaux anciens"
+	quest.6141DE779232C8AA.quest_subtitle: "Tuer 5 Blazes"
+	quest.6141DE779232C8AA.title: "&l&cPrime dans le Nether:&r&e Blazes"
+	quest.61C49BC2B384FB80.quest_desc: ["Une fois que tu as récupéré assez de perles de l'Ender et de poudre de Blaze, tu peux te mettre en route vers le portail de l'End dans le monde normal.\\n\\nPour cela, fabrique quelques &dŒil de l’Ender&r et fais un clic droit pour les lancer dans le ciel. Ils indiqueront la direction du portail de l'End le plus proche.\\n\\nRends-toi à la forteresse, trouve le portail de l'End et complète son cadre avec les Yeux de l’Ender pour créer le portail vers &dL' End&r."]
+	quest.61C49BC2B384FB80.title: "&aTrouver &dL'End"
+	quest.6501A410F1543C70.title: "&dEngrais Mystique"
+	quest.66ECC26BC81D0093.title: "Tier: &bBasique"
+	quest.672134A1A620EEAB.quest_desc: [
+		"Il existe de nombreuses façons de stocker l'énergie ! "
+		""
+		"&9Powah&r propose un excellent stockage avec ses &aCellules d'énergie&r améliorables, ou tu peux toujours opter pour le style multibloc de &aMekanism&r avec les &aCubes énergétiques&r ! Le choix t'appartient. "
+		""
+		"Remarque : tu n'as besoin de fabriquer qu'un seul des objets pour valider la quête."
+	]
+	quest.67704F7341EDCC49.title: "&bSac à dos en Diamant"
+	quest.698A959C9E449592.quest_desc: ["La prochaine étape de progression consiste à fabriquer une pioche en fer.\\n\\nCette pioche peut miner certains des minerais les plus rares du jeu, y compris le diamant !"]
+	quest.698A959C9E449592.title: "Une pioche en &afer&r"
+	quest.69A517AB8A801939.quest_desc: ["Le &5Wither&r est l'un des boss les plus difficiles à tuer dans Minecraft. Principalement parce qu'il vole. Et qu'il explose. Et qu'il est rapide. Tu vois l'idée.\\n\\nPour l'invoquer, place les 4 blocs de sable des âmes en forme de T. Pose les 3 crânes de Wither Squelette sur le haut du « T » et le &5Wither&r apparaîtra.\\n\\nAstuce : il explose. Beaucoup. Ne fais pas ça près de ta base."]
+	quest.69A517AB8A801939.title: "&6Tuer le &5Wither"
+	quest.6A497B063CF32A5C.quest_desc: ["Le Cœur de Piglich est largué par... eh bien, le Piglich. Il peut être utilisé pour augmenter la quantité de monstres qui PEUVENT apparaître d'un générateur. Les monstres générés sont aléatoires avec une quantité maximale déterminée par les Cœurs de Piglich. Il monte ou descend d'un pour chaque cœur, jusqu'à un maximum de 8."]
+	quest.6A497B063CF32A5C.title: "Nombre d'Apparitions"
+	quest.6D09511D64DDC282.quest_desc: ["Le &dWarden&r peut être invoqué en activant un &5Capteurs sculk&r proche d'un &3Hurleur sculk&r au moins 3 fois.\\n\\nFun fact : le Warden est aveugle ! Il ne peut te trouver que s'il t'entend, alors vole ou avance accroupi !\\n\\nAstuce : peu importe que tu utilises des attaques à distance ou au corps à corps, il te trouvera. Et il te frappera. Si tu t'éloignes trop, il s'enfoncera dans le sol pour réapparaître à côté de toi ! Bonne chance :D"]
+	quest.6D09511D64DDC282.title: "&5Tuer le Warden"
+	quest.6D88C19F47D0D469.title: "Tier: &7Petit"
+	quest.6E3D53D1C4569A89.title: "&aModule de pompe d'expérience"
+	quest.6EDAB29FBD3C60A3.quest_desc: ["Ce biome a été introduit dans la Wild Update !\\n\\nFais attention ! Tu pourrais accidentellement invoquer un nouvel ami.\\n\\nP.-S. : il n'est pas amical."]
+	quest.6EDAB29FBD3C60A3.title: "&6Visiter les &dAbîmes&r !"
+	quest.6EE5BE5693E8ACE4.quest_desc: ["Dans &dL'End&r, tu trouveras le boss final du Minecraft vanilla : le &5dragon de l'End&r.\\n\\nAu sommet de chaque pilier d'obsidienne, tu trouveras un cristal de l'End qui soigne le dragon. Assure-toi de les détruire en premier ! Ils infligent aussi beaucoup de dégâts en explosant, alors prends tes distances !\\n\\nUne fois vaincu, un &dœuf de dragon&r apparaît au sommet du portail de sortie. Il ne peut pas être miné comme un bloc normal, mais il est affecté par la gravité."]
+	quest.6EE5BE5693E8ACE4.title: "&5L'End"
+	quest.6F71FD826C29C31A.quest_desc: ["Ceci pourrait sembler nouveau pour ceux qui reviennent des versions précédentes. En utilisant un œuf de tortue sur un générateur, il ne générera que des versions bébé des monstres en lui-même. Cela ne fonctionne qu'avec les versions bébé vanilla des monstres, pas avec ceux des mods."]
+	quest.6F71FD826C29C31A.title: "Jeune"
+	quest.70B6C9409AE69284.quest_subtitle: "Aide à trouver des biomes"
+	quest.70B6C9409AE69284.title: "Boussole de la nature"
+	quest.722978AC0C1B2649.quest_desc: ["Objet simple pour automatiser l'eau infinie. Besoin de plus d'eau? En fabriquer un autre!"]
+	quest.722978AC0C1B2649.quest_subtitle: "Peut être utilisé comme fluide de refroidissement pour le réacteur"
+	quest.722978AC0C1B2649.title: "Eau infinie"
+	quest.728BE1816DA23DC0.title: "Tuer l'Ender Dragon"
+	quest.72989212DD45DC10.quest_desc: ["Pour trouver cet œuf, tu devras brosser du &aSable suspect&r dans les ruines océaniques chaudes.\\n\\nTu peux placer l'œuf dans le monde, et il éclora lentement en un &dRenifleur&r. L'éclosion prend environ 20 minutes normalement, mais il peut être placé sur un bloc de mousse pour doubler la vitesse d'éclosion et ne prendre que 10 minutes.\\n\\nLe Renifleur finira par devenir un &dRenifleur&r adulte qui pourra déterrer des objets comme les &2Graines de torche-fleur&r ou les &2Gousses de planturne&r lorsqu'il se promène sur des blocs où il peut creuser.\\n\\nTu peux faire se reproduire 2 Renifleurs adultes avec des Graines de torche-fleur."]
+	quest.72989212DD45DC10.quest_subtitle: "Le cousin éloigné de Scruff McGruff"
+	quest.72989212DD45DC10.title: "&aLe &5Renifleur"
+	quest.72E1C19156633391.quest_desc: ["Les seaux et réservoirs sont un excellent moyen, en début de partie, de transporter de la lave."]
+	quest.72E1C19156633391.title: "Seau de lave"
+	quest.76406EFFF8CBA6B4.quest_desc: ["Les diamants sont l'un des meilleurs matériaux pour fabriquer des outils, mais ils te permettent aussi de visiter de nouvelles dimensions comme la Twilight Forest !"]
+	quest.76406EFFF8CBA6B4.title: "On a trouvé des &bDiamants&r !"
+	quest.7741905EA8380B25.quest_desc: ["Les &aModèles de forge&r sont des objets utilisés pour ajouter des ornements à ton armure ! Cela peut être fait dans les tables de forge.\\n\\nMême s'ils ont une recette, la plupart des ornements sont des trouvailles rares dans les coffres de butin ou les fouilles archéologiques. Une fois que tu en trouves un, tu peux dupliquer le modèle en utilisant la recette pour en créer davantage !"]
+	quest.7741905EA8380B25.title: "&dModèle de forge"
+	quest.77FC692AC94D2EEF.quest_subtitle: "Tuer 5 Creepers"
+	quest.77FC692AC94D2EEF.title: "&l&9Prime dans l'Overworld:&r&e Creepers"
+	quest.785951190FFDAA21.title: "&eModule d'empillement Niveau 2"
+	quest.790EC3EDC2DB1FB0.quest_desc: ["Comme mentionné plus tôt, ce mod ajoute plein de façons amusantes de générer de l'énergie qui nécessitent des constructions spécifiques."]
+	quest.790EC3EDC2DB1FB0.title: "Generators Galore"
+	quest.7975C7145572C438.quest_desc: ["Que tu sois un joueur expérimenté en mods, ou un parfait débutant sur MC, tout le monde doit fabriquer une &2pioche en bois&r.\\n\\nLes pioches permettent de casser la plupart des blocs de pierre et de métal. Celle-ci ne durera pas longtemps, alors pense à récupérer un peu de &3pierres&r avec !"]
+	quest.7975C7145572C438.title: "Notre première pioche"
+	quest.7A9AE63998BB41FF.quest_desc: ["Pour déterminer quand le Générateur générera, il choisit un nombre aléatoire entre le retard de spawn maximum et minimum. Le minimum peut être aussi bas que 100 et aussi haut que 32 767. Chaque Lingot fait monter ou descendre de 10."]
+	quest.7A9AE63998BB41FF.title: "Retard minimum de Spawn"
+	quest.7AE3C8134F5ED726.title: "&dModule d'empillement Niveau 4"
+	quest.7C0F7A1B3AB9A1A1.title: "&eModule de rechargement avancée"
+	quest.7D38BC3DB3406F51.quest_desc: ["Avec notre pioche en bois, la pierre ne devrait plus être un problème à casser !\\n\\nLa &3pierre&r débloque la suite de la progression en te permettant de fabriquer un four pour fondre nos minerais.\\n\\nTu voudras aussi améliorer ta pioche en pierre pour miner de meilleurs minerais comme le &bfer&r !"]
+	quest.7D38BC3DB3406F51.title: "Âge de pierre"
+	quest.7E9E03274A88347D.title: "&fModule d'empillement Niveau 1"
+	quest.7EC01E7DB045DB05.quest_desc: ["Les &aAugments&r sont des améliorations de four qui peuvent soit changer soit améliorer la fonction d'un four.\\n\\n - Blasting : convertit le four pour n'autoriser que les recettes de haut fourneau.\\n\\n - Smoking : convertit le four pour n'autoriser que les recettes de fumoir.\\n\\n - Factory : convertit le four pour utiliser de l'énergie au lieu du combustible, et l'améliore en usine, lui permettant de faire cuire plusieurs objets à la fois. Cela augmente selon le palier du four.\\n\\n - Speed : double la vitesse du four au prix d'une consommation de combustible doublée.\\n\\n - Fuel Efficiency : double le nombre d'objets cuits par combustible, mais réduit la vitesse de 25 %"]
+	quest.7EC01E7DB045DB05.title: "&aAugments&r des fours"
+	quest.7EC8814940C4C3D7.quest_desc: ["Utilisez cet objet pour rétrécir. Utile pour travailler sur l'automatisation et aussi juste pour s'amuser en général."]
+	quest.7EC8814940C4C3D7.quest_subtitle: "Chéri(e), j'ai rétréci les dimensions"
+	quest.7EC8814940C4C3D7.title: "Dispositif de rétrécissement personnel"
+	task.0AFA64F1025569A2.title: "Équipement en Netherite"
+	task.103C42C743E2A2DB.title: "Claims des chunks"
+	task.10A16F89D4AD238D.title: "Commandes Utiles"
+	task.1693B07767081FB3.title: "Modèle de forge"
+	task.173044E1C1134A80.title: "Pierre"
+	task.1869893A4F8E9E9C.title: "Marteaux à minerai"
+	task.1960B985B54B9FBD.title: "Câbles d'énergie"
+	task.26CDA4EADF919D5C.title: "Générateurs"
+	task.285A53DB9D54595D.title: "Bûches"
+	task.2CE553B282962E01.title: "Seaux"
+	task.2E49798B39BAA192.title: "Énergie solaire"
+	task.3209E46C9B05C163.title: "Équipement en diamant"
+	task.3BEA6C6A41D5ABEA.title: "Augments des fours"
+	task.3C95552D03C16F3D.title: "Stockage d'énergie"
+	task.41EEE559F6402D81.title: "Module créatif"
+	task.44CEA28EBD6C0898.title: "Tous droits réservés"
+	task.4F13A02FB0055A62.title: "Créer une Équipe"
+	task.52BB142F044075B4.title: "Quêtes"
+	task.539C6F64C251543B.title: "Charbon"
+	task.6CAD0E4CF3577BEB.title: "Tuer 1 Warden"
+	task.76C41881A02F2098.title: "Tuer 1 Wither"
+	task.7C6F7EF2B3AC2824.title: "Tous droits réservés"
+	task.7C88F80D05E62AC7.title: "Iron Furnaces"
+}

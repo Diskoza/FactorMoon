@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.openai.stardewfishingfabric.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"FishingHookMixin",
+		"PokeRodFishingBobberEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

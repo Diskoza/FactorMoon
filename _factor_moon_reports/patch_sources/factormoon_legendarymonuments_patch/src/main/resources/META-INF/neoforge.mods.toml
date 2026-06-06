@@ -1,0 +1,16 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MPL-2.0"
+
+[[mods]]
+modId = "factormoon_legendarymonuments_patch"
+version = "1.0.0"
+displayName = "FactorMoon Legendary Monuments Patch"
+description = "Registers the missing Legendary Monuments distortion portal model layer on NeoForge."
+
+[[dependencies.factormoon_legendarymonuments_patch]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"

@@ -1,0 +1,4 @@
+﻿source,primary_id,name,version,loader,file,reason,path,length
+aeronaftics,big_cannons_aeronautics_fix,Big Cannons Aeronautics Fix,0.1-Alpha,neoforge,big_cannons_aeronautics_fix-0.1-Alpha.jar,weapon/artillery suspect excluded,C:\Users\teres\.minecraftx\instances\aeronaftics\mods\big_cannons_aeronautics_fix-0.1-Alpha.jar,640145
+aeronaftics,createbigcannons,Create Big Cannons,5.11.2,neoforge,createbigcannons-5.11.2-mc.1.21.1.jar,weapon/artillery suspect excluded,C:\Users\teres\.minecraftx\instances\aeronaftics\mods\createbigcannons-5.11.2-mc.1.21.1.jar,3697176
+aeronaftics,ritchiesprojectilelib,Ritchie's Projectile Library,2.1.2,neoforge,ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar,weapon/artillery suspect excluded,C:\Users\teres\.minecraftx\instances\aeronaftics\mods\ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar,76369

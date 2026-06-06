@@ -1,0 +1,8 @@
+{
+  "quality": {
+    "leaves_quality": "DEFAULT"
+  },
+  "performance": {
+    "leaf_culling_quality": "SOLID"
+  }
+}

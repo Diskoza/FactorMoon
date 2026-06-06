@@ -1,0 +1,6 @@
+﻿status,project,version_number,version_id,expected_mod_id,mod_ids,downloaded_file,installed_to,reason
+installed,bclib-neoforge,21.0.21,OaVg9Swk,bclib,bclib,FactorMoon\_factor_moon_reports\downloads\modrinth\bclib-21.0.21.jar,FactorMoon\mods\bclib-21.0.21.jar,BetterNether dependency: bclib >= 21.0.14
+installed,worldweaver-neoforge,21.0.21,jJJtSGMZ,wover,wover,FactorMoon\_factor_moon_reports\downloads\modrinth\worldweaver-21.0.21.jar,FactorMoon\mods\worldweaver-21.0.21.jar,BetterNether dependency: wover >= 21.0.14
+installed,wunderlib-neoforge,21.0.10,5db3GZzg,wunderlib,wunderlib,FactorMoon\_factor_moon_reports\downloads\modrinth\wunderlib-21.0.10.jar,FactorMoon\mods\wunderlib-21.0.10.jar,BetterNether dependency: wunderlib >= 21.0.9
+installed,cobblemon-tim-core,1.7.3-neoforge-1.32.0,QQO61rRS,tim_core,tim_core,FactorMoon\_factor_moon_reports\downloads\modrinth\timcore-neoforge-1.7.3-1.32.0.jar,FactorMoon\mods\timcore-neoforge-1.7.3-1.32.0.jar,Capture XP dependency; 1.7.3 branch matches current Cobblemon/CaptureXP
+installed,rctapi,0.15.2-beta,zpphgptV,rctapi,rctapi,FactorMoon\_factor_moon_reports\downloads\modrinth\rctapi-neoforge-1.21.1-0.15.2-beta.jar,FactorMoon\mods\rctapi-neoforge-1.21.1-0.15.2-beta.jar,RCT Mod dependency: rctapi >= 0.15.0-beta

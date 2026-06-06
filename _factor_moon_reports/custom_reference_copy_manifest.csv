@@ -1,0 +1,19 @@
+﻿kind,status,source,target
+custom_file,copied,cobblemon-extra\mods\cobblemon-additions-4.1.6.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\cobblemon-additions-4.1.6.jar
+custom_file,copied,cobblemon-extra\mods\cobblemon-extra-ride-compat-0.1.0.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\cobblemon-extra-ride-compat-0.1.0.jar
+custom_file,copied,cobblemon-extra\mods\cobblemon-extra-ride-compat-0.1.0.pre-seat-fix-backup.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\cobblemon-extra-ride-compat-0.1.0.pre-seat-fix-backup.jar
+custom_file,copied,cobblemon-extra\mods\cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar
+custom_file,copied,cobblemon-extra\mods\CobbleverseBadges-1.3.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\CobbleverseBadges-1.3.jar
+custom_file,copied,cobblemon-extra\mods\Debugify-1.21.1+1.0.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\Debugify-1.21.1+1.0.jar
+custom_file,copied,cobblemon-extra\mods\EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar
+custom_file,copied,cobblemon-extra\mods\LegendaryMonuments-Cobbleverse.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\LegendaryMonuments-Cobbleverse.jar
+custom_file,copied,cobblemon-extra\mods\mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar
+custom_file,copied,cobblemon-extra\mods\stardew-fishing-fabric-0.1.1.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\stardew-fishing-fabric-0.1.1.jar
+custom_file,copied,cobblemon-extra\COBBLEVERSE - Pokemon Adventure [Cobblemon] COBBLEVERSE-1.7.30-CF.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\COBBLEVERSE - Pokemon Adventure [Cobblemon] COBBLEVERSE-1.7.30-CF.jar
+custom_file,copied,cobblemon-extra\COBBLEVERSE - Pokemon Adventure [Cobblemon] COBBLEVERSE-1.7.30-CF.json,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\COBBLEVERSE - Pokemon Adventure [Cobblemon] COBBLEVERSE-1.7.30-CF.json
+custom_file,copied,cobblemon-extra\COBBLEVERSE - Third-Party Licenses.pdf,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\COBBLEVERSE - Third-Party Licenses.pdf
+custom_file,copied,cobblemon-extra\build\cobblemon-extra-ride-compat-repacked.jar,FactorMoon\_cobblemon_extra_reference\custom_mods_fabric_original\cobblemon-extra-ride-compat-repacked.jar
+custom_source,copied,cobblemon-extra\build\cobblemon-extra-ride-compat,FactorMoon\_cobblemon_extra_reference\custom_sources\cobblemon-extra-ride-compat
+custom_source,copied,cobblemon-extra\build\code-src,FactorMoon\_cobblemon_extra_reference\custom_sources\cobblemon-extra-ride-compat-code-src
+custom_source,copied,cobblemon-extra\build\stardew-original-assets,FactorMoon\_cobblemon_extra_reference\custom_sources\stardew-original-assets
+custom_source,copied,cobblemon-extra\build\stardew-fishing-fabric\fabric-example-mod-1.21,FactorMoon\_cobblemon_extra_reference\custom_sources\stardew-fishing-fabric-source

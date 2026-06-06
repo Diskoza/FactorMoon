@@ -1,0 +1,323 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "10_champion"
+	group: ""
+	id: "1227E82C0378D8AC"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "70E6117409820B0B"
+			rewards: [
+				{
+					count: 10
+					id: "061031831EED2668"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "404661FE06F03C8E"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "6D8812A92EBB98F0"
+					type: "xp"
+					xp: 3000
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "74AD56B506F1517D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "00BC927F05C60AA7"
+			rewards: [
+				{
+					id: "605D158DE6AD73F0"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					id: "798D738E8B25BCAF"
+					type: "xp"
+					xp: 4000
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				action: ""
+				amount: 6L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1574BE4C8F327380"
+				max_level: 0
+				min_level: 80
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "77DB3F66EFDA7986"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "4B36F719B90F154A"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "24BE35DC5D172EF3"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "65E132FFF1C9D7E1"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			id: "2E9F2A4C50E8EBD3"
+			optional: true
+			rewards: [
+				{
+					count: 8
+					id: "555802674A4A4AFD"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "707CE69CBB3FFFE6"
+					type: "xp"
+					xp: 2000
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "6F0D65587F62E6B7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			id: "0BC958D4415E5070"
+			rewards: [
+				{
+					count: 6
+					id: "28DC4518AA704D6D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "522BF4C3350F60B5"
+					type: "xp"
+					xp: 4000
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "7A3F3EF226AD0A82"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			id: "7829147D8E4F5218"
+			rewards: [
+				{
+					id: "3427ABBC6C67F8F6"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "414E93B7BB904407"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
+				}
+				{
+					id: "3EFF1D321111EBF5"
+					type: "xp"
+					xp: 5000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 200L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "15170E3720B997D3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			id: "7162AE1BD205C158"
+			rewards: [
+				{
+					count: 2
+					id: "15912AD161D64CFB"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0DDE4D5FCADDB307"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "42FE7F119B8C10E9"
+					type: "xp"
+					xp: 8000
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				action: ""
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "36FFF52ADFCF9C78"
+				max_level: 0
+				min_level: 100
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "1EAB5421E1309FC3"
+			rewards: [
+				{
+					id: "5A43D9E020E89787"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0D24A885DB63DC74"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1F7A7D6A7DFA877C"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_crystal_block"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "158B5A328D20D02A"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "3806861AF3EA1027"
+					type: "xp"
+					xp: 15000
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "08A93312904B1BF0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+}

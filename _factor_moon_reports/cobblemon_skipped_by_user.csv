@@ -1,0 +1,5 @@
+﻿mod_id,name,fabric_file,reason,final_status
+immersive_aircraft,Immersive Aircraft,immersive_aircraft-1.4.2+1.21.1-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,skipped_by_user
+infinite-music,Infinite Music,infinite-music-0.4.6.jar,no final NeoForge equivalent present; needs manual download/check or port,skipped_by_user
+niftycarts,NiftyCarts,niftycarts-21.1.1.jar,no final NeoForge equivalent present; needs manual download/check or port,skipped_by_user
+smallships,Small Ships,smallships-fabric-1.21.1-2.0.0-b2.1.jar,no final NeoForge equivalent present; needs manual download/check or port,skipped_by_user

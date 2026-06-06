@@ -1,0 +1,16 @@
+{
+  "name": "Монументы",
+  "category": "cobbleverse_journal:legends",
+  "icon": "minecraft:emerald",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Legendary Monuments - это места, куда не стоит заходить с пустым инвентарем. Отмечай их на карте, даже если пока не готов проходить."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Легендарная охота должна ощущаться как экспедиция: запас шаров, сильная команда, Waystone рядом, свободное место в PC и терпение."
+    }
+  ]
+}

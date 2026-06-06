@@ -1,0 +1,31 @@
+{
+  "added_mods_from_aeronaftics": 401,
+  "skipped_weapon_or_artillery": 3,
+  "skipped_already_present": 80,
+  "folder_files_copied": {
+    "config": 2057,
+    "defaultconfigs": 4,
+    "datapacks": 1,
+    "data": 0,
+    "kubejs": 2194,
+    "fancymenu_data": 2,
+    "resourcepacks": 0,
+    "shaderpacks": 1107,
+    "blueprints": 1,
+    "schematics": 14,
+    "patchouli_books": 0,
+    "moonlight-global-datapacks": 0,
+    "moddata": 0,
+    "ESM": 3,
+    "little_big_redstone": 0,
+    "local": 718,
+    "journeymap": 1916,
+    "cobblemon_extra:cobblemon": 0,
+    "cobblemon_extra:datapacks": 0,
+    "cobblemon_extra:data": 0,
+    "cobblemon_extra:fancymenu_data": 0,
+    "cobblemon_extra:patchouli_books": 0,
+    "cobblemon_extra:resourcepacks": 0,
+    "cobblemon_extra:xaero": 0
+  }
+}

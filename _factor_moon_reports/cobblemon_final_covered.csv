@@ -1,0 +1,146 @@
+﻿mod_id,name,fabric_file,reason,final_status
+accessories,Accessories,accessories-fabric-1.1.0-beta.53%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+accessories_compat_layer,Accessories Compatibility Layer,accessories_compat_layer-fabric-0.1.12+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+advancementdisable,AdvancementDisable,advancementdisable-fabric-1.0.1+1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+advancementplaques,Advancement Plaques,AdvancementPlaques-1.21.1-fabric-1.6.8.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+architectury,Architectury,architectury-13.0.8-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+artifacts,Artifacts,artifacts-fabric-13.2.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+athena,Athena,athena-fabric-1.21-4.0.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+balm,Balm,balm-fabric-1.21.1-21.0.56.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+beautify,Beautify,beautify-2.0.0%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+betterbeds,Better Beds,betterbeds-fabric-1.4.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+betterf1,BetterF1,BetterF1-Fabric-1.1+1.21.7.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+betterf3,BetterF3,BetterF3-11.0.3-Fabric-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+betterthirdperson,Better Third Person,BetterThirdPerson-Fabric-1.21-1.9.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+biome_replacer,Biome Replacer,biomereplacer-2.1-hippo-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+brb,Better Recipe Book,brb-1.10.0-rc5+1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+capture_xp,Cobblemon Capture XP,capturexp-fabric-1.7.3-1.3.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+carved_wood,Carved Wood,Carved%20Wood-fabric-1.21.1-1.8.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+catchindicator,Catch Indicator,catchindicator-fabric-1.4.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+catchrate-display,Cobblemon Catch Rate Display,catchrate-display-fabric-2.7.8.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cloth-config,Cloth Config v15,cloth-config-15.0.140-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+mr_cobble_cafforms,Cobblemon cafe,cobble-caf-forms-5.0.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobbledgacha,Cobbled Gacha,cobbledgacha-fabric-1.21.1-3.0.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobbledollars,CobbleDollars,CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblefurnies,CobbleFurnies,CobbleFurnies-fabric-1.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+unknown:cobblemon-additions-4.1.6,cobblemon-additions-4.1.6,cobblemon-additions-4.1.6.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+mr_cobblemon_alphas,Cobblemon Alphas,cobblemon-alphas-2.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon-battle-extras,Cobblemon Battle Extras,cobblemon-battle-extras-fabric-1.13.44.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_extra_ride_compat,Cobblemon Extra Ride Compat,cobblemon-extra-ride-compat-0.1.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_extra_ride_compat,Cobblemon Extra Ride Compat,cobblemon-extra-ride-compat-0.1.0.pre-seat-fix-backup.jar,duplicate Fabric jar / backup copy,covered_by_current_factormoon
+cobblemon,Cobblemon,Cobblemon-fabric-1.7.3%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+mr_cobblemon_journeymounts,Cobblemon Journey Mounts,cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_legends_reborn,Cobblemon Legends Untold Reborn,Cobblemon_Legends_Reborn-3.0.0-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_quests,Cobblemon Quests,cobblemon_quests-[1.21.1]-fabric-1.2.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_shiny_rarities,Cobblemon Shiny Rarities,cobblemon_shiny_rarities-0.2.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemon_wonder_trade,Cobblemon Wonder Trade,cobblemon_wonder_trade-fabric-1.2.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemonopponents,Cobblemon Trainer Structures,cobblemonopponents-fabric-1.6.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblemonraiddens,Cobblemon Raid Dens,cobblemonraiddens-fabric-0.7.6%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblenav,Cobblenav,cobblenav-fabric-2.2.5.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobblepedia,Cobblepedia,Cobblepedia-Fabric-0.7.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+unknown:CobbleverseBadges-1.3,CobbleverseBadges-1.3,CobbleverseBadges-1.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cobbreeding,Cobbreeding,Cobbreeding-fabric-2.2.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+comforts,Comforts,comforts-fabric-9.0.5%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+continuity,Continuity,continuity-3.0.0+1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+controlling,Controlling,Controlling-fabric-1.21.1-19.0.5.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+cosmeticarmor,Cosmetic Armor,CosmeticArmor%2B1.21.1-1.7.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+customsplashscreen,Custom Splash Screen,customsplashscreen-2.2.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+defaultoptions,Default Options,defaultoptions-fabric-1.21.1-21.1.5.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+dynamiclights,Dynamic Lights,dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+entity_model_features,Entity Model Features,entity_model_features_1.21-fabric-3.0.12.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+entity_texture_features,Entity Texture Features,entity_texture_features_1.21-fabric-7.0.9.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+entityculling,EntityCulling,entityculling-fabric-1.9.5-mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+unknown:EuphoriaPatcher-1.8.6-r5.7.1-fabric,EuphoriaPatcher-1.8.6-r5.7.1-fabric,EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+mr_extra_moveanimscobblemon,Extra Move Animations (Cobblemon),extra-move-anims-cobblemon-1.7v1.0.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+fabric-api,Fabric API,fabric-api-0.116.9+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+fabric-language-kotlin,Fabric Language Kotlin,fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+fancymenu,FancyMenu,fancymenu_fabric_3.8.1_MC_1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+ferritecore,FerriteCore,ferritecore-7.0.3-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+fightorflight,Cobblemon Fight or Flight Fabric,fightorflight-fabric-0.10.7.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+forgeconfigapiport,Forge Config API Port,ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+forgivingvoid,Forgiving Void,forgivingvoid-fabric-1.21.1-21.1.6.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+ftblibrary,FTB Library,ftb-library-fabric-2101.1.31.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+ftbquests,FTB Quests,ftb-quests-fabric-2101.1.23.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+ftbranks,FTB Ranks,ftb-ranks-fabric-2101.1.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+ftbteams,FTB Teams,ftb-teams-fabric-2101.1.9.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+fusion,Fusion,fusion-1.2.12-fabric-mc1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+geckolib,GeckoLib 4,geckolib-fabric-1.21.1-4.8.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+globalpacks,Global Data- & Resourcepacks,globalpacks-fabric-1.21.1-21.0.6.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+handcrafted,Handcrafted,handcrafted-fabric-1.21.1-4.0.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+highlight,Highlight,highlight-fabric-1.21-3.0.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+hugestructureblocks,Huge Structure Blocks,huge-structure-blocks-fabric-1.1.6.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+iceberg,Iceberg,Iceberg-1.21.1-fabric-1.3.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+immediatelyfast,ImmediatelyFast,ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+iris,Iris,iris-fabric-1.8.8+mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+konkrete,Konkrete,konkrete_fabric_1.9.9_MC_1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+krypton,Krypton,krypton-0.2.8.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+legendarymonuments,Legendary Monuments,LegendaryMonuments-Cobbleverse.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+lenientdeath,Lenient Death,lenientdeath-1.2.5+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+libjf,LibJF,libjf-3.17.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+lithium,Lithium,lithium-fabric-0.15.2%2Bmc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+lithostitched,Lithostitched,lithostitched-1.6.1-fabric-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+lootr,Lootr,lootr-fabric-1.21.1-1.11.36.117.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+lootrmon,Lootr & Cobblemon Compatibility,lootrmon-fabric-1.21.1-0.0.0.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+unknown:mega_showdown-fabric-1.6.12+1.7.3+1.21.1,mega_showdown-fabric-1.6.12+1.7.3+1.21.1,mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+melody,Melody,melody_fabric_1.0.10_MC_1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+midnightlib,MidnightLib,midnightlib-1.7.5-fabric+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+moarconcrete,Moar Concrete,moar-concrete-1.3.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+modernfix,ModernFix,modernfix-fabric-5.25.1+mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+modmenu,Mod Menu,modmenu-11.0.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+more_cobblemon_tweaks,MoreCobblemonTweaks,MoreCobblemonTweaks-fabric-1.3.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+moreculling,More Culling,moreculling-fabric-1.21.1-1.0.6.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+mousetweaks,Mouse Tweaks,MouseTweaks-fabric-mc1.21-2.26.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+musicnotification,Music Notification,MusicNotification-fabric-mc1.21-2.1.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+nethermap,Better Nether Map,nethermap-4.0.0-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+netherportalfix,NetherPortalFix,netherportalfix-fabric-1.21.1-21.1.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+notenoughanimations,NotEnoughAnimations,notenoughanimations-fabric-1.11.3-mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+notenoughcrashes,Not Enough Crashes,notenoughcrashes-fabric-4.4.9+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+obc,Only Bottle Caps,Only Bottle Caps-1.3.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+owo,oωo,owo-lib-0.12.15.4+1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+packetfixer,Packet Fixer,packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+paginatedadvancements,Paginated Advancements,paginatedadvancements-2.5.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+particlerain,Particle Rain,particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+particular,Particular,particular-1.21.1-Fabric-1.1.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+pasture-loot,PastureLoot,pastureLoot-1.0.5+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+patchouli,Patchouli,Patchouli-1.21.1-93-FABRIC.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+pingwheel,Ping Wheel,Ping-Wheel-1.12.1-fabric-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+platform,Platform,Platform-fabric-1.21.1-1.2.11.5.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+playerxp,PlayerXP,playerxp-fabric-1.0.6%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+poke-clothing,Poke Clothing,poke-clothing-1.1.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+rctapi,Radical Cobblemon Trainers API,rctapi-fabric-1.21.1-0.14.8-beta.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+rctmod,Radical Cobblemon Trainers,rctmod-fabric-1.21.1-0.17.6-beta.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+rechiseled,Rechiseled,rechiseled-1.2.3-fabric-mc1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+reeses-sodium-options,Reese's Sodium Options,reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+repurposed_structures,Repurposed Structures,repurposed_structures-7.5.18%2B1.21.1-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+resourcefullib,Resourceful Lib,resourcefullib-fabric-1.21-3.0.12.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+resourcepackoverrides,Resource Pack Overrides,ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+roughlyenoughitems,Roughly Enough Items,RoughlyEnoughItems-16.0.799-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+safepastures,Safe Pastures,SafePastures-1.1.1+1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+searchables,Searchables,Searchables-fabric-1.21.1-1.0.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+simplehats,SimpleHats,simplehats-fabric-1.21.1-0.4.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+smart_particles,Smart Particles,smart_particles%2Bmc1.21.1-1.01.10.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sodium-extra,Sodium Extra,sodium-extra-fabric-0.6.0+mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sodium,Sodium,sodium-fabric-0.6.13+mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sodiumoptionsapi,Sodium Options API,sodiumoptionsapi-fabric-1.0.10-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sophisticatedbackpacks,Sophisticated Backpacks,sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sophisticatedcore,Sophisticated Core,sophisticatedcore-1.21.1-1.2.9.21.168.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sophisticatedstorage,Sophisticated Storage,sophisticatedstorage-1.21.1-1.3.7.9.139.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+sound_physics_remastered,Sound Physics Remastered,sound-physics-remastered-fabric-1.21.1-1.5.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+stardew_fishing_fabric,Stardew Fishing Fabric,stardew-fishing-fabric-0.1.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+supermartijn642configlib,SuperMartijn642's Config Lib,supermartijn642configlib-1.1.8-fabric-mc1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+supermartijn642corelib,SuperMartijn642's Core Lib,supermartijn642corelib-1.1.20-fabric-mc1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+tectonic,Tectonic,tectonic-3.0.21-fabric-21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+terralith,Terralith,Terralith_1.21.x_v2.5.8.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+tim_core,Tim Core,timcore-fabric-1.7.3-1.31.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+tmcraft,TM Craft,tmcraft-1.4.18+1.7.3.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+toms_storage,Tom's Simple Storage Mod,toms_storage_fabric-1.21-2.3.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+tooltipfix,ToolTip Fix,tooltipfix-1.1.1-1.20.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+trinkets,Trinkets,trinkets-3.10.0.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+vanillabackport,VanillaBackport,VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+villagerconfig,VillagerConfig,villagerconfig-fabric-4.5.2%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+waystones,Waystones,waystones-fabric-1.21.1-21.1.28.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+xaerominimap,Xaero's Minimap,xaerominimap-fabric-1.21.1-25.3.10.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+xaeroworldmap,Xaero's World Map,xaeroworldmap-fabric-1.21.1-1.40.11.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+yet_another_config_lib_v3,YetAnotherConfigLib,yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+zamega,zamega,zamega-fabric-1.5.4.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon
+zoomify,Zoomify,zoomify-2.15.1%2B1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,covered_by_current_factormoon

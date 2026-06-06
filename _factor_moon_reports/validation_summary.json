@@ -1,0 +1,10 @@
+{
+  "installed_jar_files": 671,
+  "unique_primary_mod_ids": 668,
+  "duplicate_primary_mod_ids": 0,
+  "fabric_only_active_jars": 0,
+  "fabric_jars_expected_through_connector": 3,
+  "weapon_or_artillery_suspects": 0,
+  "missing_required_dependencies": 0,
+  "unsupported_dependency_versions": 160
+}

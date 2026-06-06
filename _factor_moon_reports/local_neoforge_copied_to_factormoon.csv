@@ -1,0 +1,6 @@
+﻿status,matched_mod_ids,source,target,sha1,note
+copied,cobblemon_shiny_rarities,cobblemon-extra\mods\cobblemon_shiny_rarities-0.2.1.jar,FactorMoon\mods\cobblemon_shiny_rarities-0.2.1.jar,fc971c97c96a6979d605028ba43b9c411025f275,local multi-loader jar with NeoForge metadata; copied without network download
+copied,mr_cobblemon_alphas,cobblemon-extra\mods\cobblemon-alphas-2.2.jar,FactorMoon\mods\cobblemon-alphas-2.2.jar,26ad77dbff6995cf81c7f0abf71c925793a9dbb6,local multi-loader jar with NeoForge metadata; copied without network download
+copied,mr_cobblemon_journeymounts,cobblemon-extra\mods\cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,FactorMoon\mods\cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar,8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb,local multi-loader jar with NeoForge metadata; copied without network download
+copied,packetfixer,cobblemon-extra\mods\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,FactorMoon\mods\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,a8bb6e25807682e72c23bf4065f3cd5f6373ece3,local multi-loader jar with NeoForge metadata; copied without network download
+copied,globalpacks,cobblemon-extra\mods\globalpacks-fabric-1.21.1-21.0.6.jar,FactorMoon\mods\globalpacks-fabric-1.21.1-21.0.6.jar,6a0c4ccf2a8bc916173defc3c49c8e95285e66b9,local multi-loader jar with NeoForge metadata; copied without network download

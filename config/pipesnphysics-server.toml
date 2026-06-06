@@ -1,0 +1,7 @@
+[fluids]
+	#Range cost for pipes going upward above the pump's Y level.
+	#Higher values mean upward pipes consume more pump range.
+	#Downward pipes always cost 0. Horizontal pipes always cost 1.
+	# Default: 2
+	# Range: 1 ~ 16
+	upwardPipeCost = 2

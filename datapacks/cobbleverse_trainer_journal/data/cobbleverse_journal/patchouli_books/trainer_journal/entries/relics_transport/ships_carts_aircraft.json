@@ -1,0 +1,16 @@
+{
+  "name": "Корабли, телеги, воздух",
+  "category": "cobbleverse_journal:relics_transport",
+  "icon": "smallships:oak_cog",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Small Ships открывает океанские маршруты. NiftyCarts делает сухопутные караваны полезными. Immersive Aircraft дает поздний способ перелетать между регионами без тяжелой физики."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Используй транспорт как этап прогрессии: лодка для берегов, телега для базы и фермы, самолет или дирижабль для поздних экспедиций к монументам."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Keep Flywheel enabled, but avoid the most expensive smooth lighting path for dense Create machinery.
+backend = "DEFAULT"
+limitUpdates = true
+workerThreads = -1
+
+[flw_backends]
+	lightSmoothness = "TRI_LINEAR"

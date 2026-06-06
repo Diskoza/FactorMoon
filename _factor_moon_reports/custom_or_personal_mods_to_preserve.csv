@@ -1,0 +1,3 @@
+﻿mod_id,name,source_file,exists,recommendation,reason
+unknown:Debugify-1.21.1+1.0,Debugify-1.21.1+1.0,cobblemon-extra\mods\Debugify-1.21.1+1.0.jar,True,preserve as inactive reference; needs NeoForge port or verified replacement,no user link provided; port to NeoForge or skip if low value
+unknown:cobbleverse_root_pack,COBBLEVERSE root pack,cobblemon-extra\COBBLEVERSE - Pokemon Adventure [Cobblemon] COBBLEVERSE-1.7.30-CF.jar,True,preserve as inactive reference; inspect before NeoForge use,top-level Cobbleverse jar is not in normal mods inventory

@@ -1,0 +1,306 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "06_bond_and_breed"
+	group: ""
+	id: "098E5F8DD4A18048"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7741961DC6710A36"
+			rewards: [
+				{
+					count: 8
+					id: "1AC35AE01BA85F75"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2DDFB363C3ED7F94"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "6B0083FA2F40A5FC"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 5L
+				id: "5F15E783A0DD176A"
+				item: { count: 1, id: "cobblemon:oran_berry" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6920B26BEFFB4FCC"
+			rewards: [
+				{
+					count: 8
+					id: "72863566ADA72952"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "75268ADE5A566AFE"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 5L
+				id: "171CDDCF09F80BDE"
+				item: { count: 1, id: "cobblemon:sitrus_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "373FA231BB560F57"
+			rewards: [
+				{
+					count: 3
+					id: "3CFB0F555049ABBF"
+					item: {
+						count: 1
+						id: "cobblemon:berry_juice"
+					}
+					type: "item"
+				}
+				{
+					id: "0F3F0D3C776C08EF"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "4EF4A04356135273"
+				item: { count: 1, id: "cobblemon:berry_juice" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "2592F3EE6FE811C2"
+			rewards: [
+				{
+					count: 6
+					id: "19EEBC563705FF4D"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "283189E84B3F389C"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "18497D29D833C38E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "35D37E956C1EBEF1"
+			rewards: [
+				{
+					count: 2
+					id: "377A51580CCD9929"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "31E21509DE5983BB"
+					type: "xp"
+					xp: 700
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: ""
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1295311E6F53641A"
+				max_level: 5
+				min_level: 1
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "0A2396AF90F98E6B"
+			rewards: [
+				{
+					count: 3
+					id: "2115496FD728DA10"
+					item: {
+						count: 1
+						id: "cobblecuisine:coffee"
+					}
+					type: "item"
+				}
+				{
+					id: "61C886CFA9874BA9"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "75A1B73BD5BAE3CF"
+				item: { count: 1, id: "cobblecuisine:coffee" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "16598504E5D4DD44"
+			rewards: [
+				{
+					count: 8
+					id: "138DAFCC903C7B73"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "39A74A31A76A6C4B"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				count: 5L
+				id: "57A079FE1BDEAC03"
+				item: { count: 1, id: "cobblecuisine:coffee" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "2BDB521337D4939B"
+			rewards: [
+				{
+					count: 2
+					id: "234601EE6F1D43B3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "1917957697674246"
+					type: "xp"
+					xp: 700
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "0233E8290B88B9FC"
+				item: { count: 1, id: "cobblemon:link_cable" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "12277E67B11205E5"
+			rewards: [
+				{
+					id: "0C07226CBB3A4F65"
+					item: {
+						count: 1
+						id: "cobblemon:ability_capsule"
+					}
+					type: "item"
+				}
+				{
+					id: "39AB93D4D0E91097"
+					type: "xp"
+					xp: 1200
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "77F10380AE8739DA"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			id: "41AFBE0C3B46BF7B"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "20285ED5C795CE6F"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2A43CEFD757AC73B"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "657DA4AB85C55C88"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+	]
+}

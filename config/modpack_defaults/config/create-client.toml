@@ -1,0 +1,3 @@
+[client]
+	fanParticleDensity = 0.25
+	filterItemRenderDistance = 6.0

@@ -1,0 +1,209 @@
+[General]
+	#Master switch: preserve items on death / 死亡保留物品总开关
+	#关闭后所有保留规则均不生效，物品正常掉落
+	enabled = true
+
+[Randomizer]
+	#Enable random preservation for items not matched by other rules
+	#对未被其他规则命中的物品启用随机保留
+	enabled = false
+	#Base random keep chance (percent, 0–100)
+	#基础随机保留概率（百分比），如 25 表示 25%
+	# Default: 25
+	# Range: 0 ~ 100
+	chancePercent = 25
+	#Luck additive factor (percent, 0–100)
+	#幸运值加算因子（百分比），如 20 表示每点幸运额外加 20%
+	# Default: 20
+	# Range: 0 ~ 100
+	luckAdditive = 20
+	#Luck multiplier factor (0.0–10.0)
+	#幸运值乘算因子，公式：chance × (1 + multiplier × luck) + additive × luck
+	#示例：luck=2, multiplier=1.0, additive=20, chance=25 → 25%×(1+2)+40%=115%→截取100%
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	luckMultiplier = 1.0
+
+[NBT]
+	#Preserve items with a specific NBT boolean tag (soulbound-like)
+	#根据 NBT 布尔标记保留物品（类似灵魂绑定）
+	#示例：/give @s diamond{Soulbound:1b} → 该钻石始终保留
+	enabled = false
+	#NBT boolean key name used for soulbound check
+	#灵魂绑定检查使用的 NBT 布尔键名
+	#示例：若设为 "Soulbound"，则物品 CustomData 中包含 {Soulbound:1b} 时视为绑定
+	nbtKey = "Soulbound"
+
+[Lists]
+	#Item IDs that are always preserved on death
+	#始终保留的物品 ID 列表
+	#示例：["minecraft:totem_of_undying", "minecraft:elytra"]
+	alwaysPreservedItems = []
+	#Item tags whose items are always preserved
+	#始终保留的物品标签列表，命中该标签的物品将被保留
+	#示例：["minecraft:logs", "lenientdeath:safe"]
+	alwaysPreservedTags = ["lenientdeath:safe"]
+	#Item IDs that are always dropped on death (overrides preservation)
+	#始终掉落的物品 ID 列表（优先级高于保留）
+	#示例：["minecraft:diamond"]
+	alwaysDroppedItems = []
+	#Item tags whose items are always dropped
+	#始终掉落的物品标签列表
+	#示例：["minecraft:planks"]
+	alwaysDroppedTags = []
+
+[ItemTypes]
+	#Enable item type rules (armor, tools, weapons, food, etc.)
+	#启用按物品类型（护甲、工具、武器、食物等）分类处理
+	#每个类型可设为：PRESERVE（保留）/ DROP（掉落）/ IGNORE（不做特殊处理）
+	enabled = true
+	#Rule for helmets / 头盔规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	helmets = "PRESERVE"
+	#Rule for chestplates / 胸甲规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	chestplates = "PRESERVE"
+	#Rule for leggings / 护腿规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	leggings = "PRESERVE"
+	#Rule for boots / 靴子规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	boots = "PRESERVE"
+	#Rule for elytras / 鞘翅规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	elytras = "PRESERVE"
+	#Rule for shields / 盾牌规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	shields = "PRESERVE"
+	#Pickaxes, axes, shovels, hoes / 工具类规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	tools = "PRESERVE"
+	#All weapons (melee + ranged) / 武器总规则（近战+远程）
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	weapons = "PRESERVE"
+	#Swords, maces, tridents / 近战武器规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	meleeWeapons = "IGNORE"
+	#Bows, crossbows, projectile weapons / 远程武器规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	rangedWeapons = "IGNORE"
+	#Shears, flint and steel, etc / 功能工具规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	utilityTools = "IGNORE"
+	#Fishing rods / 钓鱼竿规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	fishingRods = "IGNORE"
+	#Buckets including milk bucket / 桶类物品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	buckets = "IGNORE"
+	#Enchanted books / 附魔书规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	enchantedBooks = "IGNORE"
+	#Totem of Undying / 不死图腾规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	totems = "IGNORE"
+	#Items that place blocks / 方块物品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	blockItems = "IGNORE"
+	#Spawn eggs / 刷怪蛋规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	spawnEggs = "IGNORE"
+	#Arrows, tipped/spectral arrows / 箭矢规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	arrows = "IGNORE"
+	#Rule for edible items / 食物规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	food = "PRESERVE"
+	#Rule for potions / 药水规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	potions = "PRESERVE"
+	#Curios/Trinkets support / Curios 饰品规则
+	#Allowed Values: DROP, PRESERVE, IGNORE
+	curios = "PRESERVE"
+
+[Features]
+	#Show death coordinates in chat after respawn
+	#重生后在聊天栏显示死亡坐标（含维度信息）
+	deathCoordinates = true
+	#Enable private owner-only item glow highlight
+	#启用私有高亮：仅物品归属的玩家能看到掉落物发光，其他玩家看不到
+	itemGlow = true
+	#Private highlight scan interval in ticks (1–200)
+	#私有高亮扫描间隔（tick），值越小刻新越快但服务器开销越大
+	#示例：10 = 每 0.5 秒扫描一次
+	# Default: 10
+	# Range: 1 ~ 200
+	privateHighlightScanIntervalTicks = 10
+	#Private highlight scan radius in blocks (8.0–256.0)
+	#私有高亮扫描半径（方块），超出该范围的掉落物不会高亮
+	# Default: 96.0
+	# Range: 8.0 ~ 256.0
+	privateHighlightScanRadius = 96.0
+	#Max item entities processed per highlight scan (16–4096)
+	#每次扫描最多处理的掉落物实体数，用于限制服务器开销
+	# Default: 256
+	# Range: 16 ~ 4096
+	privateHighlightMaxScannedEntities = 256
+	#Make death-dropped items invulnerable to all damage (fire, cactus, explosion, etc.)
+	#使死亡掉落物免疫所有伤害（火焰、仙人掌、爆炸等）
+	itemResilience = false
+	#Recover items that fall into the void to a safe position
+	#启用虚空恢复：当掉落物落入虚空时传送到安全位置
+	#优先使用玩家历史安全点 → 三维搜索最近安全落点 → 出生点附近
+	voidRecovery = true
+	#Recover items from lava/fire to a safe position
+	#启用火焰/岩浆恢复：当掉落物着火或在岩浆中时传送到安全位置
+	hazardRecovery = true
+	#Void/Hazard recovery scope:
+	#DEATH_DROPS_ONLY = only recover death-dropped items (默认，仅恢复死亡掉落物)
+	#ALL_DROPS = recover all dropped items (恢复所有掉落物，包括主动丢弃的)
+	#Allowed Values: DEATH_DROPS_ONLY, ALL_DROPS
+	voidRecoveryMode = "DEATH_DROPS_ONLY"
+	#Rate-limit window for void recovery (ticks, 1–1200)
+	#虚空恢复限流窗口（tick），在该时间窗口内统计恢复次数
+	#示例：10 = 0.5 秒内最多恢复 voidRecoveryMaxRecoveries 次
+	# Default: 10
+	# Range: 1 ~ 1200
+	voidRecoveryWindowTicks = 10
+	#Max recoveries allowed inside one window (1–100)
+	#一个窗口内允许的最大恢复次数，超出后进入冷却
+	# Default: 3
+	# Range: 1 ~ 100
+	voidRecoveryMaxRecoveries = 3
+	#Cooldown after hitting max recoveries (ticks, 1–1200)
+	#达到最大恢复次数后的冷却时长（tick）
+	#示例：10 = 冷却 0.5 秒后才能再次恢复
+	# Default: 10
+	# Range: 1 ~ 1200
+	voidRecoveryCooldownTicks = 10
+	#Try to restore preserved items to their original inventory slots
+	#尝试将保留的物品放回死亡前的原始槽位（如工具栏、护甲栏等）
+	restoreSlots = true
+
+	[Features.DroppedItemGlow]
+		#Who should see the glow on death drop items?
+		#DEAD_PLAYER = Only the player who died / 仅死亡玩家自己
+		#DEAD_PLAYER_AND_TEAM = The dead player and anyone on the same team / 死亡玩家及同队伍玩家
+		#EVERYONE = All online players / 所有在线玩家
+		#Allowed Values: DEAD_PLAYER, DEAD_PLAYER_AND_TEAM, EVERYONE
+		glowVisibility = "DEAD_PLAYER_AND_TEAM"
+		#Only applies if glowVisibility is DEAD_PLAYER_AND_TEAM.
+		#If the dead player isn't on a team, show outline to everyone without a team?
+		#Otherwise only shown to the dead player.
+		#当死亡玩家没有队伍时，是否对所有无队伍玩家显示高亮？
+		noTeamIsValidTeam = false
+
+	[Features.ExtendedDeathItemLifetime]
+		#Whether death drop's lifetime should be modified by LenientDeath
+		#是否修改死亡掉落物的存在时间
+		enabled = false
+		#How long death drop items should last in seconds (ignored if neverDespawn is true)
+		#死亡掉落物的存在时间（秒），neverDespawn 为 true 时忽略
+		#300 = 5 min (vanilla), 900 = 15 min, 1800 = 30 min
+		# Default: 900
+		# Range: 0 ~ 1800
+		deathDropItemLifetimeSeconds = 900
+		#If true, death drop items will never despawn
+		#为 true 时死亡掉落物永不消失
+		#清理命令: /kill @e[type=item,tag=LENIENT_DEATH_INFINITE_LIFETIME]
+		deathDropItemsNeverDespawn = false

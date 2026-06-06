@@ -1,0 +1,72 @@
+# FactorMoon Chronology
+
+This file tracks the merge and repair work done while turning the `aeronaftics` / CreateAERO / Cobblemon pack mix into the NeoForge-based FactorMoon test pack.
+
+## 2026-06-04 Initial Merge Direction
+
+- Created FactorMoon as a NeoForge 1.21.1 / NeoForge 21.1.228 pack line.
+- Used the `aeronaftics` mega-pack as the semantic base because it represents the evolved CreateAERO direction.
+- Kept Create Aeronautics as the reason for NeoForge being the target loader.
+- Excluded firearms/artillery and user-skipped travel mods for balance, including Immersive Aircraft, Small Ships, NiftyCarts, and Infinite Music.
+- Began transferring Cobblemon-side mods where NeoForge builds existed.
+- Preserved custom Fabric references and source material under `_cobblemon_extra_reference`.
+
+## 2026-06-05 Cobblemon Transfer And Local Ports
+
+- Installed/copy-matched available NeoForge versions from the user-provided Cobblemon links.
+- Preserved extracted Russian translation assets in `kubejs/assets/.../lang/ru_ru.json` without overwriting existing FactorMoon translations.
+- Built or staged local NeoForge ports for:
+  - `cobblemon-extra-ride-compat-neoforge-0.1.1.jar`
+  - `only-bottle-caps-neoforge-1.3.0-port.1.jar`
+  - `cobbleversebadges-neoforge-1.3-port.1.jar`
+  - `poke-clothing-neoforge-1.1.2-port.1.jar`
+- Recorded remaining mandatory manual ports in `_factor_moon_reports/mandatory_neoforge_ports.md`.
+
+## 2026-06-05 First Launch Fixes
+
+- Replaced first-launch Minecraft-version blockers:
+  - `AdvancementPlaques-1.21.11-neoforge-1.7.0.jar` -> `AdvancementPlaques-1.21.1-neoforge-1.6.8.jar`
+  - `BetterF3-17.0.0-NeoForge-1.21.11.jar` -> `BetterF3-11.0.3-NeoForge-1.21.1.jar`
+  - `trinkets-4.0.0-beta.2+26.1.jar` -> `trinkets-3.10.0.jar` through Sinytra Connector
+- Patched the Sodium Dynamic Lights / LambDynamicLights API split-package conflict by using a local no-LambAPI Sodium Dynamic Lights jar.
+- Replaced EMF/ETF 1.21.11 builds with their 1.21-compatible NeoForge builds.
+- Removed Crash Assistant and Better Compatibility Checker to get rid of stale All The Mods 10 crash branding and support UI.
+- Updated Supplementaries to `1.21.1-3.6.7`.
+- Patched OmegaConfig to avoid early Architectury client networking registration.
+- Moved Music Notification and Not Enough Crashes out of active use after a client tick crash loop.
+- Added `factormoon-legendarymonuments-patch-1.0.0.jar` to register the missing Legendary Monuments model layer.
+- Moved Sound Physics Remastered out after it broke client-event loading.
+- Updated Moonlight to `moonlight-neoforge-1.21.1-3.0.16.jar`.
+- Removed `accessories_compat_layer` because real Curios is active and the layer was rejected by compatibility checks.
+
+## 2026-06-06 World Creation Fixes
+
+- Removed FancyMenu and DrippyLoadingScreen active layers to clear foreign Cobbleverse/CurseForge/ATM menu overlays.
+- Patched `COBBLEVERSE-DP-v18-CF.zip` to remove missing BCA structure references and replace missing `lumymon:music.raid` with `minecraft:music.game`.
+- Restored the Customizable Player Models skin editor button after Replay removal.
+- Removed Replay/ReForgedPlay active mod/config/cache by user request, while leaving `replay_recordings/` as user data.
+- Patched `biomereplacer-2.2.1-pinkeen-neo.jar` across several 1.21.11-to-1.21.1 ABI mismatches:
+  - `lookupOrThrow` -> `registryOrThrow`
+  - `Identifier` -> `ResourceLocation`
+  - `ResourceKey.identifier()` -> `ResourceKey.location()`
+  - `Registry.get(ResourceKey)` optional holder paths -> `Registry.getHolder(ResourceKey)`
+  - TerraBlender holder lookup -> `Registry.getHolderOrThrow(ResourceKey)`
+- Lowered instance memory to start at 8 GiB and cap at 24 GiB after crash reports showed Java reserving too much RAM up front.
+- Patched `tpsum-1.21.1-0.0.3.jar` to remove only its entity-spawn mixins so `Artifacts` can apply its `NaturalSpawnerMixin`.
+- Reduced recipe-browser conflicts to the `aeronaftics` JEI stack:
+  - Kept `jei`, `ae2jeiintegration`, `ftb-jei-extras`, and `refinedstorage-jei-integration`.
+  - Moved EMI, EMI addons, REI, `extra_mod_integrations`, and their EMI/REI configs/logs to backup.
+
+## Current State
+
+- Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.
+- Active jar count after JEI cleanup: 671.
+- Static validation: no duplicate primary mod IDs, no missing required dependencies, no Fabric-only jars outside the expected Connector set.
+- Known remaining risk: performance is still heavy, and the pack should be re-evaluated feature-by-feature before adding more optimization mods like C2ME/Noisium/Ksyxis.
+
+## Detailed Logs
+
+- Full launch-by-launch audit: `_factor_moon_reports/create_and_first_launch_audit.md`
+- Build summary: `FACTOR_MOON_BUILD_REPORT.md`
+- Active mod manifest: `ACTIVE_MODS.md` and `ACTIVE_MODS.json`
+- Active resource-pack manifest: `RESOURCEPACKS.md` and `RESOURCEPACKS.json`

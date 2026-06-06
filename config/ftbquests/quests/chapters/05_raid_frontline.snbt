@@ -1,0 +1,398 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "05_raid_frontline"
+	group: ""
+	id: "5BCDEB69D0EEEDBD"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5F84C28DF60D2AE2"
+			rewards: [
+				{
+					count: 3
+					id: "2E9D33915F4684DA"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_shard"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7A8D953BB4F9119D"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0BED0BDFD30B0560"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "1AE448EF28A8C094"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "63ED5CA4E47C0F60"
+			rewards: [
+				{
+					count: 5
+					id: "681D347F3C465772"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_shard"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "78EB9F3AA5448497"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0C07FFAAB3F822AA"
+					type: "xp"
+					xp: 700
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "04F281EF869F8D4D"
+				item: { count: 1, id: "cobblemonraiddens:raid_shard" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "46AC90CCB264BD39"
+			rewards: [
+				{
+					count: 4
+					id: "778A6FE2ABAA21B7"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1FE1F55AC443F694"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
+				}
+				{
+					id: "47536770D5A490CA"
+					type: "xp"
+					xp: 900
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "500E23CE5CCFAE0A"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "30929029A560D84E"
+			rewards: [
+				{
+					count: 2
+					id: "7F3EC2335DDB6F8E"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_pouch"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "447E7E5C6470A0FA"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "080723A8857DFFA3"
+					type: "xp"
+					xp: 1200
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "7BAA9E5C844761E0"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "62A253FA0D791454"
+			rewards: [
+				{
+					count: 8
+					id: "213EB2F5F91C1DE7"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "6696312C46D05BE9"
+					type: "xp"
+					xp: 800
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "02B5B30045A5DB8D"
+				item: { count: 1, id: "cobblemonraiddens:raid_crystal_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "1D5E40E0EE5C5B9E"
+			rewards: [
+				{
+					id: "2A9FEA57988839E7"
+					item: {
+						count: 1
+						id: "cobblemon:ability_capsule"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7EED21CD9FF1D79F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "50E250027B065D04"
+					type: "xp"
+					xp: 1500
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				count: 5L
+				id: "351095F7125F2CD5"
+				item: { count: 1, id: "cobblemonraiddens:raid_crystal_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			id: "338AFFC9BFDC3528"
+			rewards: [
+				{
+					count: 5
+					id: "59795B3044AD3449"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "785C7547B9E8C782"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "3CDE38C56C12290F"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "48DD4A6913B7C6A7"
+			rewards: [
+				{
+					id: "7F50449EB3CFC32D"
+					item: {
+						count: 1
+						id: "cobblemon:ability_capsule"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "40FAD38FFFB1A585"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "0A1031DCFFC00E43"
+					type: "xp"
+					xp: 2000
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "3B217696055B9A8A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "64123B16E61E5340"
+			rewards: [
+				{
+					count: 10
+					id: "5230260808A4751B"
+					item: {
+						count: 1
+						id: "cobblemonraiddens:raid_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "48EFAB21706B877C"
+					type: "xp"
+					xp: 800
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "29E25731279F8280"
+				item: { count: 1, id: "cobblemonraiddens:raid_pouch" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			id: "52EBE8ACF4C08E2F"
+			optional: true
+			rewards: [
+				{
+					id: "39EB0EA875017033"
+					item: {
+						count: 1
+						id: "cobblemon:ability_capsule"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3B2A97172686FCDB"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "689D500034575C7E"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "0AEE65FEE6018045"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			id: "0F864305BA622998"
+			rewards: [
+				{
+					count: 8
+					id: "645005DCF2F123A5"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "7CEF660AF06DB71F"
+					type: "xp"
+					xp: 1800
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "272494B8ED84EAD0"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			id: "364DC85B1B6D66DB"
+			optional: true
+			rewards: [
+				{
+					id: "49CD8944442CCAEC"
+					item: {
+						count: 1
+						id: "cobblemon:ability_patch"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "42F06CD43D3B82EA"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "7F24F2DFD06ECA51"
+					type: "xp"
+					xp: 3000
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "228F367BC2CCCCAC"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+	]
+}

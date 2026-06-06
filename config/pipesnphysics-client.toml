@@ -1,0 +1,5 @@
+[overlays]
+	#Show animated arrows along pipes when looking at a pump with goggles.
+	showPumpRangeArrows = true
+	#Show fluid transport info when looking at a pipe with goggles.
+	showPipeGoggleInfo = true

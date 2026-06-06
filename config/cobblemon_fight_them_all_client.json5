@@ -1,0 +1,37 @@
+{
+	data: {
+		show_poke_mob_label: true,
+		default_poke_mob_portrait: {
+			use_scale_as_override: true,
+			scale: 40.0,
+			is_flipped_x: false,
+			is_flipped_y: true,
+			is_flipped_z: false,
+			use_rotate_as_override: true,
+			rotate_x: 5.0,
+			rotate_y: 32.0,
+			rotate_z: 0.0,
+			use_translate_as_override: false,
+			translate_x: 0.0,
+			translate_y: 0.0,
+			translate_z: 0.0
+		},
+		poke_mob_portraits: {
+			"minecraft:warden": {
+				use_scale_as_override: true,
+				scale: 20.0,
+				is_flipped_x: false,
+				is_flipped_y: true,
+				is_flipped_z: false,
+				use_rotate_as_override: false,
+				rotate_x: 0.0,
+				rotate_y: 0.0,
+				rotate_z: 0.0,
+				use_translate_as_override: false,
+				translate_x: -0.1,
+				translate_y: -0.1,
+				translate_z: 0.0
+			}
+		}
+	}
+}

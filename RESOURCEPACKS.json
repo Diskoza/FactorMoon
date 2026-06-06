@@ -1,0 +1,132 @@
+﻿{
+    "pack":  "FactorMoon",
+    "generated_at":  "2026-06-06T12:11:27+02:00",
+    "resourcepack_count":  25,
+    "resourcepacks":  [
+                          {
+                              "file":  "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+                              "size_bytes":  323619,
+                              "sha1":  "362e06d72658326bda991b586582ad8aae8e4841"
+                          },
+                          {
+                              "file":  "BetterShinyMon%20v5.zip",
+                              "size_bytes":  959247,
+                              "sha1":  "c4593ef51bc002f0493702770df4b13259124afb"
+                          },
+                          {
+                              "file":  "CCCC-1.7.2.zip",
+                              "size_bytes":  8439751,
+                              "sha1":  "7c5571df6baa9de33cfe97d65d463782f655047c"
+                          },
+                          {
+                              "file":  "CCCC-1.7.3.zip",
+                              "size_bytes":  8490691,
+                              "sha1":  "6ffc370f650bebfd1f051de25cb1a39136074c7b"
+                          },
+                          {
+                              "file":  "Cobblemon 3D Poké Rods 1.0.zip",
+                              "size_bytes":  162299,
+                              "sha1":  "0ad3995b7eb7a21c76d58f9bc201e201597d6284"
+                          },
+                          {
+                              "file":  "Cobblemon Anime Poké ball SFX Pack v1.1 MC1.21.1.zip",
+                              "size_bytes":  980292,
+                              "sha1":  "e8bc31a7a13ba13a3f3b51ba59bdce757687aa58"
+                          },
+                          {
+                              "file":  "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
+                              "size_bytes":  7363,
+                              "sha1":  "6ec5ec57ac000fac4c0104f22f268aade5a804ae"
+                          },
+                          {
+                              "file":  "Cobblemon Interface Modded v1.9.4.zip",
+                              "size_bytes":  1035366,
+                              "sha1":  "8eacf34de75cbf634ca2e0186391a00f23a893bc"
+                          },
+                          {
+                              "file":  "Cobblemon Interface Modded v1.9.4.zip.rpo",
+                              "size_bytes":  2,
+                              "sha1":  "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+                          },
+                          {
+                              "file":  "Cobblemon Interface v1.6.0.zip.rpo",
+                              "size_bytes":  75,
+                              "sha1":  "def938ac2768e561115d6e2694e766604124f9aa"
+                          },
+                          {
+                              "file":  "Cobblemon%20Interface%20v1.6.0.zip",
+                              "size_bytes":  14102236,
+                              "sha1":  "b49b9b7692032e49d1815a0562c1f9dc4016aa6f"
+                          },
+                          {
+                              "file":  "Cobblemon%20Interface%20v1.6.0.zip.rpo",
+                              "size_bytes":  77,
+                              "sha1":  "38afc1376ac3b6eda2129f8f5b4c5193ba24e81d"
+                          },
+                          {
+                              "file":  "CobblemonAdvancementPlaques-%5B1.0.2%5D.zip",
+                              "size_bytes":  21842,
+                              "sha1":  "b5eb833792be3a3004e854e8b8f7d28951dae13d"
+                          },
+                          {
+                              "file":  "CobblemonShinyEnhanced.zip",
+                              "size_bytes":  82915,
+                              "sha1":  "af85aaa61400f5b0af0c74bcceeb7b58cf64bdd8"
+                          },
+                          {
+                              "file":  "COBBLEVERSE RCTmod RP.zip",
+                              "size_bytes":  5214811,
+                              "sha1":  "de695b3cd9a61e5db7a9c3fc82bf69ec7deecc1a"
+                          },
+                          {
+                              "file":  "COBBLEVERSE RP [CF].zip",
+                              "size_bytes":  1275070,
+                              "sha1":  "4dac223a910f63803e78ba7e1bfed2e586889a00"
+                          },
+                          {
+                              "file":  "COBBLEVERSE Soundtrack.zip",
+                              "size_bytes":  148874591,
+                              "sha1":  "b3a3d35c4e49e2dfee9c752b6287dcf107020708"
+                          },
+                          {
+                              "file":  "Comforts Modernized - V1.1.zip",
+                              "size_bytes":  75089,
+                              "sha1":  "07faca91336d11244a57d6cc9c035f40f18ba880"
+                          },
+                          {
+                              "file":  "CurseForge RP.zip",
+                              "size_bytes":  35530,
+                              "sha1":  "e35dbdce2019b23ac4e67152762d12f476124da9"
+                          },
+                          {
+                              "file":  "E19%20Cobblemon%20Minimap%20Icons.zip",
+                              "size_bytes":  19200415,
+                              "sha1":  "61ef3676247d07bd776de24e93df18da15222d18"
+                          },
+                          {
+                              "file":  "FreshAnimations_v1.10.3.zip",
+                              "size_bytes":  856240,
+                              "sha1":  "b5fbbb0cf6609527d6a017e9d8c3116ec1f9fc5c"
+                          },
+                          {
+                              "file":  "Fully%20Hisuian%20Starters%201.1.1.zip",
+                              "size_bytes":  202681,
+                              "sha1":  "487a664fa6fa20ca44c6bee271737f4171d2ff8f"
+                          },
+                          {
+                              "file":  "iB%20-%203D%20Cobblenav-release-4.zip",
+                              "size_bytes":  78088,
+                              "sha1":  "4083283a0c861699a493a4913f3632e38b6ad0e8"
+                          },
+                          {
+                              "file":  "Icon%20Fresh%200.4.zip",
+                              "size_bytes":  837715,
+                              "sha1":  "af2aa46c148cbf78ccc5003eae8108a795aa45a2"
+                          },
+                          {
+                              "file":  "pokemans_v15_toxicCloud.zip",
+                              "size_bytes":  3837996,
+                              "sha1":  "2714c3c7358559d01def35df98a8e3c9484fd3cf"
+                          }
+                      ]
+}

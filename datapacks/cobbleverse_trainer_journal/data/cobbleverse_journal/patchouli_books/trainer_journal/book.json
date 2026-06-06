@@ -1,0 +1,9 @@
+{
+  "name": "Полевой журнал тренера",
+  "landing_text": "Заметки профессора, маршруты, легенды и практические советы для Cobblemon Extra. Этот журнал не заменяет квесты FTB, а объясняет зачем ты идешь в путь.",
+  "version": 1,
+  "show_progress": true,
+  "use_resource_pack": false,
+  "model": "patchouli:book_blue",
+  "book_texture": "patchouli:textures/gui/book_blue.png"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "WoolfMen",
+      "uniqueId": "22f5fa86-d6cf-4772-abff-0c8a804ba7af"
+    },
+    "time": 1778107764295,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/AIvKD0ZEJa"
+    }
+  }
+]

@@ -1,0 +1,5842 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": 1210677,
+    "name": "COBBLEVERSE - Pokemon Adventure [Cobblemon]",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 486485,
+          "name": "Better Recipe Books (+ Smithing Tables, Brewing Stands)",
+          "favorite": false,
+          "version": {
+            "id": 5512414,
+            "updateDate": 1720399485000,
+            "metadata": {
+              "sha1": "5831fc725b9834cef7b445913a701310536b17ab",
+              "size": 1213168,
+              "path": "mods/brb-1.10.0-rc5+1.21.jar",
+              "url": "/mods/486485/5512414/brb-1.10.0-rc5+1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 997634,
+          "name": "Platform",
+          "favorite": false,
+          "version": {
+            "id": 7577460,
+            "updateDate": 1770249213000,
+            "metadata": {
+              "sha1": "355c4ddaf0e9362c570ccd8d1576c6fae9290071",
+              "size": 731829,
+              "path": "mods/Platform-fabric-1.21.1-1.2.11.5.jar",
+              "url": "/mods/997634/7577460/Platform-fabric-1.21.1-1.2.11.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 474114,
+          "name": "Huge Structure Blocks [Fabric & Forge]",
+          "favorite": false,
+          "version": {
+            "id": 7065479,
+            "updateDate": 1759584210000,
+            "metadata": {
+              "sha1": "e47182aa7c96a04e79eab7db8851f4d7615d3f40",
+              "size": 100230,
+              "path": "mods/huge-structure-blocks-fabric-1.1.6.jar",
+              "url": "/mods/474114/7065479/huge-structure-blocks-fabric-1.1.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308702,
+          "name": "Mod Menu",
+          "favorite": false,
+          "version": {
+            "id": 5810603,
+            "updateDate": 1728868270000,
+            "metadata": {
+              "sha1": "6213120772192040a0aeb5c7cfe330c068605b1f",
+              "size": 973066,
+              "path": "mods/modmenu-11.0.3.jar",
+              "url": "/mods/308702/5810603/modmenu-11.0.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 910274,
+          "name": "Biome Replacer",
+          "favorite": false,
+          "version": {
+            "id": 6807126,
+            "updateDate": 1753370569000,
+            "metadata": {
+              "sha1": "8e3573f3384e7031afa663d7fe3dbbd0011bae9c",
+              "size": 138694,
+              "path": "mods/biomereplacer-2.1-hippo-fabric.jar",
+              "url": "/mods/910274/6807126/biomereplacer-2.1-hippo-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1349231,
+          "name": "Cobblemon Raid Dens",
+          "favorite": false,
+          "version": {
+            "id": 7657504,
+            "updateDate": 1771668485000,
+            "metadata": {
+              "sha1": "b274705fdbe4dc8396278550134fca11f8e4a460",
+              "size": 2513669,
+              "path": "mods/cobblemonraiddens-fabric-0.7.6%2B1.21.1.jar",
+              "url": "/mods/1349231/7657504/cobblemonraiddens-fabric-0.7.6%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 574741,
+          "name": "Zoomify",
+          "favorite": false,
+          "version": {
+            "id": 7463103,
+            "updateDate": 1768475590000,
+            "metadata": {
+              "sha1": "4dc0d5209ac2b58d0d0e6a13735aa91d65347c8e",
+              "size": 874396,
+              "path": "mods/zoomify-2.15.1%2B1.21.1.jar",
+              "url": "/mods/574741/7463103/zoomify-2.15.1%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 979322,
+          "name": "Sophisticated Backpacks (Unofficial Fabric port)",
+          "favorite": false,
+          "version": {
+            "id": 6844426,
+            "updateDate": 1754254121000,
+            "metadata": {
+              "sha1": "fc6d87d9b902225790bdfbc45ba412e8572e593f",
+              "size": 988478,
+              "path": "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+              "url": "/mods/979322/6844426/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1452045,
+          "name": "Navas ZA Megas",
+          "favorite": false,
+          "version": {
+            "id": 7603220,
+            "updateDate": 1770712023000,
+            "metadata": {
+              "sha1": "0a76dd7fd89db316eebdc4dfb878887292028abb",
+              "size": 2390310,
+              "path": "mods/zamega-fabric-1.5.4.jar",
+              "url": "/mods/1452045/7603220/zamega-fabric-1.5.4.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 532610,
+          "name": "oωo (owo-lib)",
+          "favorite": false,
+          "version": {
+            "id": 6446006,
+            "updateDate": 1745193197000,
+            "metadata": {
+              "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
+              "size": 1183559,
+              "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+              "url": "/mods/532610/6446006/owo-lib-0.12.15.4+1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 938643,
+          "name": "Melody",
+          "favorite": false,
+          "version": {
+            "id": 5430438,
+            "updateDate": 1718439081000,
+            "metadata": {
+              "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+              "size": 188035,
+              "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+              "url": "/mods/938643/5430438/melody_fabric_1.0.10_MC_1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667245,
+          "name": "Highlight",
+          "favorite": false,
+          "version": {
+            "id": 5447147,
+            "updateDate": 1718839723000,
+            "metadata": {
+              "sha1": "68c9d99f271cd8ef8421358369d2d663dd7074fe",
+              "size": 457352,
+              "path": "mods/highlight-fabric-1.21-3.0.0.jar",
+              "url": "/mods/667245/5447147/highlight-fabric-1.21-3.0.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 388172,
+          "name": "GeckoLib",
+          "favorite": false,
+          "version": {
+            "id": 7415489,
+            "updateDate": 1767511313000,
+            "metadata": {
+              "sha1": "b82cb945e22f32d519c8a10face78149279e12ef",
+              "size": 653263,
+              "path": "mods/geckolib-fabric-1.21.1-4.8.3.jar",
+              "url": "/mods/388172/7415489/geckolib-fabric-1.21.1-4.8.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438252,
+          "name": "Custom Splash Screen",
+          "favorite": false,
+          "version": {
+            "id": 5437540,
+            "updateDate": 1718621418000,
+            "metadata": {
+              "sha1": "bb79f8974e619e077d60a6bdffe389913b84defd",
+              "size": 660554,
+              "path": "mods/customsplashscreen-2.2.0.jar",
+              "url": "/mods/438252/5437540/customsplashscreen-2.2.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1078431,
+          "name": "Pokeblocks",
+          "favorite": false,
+          "version": {
+            "id": 6376530,
+            "updateDate": 1743565293000,
+            "metadata": {
+              "sha1": "74a6bb7102596b326d07f64281ee80aca0eedaa6",
+              "size": 1606467,
+              "path": "mods/pokeblocks-1.4.0-1.21.1.jar",
+              "url": "/mods/1078431/6376530/pokeblocks-1.4.0-1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1103431,
+          "name": "SodiumEmbeddium Options API",
+          "favorite": false,
+          "version": {
+            "id": 6100813,
+            "updateDate": 1737233298000,
+            "metadata": {
+              "sha1": "ca8c29ad2481ab5fe81095181541d183fa7faf19",
+              "size": 903592,
+              "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+              "url": "/mods/1103431/6100813/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 443782,
+          "name": "Better Beds",
+          "favorite": false,
+          "version": {
+            "id": 5437848,
+            "updateDate": 1718628936000,
+            "metadata": {
+              "sha1": "18bc5c4f40ff6e47d65526a59244c9ea57b83e3f",
+              "size": 39918,
+              "path": "mods/betterbeds-fabric-1.4.0.jar",
+              "url": "/mods/443782/5437848/betterbeds-fabric-1.4.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667299,
+          "name": "YetAnotherConfigLib",
+          "favorite": false,
+          "version": {
+            "id": 7305648,
+            "updateDate": 1765137671000,
+            "metadata": {
+              "sha1": "b2807abb067142accce3c489e7e485fd97d4339c",
+              "size": 1131541,
+              "path": "mods/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar",
+              "url": "/mods/667299/7305648/yet_another_config_lib_v3-3.8.1%252B1.21.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 454372,
+          "name": "SuperMartijn642's Core Lib",
+          "favorite": false,
+          "version": {
+            "id": 7521829,
+            "updateDate": 1769307381000,
+            "metadata": {
+              "sha1": "4fd5200ea2ce64a366100c9a78a0aebed273b5ed",
+              "size": 616841,
+              "path": "mods/supermartijn642corelib-1.1.20-fabric-mc1.21.jar",
+              "url": "/mods/454372/7521829/supermartijn642corelib-1.1.20-fabric-mc1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 396826,
+          "name": "Tom's Simple Storage Mod (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 7659873,
+            "updateDate": 1771704551000,
+            "metadata": {
+              "sha1": "3f851ab4ba33b0efca0a03f3aa92a266415f5a87",
+              "size": 1962781,
+              "path": "mods/toms_storage_fabric-1.21-2.3.0.jar",
+              "url": "/mods/396826/7659873/toms_storage_fabric-1.21-2.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 840896,
+          "name": "StackDeobfuscator",
+          "favorite": false,
+          "version": {
+            "id": 5511110,
+            "updateDate": 1720369983000,
+            "metadata": {
+              "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163",
+              "size": 321213,
+              "path": "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+              "url": "/mods/840896/5511110/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 506536,
+          "name": "Lenient Death",
+          "favorite": false,
+          "version": {
+            "id": 5619920,
+            "updateDate": 1723423744000,
+            "metadata": {
+              "sha1": "cca7eb614db1053e9b8f8f413bc7bc82edcd472a",
+              "size": 920915,
+              "path": "mods/lenientdeath-1.2.5+1.21.1.jar",
+              "url": "/mods/506536/5619920/lenientdeath-1.2.5+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 421897,
+          "name": "Particle Rain",
+          "favorite": false,
+          "version": {
+            "id": 7378831,
+            "updateDate": 1766709614000,
+            "metadata": {
+              "sha1": "e73a61bb88772a19b9609d388917f4c4b58830cc",
+              "size": 595246,
+              "path": "mods/particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar",
+              "url": "/mods/421897/7378831/particlerain-4.0.0-beta.5%252B1.21.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 317780,
+          "name": "Xaero's World Map",
+          "favorite": false,
+          "version": {
+            "id": 7598489,
+            "updateDate": 1770626835000,
+            "metadata": {
+              "sha1": "879469ab8b697796219254a097d00ff48cabf3c5",
+              "size": 1413973,
+              "path": "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+              "url": "/mods/317780/7598489/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 271009,
+          "name": "Forgiving Void",
+          "favorite": false,
+          "version": {
+            "id": 7458876,
+            "updateDate": 1768404039000,
+            "metadata": {
+              "sha1": "c10682c28fddc290d81f623f0bd2d2c4533a6ae8",
+              "size": 76824,
+              "path": "mods/forgivingvoid-fabric-1.21.1-21.1.6.jar",
+              "url": "/mods/271009/7458876/forgivingvoid-fabric-1.21.1-21.1.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 428912,
+          "name": "Krypton",
+          "favorite": false,
+          "version": {
+            "id": 5460550,
+            "updateDate": 1719097642000,
+            "metadata": {
+              "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
+              "size": 161045,
+              "path": "mods/krypton-0.2.8.jar",
+              "url": "/mods/428912/5460550/krypton-0.2.8.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416797,
+          "name": "Konkrete [Fabric]",
+          "favorite": false,
+          "version": {
+            "id": 5430434,
+            "updateDate": 1718438926000,
+            "metadata": {
+              "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+              "size": 786695,
+              "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+              "url": "/mods/416797/5430434/konkrete_fabric_1.9.9_MC_1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 938917,
+          "name": "Accessories",
+          "favorite": false,
+          "version": {
+            "id": 7583323,
+            "updateDate": 1770363505000,
+            "metadata": {
+              "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b",
+              "size": 1095802,
+              "path": "mods/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
+              "url": "/mods/938917/7583323/accessories-fabric-1.1.0-beta.53%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 790626,
+          "name": "ModernFix",
+          "favorite": false,
+          "version": {
+            "id": 7200210,
+            "updateDate": 1762632287000,
+            "metadata": {
+              "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+              "size": 471258,
+              "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+              "url": "/mods/790626/7200210/modernfix-fabric-5.25.1+mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1188698,
+          "name": "CobbleFurnies",
+          "favorite": false,
+          "version": {
+            "id": 7302040,
+            "updateDate": 1765058704000,
+            "metadata": {
+              "sha1": "b174451734d3a424fa239612a5814572f76f77db",
+              "size": 2319618,
+              "path": "mods/CobbleFurnies-fabric-1.0.jar",
+              "url": "/mods/1188698/7302040/CobbleFurnies-fabric-1.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 901059,
+          "name": "Cobblemon Capture XP",
+          "favorite": false,
+          "version": {
+            "id": 7568498,
+            "updateDate": 1770076096000,
+            "metadata": {
+              "sha1": "fe935920b30c7cce657c2fa5e4dd27f36ea640cf",
+              "size": 22848,
+              "path": "mods/capturexp-fabric-1.7.3-1.3.0.jar",
+              "url": "/mods/901059/7568498/capturexp-fabric-1.7.3-1.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 979317,
+          "name": "Sophisticated Core (Unofficial Fabric port)",
+          "favorite": false,
+          "version": {
+            "id": 7344653,
+            "updateDate": 1765988679000,
+            "metadata": {
+              "sha1": "857b3862af8a55b635c2f3b03ad92b2e3f3dfdeb",
+              "size": 2996065,
+              "path": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+              "url": "/mods/979317/7344653/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1055905,
+          "name": "AdvancementDisable",
+          "favorite": false,
+          "version": {
+            "id": 5510149,
+            "updateDate": 1720346639000,
+            "metadata": {
+              "sha1": "8bff07c3254e04ed4926051684f3af92151c650f",
+              "size": 430412,
+              "path": "mods/advancementdisable-fabric-1.0.1+1.21.jar",
+              "url": "/mods/1055905/5510149/advancementdisable-fabric-1.0.1+1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 844662,
+          "name": "[EMF] Entity Model Features [Fabric & Forge]",
+          "favorite": false,
+          "version": {
+            "id": 7647266,
+            "updateDate": 1771473123000,
+            "metadata": {
+              "sha1": "61edf36251b3eec497d622fae9ea1baac6308a05",
+              "size": 496342,
+              "path": "mods/entity_model_features_1.21-fabric-3.0.12.jar",
+              "url": "/mods/844662/7647266/entity_model_features_1.21-fabric-3.0.12.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 250398,
+          "name": "Controlling",
+          "favorite": false,
+          "version": {
+            "id": 6368974,
+            "updateDate": 1743378264000,
+            "metadata": {
+              "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3",
+              "size": 83679,
+              "path": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+              "url": "/mods/250398/6368974/Controlling-fabric-1.21.1-19.0.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 411557,
+          "name": "ToolTipFix",
+          "favorite": false,
+          "version": {
+            "id": 4577194,
+            "updateDate": 1686351310000,
+            "metadata": {
+              "sha1": "de704792c691e3d19316c87c21c9ad2bee6c66c3",
+              "size": 12432,
+              "path": "mods/tooltipfix-1.1.1-1.20.jar",
+              "url": "/mods/411557/4577194/tooltipfix-1.1.1-1.20.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 841890,
+          "name": "Athena",
+          "favorite": false,
+          "version": {
+            "id": 6669523,
+            "updateDate": 1750305251000,
+            "metadata": {
+              "sha1": "d79183521f9bcb043ebdc6438f1987e46c12a067",
+              "size": 82788,
+              "path": "mods/athena-fabric-1.21-4.0.2.jar",
+              "url": "/mods/841890/6669523/athena-fabric-1.21-4.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1301989,
+          "name": "LumyMon",
+          "favorite": false,
+          "version": {
+            "id": 7686827,
+            "updateDate": 1772213776000,
+            "metadata": {
+              "sha1": "5a9f6bd4fab8118e62d8640ac5371efe9430cdbd",
+              "size": 2323542,
+              "path": "mods/LumyMon-0.6.3.jar",
+              "url": "/mods/1301989/7686827/LumyMon-0.6.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 854949,
+          "name": "Fusion (Connected Textures)",
+          "favorite": false,
+          "version": {
+            "id": 7471453,
+            "updateDate": 1768616390000,
+            "metadata": {
+              "sha1": "6c5ef883ab46b3e6ab5f53b7c1b0b369162f9110",
+              "size": 515411,
+              "path": "mods/fusion-1.2.12-fabric-mc1.21.jar",
+              "url": "/mods/854949/7471453/fusion-1.2.12-fabric-mc1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 510974,
+          "name": "Interactic",
+          "favorite": false,
+          "version": {
+            "id": 5592999,
+            "updateDate": 1722699184000,
+            "metadata": {
+              "sha1": "1bb259b6b82f75f9f7302b2f08efafc146ae576e",
+              "size": 118011,
+              "path": "mods/interactic-0.2.3+1.21.jar",
+              "url": "/mods/510974/5592999/interactic-0.2.3+1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 317134,
+          "name": "Global Packs",
+          "favorite": false,
+          "version": {
+            "id": 6634587,
+            "updateDate": 1749505830000,
+            "metadata": {
+              "sha1": "6a0c4ccf2a8bc916173defc3c49c8e95285e66b9",
+              "size": 394707,
+              "path": "mods/globalpacks-fabric-1.21.1-21.0.6.jar",
+              "url": "/mods/317134/6634587/globalpacks-fabric-1.21.1-21.0.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 558998,
+          "name": "Rechiseled",
+          "favorite": false,
+          "version": {
+            "id": 7619069,
+            "updateDate": 1770993681000,
+            "metadata": {
+              "sha1": "4adb82c379b9ac15bc8251d33782b40e37d8f41c",
+              "size": 11913834,
+              "path": "mods/rechiseled-1.2.3-fabric-mc1.21.jar",
+              "url": "/mods/558998/7619069/rechiseled-1.2.3-fabric-mc1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1335174,
+          "name": "Carved Wood",
+          "favorite": false,
+          "version": {
+            "id": 7409722,
+            "updateDate": 1767387639000,
+            "metadata": {
+              "sha1": "b33a37bd0da649d860bf70e32681e49f206e08a6",
+              "size": 2458227,
+              "path": "mods/Carved%20Wood-fabric-1.21.1-1.8.2.jar",
+              "url": "/mods/1335174/7409722/Carved%2520Wood-fabric-1.21.1-1.8.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1295910,
+          "name": "Cobblemon Tim Core",
+          "favorite": false,
+          "version": {
+            "id": 7567051,
+            "updateDate": 1770055097000,
+            "metadata": {
+              "sha1": "509129949a45f95b1150b4da4a222f7beed3de6b",
+              "size": 297587,
+              "path": "mods/timcore-fabric-1.7.3-1.31.0.jar",
+              "url": "/mods/1295910/7567051/timcore-fabric-1.7.3-1.31.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 263420,
+          "name": "Xaero's Minimap",
+          "favorite": false,
+          "version": {
+            "id": 7598600,
+            "updateDate": 1770629480000,
+            "metadata": {
+              "sha1": "a231fa03625036fb8118a1a5981f22eac54c3597",
+              "size": 2177333,
+              "path": "mods/xaerominimap-fabric-1.21.1-25.3.10.jar",
+              "url": "/mods/263420/7598600/xaerominimap-fabric-1.21.1-25.3.10.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 689467,
+          "name": "Packet Fixer",
+          "favorite": false,
+          "version": {
+            "id": 7221528,
+            "updateDate": 1763141500000,
+            "metadata": {
+              "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+              "size": 46623,
+              "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+              "url": "/mods/689467/7221528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 394468,
+          "name": "Sodium",
+          "favorite": false,
+          "version": {
+            "id": 6382649,
+            "updateDate": 1743725605000,
+            "metadata": {
+              "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+              "size": 1297761,
+              "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+              "url": "/mods/394468/6382649/sodium-fabric-0.6.13+mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1082538,
+          "name": "MoreCobblemonTweaks",
+          "favorite": false,
+          "version": {
+            "id": 7593364,
+            "updateDate": 1770544041000,
+            "metadata": {
+              "sha1": "1c1ce65f40b9409c209608680060866c2aaa1eb9",
+              "size": 137626,
+              "path": "mods/MoreCobblemonTweaks-fabric-1.3.3.jar",
+              "url": "/mods/1082538/7593364/MoreCobblemonTweaks-fabric-1.3.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 832644,
+          "name": "Resource Pack Overrides",
+          "favorite": false,
+          "version": {
+            "id": 5733967,
+            "updateDate": 1726654623000,
+            "metadata": {
+              "sha1": "ea53b83821e3a584159d0bca490e2460e27c616d",
+              "size": 80827,
+              "path": "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+              "url": "/mods/832644/5733967/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 276951,
+          "name": "Comforts",
+          "favorite": false,
+          "version": {
+            "id": 7515856,
+            "updateDate": 1769230397000,
+            "metadata": {
+              "sha1": "e47d6c2f0213abed8865dfa51ee05dea86c1baa9",
+              "size": 914494,
+              "path": "mods/comforts-fabric-9.0.5%2B1.21.1.jar",
+              "url": "/mods/276951/7515856/comforts-fabric-9.0.5%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1248185,
+          "name": "Cobblemon SafePastures",
+          "favorite": false,
+          "version": {
+            "id": 7248017,
+            "updateDate": 1763782554000,
+            "metadata": {
+              "sha1": "da4ca736f1390553380dd1f8b596f17d35fafded",
+              "size": 16518,
+              "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+              "url": "/mods/1248185/7248017/SafePastures-1.1.1+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 979326,
+          "name": "Sophisticated Storage (Unofficial Fabric port)",
+          "favorite": false,
+          "version": {
+            "id": 7344673,
+            "updateDate": 1765989144000,
+            "metadata": {
+              "sha1": "bfdf71e189715206733692d7c1f60af589e79d23",
+              "size": 1670672,
+              "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+              "url": "/mods/979326/7344673/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 686911,
+          "name": "ImmediatelyFast",
+          "favorite": false,
+          "version": {
+            "id": 7537793,
+            "updateDate": 1769548322000,
+            "metadata": {
+              "sha1": "ff2be016b12128fc0cd875a21a307d681edde817",
+              "size": 342770,
+              "path": "mods/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+              "url": "/mods/686911/7537793/ImmediatelyFast-Fabric-1.6.10%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 817206,
+          "name": "Music Notification",
+          "favorite": false,
+          "version": {
+            "id": 5617079,
+            "updateDate": 1723348436000,
+            "metadata": {
+              "sha1": "8c521838a2bb68b7378a0686a259af00034ef27c",
+              "size": 117260,
+              "path": "mods/MusicNotification-fabric-mc1.21-2.1.0.jar",
+              "url": "/mods/817206/5617079/MusicNotification-fabric-mc1.21-2.1.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 539382,
+          "name": "Iceberg [Fabric]",
+          "favorite": false,
+          "version": {
+            "id": 6423860,
+            "updateDate": 1744668829000,
+            "metadata": {
+              "sha1": "170e30bf93ccba6d80dd481eedddae16cb549d29",
+              "size": 413302,
+              "path": "mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+              "url": "/mods/539382/6423860/Iceberg-1.21.1-fabric-1.3.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 448233,
+          "name": "Entity Culling FabricForge",
+          "favorite": false,
+          "version": {
+            "id": 7396687,
+            "updateDate": 1767108372000,
+            "metadata": {
+              "sha1": "dffd306c5aeba040595e2f02badf441db638624b",
+              "size": 1560675,
+              "path": "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
+              "url": "/mods/448233/7396687/entityculling-fabric-1.9.5-mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 391366,
+          "name": "Repurposed Structures (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 7663502,
+            "updateDate": 1771771022000,
+            "metadata": {
+              "sha1": "1f736665a59132af52a96e3685803ce12feb9bd1",
+              "size": 8195855,
+              "path": "mods/repurposed_structures-7.5.18%2B1.21.1-fabric.jar",
+              "url": "/mods/391366/7663502/repurposed_structures-7.5.18%252B1.21.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1431831,
+          "name": "Catch Indicator [Cobblemon Addon]",
+          "favorite": false,
+          "version": {
+            "id": 7667664,
+            "updateDate": 1771853419000,
+            "metadata": {
+              "sha1": "64cbe24381672d8ca66c64786a74d2614a227238",
+              "size": 284261,
+              "path": "mods/catchindicator-fabric-1.4.1.jar",
+              "url": "/mods/1431831/7667664/catchindicator-fabric-1.4.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 419699,
+          "name": "Architectury API",
+          "favorite": false,
+          "version": {
+            "id": 5786326,
+            "updateDate": 1728156245000,
+            "metadata": {
+              "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
+              "size": 600915,
+              "path": "mods/architectury-13.0.8-fabric.jar",
+              "url": "/mods/419699/5786326/architectury-13.0.8-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 568563,
+          "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+          "favorite": false,
+          "version": {
+            "id": 7623558,
+            "updateDate": 1771073715000,
+            "metadata": {
+              "sha1": "0616d3dd4c8a27350ee46e94577da2c247878558",
+              "size": 728221,
+              "path": "mods/entity_texture_features_1.21-fabric-7.0.9.jar",
+              "url": "/mods/568563/7623558/entity_texture_features_1.21-fabric-7.0.9.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 459857,
+          "name": "FerriteCore (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 7524152,
+            "updateDate": 1769345985000,
+            "metadata": {
+              "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+              "size": 123450,
+              "path": "mods/ferritecore-7.0.3-fabric.jar",
+              "url": "/mods/459857/7524152/ferritecore-7.0.3-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 538214,
+          "name": "Handcrafted",
+          "favorite": false,
+          "version": {
+            "id": 6330032,
+            "updateDate": 1742603044000,
+            "metadata": {
+              "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6",
+              "size": 7127377,
+              "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
+              "url": "/mods/538214/6330032/handcrafted-fabric-1.21.1-4.0.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 401648,
+          "name": "BetterF3",
+          "favorite": false,
+          "version": {
+            "id": 5873256,
+            "updateDate": 1730670300000,
+            "metadata": {
+              "sha1": "22442f5594bd537ab603cb36fba70363ebb7992a",
+              "size": 1810710,
+              "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+              "url": "/mods/401648/5873256/BetterF3-11.0.3-Fabric-1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308769,
+          "name": "Fabric Language Kotlin",
+          "favorite": false,
+          "version": {
+            "id": 7583523,
+            "updateDate": 1770369861000,
+            "metadata": {
+              "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
+              "size": 7642216,
+              "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+              "url": "/mods/308769/7583523/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 514882,
+          "name": "Advancement Plaques [Fabric]",
+          "favorite": false,
+          "version": {
+            "id": 5905997,
+            "updateDate": 1731688300000,
+            "metadata": {
+              "sha1": "e3a5a514bbcc18e2c4e3bc251eb9f48e64217405",
+              "size": 195505,
+              "path": "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+              "url": "/mods/514882/5905997/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 232131,
+          "name": "Default Options",
+          "favorite": false,
+          "version": {
+            "id": 6972472,
+            "updateDate": 1757248124000,
+            "metadata": {
+              "sha1": "5825ff250f60bc88d7fde745fddbd48f2465f7fa",
+              "size": 98232,
+              "path": "mods/defaultoptions-fabric-1.21.1-21.1.5.jar",
+              "url": "/mods/232131/6972472/defaultoptions-fabric-1.21.1-21.1.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 433760,
+          "name": "Not Enough Animations",
+          "favorite": false,
+          "version": {
+            "id": 7650363,
+            "updateDate": 1771531891000,
+            "metadata": {
+              "sha1": "1044f009e62ee7665b384f42f3d12df3145ef54c",
+              "size": 1920525,
+              "path": "mods/notenoughanimations-fabric-1.11.3-mc1.21.1.jar",
+              "url": "/mods/433760/7650363/notenoughanimations-fabric-1.11.3-mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 367706,
+          "name": "FancyMenu",
+          "favorite": false,
+          "version": {
+            "id": 7256739,
+            "updateDate": 1763972707000,
+            "metadata": {
+              "sha1": "65903483bbf770824d821c6065309648aae95304",
+              "size": 4522643,
+              "path": "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+              "url": "/mods/367706/7256739/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 430090,
+          "name": "Respackopts",
+          "favorite": false,
+          "version": {
+            "id": 5799816,
+            "updateDate": 1728540768000,
+            "metadata": {
+              "sha1": "a83c7cd89fc2ac4326c45a2570cfbf8c40f4efa7",
+              "size": 530926,
+              "path": "mods/respackopts-4.11.3.jar",
+              "url": "/mods/430090/5799816/respackopts-4.11.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1009534,
+          "name": "Radical Cobblemon Trainers",
+          "favorite": false,
+          "version": {
+            "id": 7546371,
+            "updateDate": 1769704230000,
+            "metadata": {
+              "sha1": "ebc4f12bbe69c57f5da00b13759c2816981bbdfd",
+              "size": 4757980,
+              "path": "mods/rctmod-fabric-1.21.1-0.17.6-beta.jar",
+              "url": "/mods/1009534/7546371/rctmod-fabric-1.21.1-0.17.6-beta.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 915902,
+          "name": "Euphoria Patches",
+          "favorite": false,
+          "version": {
+            "id": 7624105,
+            "updateDate": 1771081606000,
+            "metadata": {
+              "sha1": "b1fc5eb98ad63fba6d4594035964471925b3154f",
+              "size": 2827550,
+              "path": "mods/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar",
+              "url": "/mods/915902/7624105/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 859232,
+          "name": "CobbleDollars [Cobblemon Addon]",
+          "favorite": false,
+          "version": {
+            "id": 6604561,
+            "updateDate": 1748770231000,
+            "metadata": {
+              "sha1": "48a2a30fb22e088ca9357fc95bdb4247ddc80b17",
+              "size": 369528,
+              "path": "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+              "url": "/mods/859232/6604561/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 630104,
+          "name": "MoreCulling",
+          "favorite": false,
+          "version": {
+            "id": 6292914,
+            "updateDate": 1741714232000,
+            "metadata": {
+              "sha1": "e14150baf443abc24ee6236b837c287dd5950e95",
+              "size": 345544,
+              "path": "mods/moreculling-fabric-1.21.1-1.0.6.jar",
+              "url": "/mods/630104/6292914/moreculling-fabric-1.21.1-1.0.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1254643,
+          "name": "CobbleCuisine",
+          "favorite": false,
+          "version": {
+            "id": 7265785,
+            "updateDate": 1764190693000,
+            "metadata": {
+              "sha1": "31cf544fe61bb9c21fa8dafe5c03a428049a0f37",
+              "size": 683115,
+              "path": "mods/cobblecuisine-2.0.1-1.7-rc1.jar",
+              "url": "/mods/1254643/7265785/cobblecuisine-2.0.1-1.7-rc1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 417430,
+          "name": "Vanilla Backport",
+          "favorite": false,
+          "version": {
+            "id": 7597656,
+            "updateDate": 1770606992000,
+            "metadata": {
+              "sha1": "a1d7396d5ab9b22dfbf7d18e125a8a7e8f57a968",
+              "size": 28549222,
+              "path": "mods/VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar",
+              "url": "/mods/417430/7597656/VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1168140,
+          "name": "Cobblemon Fight or Flight Reborn",
+          "favorite": false,
+          "version": {
+            "id": 7633835,
+            "updateDate": 1771251527000,
+            "metadata": {
+              "sha1": "a3169ed363d2483efd527fdd49455c9e05ac693f",
+              "size": 1415149,
+              "path": "mods/fightorflight-fabric-0.10.7.jar",
+              "url": "/mods/1168140/7633835/fightorflight-fabric-0.10.7.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1258911,
+          "name": "COBBLEVERSE Badges & Trophies",
+          "favorite": false,
+          "version": {
+            "id": 7251451,
+            "updateDate": 1763861275000,
+            "metadata": {
+              "sha1": "8e213de6013b6a58485ba8ddfcff5c91b3beb41d",
+              "size": 137015,
+              "path": "mods/CobbleverseBadges-1.3.jar",
+              "url": "/mods/1258911/7251451/CobbleverseBadges-1.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1420751,
+          "name": "Smart Particles",
+          "favorite": false,
+          "version": {
+            "id": 7469319,
+            "updateDate": 1768584653000,
+            "metadata": {
+              "sha1": "53155b5d35a0006b938cb35559fc548666674abf",
+              "size": 50316,
+              "path": "mods/smart_particles%2Bmc1.21.1-1.01.10.jar",
+              "url": "/mods/1420751/7469319/smart_particles%252Bmc1.21.1-1.01.10.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 500525,
+          "name": "Balm (Fabric Edition)",
+          "favorite": false,
+          "version": {
+            "id": 7420960,
+            "updateDate": 1767620974000,
+            "metadata": {
+              "sha1": "0377b2e07551dc9fbcb40b94a3d38e098cd85d7e",
+              "size": 773504,
+              "path": "mods/balm-fabric-1.21.1-21.0.56.jar",
+              "url": "/mods/500525/7420960/balm-fabric-1.21.1-21.0.56.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1263645,
+          "name": "Cobblemon Legendary Monuments",
+          "favorite": false,
+          "version": {
+            "id": 7564151,
+            "updateDate": 1769996756000,
+            "metadata": {
+              "sha1": "9c86e9dfda8be63bbc01ab03160c8bf5ae8185ac",
+              "size": 5736792,
+              "path": "mods/LegendaryMonuments-Cobbleverse.jar",
+              "url": "/mods/1263645/7564151/LegendaryMonuments-Cobbleverse.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511319,
+          "name": "Reese's Sodium Options",
+          "favorite": false,
+          "version": {
+            "id": 6091019,
+            "updateDate": 1736973345000,
+            "metadata": {
+              "sha1": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+              "size": 81067,
+              "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+              "url": "/mods/511319/6091019/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1189523,
+          "name": "Cobblemon Mega Showdown",
+          "favorite": false,
+          "version": {
+            "id": 7643896,
+            "updateDate": 1771422990000,
+            "metadata": {
+              "sha1": "589af14f40b6d8ae133b24a0f90c1cfce00fec19",
+              "size": 16330490,
+              "path": "mods/mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar",
+              "url": "/mods/1189523/7643896/mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1450604,
+          "name": "Cobblemon Catch Rate Display",
+          "favorite": false,
+          "version": {
+            "id": 7673840,
+            "updateDate": 1771963198000,
+            "metadata": {
+              "sha1": "040429b67da4320ad455721aadc77b0fc82b206c",
+              "size": 175500,
+              "path": "mods/catchrate-display-fabric-2.7.8.jar",
+              "url": "/mods/1450604/7673840/catchrate-display-fabric-2.7.8.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 241160,
+          "name": "NetherPortalFix",
+          "favorite": false,
+          "version": {
+            "id": 6204047,
+            "updateDate": 1739817570000,
+            "metadata": {
+              "sha1": "970677295778926b09c3539b38e884854bc4d3c7",
+              "size": 213294,
+              "path": "mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+              "url": "/mods/241160/6204047/netherportalfix-fabric-1.21.1-21.1.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 959591,
+          "name": "Better F1 Reborn",
+          "favorite": false,
+          "version": {
+            "id": 6707091,
+            "updateDate": 1751182798000,
+            "metadata": {
+              "sha1": "218c3aa2ae3356309997deae0861133e9f861581",
+              "size": 22834,
+              "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
+              "url": "/mods/959591/6707091/BetterF1-Fabric-1.1+1.21.7.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 547434,
+          "name": "Forge Config API Port",
+          "favorite": false,
+          "version": {
+            "id": 7213608,
+            "updateDate": 1762938004000,
+            "metadata": {
+              "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+              "size": 633065,
+              "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+              "url": "/mods/547434/7213608/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 618770,
+          "name": "Paginated Advancements & Custom Frames",
+          "favorite": false,
+          "version": {
+            "id": 5679657,
+            "updateDate": 1725091526000,
+            "metadata": {
+              "sha1": "23a4570fb52d62135d705156079e52ddfe980b94",
+              "size": 71859,
+              "path": "mods/paginatedadvancements-2.5.1.jar",
+              "url": "/mods/618770/5679657/paginatedadvancements-2.5.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1299655,
+          "name": "Only Bottle Caps",
+          "favorite": false,
+          "version": {
+            "id": 7253785,
+            "updateDate": 1763910945000,
+            "metadata": {
+              "sha1": "23ef87de0db4ec6914b67ad96d72c204874dc613",
+              "size": 250451,
+              "path": "mods/Only Bottle Caps-1.3.0.jar",
+              "url": "/mods/1299655/7253785/Only%20Bottle%20Caps-1.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 455508,
+          "name": "Iris Shaders",
+          "favorite": false,
+          "version": {
+            "id": 6213635,
+            "updateDate": 1740064144000,
+            "metadata": {
+              "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
+              "size": 2690177,
+              "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
+              "url": "/mods/455508/6213635/iris-fabric-1.8.8+mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 976014,
+          "name": "Cobblemon Pokenav",
+          "favorite": false,
+          "version": {
+            "id": 7248475,
+            "updateDate": 1763798925000,
+            "metadata": {
+              "sha1": "c99fa8de40a178ce57d6ca92cadec268308f3b25",
+              "size": 780131,
+              "path": "mods/cobblenav-fabric-2.2.5.jar",
+              "url": "/mods/976014/7248475/cobblenav-fabric-2.2.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1152792,
+          "name": "Radical Cobblemon Trainers API",
+          "favorite": false,
+          "version": {
+            "id": 7621870,
+            "updateDate": 1771035705000,
+            "metadata": {
+              "sha1": "f9b4f8dd9ef58e8faf61151b8a5656f918171c34",
+              "size": 229381,
+              "path": "mods/rctapi-fabric-1.21.1-0.14.8-beta.jar",
+              "url": "/mods/1152792/7621870/rctapi-fabric-1.21.1-0.14.8-beta.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 809311,
+          "name": "Beautify Refabricated",
+          "favorite": false,
+          "version": {
+            "id": 7553989,
+            "updateDate": 1769841679000,
+            "metadata": {
+              "sha1": "7b22fbf4997200c8f210a016f7af36309f52a1e1",
+              "size": 837607,
+              "path": "mods/beautify-2.0.0%2B1.21.1.jar",
+              "url": "/mods/809311/7553989/beautify-2.0.0%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 687131,
+          "name": "Cobblemon",
+          "favorite": false,
+          "version": {
+            "id": 7553235,
+            "updateDate": 1769822330000,
+            "metadata": {
+              "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+              "size": 135801550,
+              "path": "mods/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+              "url": "/mods/687131/7553235/Cobblemon-fabric-1.7.3%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 310111,
+          "name": "Roughly Enough Items FabricForgeNeoForge (REI)",
+          "favorite": false,
+          "version": {
+            "id": 6199139,
+            "updateDate": 1739706758000,
+            "metadata": {
+              "sha1": "ea0efe8b13a52e9d8d5a18d062810117a7efec0f",
+              "size": 2451799,
+              "path": "mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+              "url": "/mods/310111/6199139/RoughlyEnoughItems-16.0.799-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 360438,
+          "name": "Lithium (FabricNeoForge)",
+          "favorite": false,
+          "version": {
+            "id": 7581453,
+            "updateDate": 1770327246000,
+            "metadata": {
+              "sha1": "72d9c51e9ece62018f290bfbbf7bbb87190cc7ed",
+              "size": 797184,
+              "path": "mods/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+              "url": "/mods/360438/7581453/lithium-fabric-0.15.2%252Bmc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 341284,
+          "name": "Trinkets (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 5534317,
+            "updateDate": 1721041245000,
+            "metadata": {
+              "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
+              "size": 272944,
+              "path": "mods/trinkets-3.10.0.jar",
+              "url": "/mods/341284/5534317/trinkets-3.10.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 60089,
+          "name": "Mouse Tweaks",
+          "favorite": false,
+          "version": {
+            "id": 5437294,
+            "updateDate": 1718612449000,
+            "metadata": {
+              "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
+              "size": 75984,
+              "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+              "url": "/mods/60089/5437294/MouseTweaks-fabric-mc1.21-2.26.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1219053,
+          "name": "Particular ✨ Reforged",
+          "favorite": false,
+          "version": {
+            "id": 6500234,
+            "updateDate": 1746479224000,
+            "metadata": {
+              "sha1": "aa59b31359c2211f4a2d401235c4926084d4f97e",
+              "size": 240317,
+              "path": "mods/particular-1.21.1-Fabric-1.1.2.jar",
+              "url": "/mods/1219053/6500234/particular-1.21.1-Fabric-1.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 488090,
+          "name": "MidnightLib",
+          "favorite": false,
+          "version": {
+            "id": 6772064,
+            "updateDate": 1752592567000,
+            "metadata": {
+              "sha1": "c32c79bd001e400ec7ebaccfffaed465daf42835",
+              "size": 62853,
+              "path": "mods/midnightlib-1.7.5-fabric+1.21.1.jar",
+              "url": "/mods/488090/6772064/midnightlib-1.7.5-fabric+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1315611,
+          "name": "Accessories Compatibility Layer",
+          "favorite": false,
+          "version": {
+            "id": 7585679,
+            "updateDate": 1770405536000,
+            "metadata": {
+              "sha1": "44acb001881c063aa15fe66a26de5fae88e6564f",
+              "size": 398321,
+              "path": "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar",
+              "url": "/mods/1315611/7585679/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "favorite": false,
+          "version": {
+            "id": 5546988,
+            "updateDate": 1721426809000,
+            "metadata": {
+              "sha1": "8427e42f1db8ea7b4b6c21cc94bfcfa398f0ff63",
+              "size": 206993,
+              "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+              "url": "/mods/438332/5546988/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 825733,
+          "name": "Lucky's Cozy Home Stone & Waterworks Update",
+          "favorite": false,
+          "version": {
+            "id": 7273189,
+            "updateDate": 1764384591000,
+            "metadata": {
+              "sha1": "e65e20f982be0be2bf5e94101f560049b0463ab3",
+              "size": 3121070,
+              "path": "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+              "url": "/mods/825733/7273189/Luckys-Cozyhome-Refurnished-1.1.20.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1396525,
+          "name": "Cobblemon Battle Extras",
+          "favorite": false,
+          "version": {
+            "id": 7675723,
+            "updateDate": 1772001937000,
+            "metadata": {
+              "sha1": "f06e8fadf3ade965ac665c31de3594ee1b638e47",
+              "size": 1078321,
+              "path": "mods/cobblemon-battle-extras-fabric-1.8.30.jar",
+              "url": "/mods/1396525/7675723/cobblemon-battle-extras-fabric-1.8.30.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "favorite": false,
+          "version": {
+            "id": 7680396,
+            "updateDate": 1772096718000,
+            "metadata": {
+              "sha1": "e41cb63b923a6064021c5a30afa4e844b82ca6e9",
+              "size": 2425600,
+              "path": "mods/fabric-api-0.116.9+1.21.1.jar",
+              "url": "/mods/306612/7680396/fabric-api-0.116.9+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 435044,
+          "name": "Better Third Person",
+          "favorite": false,
+          "version": {
+            "id": 5439141,
+            "updateDate": 1718656323000,
+            "metadata": {
+              "sha1": "ea0dd2747e5d52d1b64dd29498e59602e79d9b69",
+              "size": 52188,
+              "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+              "url": "/mods/435044/5439141/BetterThirdPerson-Fabric-1.21-1.9.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForgeNeoForge)",
+          "favorite": false,
+          "version": {
+            "id": 5729125,
+            "updateDate": 1726507070000,
+            "metadata": {
+              "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
+              "size": 1157166,
+              "path": "mods/cloth-config-15.0.140-fabric.jar",
+              "url": "/mods/348521/5729125/cloth-config-15.0.140-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 596224,
+          "name": "Debugify",
+          "favorite": false,
+          "version": {
+            "id": 5691544,
+            "updateDate": 1725433721000,
+            "metadata": {
+              "sha1": "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4",
+              "size": 292202,
+              "path": "mods/Debugify-1.21.1+1.0.jar",
+              "url": "/mods/596224/5691544/Debugify-1.21.1+1.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1261726,
+          "name": "Cobblemon PlayerXP",
+          "favorite": false,
+          "version": {
+            "id": 7679054,
+            "updateDate": 1772062646000,
+            "metadata": {
+              "sha1": "b32c9e88d3884926bba2cdb97bcc93e001a6829e",
+              "size": 9928,
+              "path": "mods/playerxp-fabric-1.0.6%2B1.21.1.jar",
+              "url": "/mods/1261726/7679054/playerxp-fabric-1.0.6%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 570073,
+          "name": "Resourceful Lib",
+          "favorite": false,
+          "version": {
+            "id": 5973189,
+            "updateDate": 1733622255000,
+            "metadata": {
+              "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
+              "size": 485586,
+              "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+              "url": "/mods/570073/5973189/resourcefullib-fabric-1.21-3.0.12.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 353890,
+          "name": "Not Enough Crashes (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 6598102,
+            "updateDate": 1748603031000,
+            "metadata": {
+              "sha1": "0de122f1e94b85308bcecb0ebc40ac48c13367a9",
+              "size": 601087,
+              "path": "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar",
+              "url": "/mods/353890/6598102/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 535489,
+          "name": "Sound Physics Remastered",
+          "favorite": false,
+          "version": {
+            "id": 7032249,
+            "updateDate": 1758810635000,
+            "metadata": {
+              "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0",
+              "size": 205671,
+              "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+              "url": "/mods/535489/7032249/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1399760,
+          "name": "LumyREI",
+          "favorite": false,
+          "version": {
+            "id": 7685858,
+            "updateDate": 1772199271000,
+            "metadata": {
+              "sha1": "6236a041e4cd52087791d7341dfe795731ad5ac2",
+              "size": 68949,
+              "path": "mods/LumyREI-1.1.2.jar",
+              "url": "/mods/1399760/7685858/LumyREI-1.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 531351,
+          "name": "Continuity",
+          "favorite": false,
+          "version": {
+            "id": 5962881,
+            "updateDate": 1733326769000,
+            "metadata": {
+              "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
+              "size": 1014044,
+              "path": "mods/continuity-3.0.0+1.21.jar",
+              "url": "/mods/531351/5962881/continuity-3.0.0+1.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 482600,
+          "name": "LibJF",
+          "favorite": false,
+          "version": {
+            "id": 5794349,
+            "updateDate": 1728375788000,
+            "metadata": {
+              "sha1": "2a08178e0ce192f209f1f230e7ff211157563734",
+              "size": 1283376,
+              "path": "mods/libjf-3.17.3.jar",
+              "url": "/mods/482600/5794349/libjf-3.17.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 400741,
+          "name": "VillagerConfig",
+          "favorite": false,
+          "version": {
+            "id": 7332104,
+            "updateDate": 1765714901000,
+            "metadata": {
+              "sha1": "f6256a8824292206e94a248cd8956586e3acb4ff",
+              "size": 355221,
+              "path": "mods/villagerconfig-fabric-4.5.2%2B1.21.1.jar",
+              "url": "/mods/400741/7332104/villagerconfig-fabric-4.5.2%252B1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 447673,
+          "name": "Sodium Extra",
+          "favorite": false,
+          "version": {
+            "id": 5913375,
+            "updateDate": 1731849435000,
+            "metadata": {
+              "sha1": "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+              "size": 373661,
+              "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+              "url": "/mods/447673/5913375/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "favorite": false,
+          "version": {
+            "id": 7682262,
+            "updateDate": 1772127184000,
+            "metadata": {
+              "sha1": "dfe6379bb15ac976bce58399165be55f8b134251",
+              "size": 898196,
+              "path": "mods/waystones-fabric-1.21.1-21.1.28.jar",
+              "url": "/mods/245755/7682262/waystones-fabric-1.21.1-21.1.28.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 858542,
+          "name": "Searchables",
+          "favorite": false,
+          "version": {
+            "id": 5831690,
+            "updateDate": 1729532674000,
+            "metadata": {
+              "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7",
+              "size": 79531,
+              "path": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+              "url": "/mods/858542/5831690/Searchables-fabric-1.21.1-1.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 734339,
+          "name": "Ping Wheel",
+          "favorite": false,
+          "version": {
+            "id": 7409938,
+            "updateDate": 1767391002000,
+            "metadata": {
+              "sha1": "05a72b2b56b57bfc273d4f5c86146f88cd1ecf6b",
+              "size": 152389,
+              "path": "mods/Ping-Wheel-1.12.1-fabric-1.21.1.jar",
+              "url": "/mods/734339/7409938/Ping-Wheel-1.12.1-fabric-1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 910095,
+          "name": "Dynamic Lights [Server] [FabricQuiltForgeNeoForge]",
+          "author": "Tschipcraft Tschipcraft",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 801046,
+          "pictures": [
+            536592,
+            536593,
+            536595,
+            536596,
+            536597,
+            536594
+          ],
+          "lanName": "tschipcrafts-dynamic-lights-mod",
+          "version": {
+            "id": 7312874,
+            "name": "dynamiclights-v1.9.1-mc1.17-1.21.11-mod",
+            "updateDate": 1765308078000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              }
+            ],
+            "metadata": {
+              "sha1": "df4303deb02246cde9c3a9b82c165bec3f37dada",
+              "size": 405957,
+              "path": "mods/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar",
+              "url": "/mods/910095/7312874/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar"
+            },
+            "installed": 347685,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4390,
+              "name": "MidnightLib",
+              "gameEntityId": 488090,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1050,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759957200000,
+          "update": 1759957200000,
+          "downloadALL": 7741276,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1186712,
+          "name": "Cobblemon Legends Untold Reborn (Discontinued)",
+          "author": "yajatkaul",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-legends-untold-reborn",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1009824,
+          "pictures": [],
+          "lanName": "cobblemon-legends-untold-reborn",
+          "version": {
+            "id": 6198594,
+            "name": "Cobblemon_Legends_Reborn-3.0.0-fabric",
+            "updateDate": 1739690447000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "fc2dad1007895dc8fdd5c1df0b1e9237f727e6df",
+              "size": 192006,
+              "path": "mods/Cobblemon_Legends_Reborn-3.0.0-fabric.jar",
+              "url": "/mods/1186712/6198594/Cobblemon_Legends_Reborn-3.0.0-fabric.jar"
+            },
+            "installed": 85940,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1739653200000,
+          "update": 1739653200000,
+          "downloadALL": 141229,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1419903,
+          "name": "CobbledGacha v.3 [Cobblemon 1.7] [FabricNeoForge 1.21.1]",
+          "author": "Dogtorbloo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobbledgacha",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 1295208,
+          "pictures": [],
+          "lanName": "cobbledgacha",
+          "version": {
+            "id": 7696917,
+            "name": "cobbledgacha-fabric-1.21.1-3.0.2",
+            "updateDate": 1772385026000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5dea9ee78e68abb3b43a7a545af7281ca2dbb397",
+              "size": 1146787,
+              "path": "mods/cobbledgacha-fabric-1.21.1-3.0.2.jar",
+              "url": "/mods/1419903/7696917/cobbledgacha-fabric-1.21.1-3.0.2.jar"
+            },
+            "installed": 10400,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1774040400000,
+          "update": 1774040400000,
+          "downloadALL": 72126,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1305471,
+          "name": "Cobblemon Trainer Structures",
+          "author": "blorbilon",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-trainer-structures",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182326,
+          "pictures": [],
+          "lanName": "cobblemon-trainer-structures",
+          "version": {
+            "id": 7750865,
+            "name": "cobblemonopponents-fabric-1.6.1",
+            "updateDate": 1773404017000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "90d80e8c5eb926fea9230c5e4b1c81dfd38d16c1",
+              "size": 25599088,
+              "path": "mods/cobblemonopponents-fabric-1.6.1.jar",
+              "url": "/mods/1305471/7750865/cobblemonopponents-fabric-1.6.1.jar"
+            },
+            "installed": 2339,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1769288400000,
+          "update": 1769288400000,
+          "downloadALL": 81592,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1405644,
+          "name": "Lootrmon Lootr & Cobblemon Compatibility",
+          "author": "Noobanidus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lootrmon",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1315566,
+          "pictures": [],
+          "lanName": "lootrmon",
+          "version": {
+            "id": 7652511,
+            "name": "lootrmon-fabric-1.21.1-0.0.0.3",
+            "updateDate": 1771575561000,
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9",
+              "size": 107470,
+              "path": "mods/lootrmon-fabric-1.21.1-0.0.0.3.jar",
+              "url": "/mods/1405644/7652511/lootrmon-fabric-1.21.1-0.0.0.3.jar"
+            },
+            "installed": 2328,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 3928,
+              "name": "Lootr (Forge & NeoForge)",
+              "gameEntityId": 361276,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1771534800000,
+          "update": 1771534800000,
+          "downloadALL": 5101,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 922979,
+          "name": "Cobblemon Quests",
+          "author": "WinterWolfSV WinterWolfSV",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-quests",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 801021,
+          "pictures": [],
+          "lanName": "cobblemon-quests",
+          "version": {
+            "id": 7257239,
+            "name": "cobblemon_quests-[1.21.1]-fabric-1.2.0",
+            "updateDate": 1763986730000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "fe7624abe1bf1c2995bb10653ea8c5a7609fe65a",
+              "size": 61946,
+              "path": "mods/cobblemon_quests-[1.21.1]-fabric-1.2.0.jar",
+              "url": "/mods/922979/7257239/cobblemon_quests-%5B1.21.1%5D-fabric-1.2.0.jar"
+            },
+            "installed": 6967,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1743195600000,
+          "update": 1743195600000,
+          "downloadALL": 85142,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827350130200,
+          "name": "cobblemon-additions-4.1.6",
+          "favorite": false,
+          "version": {
+            "id": -7827352042400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "293c0fd6354114cd45d2dd8e4e771d48b1d89200",
+              "size": 1961229,
+              "path": "mods/cobblemon-additions-4.1.6.jar",
+              "url": "mods/cobblemon-additions-4.1.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827352083100,
+          "name": "cobblemon-battle-positions-1.1.3",
+          "favorite": false,
+          "version": {
+            "id": -7827352319900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2edbf7224a689b3463327f2970b481fd8e4ceae8",
+              "size": 58572,
+              "path": "mods/cobblemon-battle-positions-1.1.3.jar",
+              "url": "mods/cobblemon-battle-positions-1.1.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827352348800,
+          "name": "cobblemon-journey-mounts-1.7.30-cobbleverse-CF",
+          "favorite": false,
+          "version": {
+            "id": -7827355170000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb",
+              "size": 3508373,
+              "path": "mods/cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar",
+              "url": "mods/cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827355224700,
+          "name": "Cobbreeding-fabric-2.2.0",
+          "favorite": false,
+          "version": {
+            "id": -7827355777900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c6ac6614e3d833665634e9e4dfedc71293cfa757",
+              "size": 474198,
+              "path": "mods/Cobbreeding-fabric-2.2.0.jar",
+              "url": "mods/Cobbreeding-fabric-2.2.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827355878300,
+          "name": "infinite-music-0.4.6",
+          "favorite": false,
+          "version": {
+            "id": -7827356041700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "72ac27231cd80aab7ea509da6694c3696dc4c96a",
+              "size": 45913,
+              "path": "mods/infinite-music-0.4.6.jar",
+              "url": "mods/infinite-music-0.4.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827356105000,
+          "name": "moar-concrete-1.3.1",
+          "favorite": false,
+          "version": {
+            "id": -7827356799400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "541410660ff1198e24b99e007267a7ec256498e2",
+              "size": 777538,
+              "path": "mods/moar-concrete-1.3.1.jar",
+              "url": "mods/moar-concrete-1.3.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827356833700,
+          "name": "nethermap-4.0.0-1.21.1",
+          "favorite": false,
+          "version": {
+            "id": -7827356973500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4a4849b36757a268253a3a87b4a02b60f59816a6",
+              "size": 21464,
+              "path": "mods/nethermap-4.0.0-1.21.1.jar",
+              "url": "mods/nethermap-4.0.0-1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827357014900,
+          "name": "pastureLoot-1.0.5+1.21.1",
+          "favorite": false,
+          "version": {
+            "id": -7827357168300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "cc6bbf60b6a08d5b4f5c6416aa0279d92f761c73",
+              "size": 45871,
+              "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
+              "url": "mods/pastureLoot-1.0.5+1.21.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -7827357266900,
+          "name": "tmcraft-1.4.18+1.7.3",
+          "favorite": false,
+          "version": {
+            "id": -7827359940900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f423155efb2a99370fe838a6603c5f33c947946e",
+              "size": 3360417,
+              "path": "mods/tmcraft-1.4.18+1.7.3.jar",
+              "url": "mods/tmcraft-1.4.18+1.7.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438497,
+          "name": "FTB Teams (Fabric)",
+          "author": "ftb",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844276,
+          "pictures": [],
+          "lanName": "ftb-teams-fabric",
+          "version": {
+            "id": 7369020,
+            "name": "ftb-teams-fabric-2101.1.9",
+            "updateDate": 1766488830000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "a96e1169958eb92939ae67a1beb0aada373cbbbe",
+              "size": 287518,
+              "path": "mods/ftb-teams-fabric-2101.1.9.jar",
+              "url": "/mods/438497/7369020/ftb-teams-fabric-2101.1.9.jar"
+            },
+            "installed": 5069,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2455,
+              "name": "FTB Library (Fabric)",
+              "gameEntityId": 438495,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1775336400000,
+          "update": 1775336400000,
+          "downloadALL": 42596,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438495,
+          "name": "FTB Library (Fabric)",
+          "author": "ftb",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800249,
+          "pictures": [],
+          "lanName": "ftb-gui-library-fabric",
+          "version": {
+            "id": 7746958,
+            "name": "ftb-library-fabric-2101.1.31",
+            "updateDate": 1773323941000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "18538c0a068a254a5dbf953d39d5017393b041d6",
+              "size": 1406585,
+              "path": "mods/ftb-library-fabric-2101.1.31.jar",
+              "url": "/mods/438495/7746958/ftb-library-fabric-2101.1.31.jar"
+            },
+            "installed": 2418,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 632,
+              "name": "Roughly Enough Items FabricForgeNeoForge (REI)",
+              "gameEntityId": 310111,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1773262800000,
+          "update": 1773262800000,
+          "downloadALL": 132360,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438496,
+          "name": "FTB Quests (Fabric)",
+          "author": "latvianmodder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800302,
+          "pictures": [],
+          "lanName": "ftb-quests-fabric",
+          "version": {
+            "id": 7775451,
+            "name": "ftb-quests-fabric-2101.1.23",
+            "updateDate": 1773827953000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "77a354bf1c416a1dc5691257b24d14b22174dbb0",
+              "size": 1464674,
+              "path": "mods/ftb-quests-fabric-2101.1.23.jar",
+              "url": "/mods/438496/7775451/ftb-quests-fabric-2101.1.23.jar"
+            },
+            "installed": 552,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2454,
+              "name": "FTB Teams (Fabric)",
+              "gameEntityId": 438497,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5798,
+              "name": "FTB XMod Compat",
+              "gameEntityId": 889915,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 2455,
+              "name": "FTB Library (Fabric)",
+              "gameEntityId": 438495,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1775336400000,
+          "update": 1775336400000,
+          "downloadALL": 40081,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8304648639499,
+          "name": "cobblemon-alphas-2.2",
+          "favorite": false,
+          "version": {
+            "id": -8304649611000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "26ad77dbff6995cf81c7f0abf71c925793a9dbb6",
+              "size": 919007,
+              "path": "mods/cobblemon-alphas-2.2.jar",
+              "url": "mods/cobblemon-alphas-2.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8304649715199,
+          "name": "lootr-fabric-1.21.1-1.11.36.117",
+          "favorite": false,
+          "version": {
+            "id": -8304650631900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4a56e0ce135cf7c0dd7e5b06f22cbe7ce90c3f87",
+              "size": 1013059,
+              "path": "mods/lootr-fabric-1.21.1-1.11.36.117.jar",
+              "url": "mods/lootr-fabric-1.21.1-1.11.36.117.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8752580665199,
+          "name": "cobble-caf-forms-5.0.0",
+          "favorite": false,
+          "version": {
+            "id": -8752583296100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6ad87cbd0eb23e7a58157b48b4cca9924e66c7b9",
+              "size": 2884487,
+              "path": "mods/cobble-caf-forms-5.0.0.jar",
+              "url": "mods/cobble-caf-forms-5.0.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 686836,
+          "name": "Tectonic",
+          "author": "apollounknowndev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tectonic",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1129430,
+          "pictures": [
+            545758
+          ],
+          "lanName": "tectonic",
+          "version": {
+            "id": 7825474,
+            "name": "tectonic-3.0.21-fabric-21.1",
+            "updateDate": 1774655686000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "503e0fb747447df8a44d4fcfe12fa698cd85ccdc",
+              "size": 326663,
+              "path": "mods/tectonic-3.0.21-fabric-21.1.jar",
+              "url": "/mods/686836/7825474/tectonic-3.0.21-fabric-21.1.jar"
+            },
+            "installed": 183,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 67,
+            "name": "26.1"
+          },
+          "updated": 1774558800000,
+          "update": 1774558800000,
+          "downloadALL": 408547,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 936015,
+          "name": "Lithostitched",
+          "author": "Apollo Apollo SmellyModder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 821372,
+          "pictures": [],
+          "lanName": "lithostitched",
+          "version": {
+            "id": 7731886,
+            "name": "lithostitched-1.6.1-fabric-1.21.1",
+            "updateDate": 1773019584000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "bde8f63f269191c2929a65a41dcdb9242f2fa970",
+              "size": 767226,
+              "path": "mods/lithostitched-1.6.1-fabric-1.21.1.jar",
+              "url": "/mods/936015/7731886/lithostitched-1.6.1-fabric-1.21.1.jar"
+            },
+            "installed": 2013,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1772744400000,
+          "update": 1772744400000,
+          "downloadALL": 325138,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 513688,
+          "name": "Terralith",
+          "author": "starmute",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 821204,
+          "pictures": [],
+          "lanName": "terralith",
+          "version": {
+            "id": 6090387,
+            "name": "_1.21.x_v2.5.8",
+            "updateDate": 1736959525000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085",
+              "size": 3115385,
+              "path": "mods/Terralith_1.21.x_v2.5.8.jar",
+              "url": "/mods/513688/6090387/Terralith_1.21.x_v2.5.8.jar"
+            },
+            "installed": 286955,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6423,
+              "name": "Lithostitched",
+              "gameEntityId": 936015,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1773435600000,
+          "update": 1773435600000,
+          "downloadALL": 2389415,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 393236,
+          "name": "Patchouli (FabricQuilt)",
+          "author": "williewillus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844220,
+          "pictures": [],
+          "lanName": "patchouli-fabric",
+          "version": {
+            "id": 7730941,
+            "name": "Patchouli-1.21.1-93-FABRIC",
+            "updateDate": 1773002993000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "693eb5235ccbcef67569bd62d6c5dd34c4d73459",
+              "size": 861256,
+              "path": "mods/Patchouli-1.21.1-93-FABRIC.jar",
+              "url": "/mods/393236/7730941/Patchouli-1.21.1-93-FABRIC.jar"
+            },
+            "installed": 1572,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 18,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1772917200000,
+          "update": 1772917200000,
+          "downloadALL": 214300,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 850946,
+          "name": "Cobblemon Poképedia Cobblepedia",
+          "author": "VinnyStalck VinnyStalck",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblepedia",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 800879,
+          "pictures": [
+            435951,
+            802981,
+            435952,
+            435953,
+            435954,
+            435955
+          ],
+          "lanName": "cobblepedia",
+          "version": {
+            "id": 7272043,
+            "name": "Cobblepedia-Fabric-0.7.1",
+            "updateDate": 1764356969000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4ed4f7be3f42f1989c8022e6ec46ee8708755ff6",
+              "size": 8276577,
+              "path": "mods/Cobblepedia-Fabric-0.7.1.jar",
+              "url": "/mods/850946/7272043/Cobblepedia-Fabric-0.7.1.jar"
+            },
+            "installed": 7557,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 655,
+              "name": "Patchouli (FabricQuilt)",
+              "gameEntityId": 393236,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1738184400000,
+          "update": 1738184400000,
+          "downloadALL": 137988,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 318449,
+          "name": "Cardinal Components API",
+          "author": "UpcraftLP nerdhubmc",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 800221,
+          "pictures": [],
+          "lanName": "cardinal-components-api",
+          "version": {
+            "id": 7250871,
+            "name": "cardinal-components-api-6.1.3",
+            "updateDate": 1763848602000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
+              "size": 229645,
+              "path": "mods/cardinal-components-api-6.1.3.jar",
+              "url": "/mods/318449/7250871/cardinal-components-api-6.1.3.jar"
+            },
+            "installed": 18824,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 9,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1774299600000,
+          "update": 1774299600000,
+          "downloadALL": 553422,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1465774,
+          "name": "Cosmetic Armor Updated",
+          "author": "Mhaks",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-updated",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1352081,
+          "pictures": [
+            1354186,
+            1354185
+          ],
+          "lanName": "cosmetic-armor-updated",
+          "version": {
+            "id": 7645086,
+            "name": "CosmeticArmor+1.21.1-1.7.0",
+            "updateDate": 1771438860000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "1728c4831129d0e1c95edc609951657cc4cb3273",
+              "size": 18587,
+              "path": "mods/CosmeticArmor%2B1.21.1-1.7.0.jar",
+              "url": "/mods/1465774/7645086/CosmeticArmor%252B1.21.1-1.7.0.jar"
+            },
+            "installed": 60,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 825,
+              "name": "Cardinal Components API",
+              "gameEntityId": 318449,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1771362000000,
+          "update": 1771362000000,
+          "downloadALL": 217,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 631990,
+          "name": "Simple Hats",
+          "author": "fonnymunkey",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/simplehats",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800534,
+          "pictures": [
+            326985,
+            327862,
+            327859,
+            327861,
+            327863,
+            327860,
+            636570
+          ],
+          "lanName": "simplehats",
+          "version": {
+            "id": 5970517,
+            "name": "simplehats-fabric-1.21.1-0.4.0",
+            "updateDate": 1733554344000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "f5ccce6c497bf8376b2c56f04d5e14c52bb72cb1",
+              "size": 1410902,
+              "path": "mods/simplehats-fabric-1.21.1-0.4.0.jar",
+              "url": "/mods/631990/5970517/simplehats-fabric-1.21.1-0.4.0.jar"
+            },
+            "installed": 1690,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 7158,
+              "name": "Accessories",
+              "gameEntityId": 938917,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1770584400000,
+          "update": 1770584400000,
+          "downloadALL": 76230,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1027281,
+          "name": "Poke Clothing",
+          "author": "Goncs",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/poke-clothing",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1347275,
+          "pictures": [
+            1347402,
+            1347400,
+            1347401,
+            1347403,
+            1353489
+          ],
+          "lanName": "poke-clothing",
+          "version": {
+            "id": 7692326,
+            "name": "poke-clothing-1.1.2",
+            "updateDate": 1772307487000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "06c460f4a6dae6f6480d559df913583d5f827bb0",
+              "size": 214816,
+              "path": "mods/poke-clothing-1.1.2.jar",
+              "url": "/mods/1027281/7692326/poke-clothing-1.1.2.jar"
+            },
+            "installed": 103,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1772226000000,
+          "update": 1772226000000,
+          "downloadALL": 1605,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 990998,
+          "name": "CobblemonRider",
+          "author": "XTRM1NATI0N",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblemonrider",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 801410,
+          "pictures": [],
+          "lanName": "cobblemonrider",
+          "version": {
+            "id": 6279881,
+            "name": "cobblemonridingfabric-1.3.7",
+            "updateDate": 1741448008000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "50b1cedacc86c0ffac31c58fb195274dec19d641",
+              "size": 57492,
+              "path": "mods/cobblemonridingfabric-1.3.7.jar",
+              "url": "/mods/990998/6279881/cobblemonridingfabric-1.3.7.jar"
+            },
+            "installed": 28689,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1741381200000,
+          "update": 1741381200000,
+          "downloadALL": 116814,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1295453,
+          "name": "Cobblemon Shiny Rarities",
+          "author": "thatrobin3001",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-shiny-rarities",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1340713,
+          "pictures": [
+            1341001,
+            1340993,
+            1341004,
+            1340996,
+            1340997,
+            1341003,
+            1341002,
+            1341000,
+            1340990,
+            1340992,
+            1340991,
+            1340995,
+            1341006,
+            1340999,
+            1340994,
+            1340998,
+            1341005,
+            1340989
+          ],
+          "lanName": "cobblemon-shiny-rarities",
+          "version": {
+            "id": 7767295,
+            "name": "cobblemon_shiny_rarities-0.2.1",
+            "updateDate": 1773676364000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "fc971c97c96a6979d605028ba43b9c411025f275",
+              "size": 12587812,
+              "path": "mods/cobblemon_shiny_rarities-0.2.1.jar",
+              "url": "/mods/1295453/7767295/cobblemon_shiny_rarities-0.2.1.jar"
+            },
+            "installed": 1490,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1773608400000,
+          "update": 1773608400000,
+          "downloadALL": 2459,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": 1173260,
+          "name": "Cobblemon 3D Poke Rods",
+          "favorite": false,
+          "version": {
+            "id": 6060565,
+            "updateDate": 1736193028000,
+            "metadata": {
+              "sha1": "0ad3995b7eb7a21c76d58f9bc201e201597d6284",
+              "size": 162299,
+              "path": "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip",
+              "url": "/resourcepacks/1173260/6060565/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1017383,
+          "name": "Fully Hisuian Starters (Cobblemon)",
+          "favorite": false,
+          "version": {
+            "id": 7550982,
+            "updateDate": 1769787165000,
+            "metadata": {
+              "sha1": "487a664fa6fa20ca44c6bee271737f4171d2ff8f",
+              "size": 202681,
+              "path": "resourcepacks/Fully%20Hisuian%20Starters%201.1.1.zip",
+              "url": "/resourcepacks/1017383/7550982/Fully%2520Hisuian%2520Starters%25201.1.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1258311,
+          "name": "Complete Cobblemon Collection",
+          "favorite": false,
+          "version": {
+            "id": 7476026,
+            "updateDate": 1768665838000,
+            "metadata": {
+              "sha1": "a0eb6eddff6df50547f6ca01d5faf29d284f9938",
+              "size": 8483281,
+              "path": "resourcepacks/CCCC-1.7.2.zip",
+              "url": "/resourcepacks/1258311/7476026/CCCC-1.7.2.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 958737,
+          "name": "E19 - Cobblemon Minimap Icons",
+          "favorite": false,
+          "version": {
+            "id": 7585194,
+            "updateDate": 1770398757000,
+            "metadata": {
+              "sha1": "61ef3676247d07bd776de24e93df18da15222d18",
+              "size": 19200415,
+              "path": "resourcepacks/E19%20Cobblemon%20Minimap%20Icons.zip",
+              "url": "/resourcepacks/958737/7585194/E19%2520Cobblemon%2520Minimap%2520Icons.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1024881,
+          "name": "Cobblemon Classic Grass Pack",
+          "favorite": false,
+          "version": {
+            "id": 5971658,
+            "updateDate": 1733579752000,
+            "metadata": {
+              "sha1": "6ec5ec57ac000fac4c0104f22f268aade5a804ae",
+              "size": 7363,
+              "path": "resourcepacks/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
+              "url": "/resourcepacks/1024881/5971658/Cobblemon%20Classic%20Grass%20Pack%20v1.0%20MC1.21.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 990406,
+          "name": "Fresh Moves",
+          "favorite": false,
+          "version": {
+            "id": 6105672,
+            "updateDate": 1737350267000,
+            "metadata": {
+              "sha1": "362e06d72658326bda991b586582ad8aae8e4841",
+              "size": 323619,
+              "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+              "url": "/resourcepacks/990406/6105672/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 860898,
+          "name": "Cobblemon Interface",
+          "favorite": false,
+          "version": {
+            "id": 7220886,
+            "updateDate": 1763126576000,
+            "metadata": {
+              "sha1": "b49b9b7692032e49d1815a0562c1f9dc4016aa6f",
+              "size": 14102236,
+              "path": "resourcepacks/Cobblemon%20Interface%20v1.6.0.zip",
+              "url": "/resourcepacks/860898/7220886/Cobblemon%2520Interface%2520v1.6.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 453763,
+          "name": "Fresh Animations",
+          "favorite": false,
+          "version": {
+            "id": 7352023,
+            "updateDate": 1766109125000,
+            "metadata": {
+              "sha1": "b5fbbb0cf6609527d6a017e9d8c3116ec1f9fc5c",
+              "size": 856240,
+              "path": "resourcepacks/FreshAnimations_v1.10.3.zip",
+              "url": "/resourcepacks/453763/7352023/FreshAnimations_v1.10.3.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 989454,
+          "name": "Cobblemon Interface Modded",
+          "favorite": false,
+          "version": {
+            "id": 7057797,
+            "updateDate": 1759413674000,
+            "metadata": {
+              "sha1": "8eacf34de75cbf634ca2e0186391a00f23a893bc",
+              "size": 1035366,
+              "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",
+              "url": "/resourcepacks/989454/7057797/Cobblemon%20Interface%20Modded%20v1.9.4.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1159273,
+          "name": "Icon Xaero's X FreshAnimations",
+          "favorite": false,
+          "version": {
+            "id": 7402610,
+            "updateDate": 1767234193000,
+            "metadata": {
+              "sha1": "af2aa46c148cbf78ccc5003eae8108a795aa45a2",
+              "size": 837715,
+              "path": "resourcepacks/Icon%20Fresh%200.4.zip",
+              "url": "/resourcepacks/1159273/7402610/Icon%2520Fresh%25200.4.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 990594,
+          "name": "Comforts Modernized",
+          "favorite": false,
+          "version": {
+            "id": 5876060,
+            "updateDate": 1730756522000,
+            "metadata": {
+              "sha1": "07faca91336d11244a57d6cc9c035f40f18ba880",
+              "size": 75089,
+              "path": "resourcepacks/Comforts Modernized - V1.1.zip",
+              "url": "/resourcepacks/990594/5876060/Comforts%20Modernized%20-%20V1.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8475804882200,
+          "name": "CCCC-1.7.3",
+          "favorite": false,
+          "version": {
+            "id": -8475822849200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ec146676b46edb045a7d72b19fb707749b551ccf",
+              "size": 8514870,
+              "path": "resourcepacks/CCCC-1.7.3.zip",
+              "url": "resourcepacks/CCCC-1.7.3.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8475822875300,
+          "name": "COBBLEVERSE RCTmod RP",
+          "favorite": false,
+          "version": {
+            "id": -8475834818300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "de695b3cd9a61e5db7a9c3fc82bf69ec7deecc1a",
+              "size": 5214811,
+              "path": "resourcepacks/COBBLEVERSE RCTmod RP.zip",
+              "url": "resourcepacks/COBBLEVERSE RCTmod RP.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8475834843299,
+          "name": "COBBLEVERSE RP [CF]",
+          "favorite": false,
+          "version": {
+            "id": -8475843223700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4dac223a910f63803e78ba7e1bfed2e586889a00",
+              "size": 1275070,
+              "path": "resourcepacks/COBBLEVERSE RP [CF].zip",
+              "url": "resourcepacks/COBBLEVERSE RP [CF].zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8475843243900,
+          "name": "COBBLEVERSE Soundtrack",
+          "favorite": false,
+          "version": {
+            "id": -8475963029400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b3a3d35c4e49e2dfee9c752b6287dcf107020708",
+              "size": 148874591,
+              "path": "resourcepacks/COBBLEVERSE Soundtrack.zip",
+              "url": "resourcepacks/COBBLEVERSE Soundtrack.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -8475963054300,
+          "name": "CurseForge RP",
+          "favorite": false,
+          "version": {
+            "id": -8475971527800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e35dbdce2019b23ac4e67152762d12f476124da9",
+              "size": 35530,
+              "path": "resourcepacks/CurseForge RP.zip",
+              "url": "resourcepacks/CurseForge RP.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1162239,
+          "name": "Cobblemon Anime Poké Ball SFX Pack",
+          "author": "WizzStar",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-anime-poke-ball-sfx-pack",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 41,
+              "name": "sixteen_x",
+              "shortName": "16x",
+              "nesting": 0
+            }
+          ],
+          "picture": 986770,
+          "pictures": [],
+          "lanName": "cobblemon-anime-poke-ball-sfx-pack",
+          "version": {
+            "id": 6043383,
+            "name": "Cobblemon Anime Poké ball SFX Pack v1.1 MC1.21.1",
+            "updateDate": 1735757967000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "e8bc31a7a13ba13a3f3b51ba59bdce757687aa58",
+              "size": 980292,
+              "path": "resourcepacks/Cobblemon Anime Poké ball SFX Pack v1.1 MC1.21.1.zip",
+              "url": "/resourcepacks/1162239/6043383/Cobblemon%20Anime%20Pok%C3%A9%20ball%20SFX%20Pack%20v1.1%20MC1.21.1.zip"
+            },
+            "installed": 9497,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1735678800000,
+          "update": 1735678800000,
+          "downloadALL": 11392,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1420645,
+          "name": "Cobblemon 3D Pokenavs",
+          "author": "imBL4CK_",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-3d-pokenavs",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 50,
+              "name": "modern",
+              "shortName": "modern",
+              "nesting": 0
+            },
+            {
+              "id": 41,
+              "name": "sixteen_x",
+              "shortName": "16x",
+              "nesting": 0
+            }
+          ],
+          "picture": 1295921,
+          "pictures": [
+            1295991,
+            1295995,
+            1295996,
+            1295993,
+            1295994,
+            1295992
+          ],
+          "lanName": "cobblemon-3d-pokenavs",
+          "version": {
+            "id": 7417048,
+            "name": "iB - 3D Cobblenav-release-4",
+            "updateDate": 1767541516000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4083283a0c861699a493a4913f3632e38b6ad0e8",
+              "size": 78088,
+              "path": "resourcepacks/iB%20-%203D%20Cobblenav-release-4.zip",
+              "url": "/resourcepacks/1420645/7417048/iB%2520-%25203D%2520Cobblenav-release-4.zip"
+            },
+            "installed": 888,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 16526,
+              "name": "Cobblemon Pokenav",
+              "gameEntityId": 976014,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 16525,
+              "name": "Pommel - Held Item Models",
+              "gameEntityId": 1066931,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1767474000000,
+          "update": 1767474000000,
+          "downloadALL": 910,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 862925,
+          "name": "Cobblemon Advancement Plaques",
+          "author": "EssosMc EssosMc AffinityStudios",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-advancement-plaques",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 42,
+              "name": "thirty_two_x",
+              "shortName": "32x",
+              "nesting": 0
+            }
+          ],
+          "picture": 837018,
+          "pictures": [
+            1321759,
+            1321761,
+            1321760
+          ],
+          "lanName": "cobblemon-advancement-plaques",
+          "version": {
+            "id": 7253285,
+            "name": "[1.0.2]",
+            "updateDate": 1763902602000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "b5eb833792be3a3004e854e8b8f7d28951dae13d",
+              "size": 21842,
+              "path": "resourcepacks/CobblemonAdvancementPlaques-%5B1.0.2%5D.zip",
+              "url": "/resourcepacks/862925/7253285/CobblemonAdvancementPlaques-%255B1.0.2%255D.zip"
+            },
+            "installed": 1030,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1763845200000,
+          "update": 1763845200000,
+          "downloadALL": 3642,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1029981,
+          "name": "Cobblemon Shinies Enhanced",
+          "author": "moxg",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-shinies-enhanced",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 41,
+              "name": "sixteen_x",
+              "shortName": "16x",
+              "nesting": 0
+            }
+          ],
+          "picture": 837899,
+          "pictures": [
+            1321287,
+            1321284,
+            1321290,
+            1321292,
+            1321291,
+            1321294,
+            1321283,
+            1321289,
+            1321286,
+            1321285,
+            1321288,
+            1321293
+          ],
+          "lanName": "cobblemon-shinies-enhanced",
+          "version": {
+            "id": 7292117,
+            "name": "CobblemonShinyEnhanced",
+            "updateDate": 1764813174000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "af85aaa61400f5b0af0c74bcceeb7b58cf64bdd8",
+              "size": 82915,
+              "path": "resourcepacks/CobblemonShinyEnhanced.zip",
+              "url": "/resourcepacks/1029981/7292117/CobblemonShinyEnhanced.zip"
+            },
+            "installed": 43,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1764795600000,
+          "update": 1764795600000,
+          "downloadALL": 196,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1405530,
+          "name": "Cobblemon Better Shiny Mon",
+          "author": "FrozenBanditt",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-better-shiny-mon",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 45,
+              "name": "two_fifty_six_x",
+              "shortName": "256x",
+              "nesting": 0
+            }
+          ],
+          "picture": 1299277,
+          "pictures": [
+            1291902,
+            1299347,
+            1283033,
+            1279109,
+            1279122,
+            1283035,
+            1279116,
+            1279118,
+            1279121,
+            1279108,
+            1279110,
+            1283037,
+            1299338,
+            1299349,
+            1279120,
+            1279112,
+            1299343,
+            1283039,
+            1283038,
+            1299346,
+            1283034,
+            1299340,
+            1283040,
+            1299352,
+            1279106,
+            1279113,
+            1279124,
+            1299350,
+            1283036,
+            1279119,
+            1279105,
+            1299351,
+            1299348,
+            1299345,
+            1279111,
+            1299344,
+            1299337,
+            1299341,
+            1299336,
+            1279107,
+            1299339,
+            1279115,
+            1299353,
+            1279103,
+            1291904,
+            1291903,
+            1279123,
+            1299342,
+            1279104,
+            1279114
+          ],
+          "lanName": "cobblemon-better-shiny-mon",
+          "version": {
+            "id": 7431615,
+            "name": "BetterShinyMon v5",
+            "updateDate": 1767827124000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "c4593ef51bc002f0493702770df4b13259124afb",
+              "size": 959247,
+              "path": "resourcepacks/BetterShinyMon%20v5.zip",
+              "url": "/resourcepacks/1405530/7431615/BetterShinyMon%2520v5.zip"
+            },
+            "installed": 1223,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 13598,
+              "name": "Cobblemon Mega Showdown",
+              "gameEntityId": 1189523,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 4551,
+              "name": "Cobblemon",
+              "gameEntityId": 687131,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1767733200000,
+          "update": 1767733200000,
+          "downloadALL": 1298,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1085471,
+          "name": "Pokemans",
+          "author": "pandalistics",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/pokemans",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 47,
+              "name": "animated",
+              "shortName": "animated",
+              "nesting": 0
+            }
+          ],
+          "picture": 1059918,
+          "pictures": [
+            914982,
+            914976,
+            914978,
+            1174905,
+            914981,
+            897319,
+            914979,
+            914983,
+            914980,
+            914975,
+            1174904,
+            897317,
+            914974,
+            897320,
+            914977
+          ],
+          "lanName": "pokemans",
+          "version": {
+            "id": 6805484,
+            "name": "pokemans_v15_toxicCloud",
+            "updateDate": 1753328121000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "2714c3c7358559d01def35df98a8e3c9484fd3cf",
+              "size": 3837996,
+              "path": "resourcepacks/pokemans_v15_toxicCloud.zip",
+              "url": "/resourcepacks/1085471/6805484/pokemans_v15_toxicCloud.zip"
+            },
+            "installed": 1659,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1753304400000,
+          "update": 1753304400000,
+          "downloadALL": 4990,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "maps": [],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 385587,
+          "name": "Complementary Shaders v4",
+          "favorite": false,
+          "version": {
+            "id": 7574260,
+            "updateDate": 1770192730000,
+            "metadata": {
+              "sha1": "1c4200fb717d592eae429a4f5b776ef5e7ec4096",
+              "size": 515503,
+              "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+              "url": "/shaderpacks/385587/7574260/ComplementaryUnbound_r5.7.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "additionalFile": {
+        "sha1": "5e286f155f41a9fc1bbde61961418784d8df4e0d",
+        "size": 201966650,
+        "path": "COBBLEVERSE-1.7.30-CF.zip",
+        "url": "/modpacks/1210677/7687225/COBBLEVERSE-1.7.30-CF.zip"
+      },
+      "forgeVersionDTO": {
+        "id": 10504,
+        "name": "0.18.4"
+      },
+      "gameVersionDTO": {
+        "id": 53,
+        "name": "1.21.1"
+      },
+      "minecraftVersionName": {
+        "id": 10504,
+        "name": "0.18.4"
+      },
+      "id": 7687225,
+      "name": "COBBLEVERSE-1.7.30-CF",
+      "available": false,
+      "remove": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 2,
+          "name": "fabric"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.21.1",
+  "skinVersion": false
+}

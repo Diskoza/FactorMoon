@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "poke_clothing"
+version = "1.1.2-neoforge-port.1"
+displayName = "Poke Clothing"
+description = "NeoForge base port of Poke Clothing for FactorMoon. Clothing items, armor materials, armor pieces, the tailoring station block, assets, tags, and safe vanilla recipes are included."
+authors = "dagoncs, FactorMoon port"
+
+[[dependencies.poke_clothing]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.poke_clothing]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

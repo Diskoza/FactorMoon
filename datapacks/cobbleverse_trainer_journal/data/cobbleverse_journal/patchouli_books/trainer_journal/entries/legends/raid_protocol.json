@@ -1,0 +1,16 @@
+{
+  "name": "Рейдовый протокол",
+  "category": "cobbleverse_journal:legends",
+  "icon": "cobblemonraiddens:raid_pouch",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Перед рейдом проверь три вещи: команда лечена, в сумке есть Revive, а Ultra Ball лежат отдельно от обычных. Рейдовый покемон редко прощает неподготовленность."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Raid Shard - это не мусорный лут. Храни его в отдельном ящике или Raid Pouch. Позже кристаллы и осколки станут валютой твоего midgame."
+    }
+  ]
+}

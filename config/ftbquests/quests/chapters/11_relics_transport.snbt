@@ -1,0 +1,201 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "11_relics_transport"
+	group: ""
+	id: "1E17070F9660AF16"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1155FE0328789E29"
+			rewards: [
+				{
+					count: 6
+					id: "0CB2110100002001"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0CB2110100002002"
+					type: "xp"
+					xp: 600
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "0CB2110100001001"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "5D6D77BCEDACF011"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "0CB2110200002001"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0CB2110200002002"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "0CB2110200001001"
+				item: { count: 1, id: "artifacts:umbrella" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "15D8F1FBE65B6159"
+			rewards: [
+				{
+					count: 6
+					id: "0CB2110300002001"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0CB2110300002002"
+					item: {
+						count: 1
+						id: "minecraft:map"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "0CB2110300001001"
+				item: { count: 1, id: "smallships:oak_cog" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "3534507B2A728AEB"
+			rewards: [
+				{
+					count: 12
+					id: "0CB2110400002001"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "0CB2110400002002"
+					type: "xp"
+					xp: 800
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "0CB2110400001001"
+				item: { components: { "ftbquests:missing_item": "niftycarts:supply_cart" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "2B400C1A9BFC1325"
+			optional: true
+			rewards: [
+				{
+					count: 8
+					id: "0CB2110500002001"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0CB2110500002002"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "0CB2110500001001"
+				item: { count: 1, id: "immersive_aircraft:airship" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "1E5708C3EFBCEBC5"
+			optional: true
+			rewards: [
+				{
+					count: 8
+					id: "0CB2110600002001"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0CB2110600002002"
+					type: "xp"
+					xp: 900
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "0CB2110600001001"
+				item: { count: 1, id: "cobblemon_wonder_trade:wonder_trade_station" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			id: "0528B6AFFAA8E7E5"
+			optional: true
+			rewards: [{
+				id: "0CB2110700002001"
+				item: {
+					count: 1
+					id: "minecraft:nether_star"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0CB2110700001001"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+	]
+}
