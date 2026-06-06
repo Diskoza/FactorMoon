@@ -88,6 +88,16 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - Replaced the temporary CobbleCuisine coffee quest item with `minecraft:honey_bottle` until CobbleCuisine is ported.
 - Added `QUESTS_FILE_GUIDE.md` plus `_factor_moon_reports/ftbquests_active_structure.csv` to document the active quest structure and file-edit workflow.
 
+## 2026-06-06 Particle Rain Resource Reload Fix
+
+- Fixed the next client crash reported as `Rendering overlay`.
+- The visible stack entered `NoChatReports` while Minecraft tried to show a resource-pack recovery toast, but the recovery reason was a `Particle Rain` null config read:
+  - `Cannot read field "compat" because "pigcart.particlerain.config.ConfigManager.config" is null`
+  - `SpriteLoaderMixin.registerWeatherParticleSprites`
+- Patched `particlerain-4.0.0-beta.10+1.21.1-neoforge.jar` locally with `pigcart.particlerain.patch.ConfigGuard`.
+- The patched mixin now asks `ConfigGuard.waterTint()` instead of reading `ConfigManager.config.compat.waterTint` directly, so an early resource reload can continue until Particle Rain has loaded its config.
+- Added the reproducible patch source/script under `_factor_moon_reports/patch_sources/particlerain_null_config_guard`.
+
 ## Current State
 
 - Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.
