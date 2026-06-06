@@ -100,6 +100,16 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - Rebuilt the helper class with `javac --release 21` after the first local patch was accidentally compiled as Java 25 bytecode, which Minecraft's Java 21 runtime cannot load.
 - Extended the same guard to `TextureUtil.getRippleResolution`, covering the next early reload crash where `ConfigManager.config.ripple` was still null.
 
+## 2026-06-07 Cobblenav Registry Freeze Fix
+
+- Fixed the next `Rendering overlay` crash where the visible stack entered `NoChatReports`, but the real resource reload failure came from Cobblenav:
+  - `ModelBakery.handler$caa000$cobblenav$injectInit`
+  - `CobblenavItems.<clinit>`
+  - `IllegalStateException: Registry is already frozen`
+- Patched `cobblenav-neoforge-2.3.3.jar` locally so `CobblenavItems.INSTANCE` is initialized at the start of `CobblenavNeoForge.registerItems()`, before the item registry is frozen.
+- Kept Cobblenav's `ModelBakeryMixin` active, preserving its special model-loading behavior instead of disabling the client mixin.
+- Added the reproducible patch source/script under `_factor_moon_reports/patch_sources/cobblenav_early_items_init_patch`.
+
 ## Current State
 
 - Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.

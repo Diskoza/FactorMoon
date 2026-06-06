@@ -1,8 +1,8 @@
 ﻿# Active Mods
 
-Generated at: 2026-06-06T15:40:21
+Generated at: 2026-06-07T00:49:33
 
-Active mod jar count: 482
+Active mod jar count: 484
 
 | File | Size | SHA-1 |
 |---|---:|---|
@@ -96,13 +96,15 @@ Active mod jar count: 482
 | `cobblemon_wonder_trade-neoforge-1.2.2.jar` | 2366628 | `17a2e6474353baf13329ba87b1e3356d4f96bbe4` |
 | `cobblemon-alphas-2.2.jar` | 919007 | `26ad77dbff6995cf81c7f0abf71c925793a9dbb6` |
 | `cobblemon-battle-extras-neoforge-1.13.45.jar` | 1651388 | `eb446be193bdd4981d16c86bb40410be3f0cb693` |
+| `cobblemon-battle-positions-1.1.3-factormoon-connector.jar` | 57263 | `92db1287cc6fd9a59df7517a1b7f1d82ac6f088a` |
 | `cobblemon-extra-ride-compat-neoforge-0.1.1.jar` | 16307 | `5e402f799447b5b806d70a92118ff3935e980891` |
+| `cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar` | 367654 | `4fc845cd25890164d000d11f24dbbecebd8df98a` |
 | `cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar` | 3508373 | `8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb` |
 | `Cobblemon-neoforge-1.7.3+1.21.1.jar` | 128748941 | `580ea363bbc391c98e548962a47c683155522f38` |
 | `cobblemonopponents-neoforge-1.7.0.jar` | 25720503 | `3fcbd47c3308be3855cebed85d3d4fc6fe924fce` |
 | `cobblemonraiddens-neoforge-0.11.1+1.21.1.jar` | 2710913 | `f971302251cb5a3310602a5a6fcf41dfc781ddad` |
 | `Cobblemon-TM-neoforge-1.3.jar` | 54100 | `a850f0677e8b11a8b38b10aa68e25422a2cc809d` |
-| `cobblenav-neoforge-2.3.3.jar` | 1098652 | `329349ecd8dd08130d967a4706374571cf193119` |
+| `cobblenav-neoforge-2.3.3.jar` | 1084431 | `85c5dd7617c7031e43271ccab92c55c6a19cc6e2` |
 | `Cobblepedia-NeoForge-0.7.1.jar` | 8276599 | `c5f15ee58c16c7c54c505ec8f005449f3f145f7d` |
 | `cobbleversebadges-neoforge-1.3-port.1.jar` | 76349 | `c6c41860befd3604b6599809960b41feed0955fc` |
 | `Cobbreeding-neoforge-2.2.1.jar` | 467675 | `a0843ba354d627c1062332034e1f373884003b23` |
