@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.007B547630FF0478.title: "Theurgy"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -75,7 +75,7 @@
 	chapter_group.6614EE2378B8AFB9.title: "Ресурси"
 	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
-	file.0000000000000001.title: "All The Mods 10"
+	file.0000000000000001.title: "FactorMoon"
 	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
 	quest.00075A5F9AC120ED.quest_subtitle: "Always Required"
 	quest.000C1ECD781F3F81.quest_desc: ["&2&lNature&r is made for using the Earth to our advantage by &2Poisoning&r and &2Weakening&r our enemies! Just like what Big Corporations do to the Earth itself! \\n&2&lNature's&r Focus Material is &2Poisonous Potato&r. \\n\\nThe &2Scrolls&r are &aLight Green&r with &2Dark Green&r text."]
@@ -1284,7 +1284,7 @@
 	quest.122282C288EAD366.quest_subtitle: "&f6 &cшкоди"
 	quest.12256A90B1CE3F90.quest_desc: ["Так, можна використовувати кар'єри чи Void Miners для видобутку руд, але якщо хочете найкращу автоматизацію &bМістичних кристалів&r — потрібні &6&lБджоли&r! \\n&bДіамантові бджоли&r, якщо точніше. Просто нагодуйте &bДіамантову бджолу&r &bБлоком містичних кристалів&r — і вона стане &bБджолою Аркануса&r! \\n\\n&bБджоли Аркануса&r також потребують &bБлоки містичних кристалів&r як квітучі блоки, тоді вони вироблятимуть &bСоти Аркануса&r! З них можна отримати &bМістичні кристали&r."]
 	quest.12256A90B1CE3F90.title: "Автоматизація &bМістичних кристалів"
-	quest.12274935C3D20C74.quest_desc: ["Як і всі поради з будівництва у &6&lATM10&r, я не можу навчити, як оформити твій &5потяг&r... але можу дати кілька порад! \\n\\nЄ безліч різних будівельних блоків, багато &6&lCreate&r корпусів виглядають стильно, а бетон додає сучасності. \\n\\nМожна використовувати двері та люки у &5потязі&r — вони працюють навіть під час руху. \\n\\nЯк зробити гарно? Сходи, плити, люки додають форми, а маховик чи &dшестерні&r — округлості. \\n\\nМожна навіть поставити багаття, щоб зробити паровий двигун!"]
+	quest.12274935C3D20C74.quest_desc: ["Як і всі поради з будівництва у &6&lFactorMoon&r, я не можу навчити, як оформити твій &5потяг&r... але можу дати кілька порад! \\n\\nЄ безліч різних будівельних блоків, багато &6&lCreate&r корпусів виглядають стильно, а бетон додає сучасності. \\n\\nМожна використовувати двері та люки у &5потязі&r — вони працюють навіть під час руху. \\n\\nЯк зробити гарно? Сходи, плити, люки додають форми, а маховик чи &dшестерні&r — округлості. \\n\\nМожна навіть поставити багаття, щоб зробити паровий двигун!"]
 	quest.12274935C3D20C74.title: "Оздоблення &5потяга"
 	quest.122E6E7CABCB17E7.quest_desc: ["З якоїсь причини кріпери бояться котів. Вони ще й настільки дурні, що вірять, ніби твої &7Капці&r — це справжні коти. \\n\\nУсі кріпери тікатимуть від тебе й не будуть агресивними, якщо ти вдягнеш ці &7Капці&r. \\n\\nТакож вони видають котячі звуки, коли ти отримуєш шкоду! (Не гарантуємо, що ти завжди приземлишся на ноги)."]
 	quest.122E6E7CABCB17E7.quest_subtitle: "Ноги"
@@ -2616,7 +2616,7 @@
 	]
 	quest.264BFB8C5F79616F.quest_desc: ["Placing a Snow Nest in a snowy biome will lure in a Sweat Bee."]
 	quest.264BFB8C5F79616F.quest_subtitle: "Lures the Sweat Bee in Cold Biomes"
-	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in ATM10 only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
+	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in FactorMoon only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
 	quest.2664388EBA1E8F90.quest_subtitle: "&f8 &cшкоди"
 	quest.268309AF3C0453C9.quest_desc: [
 		"The next thing we will be making is coils for a special type of furnace. "
@@ -3666,7 +3666,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
 	]
 	quest.36926B5EBFF6E55A.title: "Making &cMercury"
-	quest.3697AAF8F281B247.quest_desc: ["Це складно! Тож слухай уважно! \\n1. Спочатку будуємо сам &bпаровий двигун&r. &bРідинні резервуари&r визначають, скільки &9води&r можна зберігати, і рівень двигуна. \\n\\nДалі просто приєднай &bпаровий двигун&r до &bрідинних резервуарів&r — він стане &bпарогенератором&r. Потім постав &8вал&r на &bпаровий двигун&r, щоб отримати механічну руку, яка передаватиме &dсилу обертання&r. \\n\\n2. Джерело тепла. Потрібно розмістити &cджерело тепла&r під &bрідинними резервуарами&r, щоб нагрівати &9воду&r. Є кілька варіантів: вогонь, багаття, лава, магма, але &cпальники пломеня&r — найкращі! \\n\\nЧим краще &cджерело тепла&r, тим більше навантаження! Тож годуй &cпальники пломеня&r &cтортами пломеня&r — і буде потужність! \\n\\n3. &9Вода&r. Це паливо для &bпаровика&r — без води не буде пари. \\n\\nЯк подавати &9воду&r — вирішуй сам, але для &6&lATM10&r рекомендую умивальник і &9&lID&r!"]
+	quest.3697AAF8F281B247.quest_desc: ["Це складно! Тож слухай уважно! \\n1. Спочатку будуємо сам &bпаровий двигун&r. &bРідинні резервуари&r визначають, скільки &9води&r можна зберігати, і рівень двигуна. \\n\\nДалі просто приєднай &bпаровий двигун&r до &bрідинних резервуарів&r — він стане &bпарогенератором&r. Потім постав &8вал&r на &bпаровий двигун&r, щоб отримати механічну руку, яка передаватиме &dсилу обертання&r. \\n\\n2. Джерело тепла. Потрібно розмістити &cджерело тепла&r під &bрідинними резервуарами&r, щоб нагрівати &9воду&r. Є кілька варіантів: вогонь, багаття, лава, магма, але &cпальники пломеня&r — найкращі! \\n\\nЧим краще &cджерело тепла&r, тим більше навантаження! Тож годуй &cпальники пломеня&r &cтортами пломеня&r — і буде потужність! \\n\\n3. &9Вода&r. Це паливо для &bпаровика&r — без води не буде пари. \\n\\nЯк подавати &9воду&r — вирішуй сам, але для &6&lFactorMoon&r рекомендую умивальник і &9&lID&r!"]
 	quest.3697AAF8F281B247.title: "&bПаровий двигун"
 	quest.369D3AF332181DA8.quest_desc: ["The Stone Nest can be placed in any overworld biome to lure in a Mason Bee or Digger Bee."]
 	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees in any Overworld Biome"
@@ -4002,8 +4002,8 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
 	quest.3BB3AA6C29285837.quest_desc: ["Ефекти:\\n\\n - Поглинання II (3:00)\\n - Швидкість II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Прудентієве яблуко"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 — це всеохопна збірка, яка дозволяє досліджувати світ модифікованого Minecraft у власному стилі!\\n\\nЯкщо у вас виникли питання чи проблеми, приєднуйтесь до Discord ATM!"]
-	quest.3BC0A50886A3222B.title: "&dЛаскаво просимо до All The Mods 10!"
+	quest.3BC0A50886A3222B.quest_desc: ["FactorMoon — це всеохопна збірка, яка дозволяє досліджувати світ модифікованого Minecraft у власному стилі!\\n\\nЯкщо у вас виникли питання чи проблеми, приєднуйтесь до Discord ATM!"]
+	quest.3BC0A50886A3222B.title: "&dЛаскаво просимо до FactorMoon!"
 	quest.3BC94B0B922C0708.quest_desc: ["Це інгредієнти для майстрування речей, які займаються імпортом — предметів, рідин чи енергії."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.3BD73FEAE853D350.quest_desc: ["Дратує, як повільно рухатись по &bльоду&r без човна? Мене теж! &bКовзани&r це змінюють — ви розганяєтесь на &bльоду&r, коли вдягнені &bКовзани&r. Їх можна покращити для ще більшого прискорення! \\n \\nПісля покращення відкривається друга здібність: ви можете завдавати шкоди мобам, врізаючись у них на &bКовзанах&r."]
@@ -4044,7 +4044,7 @@
 	quest.3C8D9278B81BB37A.title: "&eПокращення швидкості"
 	quest.3C9539083BCC145C.quest_desc: ["Бджоли менрілу можна використати для автоматизації отримання шматків кристалізованого менрілу."]
 	quest.3C9539083BCC145C.quest_subtitle: "Автоматизація менрілу"
-	quest.3C99017FD32B6DE2.quest_desc: ["&eЛатунні корпуси&r виготовляються так само, як &8андезитові&r і &cмідні корпуси&r. Просто приклади &eпредмет&r до очищеної деревини. \\n\\nАле оскільки &eлатунні корпуси&r дають нам найпотужнішу &6техніку&r, отримати їх складніше, ніж &8андезитові&r чи &cмідні&r. \\n\\nНа щастя, це &6&lATM10&r, тож &eлатунь&r можна зробити багатьма способами! \\n\\nАле у стилі &6&lCreate&r — кинь &cмідний злиток&r і &7цинковий злиток&r у &8чашу&r під &6механічним змішувачем&r, поки чаша нагріта."]
+	quest.3C99017FD32B6DE2.quest_desc: ["&eЛатунні корпуси&r виготовляються так само, як &8андезитові&r і &cмідні корпуси&r. Просто приклади &eпредмет&r до очищеної деревини. \\n\\nАле оскільки &eлатунні корпуси&r дають нам найпотужнішу &6техніку&r, отримати їх складніше, ніж &8андезитові&r чи &cмідні&r. \\n\\nНа щастя, це &6&lFactorMoon&r, тож &eлатунь&r можна зробити багатьма способами! \\n\\nАле у стилі &6&lCreate&r — кинь &cмідний злиток&r і &7цинковий злиток&r у &8чашу&r під &6механічним змішувачем&r, поки чаша нагріта."]
 	quest.3C99017FD32B6DE2.title: "&eЛатунний корпус"
 	quest.3C9F5EB59D72AC90.quest_desc: ["Блок пробуджених супремієвих злитків потрібен для створення &6Усемодієвої зірки&r."]
 	quest.3CAD0701EC16C2D8.quest_desc: [
@@ -5789,7 +5789,7 @@
 	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF for short) is a tech mod that adds many machines with various different uses.\\n\\nTo get started, craft a &aPity Machine Frame&r."]
 	quest.55820773BDD5319D.quest_subtitle: "Tier: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lATM10&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
+	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lFactorMoon&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
 	quest.5585130028BB8298.quest_subtitle: "Do you feel lucky, Punk?"
 	quest.5585130028BB8298.title: "&d&lRevolver"
 	quest.55882C10292B6A3D.quest_subtitle: "Feed a Crystalline Bee a Prosperity Block"
@@ -6228,7 +6228,7 @@
 	quest.5CE44C58A470E48E.title: "&l&3Artifacts"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
 	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 — це &akitchensink&r(всеохопна) збірка — тобто ви вільні досліджувати та грати як забажаєте!\\n\\nАле є й фінальна ціль: створити &6Всемодієву зірку&r!\\n\\nЦя сюжетна лінія — путівник для всіх гравців, незалежно від досвіду у Minecraft чи попередніх ATM.\\n\\nЯк і в більшості модпаків, спочатку зберіть трохи колод!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon — це &akitchensink&r(всеохопна) збірка — тобто ви вільні досліджувати та грати як забажаєте!\\n\\nАле є й фінальна ціль: створити &6Всемодієву зірку&r!\\n\\nЦя сюжетна лінія — путівник для всіх гравців, незалежно від досвіду у Minecraft чи попередніх ATM.\\n\\nЯк і в більшості модпаків, спочатку зберіть трохи колод!"]
 	quest.5CF320E9C4C1B1E1.title: "&eЛаскаво просимо до початку гри&r!"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
 		"While holding your Spellbook, you can press C to open up the spell creation page. \\n\\nEach spell must have a form. You start off with 3 basic forms: Projectile, Self-cast, and Touch. \\n\\nFor the Effect, this determines what happens when you cast the spell. You can have up to 9 effects per spell. \\n\\nFor starters, you have Harm and Break. \\n\\nSelect one Form and one Effect, name your spell, and click create!"

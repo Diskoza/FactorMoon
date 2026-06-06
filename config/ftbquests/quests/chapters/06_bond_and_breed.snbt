@@ -176,7 +176,7 @@
 					id: "2115496FD728DA10"
 					item: {
 						count: 1
-						id: "cobblecuisine:coffee"
+						id: "minecraft:honey_bottle"
 					}
 					type: "item"
 				}
@@ -189,7 +189,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "75A1B73BD5BAE3CF"
-				item: { count: 1, id: "cobblecuisine:coffee" }
+				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -217,7 +217,7 @@
 			tasks: [{
 				count: 5L
 				id: "57A079FE1BDEAC03"
-				item: { count: 1, id: "cobblecuisine:coffee" }
+				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
 			x: 8.0d

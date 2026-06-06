@@ -1,13 +1,15 @@
 ﻿mod_id,name,fabric_file,reason,next_action
 cardinal-components,Cardinal Components API,cardinal-components-api-6.1.3.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 cobblecuisine,CobbleCuisine,cobblecuisine-2.0.1-1.7-rc1.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
-cobblemonbattlepositions,Cobblemon Battle Positions,cobblemon-battle-positions-1.1.3.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
-cobblemon-fight-them-all,Cobblemon: Fight Them All,cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 unknown:Debugify-1.21.1+1.0,Debugify-1.21.1+1.0,Debugify-1.21.1+1.0.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
+fancymenu,FancyMenu,fancymenu_fabric_3.8.1_MC_1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 interactic,Interactic,interactic-0.2.3+1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 cozyhome,Cozy Home,Luckys-Cozyhome-Refurnished-1.1.20.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 lumymon,LumyMon,LumyMon-0.6.3.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 lumyrei,LumyREI,LumyREI-1.1.2.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
+notenoughanimations,NotEnoughAnimations,notenoughanimations-fabric-1.11.3-mc1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 pokeblocks,Pokeblocks,pokeblocks-1.4.0-1.21.1.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
+rechiseled,Rechiseled,rechiseled-1.2.3-fabric-mc1.21.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 respackopts,Resource Pack Options,respackopts-4.11.3.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
 stackdeobfuscator,StackDeobfuscator,StackDeobfuscatorFabric-1.4.3+08e71cc.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value
+toms_storage,Tom's Simple Storage Mod,toms_storage_fabric-1.21-2.3.0.jar,no final NeoForge equivalent present; needs manual download/check or port,no user link provided; port to NeoForge or skip if low value

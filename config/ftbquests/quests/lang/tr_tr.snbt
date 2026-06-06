@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.05E614FDA677D85E.title: "Gıda ve Çiftçilik"
 	chapter.0A093D8C4429B627.title: "Mekanism: Reaktörler"
 	chapter.18A429E7F56AF5A9.title: "Ödül Panosu"
@@ -597,7 +597,7 @@
 	quest.260C7F3C1F51221D.title: "&aArchevoker Kıyafetleri"
 	quest.262036FE8E87F50A.quest_subtitle: "3x3 Madencilik"
 	quest.263C9A0FC04472AB.quest_desc: ["Bu, ya &cLav&r'ı eşi benzeri olmayan bir şekilde tüketebilir ya da &6&lYıldız&r için kullanılabilir. \\n\\nBu zor bir seçim. Eşyalarımın &cLav&r'ın içinde kaybolması yerine &cLav&r'ın kaybolduğunu görmek hoşuma gidiyor."]
-	quest.266127E7947CB3D4.quest_desc: ["Bu Görev Sayfasında gördüğün tüm güzel Yapılar ATM Discord'daki insanlardan geliyor! \\n\\nMerak etme, hepsi Yapılarının paylaşılmasına izin verdi ve hepsine atıfta bulunuldu! \\n\\nYapılarını paylaşmak istersen, Discord'daki artwork-builds-showoff Kanalına göz at! \\n\\n(Tüm Yapıların ATM10'da yapıldığını garanti edemem, sadece diğer Minecraft Oyuncuları tarafından yapıldığını garanti edebilirim. Aynı şekilde bazıları Gölgelendiriciler kullanabilir, bu nedenle Yapılarınız tam olarak aynı değilse nedeni bu olabilir!)"]
+	quest.266127E7947CB3D4.quest_desc: ["Bu Görev Sayfasında gördüğün tüm güzel Yapılar ATM Discord'daki insanlardan geliyor! \\n\\nMerak etme, hepsi Yapılarının paylaşılmasına izin verdi ve hepsine atıfta bulunuldu! \\n\\nYapılarını paylaşmak istersen, Discord'daki artwork-builds-showoff Kanalına göz at! \\n\\n(Tüm Yapıların FactorMoon'da yapıldığını garanti edemem, sadece diğer Minecraft Oyuncuları tarafından yapıldığını garanti edebilirim. Aynı şekilde bazıları Gölgelendiriciler kullanabilir, bu nedenle Yapılarınız tam olarak aynı değilse nedeni bu olabilir!)"]
 	quest.2664388EBA1E8F90.quest_subtitle: "&f8 &cSaldırı Hasarı"
 	quest.268EA2DEC8840D13.quest_desc: ["&4Bilgisayarlarda&r çalışırken, özellikle de Kuantum olanlar üzerinde çalışırken, Çalışma Masasındaki Çekiç ve Penseler bize ihtiyacımız olanı üretemeyecek. Bundan dolayı &bCrystal Assembler&r'a ihtiyacımız olacak. \\n\\nBunun için bir sürü &9Tekillik&r'lere ihtiyacımız olacak!"]
 	quest.268F6E67AA79A7BD.quest_subtitle: "&f69 &cSaldırı Hasarı"
@@ -919,8 +919,8 @@
 	quest.3B88D58B11B5DC78.quest_subtitle: "Kademe: &54"
 	quest.3BA4504DEFB87264.quest_desc: ["&lSimply Lights&r'a benzer şekilde çalışır, Inverted, üzerine Redstone uygulanmadığında yanar, normal ise sadece Redstone ile çalışır. \\n\\nBunların yerleştirilebilmesi için bir Duvara bağlı olması gerekir."]
 	quest.3BB0926C4C00BE1D.quest_desc: ["Jetpack'indeki Enerjinin bitmesi seninde hoşuna gitmiyor mu? Artık bu konuda endişelenmene gerek yok! \\n\\nİlk başta bundan önceki her Jetpack'i, bir &6&lATM Yıldızı&r'nı, artı daha pahalı Eşyalar yapman gerekebilir ama hey buna değer! \\n\\nSadece tak ve normal şekilde kullan. Sadece daha az şarjla."]
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10, modlanmış Minecraft dünyasını kendi tarzınla keşfetmeni sağlayan bir paket!\\n\\nHerhangi bir sorun veya sorunun varsa, ATM discord'a katılmaktan çekinme!"]
-	quest.3BC0A50886A3222B.title: "&dAll The Mods 10'a Hoş Geldin!"
+	quest.3BC0A50886A3222B.quest_desc: ["FactorMoon, modlanmış Minecraft dünyasını kendi tarzınla keşfetmeni sağlayan bir paket!\\n\\nHerhangi bir sorun veya sorunun varsa, ATM discord'a katılmaktan çekinme!"]
+	quest.3BC0A50886A3222B.title: "&dFactorMoon'a Hoş Geldin!"
 	quest.3BD73FEAE853D350.quest_desc: ["Tekne kullanmadığın sürece &bBuz&r'un ne kadar yavaş olduğundan hiç rahatsız oldun mu? Bu bana hâlâ mantıklı gelmiyor! &bIce Skates&r bunu değiştiriyor, artık &bIce Skates&r giyerken &bBuz&r'da hızlanabiliyorsun. Daha fazla hızlanmak için onları yükseltebilirsin! \\n \\nOnları yükselttikten sonra, &bIce Skates&r giyerken Yaratıklara koşarak hasar vermeni sağlayan İkinci bir Yetenek elde edebilirsin."]
 	quest.3BD73FEAE853D350.quest_subtitle: "Taygalar veya Karlı Taygalar'daki Köylerde Bulunur"
 	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Ruh Lavı &6&lAllTheModium&r'un bir parçasıdır. &b&lOther&r'ın yer altında çok nadiren ya da Piglich Köylerinde yaygın olarak bulunabilir!\\n\\n&9Soul Lava Arısı&r yapmak için Hayaletimsi Arıya bir Kova &9Ruh Lav&r'ı vermemiz gerekecek.\\n\\nArdından, bir Çağırma Yumurtası yapmak için onları ezmen veya DNA'ları için iğne batırman gerekecek!  "]
@@ -1352,7 +1352,7 @@
 	quest.5CD8D169181C7339.quest_subtitle: "ATF için fazla ateşli"
 	quest.5CD8D169181C7339.title: "Silahlar?"
 	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r, Minecraft deneyimini çok daha kolay ve çok daha eğlenceli hale getirecek &l&3Eserler&r ekleyen harika bir Mod!\\n\\nTüm &l&3Eserler&r ya keşif yaparak, ya arkeolojiyle ya da Mimic'leri öldürerek bulunabilir!\\n\\nMimic'ler yer altındaki Kamp Alanlarında bulunur ve normal Sandıklar gibi görünürler! Ancak çok yaklaştığında saldırırlar!"]
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 &aKitchensink&r paketidir, yani mod paketini istediğin şekilde keşfetmekte ve oynamakta özgürsün!\\n\\nBununla birlikte, bir oyun sonu hedefi vardır: &6ATM Yıldızı&r yapmak!\\n\\nBu görev serisi, ister Minecraft'ta yeni olun ister önceki ATM paketlerini oynamış olun, tüm oyuncular için bir rehber görevi görür.\\n\\nHemen hemen her mod paketinde olduğu gibi, başlamak için biraz kütük topla!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon &aKitchensink&r paketidir, yani mod paketini istediğin şekilde keşfetmekte ve oynamakta özgürsün!\\n\\nBununla birlikte, bir oyun sonu hedefi vardır: &6ATM Yıldızı&r yapmak!\\n\\nBu görev serisi, ister Minecraft'ta yeni olun ister önceki ATM paketlerini oynamış olun, tüm oyuncular için bir rehber görevi görür.\\n\\nHemen hemen her mod paketinde olduğu gibi, başlamak için biraz kütük topla!"]
 	quest.5CF320E9C4C1B1E1.title: "&eBaşlangıca Hoşgeldin&r!"
 	quest.5D46EEC88D662443.quest_subtitle: "&f9 &cSaldırı Hasarı"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r tamamen Çiftçilik ve Gıda Eşyalarını Pişirmekle ilgili! Aynı eşyaları dekorasyon ve kullanım amaçlı de kullanabiliriz! \\n\\nOcak, Tencere ve Tavalar bir Mutfak için mükemmeldir. \\n\\nYiyecek Kasaları bir Kiler için harikadır. \\n\\nÇiftlik eşyaları dış mekan dekorasyonu için ve Kilerler her yer için mükemmeldir!"]

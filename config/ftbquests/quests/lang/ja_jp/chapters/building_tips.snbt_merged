@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.0052E5592A6BBEC1.quest_desc: [
 		"これは &2&lMinecraft&r です。建築の方法は教えられません..."
 		"{@pagebreak}"
@@ -61,7 +61,7 @@
 	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
 	quest.23631A4A743D4F0C.quest_desc: ["これについて文句を言わないでください。\n\n鉄を入手する方法は数十種類あり、通常の進行にも必要です。\n\n鉄を入手し、ブロックにし、見栄えよくしましょう！"]
 	quest.23631A4A743D4F0C.title: "&l&bチープな&rメタル"
-	quest.266127E7947CB3D4.quest_desc: ["このクエストページで見られるすべての美しい建築物は、ATM Discord のメンバーによるものです！\n\nご安心ください。すべての建築物は共有の同意を得ており、制作者のクレジットも記載されています！\n\nあなたも建築物を共有したい場合は、Discord の artwork-builds-showoff チャンネルをチェックしてください！\n\n（すべての建築物が ATM10 で作られたものとは限りませんが、Minecraft プレイヤーによって作られたものであることは確かです。シェーダーを使用している場合もあるので、あなたの建築物と完全に同じように見えない場合があるかもしれません！）"]
+	quest.266127E7947CB3D4.quest_desc: ["このクエストページで見られるすべての美しい建築物は、ATM Discord のメンバーによるものです！\n\nご安心ください。すべての建築物は共有の同意を得ており、制作者のクレジットも記載されています！\n\nあなたも建築物を共有したい場合は、Discord の artwork-builds-showoff チャンネルをチェックしてください！\n\n（すべての建築物が FactorMoon で作られたものとは限りませんが、Minecraft プレイヤーによって作られたものであることは確かです。シェーダーを使用している場合もあるので、あなたの建築物と完全に同じように見えない場合があるかもしれません！）"]
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r は便利なアイテムをいくつか追加する Mod です。\n\nもちろん、建築のためです！\n\nそれぞれ動作には &cエネルギー&r が必要で、デフォルトで &lG&r キーを押すとメニューが表示されます"]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
 	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&rはブロックのデザインを変更するChisels MODに似ていますが、&b&lChipped&rには独自の方法があります！\n\n&b&lChipped&rはブロックを変更するために行く必要のあるStationを使用します。\n\n7つの異なるStationがあり、それぞれ異なるブロックを変更します：Carpenters Tableは木材を、Glassblowerはガラスを変更します。\n\nそしてそれらの6つのStationは、より簡単にアクセスできるように手持ちアイテムに変更できます。\n\nそれらのためのバックパックアップグレードもあります！"]

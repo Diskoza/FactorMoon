@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.051E0C85E7B71CE0.quest_desc: ["Vou assumir que você esteve minerando, certo? Afinal, é MINEcraft.\\n\\nVocê encontrará uma tonelada de novos minérios que podem te confundir, mas você pode se ater aos materiais vanilla para começar!\\n\\nCobre é abundante e tem muitos usos para coisas como &aMartelos de Minério&r ou &eMelhorias de Gaveta&r, então certifique-se de pegar bastante!\\n\\nFerro é provavelmente um dos minérios mais importantes que você vai querer pegar toda vez que encontrar. O mundo do MC moddado praticamente funciona com Ferro."]
 	quest.051E0C85E7B71CE0.title: "&fA Idade do &9Metal&r"
 	quest.0F026D5A17CCCF51.quest_desc: ["Itens de &dNetherita&r são ainda melhores no geral e não queimam na lava! Mas você ainda vai queimar, mesmo usando a armadura. Não tente.\\n\\nEstes itens podem ser usados para fazer algumas das melhores ferramentas e armaduras do jogo."]
@@ -56,7 +56,7 @@
 	quest.4E5238F00CEED8B2.title: "&eDuplicação Básica de Minério"
 	quest.5792CC9E3AFAB229.quest_desc: ["Também temos o mod chamado &aGenerators Galore&r! Este mod adiciona geradores únicos que usam carvão ou outros itens."]
 	quest.5792CC9E3AFAB229.title: "&fGerador de &6Cobre"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["&eATM10&r é um pacote &aKitchensink&r, o que significa que você é livre para explorar e jogar o modpack da maneira que quiser!\\n\\nNo entanto, há um objetivo de final de jogo: Fazer a &6Estrela ATM&r!\\n\\nEsta linha de missões serve como um guia para todos os jogadores, seja você um novato no Minecraft ou já tenha jogado os pacotes ATM anteriores.\\n\\nAssim como em quase todos os modpacks, colete um pouco de madeira para começar!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["&eFactorMoon&r é um pacote &aKitchensink&r, o que significa que você é livre para explorar e jogar o modpack da maneira que quiser!\\n\\nNo entanto, há um objetivo de final de jogo: Fazer a &6Estrela ATM&r!\\n\\nEsta linha de missões serve como um guia para todos os jogadores, seja você um novato no Minecraft ou já tenha jogado os pacotes ATM anteriores.\\n\\nAssim como em quase todos os modpacks, colete um pouco de madeira para começar!"]
 	quest.5CF320E9C4C1B1E1.title: "&eBem-vindo ao Inicio&r!"
 	quest.5E799B92358A8732.quest_desc: ["No &cNether&r, você encontrará &6Ancient Debris&r. Ele pode ser derretido e transformado em Scraps que podem ser combinados com Ouro para criar &6Netherite Ingots&r, que é um metal de fim de jogo usado para criar algumas das ferramentas e armaduras mais fortes do jogo."]
 	quest.5E799B92358A8732.title: "&dMetais Ancestrais"

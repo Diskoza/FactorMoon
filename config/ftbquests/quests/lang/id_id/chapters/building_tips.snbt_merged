@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.0052E5592A6BBEC1.quest_desc: [
 		"Ini adalah &2&lMinecraft&r, aku tidak bisa mengatur caramu membangun..."
 		"{@pagebreak}"
@@ -61,7 +61,7 @@
 	quest.22E007025C19EC0A.title: "Batu &l&7Railcraft&r"
 	quest.23631A4A743D4F0C.quest_desc: ["Jangan mengeluh soal yang satu ini. \\n\\nAda lusinan cara untuk mendapatkan Besi dan itu dibutuhkan bahkan untuk progresi normal. \\n\\nKamu akan mendapatkan Besi, kamu akan menjadikannya sebuah blok, dan kamu akan membuatnya terlihat cantik!"]
 	quest.23631A4A743D4F0C.title: "Logam &l&bChipped&r"
-	quest.266127E7947CB3D4.quest_desc: ["Semua bangunan indah yang kamu lihat di halaman Quest ini berasal dari orang-orang di Discord ATM! \\n\\nJangan khawatir, semuanya telah memberikan persetujuan untuk membagikan karya mereka dan telah diberikan kredit! \\n\\nJika kamu ingin membagikan bangunanmu juga, cek channel artwork-builds-showoff di Discord! \\n\\n(Aku tidak bisa menjamin semua bangunan dibuat di ATM10, hanya saja mereka dibuat oleh sesama pemain Minecraft. Beberapa mungkin menggunakan Shader, jadi jika bangunanmu tidak terlihat persis sama, mungkin itu alasannya!)"]
+	quest.266127E7947CB3D4.quest_desc: ["Semua bangunan indah yang kamu lihat di halaman Quest ini berasal dari orang-orang di Discord ATM! \\n\\nJangan khawatir, semuanya telah memberikan persetujuan untuk membagikan karya mereka dan telah diberikan kredit! \\n\\nJika kamu ingin membagikan bangunanmu juga, cek channel artwork-builds-showoff di Discord! \\n\\n(Aku tidak bisa menjamin semua bangunan dibuat di FactorMoon, hanya saja mereka dibuat oleh sesama pemain Minecraft. Beberapa mungkin menggunakan Shader, jadi jika bangunanmu tidak terlihat persis sama, mungkin itu alasannya!)"]
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r adalah mod yang menambahkan beberapa item yang sangat membantu. \\n\\nSemuanya tentu saja untuk membangun! \\n\\nMasing-masing membutuhkan &cEnergi&r untuk bekerja dan memiliki menu yang bisa dibuka secara standar dengan tombol &lG&r."]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
 	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r mirip dengan mod Chisel karena ia mengubah desain blok, tetapi &b&lChipped&r punya cara sendiri untuk melakukannya! \\n\\n&b&lChipped&r menggunakan stasiun (Station) yang harus kamu datangi untuk mengubah blok. \\n\\nAda 7 stasiun berbeda yang masing-masing mengubah blok yang berbeda: Carpenters Table mengubah Kayu, Glassblower mengubah Kaca. \\n\\nDan 6 dari stasiun tersebut bisa diubah menjadi item genggam agar lebih mudah diakses. \\n\\nBahkan ada upgrade Backpack untuk mereka!"]

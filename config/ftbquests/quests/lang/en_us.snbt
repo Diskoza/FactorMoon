@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.007B547630FF0478.title: "Theurgy"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -85,7 +85,7 @@
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
 	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
-	file.0000000000000001.title: "All The Mods 10"
+	file.0000000000000001.title: "FactorMoon"
 	quest.0000A88BB40B2149.quest_desc: ["Now before you get to the Chaos Island I recommend preparing, he may look like the Ender Dragon but this one is much more difficult. You'll want Draconic Weapons or Tools that do a lot of damage as those will make it easier. He will also do a crap-ton of damage good Armor like Unobtainium or Meka-Suit will be recommeneded. (Also effects of Regeneration, Absorption, and Resistance will help you survive}. Don't worry you can always come back to fight another day if you aren't ready."]
 	quest.0000A88BB40B2149.title: "It's tough you'll need to prepare"
 	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
@@ -1630,7 +1630,7 @@
 	quest.122282C288EAD366.quest_subtitle: "&f6 &cAttack Damage"
 	quest.12256A90B1CE3F90.quest_desc: ["While yes you can use Quarries or Void Miners to get the Ores but if you really want the best way of automating &bArcane Crystals&r then you'll need &6&lBees&r! \\n&bDiamond Bees&r to be more exact. Simply feed a &bDiamond Bee&r a &bBlock of Arcane Crystals&r and they will become an &bArcanus Bee&r! \\n\\n&bArcanus Bees&r need &bBlocks of Arcane Crystals&r as Flowering Blocks as well, then they will make &bArcanus Comb&r! Which can be made into &bArcane Crystals&r."]
 	quest.12256A90B1CE3F90.title: "Automating &bArcane Crystals"
-	quest.12274935C3D20C74.quest_desc: ["Like the entirity of Building Tips in &6&lATM10&r, I can't teach you how to design your &5Train&r... but I can give Tips! \\n\\nThere is tons of different Building Blocks you can use, lots of the &6&lCreate&r Casings look clean and Concretes can help give a more slick look. \\n\\nYou can also use Doors and Trapdoors within the &5Train&r which can also be used when the &5Train&r is moving. \\n\\nWhat about making it look pretty? Well Stairs, Slabs, and Trapdoors help give Shape to it as well as the Flywheel or &dCogs&r give nice round edges. \\n\\nHeck you can even put a Campfire on it to make a Steam Engine!"]
+	quest.12274935C3D20C74.quest_desc: ["Like the entirity of Building Tips in &6&lFactorMoon&r, I can't teach you how to design your &5Train&r... but I can give Tips! \\n\\nThere is tons of different Building Blocks you can use, lots of the &6&lCreate&r Casings look clean and Concretes can help give a more slick look. \\n\\nYou can also use Doors and Trapdoors within the &5Train&r which can also be used when the &5Train&r is moving. \\n\\nWhat about making it look pretty? Well Stairs, Slabs, and Trapdoors help give Shape to it as well as the Flywheel or &dCogs&r give nice round edges. \\n\\nHeck you can even put a Campfire on it to make a Steam Engine!"]
 	quest.12274935C3D20C74.title: "Decorating your &5Train&r"
 	quest.122E6E7CABCB17E7.quest_desc: ["For some reason Creepers are scared of Cats. Creepers are also extremely dumb and believe the Cats that your &7Slippers&r look like are real. \\n\\nAll Creepers will run away from you and won't be hostile when these &7Slippers&r are worn. \\n\\nAlso makes Kitty noises when you take damage! (Can't assure you that you will always land on your Feet though)."]
 	quest.122E6E7CABCB17E7.quest_subtitle: "Feet"
@@ -3313,7 +3313,7 @@
 	quest.264BFB8C5F79616F.quest_desc: ["Placing a Snow Nest in a snowy biome will lure in a Sweat Bee."]
 	quest.264BFB8C5F79616F.quest_subtitle: "Lures the Sweat Bee in Cold Biomes"
 	quest.265D0DB0E8CED73B.title: "Draconic Projectile Gravity Compensation Module"
-	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in ATM10 only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
+	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in FactorMoon only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
 	quest.2664373E8977E7BE.quest_desc: ["Who knows &4Blood&r like Vampires do! Nobody, that's who! \\n\\nThis &eSpellbook&r isn't that hard to make besides the Ruined Book. \\n\\nThe other Items are just &5Arcane Ingots&r and &4Bloody Vellum&r. &4Bloody Vellum&r is made by dipping &dHogskin&r into an Alchemist Cauldron full of &4Blood&r. \\n\\nThe &eSpellbook&r has 10 Spell Slots, and it will give an extra Level to &4Blood Slash&r and &4Blood Step&r!"]
 	quest.2664373E8977E7BE.title: "&4Vampiric Spellbook"
 	quest.2664388EBA1E8F90.quest_subtitle: "&f8 &cAttack Damage"
@@ -4622,7 +4622,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
 	]
 	quest.36926B5EBFF6E55A.title: "Making &cMercury"
-	quest.3697AAF8F281B247.quest_desc: ["This one's a doozy! So listen carefully! \\n1st is constructing the actual &bSteam Engine&r. The &bFluid Tanks&r will judge how much &9Water&r can be held within it and decide the Level the &bSteam Engine&r will be at. \\n\\nThen, simply attach the &bSteam Engine&r to the side of the &bFluid Tanks&r and it'll become a &bSteam Boiler&r. After, place a &8Shaft&r on the &bSteam Engine&r to get our Mechanical Arm that will give us &dRotational Power&r from it. \\n\\n2nd is a &cHeat Source&r. We'll need a &cHeat Source&r beneath the &bFluid Tanks&r to heat up the &9Water&r. There's quite a few &cHeat Sources&r: Fire, Campfire, Lava, Magma Blocks but &cBlaze Burners&r are the best! \\n\\nThe better the &cHeat Source&r, the more Stress Units! So feed those &cBlaze Burners&r some &cBlaze Cakes&r and you'll be rocking! \\n\\n3rd is &9Water&r. This is the fuel of our &bSteam Engine&r, there wouldn't be Steam without &9Water&r. \\n\\nHowever you &bPipe&r in &9Water&r is your choice, but for &6&lATM10&r I recommend a Sink and &9&lID&r!"]
+	quest.3697AAF8F281B247.quest_desc: ["This one's a doozy! So listen carefully! \\n1st is constructing the actual &bSteam Engine&r. The &bFluid Tanks&r will judge how much &9Water&r can be held within it and decide the Level the &bSteam Engine&r will be at. \\n\\nThen, simply attach the &bSteam Engine&r to the side of the &bFluid Tanks&r and it'll become a &bSteam Boiler&r. After, place a &8Shaft&r on the &bSteam Engine&r to get our Mechanical Arm that will give us &dRotational Power&r from it. \\n\\n2nd is a &cHeat Source&r. We'll need a &cHeat Source&r beneath the &bFluid Tanks&r to heat up the &9Water&r. There's quite a few &cHeat Sources&r: Fire, Campfire, Lava, Magma Blocks but &cBlaze Burners&r are the best! \\n\\nThe better the &cHeat Source&r, the more Stress Units! So feed those &cBlaze Burners&r some &cBlaze Cakes&r and you'll be rocking! \\n\\n3rd is &9Water&r. This is the fuel of our &bSteam Engine&r, there wouldn't be Steam without &9Water&r. \\n\\nHowever you &bPipe&r in &9Water&r is your choice, but for &6&lFactorMoon&r I recommend a Sink and &9&lID&r!"]
 	quest.3697AAF8F281B247.title: "&bSteam Engine"
 	quest.369D3AF332181DA8.quest_desc: ["The Stone Nest can be placed in any overworld biome to lure in a Mason Bee or Digger Bee."]
 	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees in any Overworld Biome"
@@ -5092,8 +5092,8 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
-	quest.3BC0A50886A3222B.title: "&dWelcome to All The Mods 10!"
+	quest.3BC0A50886A3222B.quest_desc: ["FactorMoon is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
+	quest.3BC0A50886A3222B.title: "&dWelcome to FactorMoon!"
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.3BD73FEAE853D350.quest_desc: [" Legends speak of hunters who trusted not only their &cown hands&r but the &2fangs of their companions&r. Their &cleather belts&r, adorned with &2bone charms&r, carry the memory of countless battles fought together. \\n\\n- &lIt has 1 ability: \\n\\n &5Pack&r: \\n Increases the damage dealt by the relic wearer’s &cpets&r. \\n\\n- A &6relic&r for hunters who trust their pack… and make every companion &cstrike count&r."]
@@ -5148,7 +5148,7 @@
 	quest.3C8D9278B81BB37A.title: "&eSpeed &8Upgrade"
 	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
 	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
-	quest.3C99017FD32B6DE2.quest_desc: ["&eBrass Casings&r are made the same way as &8Andesite&r and &cCopper Casings&r. Just apply the &eItem&r to Stripped Wood. \\n\\nBut with &eBrass Casings&r giving us some of the most powerful &6Machines&r, it won't be as easy to get as &8Andesite&r or &cCopper&r. \\n\\nThankfully this is &6&lATM10&r so you can make &eBrass&r in many different ways! \\n\\nBut the &6&lCreate&r way would be to throw a &cCopper Ingot&r and &7Zinc Ingot&r into a &8Basin&r below a &6Mechanical Mixer&r, while the &8Basin&r is heated."]
+	quest.3C99017FD32B6DE2.quest_desc: ["&eBrass Casings&r are made the same way as &8Andesite&r and &cCopper Casings&r. Just apply the &eItem&r to Stripped Wood. \\n\\nBut with &eBrass Casings&r giving us some of the most powerful &6Machines&r, it won't be as easy to get as &8Andesite&r or &cCopper&r. \\n\\nThankfully this is &6&lFactorMoon&r so you can make &eBrass&r in many different ways! \\n\\nBut the &6&lCreate&r way would be to throw a &cCopper Ingot&r and &7Zinc Ingot&r into a &8Basin&r below a &6Mechanical Mixer&r, while the &8Basin&r is heated."]
 	quest.3C99017FD32B6DE2.title: "&eBrass Casing"
 	quest.3C9F5EB59D72AC90.quest_desc: ["An Awakened Supremium Ingot Block is needed to craft the &6ATM Star&r."]
 	quest.3CAD0701EC16C2D8.quest_desc: [
@@ -7352,7 +7352,7 @@
 	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF for short) is a tech mod that adds many machines with various different uses.\\n\\nTo get started, craft a &aPity Machine Frame&r."]
 	quest.55820773BDD5319D.quest_subtitle: "Tier: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lATM10&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
+	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lFactorMoon&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
 	quest.5585130028BB8298.quest_subtitle: "Do you feel lucky, Punk?"
 	quest.5585130028BB8298.title: "&d&lRevolver"
 	quest.55882C10292B6A3D.quest_subtitle: "Feed a Crystalline Bee a Prosperity Block"
@@ -7935,7 +7935,7 @@
 	quest.5CE7756D80E051CC.title: "&8Soul Surfer &7Unit"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
 	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
 	quest.5CF320E9C4C1B1E1.title: "&eWelcome to Getting Started&r!"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
 		"While holding your Spellbook, you can press C to open up the spell creation page. \\n\\nEach spell must have a form. You start off with 3 basic forms: Projectile, Self-cast, and Touch. \\n\\nFor the Effect, this determines what happens when you cast the spell. You can have up to 9 effects per spell. \\n\\nFor starters, you have Harm and Break. \\n\\nSelect one Form and one Effect, name your spell, and click create!"
@@ -8820,7 +8820,7 @@
 	quest.67FB03BE6685AFE1.quest_desc: ["To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, shoot a Pillager with a &d&lRevolver&r. \\n\\nThis will start the spawning of new and harder Pillagers!"]
 	quest.67FB03BE6685AFE1.title: "Offense and Defense"
 	quest.6800E0113DE9A4DB.quest_desc: [
-		"&c&lDragons&r are only the most dangerous and important Monsters in all of &b&lIce &fand &cFire&r! \\n\\nThe Element of &c&lDragon&r determines what Biome they spawn in. \\n\\nThey have different Stages (1 through 5). These determine their &4Health&r, Damage, Drops, and Spawns. \\n\\nWe'll need to find, kill, and even Tame some in order to get some of the best Loot in &6&lATM10&r! \\n\\nTry finding some deceased &c&lDragons&r first in order to get their &7Bones&r."
+		"&c&lDragons&r are only the most dangerous and important Monsters in all of &b&lIce &fand &cFire&r! \\n\\nThe Element of &c&lDragon&r determines what Biome they spawn in. \\n\\nThey have different Stages (1 through 5). These determine their &4Health&r, Damage, Drops, and Spawns. \\n\\nWe'll need to find, kill, and even Tame some in order to get some of the best Loot in &6&lFactorMoon&r! \\n\\nTry finding some deceased &c&lDragons&r first in order to get their &7Bones&r."
 		"{@pagebreak}"
 		"&lStages 1-3&r will spawn in &cRoosts&r while &lStage 4&r and &l5&r spawn in &cCaves&r. Only &l4&r and &l5&r will Drop &cEggs&r. The higher the &lStage&r, the darker their Colors and bigger their Size! \\n\\n&lStage 1&r: will have from 50 &4Hearts &fto 350 &4Hearts&r as well as 2 &7Armor Points&r to 6! &lStage 1&r will only be able to Bite their opponents, they can't use their &cElemental Breath&r. \\n\\n&lStage 2&r: have 350 &4Hearts &fto 600 &4Hearts&r. They can also have 6 &7Armor Points&f to 10 &7Armor Points&r. Now they can use &cElemental Breath&r to Fight. \\n\\n&lStage 3&r: can have 600 &4Hearts &fto 900 &4Hearts&r with 10 to 12 &7Armor Points&r. Now these &c&lDragons&r will have all their Attacks from &cElemental Breath&f to their &cElemental Charges&r. \\n\\n&lStage 4&r: will keep all the same Abilities and Attacks as well as now Dropping &cEggs&r. &lStage 4&r will have between 900 &4Hearts&r all the way to 1200! Plus an additional 12 to 16 &7Armor Points&r. \\n\\n&lStage 5&r: only the biggest and most powerful &c&lDragons&r. These can have 1200 to 1500+ &4Hearts&r! With 16 to 20 &7Armor Points&r. Basically wearing &cNetherite Armor&r, because they are that powerful!"
 	]
@@ -9591,7 +9591,7 @@
 	quest.711DDD55CEC439E5.title: "&aEmerald Furnace"
 	quest.712EB19B26D405DD.quest_subtitle: "Tier: &e1"
 	quest.713006AB89E43C6D.quest_desc: [
-		"The tippy top of the massive &9Acropolis&r is where the &9&lScylla&r will spawn. Like the &d&lEnder Guardian&r you just need to be near to Spawn here. \\n\\nShe is one of the smallest Bosses in &4&lCataclsym&r only being around 3 Blocks Tall. As well as right now, she has 390 &4Hearts&r and 12 Armor Points. Don't worry, she'll be Buffed very soon! \\n\\nDon't let her Size or lack of &6&lATM10&r Buffs let you underestimate her, she has some of the most Attacks of all Bosses here. \\n\\nShe can use her &9Anchor&r, &9Ceranus&r, to pull you closer to her from far away, or simply swing it at you to deal a ton of Damage! \\n\\nShe can toss &9Lightning Spears&r at you from her Back or from Clouds. Even leaping into the Air and Jumping back down to bring &9Lightning Strikes&r all around where she Hit. \\n\\nThat's not even it! She also has control over &9Water&r allowing her to send &9Waves&r at you or even summon &9Water Snakes&r to Bite you! \\n\\nWhen slayed, she will Drop the usual Boss Gear, as well as &9Lacrima&r and &9Essence of the Storm&r."
+		"The tippy top of the massive &9Acropolis&r is where the &9&lScylla&r will spawn. Like the &d&lEnder Guardian&r you just need to be near to Spawn here. \\n\\nShe is one of the smallest Bosses in &4&lCataclsym&r only being around 3 Blocks Tall. As well as right now, she has 390 &4Hearts&r and 12 Armor Points. Don't worry, she'll be Buffed very soon! \\n\\nDon't let her Size or lack of &6&lFactorMoon&r Buffs let you underestimate her, she has some of the most Attacks of all Bosses here. \\n\\nShe can use her &9Anchor&r, &9Ceranus&r, to pull you closer to her from far away, or simply swing it at you to deal a ton of Damage! \\n\\nShe can toss &9Lightning Spears&r at you from her Back or from Clouds. Even leaping into the Air and Jumping back down to bring &9Lightning Strikes&r all around where she Hit. \\n\\nThat's not even it! She also has control over &9Water&r allowing her to send &9Waves&r at you or even summon &9Water Snakes&r to Bite you! \\n\\nWhen slayed, she will Drop the usual Boss Gear, as well as &9Lacrima&r and &9Essence of the Storm&r."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_scylla.png width:100 height:100 align:center}"
 	]
 	quest.713006AB89E43C6D.title: "&9&lScylla"

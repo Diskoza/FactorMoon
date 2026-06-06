@@ -139,7 +139,7 @@
 					id: "094C9533D1A8017E"
 					item: {
 						count: 1
-						id: "toms_storage:inventory_connector"
+						id: "sophisticatedstorage:storage_link"
 					}
 					type: "item"
 				}
@@ -161,7 +161,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "79746BC4E1043847"
-				item: { count: 1, id: "toms_storage:storage_terminal" }
+				item: { count: 1, id: "sophisticatedstorage:controller" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -312,7 +312,7 @@
 			tasks: [{
 				count: 5L
 				id: "5F5A43A5FBF217F7"
-				item: { count: 1, id: "toms_storage:inventory_connector" }
+				item: { count: 1, id: "sophisticatedstorage:storage_link" }
 				type: "item"
 			}]
 			x: 12.0d

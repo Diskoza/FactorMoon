@@ -74,13 +74,27 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - The old no-LambAPI jar was moved to `_factor_moon_reports/replaced_mod_backups/2026-06-06-railcraft-lambdynlights-api`.
 - This is safe after the friend slim pass because Ars Nouveau, the previous duplicate LambDynamicLights API source, is no longer active.
 
+## 2026-06-06 Final Cobblemon Connector Ports And Quest Cleanup
+
+- Added the remaining requested Cobblemon battle-side Fabric mods through targeted Connector bridge patches:
+  - `cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar`
+  - `cobblemon-battle-positions-1.1.3-factormoon-connector.jar`
+- Fight Them All keeps its original Fabric/Kotlin logic, but FactorMoon adds Java entrypoint wrappers and relaxed metadata so it can load without Fabric Language Kotlin.
+- Battle Positions keeps the original Fabric implementation and now uses relaxed Fabric loader metadata; Cobblemon, RCT API, Forgified Fabric API, and Sinytra Connector satisfy its runtime side.
+- Updated `_factor_moon_reports/mandatory_neoforge_ports.md` to mark both mods as installed.
+- Cleaned the FTB Quests book by moving stale ATM10 and removed-mod chapters out of active `config/ftbquests/quests/chapters`.
+- Removed old active quest references to Tom's Storage, CobbleCuisine coffee, Small Ships, NiftyCarts, Immersive Aircraft, and the ATM Star book icon.
+- Replaced Tom's Storage quest targets with Sophisticated Storage targets in `03_trainers_nest.snbt`.
+- Replaced the temporary CobbleCuisine coffee quest item with `minecraft:honey_bottle` until CobbleCuisine is ported.
+- Added `QUESTS_FILE_GUIDE.md` plus `_factor_moon_reports/ftbquests_active_structure.csv` to document the active quest structure and file-edit workflow.
+
 ## Current State
 
 - Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.
-- Active jar count after the friend recommendation slim pass: 482.
+- Active jar count after the two Cobblemon Connector bridge ports: 484.
 - Static validation: no duplicate primary mod IDs, no missing required dependencies, no Fabric-only jars outside the expected Connector set.
 - Active recipe browser baseline: JEI, AE2 JEI Integration, and FTB JEI Extras.
-- Known remaining risk: the next actual launch/world-creation log is still needed; performance should be re-evaluated before adding more optimization mods like C2ME/Noisium/Ksyxis.
+- Known remaining risk: the custom Cobblemon questline still references `cobblemon_tasks:cobblemon_task`; that task provider is not currently visible as an active mod id and should be ported or replaced with standard FTB Quests tasks.
 
 ## Detailed Logs
 

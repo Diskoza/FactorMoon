@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.0C93D7A607AB8B83.quest_desc: [
 		"For å gjøre krav på Chunks, åpne kartet ditt med &6M&r, og klikk deretter på &aClaim Map&r-ikonet øverst til venstre."
 		""
@@ -16,13 +16,13 @@
 	]
 	quest.3708A4780ACEB34E.title: "Oppdrag"
 	quest.3BC0A50886A3222B.quest_desc: [
-		"ATM10 er en kjøkkenvask-pakke som lar deg utforske verden av modifiserte Minecraft på din egen måte!    "
+		"FactorMoon er en kjøkkenvask-pakke som lar deg utforske verden av modifiserte Minecraft på din egen måte!    "
 		""
-		"&lATM10 er for tiden i betastadiet av modpack-utvikling&r. Mods vil bli lagt til eller fjernet etter hvert som de blir oppdatert.    "
+		"&lFactorMoon er for tiden i betastadiet av modpack-utvikling&r. Mods vil bli lagt til eller fjernet etter hvert som de blir oppdatert.    "
 		""
 		"Hvis du har spørsmål eller problemer, kan du gjerne bli med i ATM-discorden!"
 	]
-	quest.3BC0A50886A3222B.title: "&dVelkommen til All The Mods 10!"
+	quest.3BC0A50886A3222B.title: "&dVelkommen til FactorMoon!"
 	quest.5AC1BE754210429E.quest_desc: ["Hvis du vil lage et lag for deg og vennene dine, bruk kommandoen &a/ftbteams party create (navn på team)&r for å lage laget!    "]
 	quest.5AC1BE754210429E.title: "Opprette et team"
 	quest.7658C1C663394E85.quest_desc: [

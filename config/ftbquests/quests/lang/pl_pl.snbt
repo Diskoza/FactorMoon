@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.007B547630FF0478.title: "Theurgy"
 	chapter.05E614FDA677D85E.title: "Jedzenie i Rolnictwo"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -361,8 +361,8 @@
 	quest.3B6F1BD64C0C570F.title: "Energia Solarna"
 	quest.3BA4504DEFB87264.quest_desc: ["Działa podobnie do &lSimply Lights&r, Inverted będzie świecić gdy nie będzie posiadać kontaktu z redstonem a zwykłe tylko wtedy gdy otrzyma sygnał redstone. \\n\\W dodatku muszą być położone na ścianie."]
 	quest.3BA4504DEFB87264.title: "Lampy ścienne"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 to paczka typu kitchensink (wszystko i nic) która pozwala Ci eksplorować świat Minecrafta na modach po swojemu!\\n\\nJeśli masz jakieś pytania lub problemy, śmiało sprawdź nasz serwer Discord!\\n\\n&o&7Niektóre rzeczy w paczce nie zostaną przetłumaczone w języku Polskim z uwagi na niekompatybilność z niektórymi modyfikacjami.\\nBędę starał się dobierać tak trafne tłumaczenia jak to możliwe, jednak pojedyncze przedmioty, biomy lub potwory mogą zostać w wersji Angielskiej by łatwiej można było je znaleźć w JEI ~fumar&r&r"]
-	quest.3BC0A50886A3222B.title: "&dWitaj w All The Mods 10!"
+	quest.3BC0A50886A3222B.quest_desc: ["FactorMoon to paczka typu kitchensink (wszystko i nic) która pozwala Ci eksplorować świat Minecrafta na modach po swojemu!\\n\\nJeśli masz jakieś pytania lub problemy, śmiało sprawdź nasz serwer Discord!\\n\\n&o&7Niektóre rzeczy w paczce nie zostaną przetłumaczone w języku Polskim z uwagi na niekompatybilność z niektórymi modyfikacjami.\\nBędę starał się dobierać tak trafne tłumaczenia jak to możliwe, jednak pojedyncze przedmioty, biomy lub potwory mogą zostać w wersji Angielskiej by łatwiej można było je znaleźć w JEI ~fumar&r&r"]
+	quest.3BC0A50886A3222B.title: "&dWitaj w FactorMoon!"
 	quest.3D1D5CB45D81A6E4.quest_desc: ["Podobnie do &b&lMacaw's Doors&r ten dodaje różne typy i wersje klap. \\n\\nChcesz dżunglową klapę z wzorkiem świerku? Bez problemu!"]
 	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw's Trapdoors"
 	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r to jedna z najważniejszych modyfikacji przy budowaniu. Mało tego, jeśli podałbyś mi paczkę w której nie ma &l&6Framed Blocks&r to w nią nie zagram - jest aż tak ważna! \\n\\n&l&6Framed Blocks&r daje nam fałszywe bloki które mogą być wypełnione każdym innym blokiem o ile nie jest interaktywny (jak Stół Rzemieślniczy, Piec, lub Komora Wzbogacająca). \\n\\nTe ramki mogą być zamienione we wszystko o czym pomyślisz! Od pionowych płyt, przez skarpy, aż po ćwierćbloki! \\n\\nChcesz schody z &5Netheritu&r? To użyj Framed Blocks! Chcesz stół rzemieślniczy wyglądający jak Bela Siana? Możesz to zrobić! Perfekcyjne rogi w budowli? Zacznij używać &l&6Framed Blocks&r!"]
@@ -499,7 +499,7 @@
 	quest.5BA986D7928BF09F.title: "Piglich"
 	quest.5C2B30655A44227F.quest_desc: ["Myślałeś że &5&lEternal Starlight&r pozwoli Ci tak łatwo na zdobycie tych wszystkich metali? \\n\\nHAHA! Nie bądź niepoważny. Będziesz musiał pokonać wiele bossów, przekopać się przez błoto, i poszukać deszczu meteorytów!"]
 	quest.5C2B30655A44227F.title: "Metale &5&lEternal Starlight&r"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 to paczka typu &aKitchensink&r, co oznacza że można w niej robić co tylko chcesz!\\n\\nCo ciekawe, w paczce jest główny cel: Stworzenie &6Gwiazdy ATM&r!\\n\\nTa lista zadań ma Ci służyć za swego rodzaju poradnik, nieważne czy jesteś nowy w świecie Minecrafta czy ograłeś już inne paczki.\\n\\nTak jak w prawie każdej innej paczce, pierwszym krokiem jest zebranie trochę drewna!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon to paczka typu &aKitchensink&r, co oznacza że można w niej robić co tylko chcesz!\\n\\nCo ciekawe, w paczce jest główny cel: Stworzenie &6Gwiazdy ATM&r!\\n\\nTa lista zadań ma Ci służyć za swego rodzaju poradnik, nieważne czy jesteś nowy w świecie Minecrafta czy ograłeś już inne paczki.\\n\\nTak jak w prawie każdej innej paczce, pierwszym krokiem jest zebranie trochę drewna!"]
 	quest.5CF320E9C4C1B1E1.title: "&ePrzede wszystkim...&r"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r skupia się na rolnictwie i gotowaniu! Możemy tych samych przedmiotów wykorzystywać zarówno do gotowania jak i dekoracyjnie! \\n\\nKuchenka, Garnki i Patelnie fantastycznie sprawdzają się w kuchni. \\n\\nSkrzynki z jedzeniem są świetne do spiżarni. \\n\\nWarzywa świetnie sprawdzają się jako dekoracja na zewnątrz a szafki będą dobre gdziekolwiek!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"

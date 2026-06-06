@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.051E0C85E7B71CE0.quest_desc: ["Madencilik yaptığını varsayıyorum, öyle değil mi? Sonuçta bu MINEcraft.\\n\\nKafanı karıştırabilecek bir sürü yeni cevher bulacaksın, ancak başlamak için vanilla malzemelere bağlı kalabilirsin!\\n\\nBakır bol miktarda bulunur ve &aCevher Çekiçleri&r veya &eÇekmece Yükseltmeleri&r gibi şeyler için bol miktarda kullanıma sahiptir, bu yüzden bol miktarda topladığından emin ol!\\n\\nDemir muhtemelen her karşılaştığında elde etmek isteyeceğin en önemli cevherlerden biridir. Modlu MC dünyası çoğunlukla Demir ile çalışır."]
 	quest.051E0C85E7B71CE0.title: "&9Metal&r Çağı"
 	quest.0F026D5A17CCCF51.quest_desc: ["&dNetherit&r eşyaları genel olarak daha da iyidir ve lavda yanmaz! Yine de zırhı giysen bile yanarsın. Bunu sakın deneme.\\n\\nBu eşyalar oyundaki en iyi alet ve zırhlardan bazılarını yapmak için kullanılabilir."]
@@ -53,7 +53,7 @@
 	quest.4E5238F00CEED8B2.quest_desc: ["Başlangıçta ham cevherleri eritmek gerekli, ancak ekstra kaynakları kaçırıyorsun!\\n\\nHam cevher başına üretiminizi iki katına çıkarmanın birkaç yolu var, ancak en kolay yollardan biri &eCevher Çekici&r oluşturmak ve kullanmaktır.\\n\\nBunlar, 1 ham cevheri 2 toza dönüştürerek eritme işlemiyle külçeye çevrilebilir ve külçe üretimini etkili bir şekilde iki katına çıkarır!\\n\\nHam cevher başına daha fazlasını mı istiyorsun? &5Occultism&r moduna göz at!"]
 	quest.4E5238F00CEED8B2.title: "&eBasit Cevher Katlama"
 	quest.5792CC9E3AFAB229.quest_desc: ["Ayrıca &aGenerators Galore&r! adlı bir modumuz da var! Bu mod, kömür veya diğer eşyaları kullanan benzersiz jeneratörler ekler."]
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 &aKitchensink&r paketidir, yani mod paketini istediğin şekilde keşfetmekte ve oynamakta özgürsün!\\n\\nBununla birlikte, bir oyun sonu hedefi vardır: &6ATM Yıldızı&r yapmak!\\n\\nBu görev serisi, ister Minecraft'ta yeni olun ister önceki ATM paketlerini oynamış olun, tüm oyuncular için bir rehber görevi görür.\\n\\nHemen hemen her mod paketinde olduğu gibi, başlamak için biraz kütük topla!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon &aKitchensink&r paketidir, yani mod paketini istediğin şekilde keşfetmekte ve oynamakta özgürsün!\\n\\nBununla birlikte, bir oyun sonu hedefi vardır: &6ATM Yıldızı&r yapmak!\\n\\nBu görev serisi, ister Minecraft'ta yeni olun ister önceki ATM paketlerini oynamış olun, tüm oyuncular için bir rehber görevi görür.\\n\\nHemen hemen her mod paketinde olduğu gibi, başlamak için biraz kütük topla!"]
 	quest.5CF320E9C4C1B1E1.title: "&eBaşlangıca Hoşgeldin&r!"
 	quest.5E799B92358A8732.quest_desc: ["&cNether&r'da, &6Antik Kalıntı&r ile karşılacaksın. Bunlar eritilerek Hurdalara dönüştürebilir ve bunlar da Altınla birlikte oyundaki en güçlü alet ve zırhlardan bazılarını yapmak için kullanılan oyun sonu metali olan &6Netherit Külçeleri&r elde etmek için birleştirilebilir."]
 	quest.5E799B92358A8732.title: "&dAntik Metaller"

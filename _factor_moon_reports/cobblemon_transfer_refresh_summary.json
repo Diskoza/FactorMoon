@@ -1,7 +1,7 @@
 {
-  "covered": 145,
+  "covered": 129,
   "skipped_by_user": 4,
-  "remaining": 12,
-  "pending_with_user_links": 0,
-  "needs_port_or_skip_no_link": 12
+  "remaining": 28,
+  "pending_with_user_links": 14,
+  "needs_port_or_skip_no_link": 14
 }

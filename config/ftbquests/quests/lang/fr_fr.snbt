@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.007B547630FF0478.title: "Theurgy"
 	chapter.05E614FDA677D85E.title: "Nourriture et Agriculture"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -85,7 +85,7 @@
 	chapter_group.6614EE2378B8AFB9.title: "Ressources"
 	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Outils et Équipement"
-	file.0000000000000001.title: "All The Mods 10"
+	file.0000000000000001.title: "FactorMoon"
 	quest.019CA0E35F888222.title: "&eModule de restock avancée"
 	quest.0298A17C2AAC5765.title: "&bModule d'empillement Niveau 3"
 	quest.051E0C85E7B71CE0.quest_desc: ["Je vais partir du principe que tu es allé miner, non ? Après tout, c'est MINEcraft.\\n\\nTu trouveras une tonne de nouveaux minerais qui pourraient te perturber, mais tu peux rester sur les minerais vanilla pour bien commencer !\\n\\nLe cuivre est abondant et a plein d'utilités pour des choses comme les &aMarteau à minerai&r ou les &eAméliorations de stockage&r, alors pense à en récupérer un maximum !\\n\\nLe fer est probablement l'un des minerais les plus importants que tu voudras récolter à chaque fois que tu en croises. Le monde du Minecraft moddé repose en grande partie sur le fer."]
@@ -179,8 +179,8 @@
 	quest.3ADCAD65EA6900BA.title: "&2Archéologie&r !"
 	quest.3B6F1BD64C0C570F.quest_desc: ["Comme l’énergie du vent, cela produit beaucoup d’énergie sans consommer de ressources. Le seul inconvénient, c’est que cela ne fonctionne que le jour."]
 	quest.3B6F1BD64C0C570F.title: "Énergie solaire"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
-	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10!"
+	quest.3BC0A50886A3222B.quest_desc: ["FactorMoon est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
+	quest.3BC0A50886A3222B.title: "&dBienvenue dans FactorMoon!"
 	quest.3E2A411FF5B4B0E7.quest_desc: ["La Portée d'Activation est la distance à laquelle le Joueur (vous) doit être du Générateur pour qu'il fonctionne. Le plus bas qu'il puisse être est de 1 bloc et le plus haut est de 48 blocs. Ils se déplacent en cercle autour du générateur plutôt que d'être placés directement sur des blocs. Le Conduit et l'Œuf de Dragon ignoreront cela."]
 	quest.3E2A411FF5B4B0E7.title: "Portée d'Activation"
 	quest.40096ED0B04C3EC5.quest_desc: ["Le must-have pour tous les Générateurs. Lorsqu'il mentionne qu'il ignore toutes les conditions, cela signifie qu'il néglige toutes les conditions (bien que pas vraiment toutes). Ignore les niveaux de lumière, les blocs nécessaires à la génération et les joueurs à proximité. Les conditions d'espace sont toujours nécessaires, comme les slimes ayant besoin d'une zone de 3x3 pour apparaître."]
@@ -236,7 +236,7 @@
 	quest.5AC1BE754210429E.quest_desc: ["Si vous souhaitez créer une équipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!"]
 	quest.5AC497F76A086A5C.quest_subtitle: "Tuer 5 Sorcières"
 	quest.5AC497F76A086A5C.title: "&l&9Prime dans l'Overworld:&r&e Sorcières"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 est un pack &aTout-en-un&r, ce qui signifie que tu es libre d'explorer et de jouer au modpack comme tu le souhaites !\\n\\nCependant, il y a un objectif de fin de jeu : fabriquer l'&6ATM Star&r !\\n\\nCette suite de quêtes sert de guide pour tous les joueurs, que tu débutes complètement sur Minecraft ou que tu aies déjà joué à d'anciens packs ATM.\\n\\nComme dans presque tous les modpacks, commence par récupérer du bois !"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon est un pack &aTout-en-un&r, ce qui signifie que tu es libre d'explorer et de jouer au modpack comme tu le souhaites !\\n\\nCependant, il y a un objectif de fin de jeu : fabriquer l'&6ATM Star&r !\\n\\nCette suite de quêtes sert de guide pour tous les joueurs, que tu débutes complètement sur Minecraft ou que tu aies déjà joué à d'anciens packs ATM.\\n\\nComme dans presque tous les modpacks, commence par récupérer du bois !"]
 	quest.5CF320E9C4C1B1E1.title: "&eBienvenue dans les premiers pas&r !"
 	quest.5E4FE420B6D2C97F.title: "&eModule compacteur avancée"
 	quest.5E799B92358A8732.quest_desc: ["Dans le &cNether&r, tu trouveras des &6Débris antiques&r. Ils peuvent être fondus en fragments, qui peuvent être combinés avec de l'or pour créer des &6lingots de Netherite&r, un métal de fin de jeu utilisé pour fabriquer certains des outils et armures les plus puissants du jeu."]

@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.007B547630FF0478.title: "Theurgy"
 	chapter.05E614FDA677D85E.title: "Comida y Cultivo"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -74,7 +74,7 @@
 	chapter_group.6614EE2378B8AFB9.title: "Recursos"
 	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Herramientas y Equipamiento"
-	file.0000000000000001.title: "All The Mods 10"
+	file.0000000000000001.title: "FactorMoon"
 	quest.00075A5F9AC120ED.quest_desc: ["Esto sacará los objetos de tu cofre de entrada."]
 	quest.00075A5F9AC120ED.quest_subtitle: "Siempre Necesario"
 	quest.000C1ECD781F3F81.quest_desc: ["¡&2&lNature&r está hecho para usar la Tierra a nuestro favor &2Envenenando&r y &2Debilitando&r a nuestros enemigos! ¡Justo como lo que las Grandes Corporaciones le hacen a la Tierra misma! \\nEl Material de Enfoque de &2&lNature&r es la &2Patata Venenosa&r. \\n\\nLos &2Pergaminos&r son &aVerde Claro&r con texto &2Verde Oscuro&r."]
@@ -1214,7 +1214,7 @@
 	quest.122282C288EAD366.quest_subtitle: "&f6 &cDaño de Ataque"
 	quest.12256A90B1CE3F90.quest_desc: ["Aunque sí puedes usar Canteras o Mineros del Vacío para obtener los Minerales, si realmente quieres la mejor manera de automatizar &bCristales Arcanos&r, ¡entonces necesitarás &6&lAbejas&r! \\n¡&bAbejas de Diamante&r para ser más exactos. Simplemente alimenta una &bAbeja de Diamante&r con un &bBloque de Cristales Arcanos&r y se convertirán en una &bAbeja Arcanus&r! \\n\\nLas &bAbejas Arcanus&r también necesitan &bBloques de Cristales Arcanos&r como Bloques de Floración, ¡entonces harán &bPanal Arcanus&r! Que puede convertirse en &bCristales Arcanos&r."]
 	quest.12256A90B1CE3F90.title: "Automatizando &bCristales Arcanos"
-	quest.12274935C3D20C74.quest_desc: ["Como la totalidad de Consejos de Construcción en &6&lATM10&r, no puedo enseñarte cómo diseñar tu &5Tren&r... ¡pero puedo darte Consejos! \\n\\nHay toneladas de diferentes Bloques de Construcción que puedes usar, muchas de las Carcasas de &6&lCreate&r se ven limpias y los Hormigones pueden ayudar a dar un aspecto más elegante. \\n\\nPuedes usar también Puertas y Trampillas dentro del &5Tren&r que también pueden usarse cuando el &5Tren&r está en movimiento. \\n\\n¿Qué tal hacerlo bonito? Bueno, Escaleras, Losas y Trampillas ayudan a darle Forma, así como el Volante o los &dEngranajes&r dan bonitos bordes redondos. \\n\\n¡Demonios, incluso puedes ponerle una Fogata para hacer una Máquina de Vapor!"]
+	quest.12274935C3D20C74.quest_desc: ["Como la totalidad de Consejos de Construcción en &6&lFactorMoon&r, no puedo enseñarte cómo diseñar tu &5Tren&r... ¡pero puedo darte Consejos! \\n\\nHay toneladas de diferentes Bloques de Construcción que puedes usar, muchas de las Carcasas de &6&lCreate&r se ven limpias y los Hormigones pueden ayudar a dar un aspecto más elegante. \\n\\nPuedes usar también Puertas y Trampillas dentro del &5Tren&r que también pueden usarse cuando el &5Tren&r está en movimiento. \\n\\n¿Qué tal hacerlo bonito? Bueno, Escaleras, Losas y Trampillas ayudan a darle Forma, así como el Volante o los &dEngranajes&r dan bonitos bordes redondos. \\n\\n¡Demonios, incluso puedes ponerle una Fogata para hacer una Máquina de Vapor!"]
 	quest.12274935C3D20C74.title: "Decorando tu &5Tren&r"
 	quest.122E6E7CABCB17E7.quest_desc: ["Por alguna razón los Creepers tienen miedo de los Gatos. Los Creepers también son extremadamente tontos y creen que los Gatos a los que se parecen tus &7Zapatillas&r son reales. \\n\\nTodos los Creepers huirán de ti y no serán hostiles cuando lleves puestas estas &7Zapatillas&r. \\n\\n¡También hace ruidos de Gatito cuando recibes daño! (Aunque no puedo asegurarte que siempre caerás de Pie)."]
 	quest.122E6E7CABCB17E7.quest_subtitle: "Pies"
@@ -2484,7 +2484,7 @@
 	]
 	quest.264BFB8C5F79616F.quest_desc: ["Colocar un Nido de Nieve en un bioma nevado atraerá a una Abeja Sudorosa."]
 	quest.264BFB8C5F79616F.quest_subtitle: "Atrae a la Abeja Sudorosa en Biomas Fríos"
-	quest.266127E7947CB3D4.quest_desc: ["¡Todas las hermosas Construcciones que ves en esta Página de Misión son de gente del Discord de ATM! \\n\\n¡No te preocupes, todos han dado su consentimiento para compartir sus Construcciones y han sido acreditados! \\n\\nSi deseas compartir tus Construcciones también, ¡revisa el Canal artwork-builds-showoff en el Discord! \\n\\n(No puedo asegurar que todas las Construcciones fueron hechas en ATM10 solo que fueron hechas por compañeros Jugadores de Minecraft. De la misma manera que algunos podrían usar Shaders, ¡así que si tus Construcciones no son exactamente iguales esa podría ser la razón!)"]
+	quest.266127E7947CB3D4.quest_desc: ["¡Todas las hermosas Construcciones que ves en esta Página de Misión son de gente del Discord de ATM! \\n\\n¡No te preocupes, todos han dado su consentimiento para compartir sus Construcciones y han sido acreditados! \\n\\nSi deseas compartir tus Construcciones también, ¡revisa el Canal artwork-builds-showoff en el Discord! \\n\\n(No puedo asegurar que todas las Construcciones fueron hechas en FactorMoon solo que fueron hechas por compañeros Jugadores de Minecraft. De la misma manera que algunos podrían usar Shaders, ¡así que si tus Construcciones no son exactamente iguales esa podría ser la razón!)"]
 	quest.2664388EBA1E8F90.quest_subtitle: "&f8 &cDaño de Ataque"
 	quest.268309AF3C0453C9.quest_desc: [
 		"Lo siguiente que haremos son bobinas para un tipo especial de horno. "
@@ -3504,7 +3504,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
 	]
 	quest.36926B5EBFF6E55A.title: "Haciendo &cMercurio"
-	quest.3697AAF8F281B247.quest_desc: ["¡Este es complicado! ¡Así que escucha con atención! \\n1º es construir la &bMáquina de Vapor&r real. Los &bTanques de Fluido&r juzgarán cuánta &9Agua&r puede contenerse dentro y decidirán el Nivel en el que estará la &bMáquina de Vapor&r. \\n\\nLuego, simplemente conecta la &bMáquina de Vapor&r al lado de los &bTanques de Fluido&r y se convertirá en una &bCaldera de Vapor&r. Después, coloca un &8Eje&r en la &bMáquina de Vapor&r para obtener nuestro Brazo Mecánico que nos dará &dPotencia Rotacional&r de ella. \\n\\n2º es una &cFuente de Calor&r. Necesitaremos una &cFuente de Calor&r debajo de los &bTanques de Fluido&r para calentar el &9Agua&r. Hay bastantes &cFuentes de Calor&r: Fuego, Fogata, Lava, Bloques de Magma ¡pero los &cQuemadores de Blaze&r son los mejores! \\n\\n¡Cuanto mejor sea la &cFuente de Calor&r, más Unidades de Estrés! ¡Así que alimenta esos &cQuemadores de Blaze&r con algunas &cTortas de Blaze&r y estarás arrasando! \\n\\n3º es &9Agua&r. Este es el combustible de nuestra &bMáquina de Vapor&r, no habría Vapor sin &9Agua&r. \\n\\n¡Sin embargo, cómo &bTransportes&r el &9Agua&r es tu elección, pero para &6&lATM10&r recomiendo un Fregadero y &9&lID&r!"]
+	quest.3697AAF8F281B247.quest_desc: ["¡Este es complicado! ¡Así que escucha con atención! \\n1º es construir la &bMáquina de Vapor&r real. Los &bTanques de Fluido&r juzgarán cuánta &9Agua&r puede contenerse dentro y decidirán el Nivel en el que estará la &bMáquina de Vapor&r. \\n\\nLuego, simplemente conecta la &bMáquina de Vapor&r al lado de los &bTanques de Fluido&r y se convertirá en una &bCaldera de Vapor&r. Después, coloca un &8Eje&r en la &bMáquina de Vapor&r para obtener nuestro Brazo Mecánico que nos dará &dPotencia Rotacional&r de ella. \\n\\n2º es una &cFuente de Calor&r. Necesitaremos una &cFuente de Calor&r debajo de los &bTanques de Fluido&r para calentar el &9Agua&r. Hay bastantes &cFuentes de Calor&r: Fuego, Fogata, Lava, Bloques de Magma ¡pero los &cQuemadores de Blaze&r son los mejores! \\n\\n¡Cuanto mejor sea la &cFuente de Calor&r, más Unidades de Estrés! ¡Así que alimenta esos &cQuemadores de Blaze&r con algunas &cTortas de Blaze&r y estarás arrasando! \\n\\n3º es &9Agua&r. Este es el combustible de nuestra &bMáquina de Vapor&r, no habría Vapor sin &9Agua&r. \\n\\n¡Sin embargo, cómo &bTransportes&r el &9Agua&r es tu elección, pero para &6&lFactorMoon&r recomiendo un Fregadero y &9&lID&r!"]
 	quest.3697AAF8F281B247.title: "&bMáquina de Vapor"
 	quest.369D3AF332181DA8.quest_desc: ["El Nido de Piedra puede colocarse en cualquier bioma del overworld para atraer una Abeja Masona o Abeja Cavadora."]
 	quest.369D3AF332181DA8.quest_subtitle: "Atrae Abejas en cualquier Bioma del Overworld"
@@ -3832,8 +3832,8 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lJetpack Creativo"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorción II (3:00)\\n - Velocidad II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Manzana de Prudentium"
-	quest.3BC0A50886A3222B.quest_desc: ["¡ATM10 es un pack con &acasi todo lo imaginable&r que te permite explorar el mundo de Minecraft modeado a tu manera!\\n\\n¡Si tienes alguna pregunta o problema, siéntete libre de unirte al discord de ATM!"]
-	quest.3BC0A50886A3222B.title: "&d¡Bienvenido a All The Mods 10!"
+	quest.3BC0A50886A3222B.quest_desc: ["¡FactorMoon es un pack con &acasi todo lo imaginable&r que te permite explorar el mundo de Minecraft modeado a tu manera!\\n\\n¡Si tienes alguna pregunta o problema, siéntete libre de unirte al discord de ATM!"]
+	quest.3BC0A50886A3222B.title: "&d¡Bienvenido a FactorMoon!"
 	quest.3BC94B0B922C0708.quest_desc: ["Estos son ingredientes de fabricación para cosas que hacen importación, ya sea de objetos, fluidos o energía."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Serbal Común + Abeto Plateado"
 	quest.3BD73FEAE853D350.quest_desc: ["¿Alguna vez odiaste lo lento que es el &bHielo&r a menos que uses un Bote? ¡Lo cual sigue sin tener sentido para mí! Los &bPatines de Hielo&r cambian eso ahora aceleras en el &bHielo&r mientras llevas puestos los &bPatines de Hielo&r. ¡Puedes mejorarlos para acelerar más rápido! \\n \\nDespués de mejorarlos puedes obtener una Segunda Habilidad que te permite dañar Mobs chocando contra ellos mientras llevas puestos los &bPatines de Hielo&r."]
@@ -3872,7 +3872,7 @@
 	quest.3C8C80345D3F5FE8.quest_desc: ["El colector de objetos recoge objetos y los deposita en el inventario debajo de él."]
 	quest.3C9539083BCC145C.quest_desc: ["Las Abejas Menril pueden usarse para automatizar Trozos de Menril Cristalizado."]
 	quest.3C9539083BCC145C.quest_subtitle: "Automatizando Menril"
-	quest.3C99017FD32B6DE2.quest_desc: ["Las &eCarcasas de Latón&r se hacen de la misma manera que las Carcasas de &8Andesita&r y &cCobre&r. Simplemente aplica el &eObjeto&r a Madera Descortezada. \\n\\n¡Pero como las &eCarcasas de Latón&r nos dan algunas de las &6Máquinas&r más potentes, no será tan fácil de conseguir como la &8Andesita&r o el &cCobre&r! \\n\\n¡Afortunadamente esto es &6&lATM10&r así que puedes hacer &eLatón&r de muchas maneras diferentes! \\n\\nPero la forma de &6&lCreate&r sería lanzar un &cLingote de Cobre&r y un &7Lingote de Zinc&r en una &8Cuenca&r debajo de un &6Mezclador Mecánico&r, mientras la &8Cuenca&r está calentada."]
+	quest.3C99017FD32B6DE2.quest_desc: ["Las &eCarcasas de Latón&r se hacen de la misma manera que las Carcasas de &8Andesita&r y &cCobre&r. Simplemente aplica el &eObjeto&r a Madera Descortezada. \\n\\n¡Pero como las &eCarcasas de Latón&r nos dan algunas de las &6Máquinas&r más potentes, no será tan fácil de conseguir como la &8Andesita&r o el &cCobre&r! \\n\\n¡Afortunadamente esto es &6&lFactorMoon&r así que puedes hacer &eLatón&r de muchas maneras diferentes! \\n\\nPero la forma de &6&lCreate&r sería lanzar un &cLingote de Cobre&r y un &7Lingote de Zinc&r en una &8Cuenca&r debajo de un &6Mezclador Mecánico&r, mientras la &8Cuenca&r está calentada."]
 	quest.3C99017FD32B6DE2.title: "&eCarcasa de Latón"
 	quest.3C9F5EB59D72AC90.quest_desc: ["Se necesita un Bloque de Lingote de Supremium Despertado para fabricar la &6Estrella ATM&r."]
 	quest.3CAD0701EC16C2D8.quest_desc: [
@@ -5552,7 +5552,7 @@
 	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF para abreviar) es un mod tecnológico que añade muchas máquinas con diversos usos.\\n\\nPara empezar, craftea un &aMarco de Máquina de Lástima&r."]
 	quest.55820773BDD5319D.quest_subtitle: "Nivel: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.5585130028BB8298.quest_desc: ["¡El Arma más básica que podemos encontrar en &6&lATM10&r, el &d&lRevólver&r! \\n\\nMantén presionado Shift y haz Clic Derecho para abrir el &d&lRevólver&r, luego mueve algo de Munición a las Ranuras. ¡Después de eso, solo haz Clic Derecho para disparar! \\n\\nPuedes aplicarle 2 Mejoras. Las Mejoras son: Bayoneta, Cargador Rápido, Cargador Extendido, Tubos de Electrones Amplificadores y Mira de Precisión. \\n\\nEl &d&lRevólver&r solo puede tener 2 Mejoras pero el Cargador Rápido es técnicamente diferente."]
+	quest.5585130028BB8298.quest_desc: ["¡El Arma más básica que podemos encontrar en &6&lFactorMoon&r, el &d&lRevólver&r! \\n\\nMantén presionado Shift y haz Clic Derecho para abrir el &d&lRevólver&r, luego mueve algo de Munición a las Ranuras. ¡Después de eso, solo haz Clic Derecho para disparar! \\n\\nPuedes aplicarle 2 Mejoras. Las Mejoras son: Bayoneta, Cargador Rápido, Cargador Extendido, Tubos de Electrones Amplificadores y Mira de Precisión. \\n\\nEl &d&lRevólver&r solo puede tener 2 Mejoras pero el Cargador Rápido es técnicamente diferente."]
 	quest.5585130028BB8298.quest_subtitle: "¿Te sientes con suerte, Pringao?"
 	quest.5585130028BB8298.title: "&d&lRevólver"
 	quest.55882C10292B6A3D.quest_subtitle: "Alimenta una Abeja Cristalina con un Bloque de Prosperidad"
@@ -5984,7 +5984,7 @@
 	quest.5CE44C58A470E48E.title: "&l&3Artefactos"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resina + Junco"
 	quest.5CF2A069A3CC4EF6.title: "Abeja Sedosa"
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 es un pack &aKitchensink&r, lo que significa que ¡eres libre de explorar y jugar el modpack de la forma que quieras!\\n\\nSin embargo, hay un objetivo final: ¡Hacer la &6Estrella ATM&r!\\n\\nEsta línea de misiones sirve como guía para todos los jugadores, ya seas nuevo en Minecraft o hayas jugado packs ATM anteriores.\\n\\n¡Al igual que en casi todos los modpacks, consigue algo de madera para empezar!"]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["FactorMoon es un pack &aKitchensink&r, lo que significa que ¡eres libre de explorar y jugar el modpack de la forma que quieras!\\n\\nSin embargo, hay un objetivo final: ¡Hacer la &6Estrella ATM&r!\\n\\nEsta línea de misiones sirve como guía para todos los jugadores, ya seas nuevo en Minecraft o hayas jugado packs ATM anteriores.\\n\\n¡Al igual que en casi todos los modpacks, consigue algo de madera para empezar!"]
 	quest.5CF320E9C4C1B1E1.title: "¡&eBienvenido a Empezando&r!"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
 		"Mientras sostienes tu Libro de Hechizos, puedes presionar C para abrir la página de creación de hechizos. \\n\\nCada hechizo debe tener una forma. Comienzas con 3 formas básicas: Proyectil, Autolanzamiento y Toque. \\n\\nEn cuanto al Efecto, esto determina qué sucede cuando lanzas el hechizo. Puedes tener hasta 9 efectos por hechizo. \\n\\nPara empezar, tienes Dañar y Romper. \\n\\n¡Selecciona una Forma y un Efecto, nombra tu hechizo y haz clic en crear!"

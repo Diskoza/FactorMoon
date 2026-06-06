@@ -1,4 +1,4 @@
-{
+﻿{
 	chapter.004F28C5C85F467B.title: "Blod magi"
 	chapter.00E59A3B38CB7EEA.title: "Vanvittig spenning"
 	chapter.05E614FDA677D85E.title: "Mat og jordbruk"
@@ -1670,13 +1670,13 @@
 	quest.3B88D58B11B5DC78.quest_subtitle: "&5Tier 4&r"
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple&r"
 	quest.3BC0A50886A3222B.quest_desc: [
-		"ATM10 er en kjøkkenvask-pakke som lar deg utforske verden av modifiserte Minecraft på din egen måte!    "
+		"FactorMoon er en kjøkkenvask-pakke som lar deg utforske verden av modifiserte Minecraft på din egen måte!    "
 		""
-		"&lATM10 er for tiden i betastadiet av modpack-utvikling&r. Mods vil bli lagt til eller fjernet etter hvert som de blir oppdatert.    "
+		"&lFactorMoon er for tiden i betastadiet av modpack-utvikling&r. Mods vil bli lagt til eller fjernet etter hvert som de blir oppdatert.    "
 		""
 		"Hvis du har spørsmål eller problemer, kan du gjerne bli med i ATM-discorden!"
 	]
-	quest.3BC0A50886A3222B.title: "&dVelkommen til All The Mods 10!"
+	quest.3BC0A50886A3222B.title: "&dVelkommen til FactorMoon!"
 	quest.3BDB94F17765EE77.quest_desc: [
 		"If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &eExtreme Reactors&r bigger. Upgrade your &9Thermo Gens&r to Nitro. Go wild. "
 		""
@@ -2699,7 +2699,7 @@
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
 	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
 	quest.5CF320E9C4C1B1E1.quest_desc: [
-		"ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want! "
+		"FactorMoon is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want! "
 		""
 		"However, there is an endgame goal: Making the &6ATM Star&r! "
 		""

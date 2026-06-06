@@ -1,2 +1,4 @@
 ﻿file,issue,metadata
-trinkets-3.10.0.jar,fabric_only_loaded_through_connector,fabric.mod.json;META-INF/jars/cardinal-components-entity-6.1.0.jar:fabric.mod.json;META-INF/jars/cardinal-components-base-6.1.0.jar:fabric.mod.json
+cobblemon-battle-positions-1.1.3-factormoon-connector.jar,fabric_only_loaded_through_connector,fabric.mod.json
+cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar,fabric_only_loaded_through_connector,fabric.mod.json
+trinkets-3.10.0.jar,fabric_only_loaded_through_connector,fabric.mod.json;META-INF/jars/cardinal-components-base-6.1.0.jar:fabric.mod.json;META-INF/jars/cardinal-components-entity-6.1.0.jar:fabric.mod.json

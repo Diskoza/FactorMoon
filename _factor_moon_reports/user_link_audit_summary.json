@@ -1,14 +1,14 @@
 {
-  "factor_moon_jars": 686,
-  "factor_moon_mod_ids": 697,
+  "factor_moon_jars": 484,
+  "factor_moon_mod_ids": 485,
   "cobblemon_extra_jars": 161,
   "user_links": 96,
-  "already_present_or_equivalent": 70,
-  "needs_download_and_metadata_check": 20,
+  "already_present_or_equivalent": 60,
+  "needs_download_and_metadata_check": 30,
   "skip_forbidden_by_user": 5,
   "skip_modpack_file": 1,
   "datapack_candidates": 3,
-  "personal_or_custom_candidates": 2,
+  "personal_or_custom_candidates": 4,
   "translation_hits": 8256,
-  "focused_translation_hits": 2057
+  "focused_translation_hits": 2055
 }

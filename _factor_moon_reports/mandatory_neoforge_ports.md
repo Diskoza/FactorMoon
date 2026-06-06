@@ -9,14 +9,14 @@ User-confirmed mandatory manual ports from `cobblemon-extra` to FactorMoon NeoFo
 | Mod | Installed jar | Status |
 |---|---|---|
 | Poke Clothing | `FactorMoon/mods/poke-clothing-neoforge-1.1.2-port.1.jar` | Base NeoForge port installed: cloth items, wearable armor, armor materials, tailoring station block/item, assets, tags, safe vanilla recipes. Custom tailoring GUI and `poke-clothing:tailoring` recipes still need the second pass. |
+| Cobblemon: Fight Them All | `FactorMoon/mods/cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar` | Connector bridge port installed. Original Fabric/Kotlin logic is preserved; FactorMoon adds Java entrypoint wrappers and relaxed Fabric metadata so it loads without Fabric Language Kotlin. CCA use is routed through the active Cardinal Components base/entity modules supplied by Trinkets. |
+| Cobblemon Battle Positions | `FactorMoon/mods/cobblemon-battle-positions-1.1.3-factormoon-connector.jar` | Connector bridge port installed. Original Fabric jar is preserved with relaxed Fabric loader metadata; dependencies are satisfied by Cobblemon, RCT API, Forgified Fabric API, and Connector. |
 
 ## Still Mandatory
 
 | Mod | Fabric source jar | Port notes |
 |---|---|---|
 | Cardinal Components API | `cardinal-components-api-6.1.3.jar` | Fabric/Quilt library container with 8 nested modules. Needed mainly because Fight Them All uses entity components. Best NeoForge path is a compatibility layer over NeoForge attachments or a Fight Them All rewrite that replaces CCA usage. |
-| Cobblemon: Fight Them All | `cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3.jar` | Kotlin/Fabric mod with Cobblemon battle mixins and CCA entity components. Needs CCA replacement first. |
-| Cobblemon Battle Positions | `cobblemon-battle-positions-1.1.3.jar` | Smaller mixin + block port. Depends on Cobblemon and RCT API. |
 | CobbleCuisine | `cobblecuisine-2.0.1-1.7-rc1.jar` | Content and food addon with many assets/data files; no mixin file in the original, so likely a registry/config port. |
 | Pokeblocks | `pokeblocks-1.4.0-1.21.1.jar` | Large decorative block/entity port with 361 classes, Geckolib dependency, 615 data entries, and 1267 assets. |
 | LumyMon | `LumyMon-0.6.3.jar` | Large Cobbleverse system mod with blocks/items, legendary/altar logic, dimensions/features, client code, and mixins. |
