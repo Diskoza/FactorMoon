@@ -1,6 +1,6 @@
 ﻿# Active Mods
 
-Generated at: 2026-06-06T15:27:57
+Generated at: 2026-06-06T15:40:21
 
 Active mod jar count: 482
 
@@ -411,7 +411,7 @@ Active mod jar count: 482
 | `smart_particles-21.8.10.jar` | 50773 | `f6f017e9d3f36f871781a1647937527bdc8a2fad` |
 | `SmartBrainLib-neoforge-1.21.1-1.16.11.jar` | 391053 | `0310135a01eeceefbc7f1ab017498a65f3ad6836` |
 | `smithingtemplateviewer-1.0.4.jar` | 39702 | `4fea33926fafbd59f7434d1e4e64938ddee5d5db` |
-| `sodiumdynamiclights-neoforge-1.0.5-1.21.1-factormoon-no-lambapi.jar` | 296114 | `ef16eae7c7509a8d7da4d5e1c3ce30c2fbd30358` |
+| `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar` | 299353 | `02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652` |
 | `sodium-extra-neoforge-0.6.0+mc1.21.1.jar` | 367047 | `7473bb42753902c639294821af13e9cd9ee735da` |
 | `sodium-neoforge-0.6.13+mc1.21.1.jar` | 1162994 | `38af70fa4dc4b2aaac636e92fdba3bedd5a025e1` |
 | `sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar` | 309122 | `5d014d031fa77ab600e07835b032ef4dcb79b442` |

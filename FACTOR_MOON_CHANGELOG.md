@@ -67,6 +67,13 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - Left disabled files locally in `_disabled_mods/2026-06-06-friend-slim-pass`; this folder is ignored by Git.
 - Updated `ACTIVE_MODS.*`, `current_factor_moon_mod_inventory.csv`, validation files, and added `_factor_moon_reports/friend_recommendation_slim_pass.md`.
 
+## 2026-06-06 Railcraft Dynamic Lights Fix
+
+- Fixed the next launch blocker where Railcraft Reborn crashed during `FMLClientSetupEvent` with missing `dev/lambdaurora/lambdynlights/api/DynamicLightHandler`.
+- Replaced `sodiumdynamiclights-neoforge-1.0.5-1.21.1-factormoon-no-lambapi.jar` with `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`.
+- The old no-LambAPI jar was moved to `_factor_moon_reports/replaced_mod_backups/2026-06-06-railcraft-lambdynlights-api`.
+- This is safe after the friend slim pass because Ars Nouveau, the previous duplicate LambDynamicLights API source, is no longer active.
+
 ## Current State
 
 - Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.

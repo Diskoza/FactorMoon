@@ -1,6 +1,6 @@
 # FactorMoon Build Report
 
-Updated: 2026-06-06 15:22
+Updated: 2026-06-06 15:40
 
 ## Direction
 - FactorMoon is based on the `aeronaftics` mega-pack line plus the CreateAERO/Cobblemon merge layer.
@@ -31,6 +31,7 @@ Updated: 2026-06-06 15:22
 - Fifteenth launch reached spawn-chunk generation and then stalled after a critical mixin conflict: `artifacts` could not inject into `NaturalSpawner` because `tpsum` had already overwritten the same spawn method. Active `tpsum-1.21.1-0.0.3.jar` is now patched to keep its non-spawn optimizations while removing only the `entity_spawn` mixins from `tpsum.mixins.json`.
 - The visible recipe-browser conflict was reduced to the `aeronaftics` JEI stack. EMI, EMI addons, REI, and the EMI-only `extra_mod_integrations` addon are no longer active; after the friend recommendation slim pass, active recipe-browser jars are `jei`, `ae2jeiintegration`, and `ftb-jei-extras`.
 - The friend recommendation slim pass moved 189 active jar files and 385 KubeJS script/data files out of active use, leaving local backups in `_disabled_mods/2026-06-06-friend-slim-pass`. The disabled areas include ATM leftovers, Refined Storage, duplicate tech stacks, large magic stacks, extra dimensions, MineColonies, and duplicate map/UI/food/decor layers.
+- The next launch found Railcraft Reborn calling LambDynamicLights API classes that were absent from the earlier no-LambAPI Sodium Dynamic Lights patch. Active Sodium Dynamic Lights is now `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`, which provides `DynamicLightHandler` and `DynamicLightHandlers`; the old patched jar is backed up in `_factor_moon_reports/replaced_mod_backups/2026-06-06-railcraft-lambdynlights-api`.
 - The static validator now writes `_factor_moon_reports/validation_unsupported_dependency_versions.csv`; it is intentionally broad, so the focused first-launch interpretation is in `_factor_moon_reports/create_and_first_launch_audit.md`.
 
 ## Newly Ported Locally

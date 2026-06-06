@@ -3,6 +3,37 @@
 Date: 2026-06-05
 Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228 / Create 6.0.10
 
+## Eighteenth launch Railcraft / LambDynamicLights API fix
+
+The next launch stopped during mod loading:
+
+```text
+Railcraft Reborn (railcraft) encountered an error while dispatching the net.neoforged.fml.event.lifecycle.FMLClientSetupEvent event
+java.lang.NoClassDefFoundError: dev/lambdaurora/lambdynlights/api/DynamicLightHandler
+```
+
+Root cause:
+
+- Active `sodiumdynamiclights-neoforge-1.0.5-1.21.1-factormoon-no-lambapi.jar` was a local patch made earlier to avoid a split-package conflict with Ars Nouveau's bundled LambDynamicLights API.
+- After the friend recommendation slim pass, Ars Nouveau is no longer active, so the no-LambAPI patch removed the only provider of classes Railcraft expects.
+
+Applied fix:
+
+| Removed from active mods | Active replacement |
+|---|---|
+| `sodiumdynamiclights-neoforge-1.0.5-1.21.1-factormoon-no-lambapi.jar` | `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar` |
+
+Backups are in `_factor_moon_reports/replaced_mod_backups/2026-06-06-railcraft-lambdynlights-api`.
+
+Post-fix checks:
+
+- Only one active jar now provides `dev/lambdaurora/lambdynlights/api/*`: `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`.
+- Railcraft references `DynamicLightHandler` and `DynamicLightHandlers`; both exist in the active replacement.
+- Installed active jar files: 482
+- Duplicate primary mod ids: 0
+- Missing required dependencies: 0
+- Fabric jars expected through Sinytra Connector: 1
+
 ## Seventeenth pass Friend recommendation slim pass
 
 The user's friend's recommendations were applied as a broad but dependency-aware slimming pass before adding more performance mods.

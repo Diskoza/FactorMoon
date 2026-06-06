@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-06T15:27:57",
+    "generated_at":  "2026-06-06T15:40:21",
     "pack":  "FactorMoon",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.228",
@@ -2031,9 +2031,9 @@
                      "sha1":  "4fea33926fafbd59f7434d1e4e64938ddee5d5db"
                  },
                  {
-                     "file":  "sodiumdynamiclights-neoforge-1.0.5-1.21.1-factormoon-no-lambapi.jar",
-                     "size":  296114,
-                     "sha1":  "ef16eae7c7509a8d7da4d5e1c3ce30c2fbd30358"
+                     "file":  "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+                     "size":  299353,
+                     "sha1":  "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
                  },
                  {
                      "file":  "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
