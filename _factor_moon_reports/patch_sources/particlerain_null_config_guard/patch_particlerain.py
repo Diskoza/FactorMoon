@@ -115,6 +115,8 @@ def compile_helper(jar_path: Path, build_dir: Path) -> Path:
             "javac",
             "-encoding",
             "UTF-8",
+            "--release",
+            "21",
             "-cp",
             str(jar_path),
             "-d",
@@ -132,15 +134,14 @@ def compile_helper(jar_path: Path, build_dir: Path) -> Path:
 def write_patched_jar(jar_path: Path, helper_class: Path, build_dir: Path) -> None:
     tmp_jar = build_dir / jar_path.name
     with zipfile.ZipFile(jar_path, "r") as zin, zipfile.ZipFile(tmp_jar, "w", zipfile.ZIP_DEFLATED) as zout:
-        names = set()
         for info in zin.infolist():
+            if info.filename == HELPER_CLASS:
+                continue
             content = zin.read(info.filename)
             if info.filename == TARGET_CLASS:
                 content = patch_mixin_class(content)
             zout.writestr(info, content)
-            names.add(info.filename)
-        if HELPER_CLASS not in names:
-            zout.write(helper_class, HELPER_CLASS)
+        zout.write(helper_class, HELPER_CLASS)
 
     backup = jar_path.with_suffix(jar_path.suffix + ".pre-factormoon-nullconfig.bak")
     if not backup.exists():
