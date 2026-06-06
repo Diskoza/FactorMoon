@@ -86,6 +86,15 @@ def patch_constant_pool(class_bytes: bytes) -> bytes:
     entries[53] = utf8_entry("waterTint")
     entries[54] = utf8_entry("()Z")
 
+    # Redirect TextureUtil.getRippleResolution(List) to the guard as well. That
+    # method also reads ConfigManager.config during the first particle atlas
+    # stitch, before Particle Rain's config is guaranteed to be loaded.
+    entry101 = bytearray(entries[101])
+    if entry101[0] != 10:
+        raise ValueError("Unexpected constant-pool slot #101")
+    struct.pack_into(">H", entry101, 1, 50)
+    entries[101] = bytes(entry101)
+
     rebuilt = bytearray(data[:10])
     for entry in entries[1:]:
         if entry is not None:
@@ -95,16 +104,15 @@ def patch_constant_pool(class_bytes: bytes) -> bytes:
 
 
 def patch_mixin_class(class_bytes: bytes) -> bytes:
-    if PATCH_MARKER in class_bytes:
-        return class_bytes
-
     patched = bytearray(patch_constant_pool(class_bytes))
     pattern = bytes.fromhex("b2 00 31 b4 00 37 b4 00 3d 99")
     replacement = bytes.fromhex("b8 00 31 00 00 00 00 00 00 99")
     count = patched.count(pattern)
-    if count != 2:
+    if count not in (0, 2):
         raise ValueError(f"Expected two Particle Rain waterTint bytecode sites, found {count}")
-    return bytes(patched.replace(pattern, replacement))
+    if count == 2:
+        patched = patched.replace(pattern, replacement)
+    return bytes(patched)
 
 
 def compile_helper(jar_path: Path, build_dir: Path) -> Path:

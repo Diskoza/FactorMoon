@@ -98,6 +98,7 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - The patched mixin now asks `ConfigGuard.waterTint()` instead of reading `ConfigManager.config.compat.waterTint` directly, so an early resource reload can continue until Particle Rain has loaded its config.
 - Added the reproducible patch source/script under `_factor_moon_reports/patch_sources/particlerain_null_config_guard`.
 - Rebuilt the helper class with `javac --release 21` after the first local patch was accidentally compiled as Java 25 bytecode, which Minecraft's Java 21 runtime cannot load.
+- Extended the same guard to `TextureUtil.getRippleResolution`, covering the next early reload crash where `ConfigManager.config.ripple` was still null.
 
 ## Current State
 
