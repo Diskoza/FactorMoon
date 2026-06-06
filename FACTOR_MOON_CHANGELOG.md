@@ -54,15 +54,26 @@ This file tracks the merge and repair work done while turning the `aeronaftics` 
 - Lowered instance memory to start at 8 GiB and cap at 24 GiB after crash reports showed Java reserving too much RAM up front.
 - Patched `tpsum-1.21.1-0.0.3.jar` to remove only its entity-spawn mixins so `Artifacts` can apply its `NaturalSpawnerMixin`.
 - Reduced recipe-browser conflicts to the `aeronaftics` JEI stack:
-  - Kept `jei`, `ae2jeiintegration`, `ftb-jei-extras`, and `refinedstorage-jei-integration`.
+  - Kept `jei`, `ae2jeiintegration`, `ftb-jei-extras`, and temporarily `refinedstorage-jei-integration`.
   - Moved EMI, EMI addons, REI, `extra_mod_integrations`, and their EMI/REI configs/logs to backup.
+
+## 2026-06-06 Friend Recommendation Slim Pass
+
+- Applied the friend's recommendation to refocus FactorMoon away from ATM-style mega-pack sprawl and toward Create / Aeronautics, Cobblemon, AE2, JEI, worldgen, QoL, and performance.
+- Moved 189 active jar files out of `mods`, reducing active jars from 671 to 482.
+- Moved 385 KubeJS script/data files tied to disabled mod namespaces out of active `kubejs`.
+- Disabled the Refined Storage stack now that AE2 is the chosen storage axis.
+- Disabled large duplicate tech/magic/dimension/progression stacks including Mekanism, Modern Industrialization, Industrial Foregoing, Ender IO, Immersive Engineering, Ars Nouveau, Occultism, Theurgy, Mystical Agriculture, MineColonies, Aether, BetterNether, Twilight Forest, Bumblezone, and ATM leftovers.
+- Left disabled files locally in `_disabled_mods/2026-06-06-friend-slim-pass`; this folder is ignored by Git.
+- Updated `ACTIVE_MODS.*`, `current_factor_moon_mod_inventory.csv`, validation files, and added `_factor_moon_reports/friend_recommendation_slim_pass.md`.
 
 ## Current State
 
 - Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228.
-- Active jar count after JEI cleanup: 671.
+- Active jar count after the friend recommendation slim pass: 482.
 - Static validation: no duplicate primary mod IDs, no missing required dependencies, no Fabric-only jars outside the expected Connector set.
-- Known remaining risk: performance is still heavy, and the pack should be re-evaluated feature-by-feature before adding more optimization mods like C2ME/Noisium/Ksyxis.
+- Active recipe browser baseline: JEI, AE2 JEI Integration, and FTB JEI Extras.
+- Known remaining risk: the next actual launch/world-creation log is still needed; performance should be re-evaluated before adding more optimization mods like C2ME/Noisium/Ksyxis.
 
 ## Detailed Logs
 

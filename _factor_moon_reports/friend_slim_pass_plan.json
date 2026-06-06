@@ -1,0 +1,1136 @@
+﻿[
+    {
+        "file":  "actuallyadditions-1.3.25%2Bmc1.21.1.jar",
+        "primary_id":  "actuallyadditions",
+        "ids":  "actuallyadditions",
+        "reason":  "recommendation seed: actuallyadditions-"
+    },
+    {
+        "file":  "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.152.jar",
+        "primary_id":  "quarryplus",
+        "ids":  "quarryplus",
+        "reason":  "recommendation seed: AdditionalEnchantedMiner-"
+    },
+    {
+        "file":  "aether-1.21.1-1.5.10-neoforge.jar",
+        "primary_id":  "aether",
+        "ids":  "aether",
+        "reason":  "recommendation seed: aether-"
+    },
+    {
+        "file":  "allthearcanistgear-1.21.1-21.3.2.jar",
+        "primary_id":  "allthearcanistgear",
+        "ids":  "allthearcanistgear",
+        "reason":  "recommendation seed: allthearcanistgear-"
+    },
+    {
+        "file":  "allthecompressed-1.21.1-4.4.0.jar",
+        "primary_id":  "allthecompressed",
+        "ids":  "allthecompressed",
+        "reason":  "recommendation seed: allthecompressed-"
+    },
+    {
+        "file":  "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+        "primary_id":  "alltheleaks",
+        "ids":  "alltheleaks",
+        "reason":  "recommendation seed: alltheleaks-"
+    },
+    {
+        "file":  "allthemodium-3.0.0_mc_1.21.1.jar",
+        "primary_id":  "allthemodium",
+        "ids":  "allthemodium",
+        "reason":  "recommendation seed: allthemodium-"
+    },
+    {
+        "file":  "alltheores-3.2.0_neoforge_1.21.1.jar",
+        "primary_id":  "alltheores",
+        "ids":  "alltheores",
+        "reason":  "recommendation seed: alltheores-"
+    },
+    {
+        "file":  "allthetweaks-1.21.1-2.9.2.jar",
+        "primary_id":  "allthetweaks",
+        "ids":  "allthetweaks",
+        "reason":  "recommendation seed: allthetweaks-"
+    },
+    {
+        "file":  "allthewizardgear-1.21.1-1.1.12.jar",
+        "primary_id":  "allthewizardgear",
+        "ids":  "allthewizardgear",
+        "reason":  "recommendation seed: allthewizardgear-"
+    },
+    {
+        "file":  "Applied-Mekanistics-1.6.3.jar",
+        "primary_id":  "appmek",
+        "ids":  "appmek",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "file":  "Aquaculture-1.21.1-2.7.19.jar",
+        "primary_id":  "aquaculture",
+        "ids":  "aquaculture",
+        "reason":  "recommendation seed: Aquaculture-"
+    },
+    {
+        "file":  "ars_additions-1.21.1-21.3.0.jar",
+        "primary_id":  "ars_additions",
+        "ids":  "ars_additions",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_controle-1.21.1-1.6.15.jar",
+        "primary_id":  "ars_controle",
+        "ids":  "ars_controle",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_creo-1.21.1-5.2.0.jar",
+        "primary_id":  "ars_creo",
+        "ids":  "ars_creo",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_elemancy-1.21.1-1.16.jar",
+        "primary_id":  "ars_elemancy",
+        "ids":  "ars_elemancy",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_elemental-1.21.1-0.7.9_beta.jar",
+        "primary_id":  "ars_elemental",
+        "ids":  "ars_elemental",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_nouveau-1.21.1-5.11.3.jar",
+        "primary_id":  "ars_nouveau",
+        "ids":  "ars_nouveau",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_ocultas-1.21.1-2.4.0.jar",
+        "primary_id":  "ars_ocultas",
+        "ids":  "ars_ocultas",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_polymorphia-1.0.3.jar",
+        "primary_id":  "ars_polymorphia",
+        "ids":  "ars_polymorphia",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_technica-1.21.1-2.7.6.jar",
+        "primary_id":  "ars_technica",
+        "ids":  "ars_technica",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "ars_unification-1.2.18.jar",
+        "primary_id":  "ars_unification",
+        "ids":  "ars_unification",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "file":  "arseng-2.1.1-beta.jar",
+        "primary_id":  "arseng",
+        "ids":  "arseng",
+        "reason":  "recommendation seed: arseng-"
+    },
+    {
+        "file":  "bclib-21.0.21.jar",
+        "primary_id":  "bclib",
+        "ids":  "bclib",
+        "reason":  "recommendation seed: bclib-"
+    },
+    {
+        "file":  "beautify-neoforge-1.21.1-2.0.2.jar",
+        "primary_id":  "beautify",
+        "ids":  "beautify",
+        "reason":  "recommendation seed: beautify-"
+    },
+    {
+        "file":  "BetterNether-21.0.20.jar",
+        "primary_id":  "betternether",
+        "ids":  "betternether",
+        "reason":  "recommendation seed: BetterNether-"
+    },
+    {
+        "file":  "BetterThirdPerson-neoforge-1.9.0.jar",
+        "primary_id":  "betterthirdperson",
+        "ids":  "betterthirdperson",
+        "reason":  "recommendation seed: BetterThirdPerson-"
+    },
+    {
+        "file":  "bibliobiomes-1.21.1-1.6.1.jar",
+        "primary_id":  "bibliobiomes",
+        "ids":  "bibliobiomes",
+        "reason":  "recommendation seed: bibliobiomes-"
+    },
+    {
+        "file":  "bibliocraft-1.21.1-1.6.5.jar",
+        "primary_id":  "bibliocraft",
+        "ids":  "bibliocraft",
+        "reason":  "recommendation seed: bibliocraft-"
+    },
+    {
+        "file":  "bibliowoods-1.21.1-1.6.2.jar",
+        "primary_id":  "bibliowoods",
+        "ids":  "bibliowoods",
+        "reason":  "recommendation seed: bibliowoods-"
+    },
+    {
+        "file":  "biomereplacer-2.2.1-pinkeen-neo.jar",
+        "primary_id":  "biome_replacer",
+        "ids":  "biome_replacer",
+        "reason":  "recommendation seed: biomereplacer-"
+    },
+    {
+        "file":  "blockui-1.0.211-1.21.1-snapshot.jar",
+        "primary_id":  "blockui",
+        "ids":  "blockui",
+        "reason":  "recommendation seed: blockui-"
+    },
+    {
+        "file":  "BrandonsCore-1.21.1-3.2.1.309.jar",
+        "primary_id":  "brandonscore",
+        "ids":  "brandonscore",
+        "reason":  "recommendation seed: BrandonsCore-"
+    },
+    {
+        "file":  "Byzantine-1.21.1-48.jar",
+        "primary_id":  "byzantine",
+        "ids":  "byzantine",
+        "reason":  "orphaned required dependency after slimming: minecolonies"
+    },
+    {
+        "file":  "cabletiers-neoforge-1.21.1-0.6.11.jar",
+        "primary_id":  "cabletiers",
+        "ids":  "cabletiers",
+        "reason":  "orphaned required dependency after slimming: refinedstorage"
+    },
+    {
+        "file":  "CCSecureBoot-1.0.2-neoforge-1.21.1.jar",
+        "primary_id":  "ccsecureboot",
+        "ids":  "ccsecureboot",
+        "reason":  "recommendation seed: CCSecureBoot-"
+    },
+    {
+        "file":  "chipped-neoforge-1.21.1-4.0.2.jar",
+        "primary_id":  "chipped",
+        "ids":  "chipped",
+        "reason":  "recommendation seed: chipped-"
+    },
+    {
+        "file":  "chisel-neoforge-2.0.0+mc1.21.1.jar",
+        "primary_id":  "chisel",
+        "ids":  "chisel",
+        "reason":  "recommendation seed: chisel-"
+    },
+    {
+        "file":  "classicperipherals-0.4.2.1-neoforge-1.21.1.jar",
+        "primary_id":  "classicperipherals",
+        "ids":  "classicperipherals",
+        "reason":  "recommendation seed: classicperipherals-"
+    },
+    {
+        "file":  "CloudGlass-1.21.1-1.0.1.jar",
+        "primary_id":  "cloudglass",
+        "ids":  "cloudglass",
+        "reason":  "recommendation seed: CloudGlass-"
+    },
+    {
+        "file":  "commoncapabilities-1.21.1-neoforge-2.11.4.jar",
+        "primary_id":  "commoncapabilities",
+        "ids":  "commoncapabilities",
+        "reason":  "recommendation seed: commoncapabilities-"
+    },
+    {
+        "file":  "compactmachines-neoforge-7.0.81.jar",
+        "primary_id":  "compactmachines",
+        "ids":  "compactmachines",
+        "reason":  "recommendation seed: compactmachines-"
+    },
+    {
+        "file":  "connectedglass-1.1.14-neoforge-mc1.21.jar",
+        "primary_id":  "connectedglass",
+        "ids":  "connectedglass",
+        "reason":  "recommendation seed: connectedglass-"
+    },
+    {
+        "file":  "cookingforblockheads-neoforge-1.21.1-21.1.20.jar",
+        "primary_id":  "cookingforblockheads",
+        "ids":  "cookingforblockheads",
+        "reason":  "recommendation seed: cookingforblockheads-"
+    },
+    {
+        "file":  "createcontraptionterminals-1.21-1.3.0.jar",
+        "primary_id":  "createcontraptionterminals",
+        "ids":  "createcontraptionterminals",
+        "reason":  "orphaned required dependency after slimming: toms_storage"
+    },
+    {
+        "file":  "cyclopscore-1.21.1-neoforge-1.29.0-962.jar",
+        "primary_id":  "cyclopscore",
+        "ids":  "cyclopscore",
+        "reason":  "recommendation seed: cyclopscore-"
+    },
+    {
+        "file":  "darkmodeeverywhere-1.21-1.3.5.jar",
+        "primary_id":  "darkmodeeverywhere",
+        "ids":  "darkmodeeverywhere",
+        "reason":  "recommendation seed: darkmodeeverywhere-"
+    },
+    {
+        "file":  "deeperdarker-neoforge-1.21.1-1.3.5.jar",
+        "primary_id":  "deeperdarker",
+        "ids":  "deeperdarker",
+        "reason":  "recommendation seed: deeperdarker-"
+    },
+    {
+        "file":  "Design-n-Decor-1.21.1-2.1.0.jar",
+        "primary_id":  "dndecor",
+        "ids":  "dndecor",
+        "reason":  "recommendation seed: Design-n-Decor-"
+    },
+    {
+        "file":  "DimStorage-1.21.1-9.1.1.jar",
+        "primary_id":  "dimstorage",
+        "ids":  "dimstorage",
+        "reason":  "recommendation seed: DimStorage-"
+    },
+    {
+        "file":  "domum-ornamentum-1.0.233-snapshot-main.jar",
+        "primary_id":  "domum_ornamentum",
+        "ids":  "domum_ornamentum",
+        "reason":  "recommendation seed: domum-ornamentum-"
+    },
+    {
+        "file":  "Draconic-Evolution-1.21.1-3.1.4.632.jar",
+        "primary_id":  "draconicevolution",
+        "ids":  "draconicevolution",
+        "reason":  "recommendation seed: Draconic-Evolution-"
+    },
+    {
+        "file":  "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+        "primary_id":  "dungeoncrawl",
+        "ids":  "dungeoncrawl",
+        "reason":  "recommendation seed: DungeonCrawl-"
+    },
+    {
+        "file":  "DungeonsArise-1.21.1-2.1.68-release.jar",
+        "primary_id":  "dungeons_arise",
+        "ids":  "dungeons_arise",
+        "reason":  "recommendation seed: DungeonsArise-"
+    },
+    {
+        "file":  "dyenamics-1.21.1-3.4.2.jar",
+        "primary_id":  "dyenamics",
+        "ids":  "dyenamics",
+        "reason":  "recommendation seed: dyenamics"
+    },
+    {
+        "file":  "dyenamicsandfriends-1.21.1-2.2.2.jar",
+        "primary_id":  "dyenamicsandfriends",
+        "ids":  "dyenamicsandfriends",
+        "reason":  "recommendation seed: dyenamics"
+    },
+    {
+        "file":  "dysoncubeproject-1.0.2.jar",
+        "primary_id":  "dysoncubeproject",
+        "ids":  "dysoncubeproject",
+        "reason":  "recommendation seed: dysoncubeproject-"
+    },
+    {
+        "file":  "enderio-8.2.5-beta.jar",
+        "primary_id":  "enderio",
+        "ids":  "enderio",
+        "reason":  "recommendation seed: enderio-"
+    },
+    {
+        "file":  "EnderStorage-1.21.1-2.13.0.191.jar",
+        "primary_id":  "enderstorage",
+        "ids":  "enderstorage",
+        "reason":  "recommendation seed: EnderStorage-"
+    },
+    {
+        "file":  "entangled-1.3.21-neoforge-mc1.21.jar",
+        "primary_id":  "entangled",
+        "ids":  "entangled",
+        "reason":  "recommendation seed: entangled-"
+    },
+    {
+        "file":  "eternalstarlight-0.6.4%2B1.21.1%2Bneoforge.jar",
+        "primary_id":  "eternal_starlight",
+        "ids":  "eternal_starlight",
+        "reason":  "recommendation seed: eternalstarlight-"
+    },
+    {
+        "file":  "everythingcopper-1.21.1-2.4.5.jar",
+        "primary_id":  "everythingcopper",
+        "ids":  "everythingcopper",
+        "reason":  "recommendation seed: everythingcopper-"
+    },
+    {
+        "file":  "evilcraft-1.21.1-neoforge-1.2.84-834.jar",
+        "primary_id":  "evilcraft",
+        "ids":  "evilcraft;evilcraftcompat",
+        "reason":  "recommendation seed: evilcraft-"
+    },
+    {
+        "file":  "Explorify v1.6.4 f15-88.mod.jar",
+        "primary_id":  "explorify",
+        "ids":  "explorify",
+        "reason":  "recommendation seed: Explorify "
+    },
+    {
+        "file":  "extended-industrialization-1.15.35-1.21.1.jar",
+        "primary_id":  "extended_industrialization",
+        "ids":  "extended_industrialization",
+        "reason":  "recommendation seed: extended-industrialization-"
+    },
+    {
+        "file":  "ExtraDisks-1.21.1-4.0.14.jar",
+        "primary_id":  "extradisks",
+        "ids":  "extradisks",
+        "reason":  "recommendation seed: ExtraDisks-"
+    },
+    {
+        "file":  "ExtraStorage-1.21.1-5.0.8.jar",
+        "primary_id":  "extrastorage",
+        "ids":  "extrastorage",
+        "reason":  "recommendation seed: ExtraStorage-"
+    },
+    {
+        "file":  "ExtremeReactors2-1.21.1-2.4.28.jar",
+        "primary_id":  "bigreactors",
+        "ids":  "bigreactors",
+        "reason":  "recommendation seed: ExtremeReactors2-"
+    },
+    {
+        "file":  "factormoon-legendarymonuments-patch-1.0.0.jar",
+        "primary_id":  "factormoon_legendarymonuments_patch",
+        "ids":  "factormoon_legendarymonuments_patch",
+        "reason":  "recommendation seed: factormoon-legendarymonuments-patch-"
+    },
+    {
+        "file":  "factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+        "primary_id":  "factory_blocks",
+        "ids":  "factory_blocks",
+        "reason":  "recommendation seed: factory_blocks-"
+    },
+    {
+        "file":  "farmingforblockheads-neoforge-1.21.1-21.1.12.jar",
+        "primary_id":  "farmingforblockheads",
+        "ids":  "farmingforblockheads",
+        "reason":  "recommendation seed: farmingforblockheads-"
+    },
+    {
+        "file":  "FluxNetworks-1.21.1-8.0.0.jar",
+        "primary_id":  "fluxnetworks",
+        "ids":  "fluxnetworks",
+        "reason":  "recommendation seed: FluxNetworks-"
+    },
+    {
+        "file":  "forbidden_arcanus-2.6.1.jar",
+        "primary_id":  "forbidden_arcanus",
+        "ids":  "forbidden_arcanus",
+        "reason":  "recommendation seed: forbidden_arcanus-"
+    },
+    {
+        "file":  "formations-1.0.4-neoforge-mc1.21.jar",
+        "primary_id":  "formations",
+        "ids":  "formations",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "file":  "formationsnether-1.0.5-mc1.21+.jar",
+        "primary_id":  "formationsnether",
+        "ids":  "formationsnether",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "file":  "formationsoverworld-1.0.5-mc1.21+.jar",
+        "primary_id":  "formationsoverworld",
+        "ids":  "formationsoverworld",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "file":  "functionalstorage-1.21.1-1.5.5.jar",
+        "primary_id":  "functionalstorage",
+        "ids":  "functionalstorage",
+        "reason":  "recommendation seed: FunctionalStorage-"
+    },
+    {
+        "file":  "garnished-april-foods-26-neoforged.jar",
+        "primary_id":  "garnished",
+        "ids":  "garnished",
+        "reason":  "recommendation seed: garnished-april-foods-"
+    },
+    {
+        "file":  "generator-accelerator-neoforge-1.21.1-1.1.6.jar",
+        "primary_id":  "generator_accelerator",
+        "ids":  "generator_accelerator",
+        "reason":  "recommendation seed: generator-accelerator-"
+    },
+    {
+        "file":  "generatorgalore-1.21.1-1.6.3.jar",
+        "primary_id":  "generatorgalore",
+        "ids":  "generatorgalore",
+        "reason":  "recommendation seed: generatorgalore-"
+    },
+    {
+        "file":  "Glassential-renewed-1.21.1-3.4.1.jar",
+        "primary_id":  "glassential",
+        "ids":  "glassential",
+        "reason":  "recommendation seed: Glassential-"
+    },
+    {
+        "file":  "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+        "primary_id":  "gmut",
+        "ids":  "gmut",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "file":  "herbsandharvest-1.21.1-11.jar",
+        "primary_id":  "herbsandharvest",
+        "ids":  "herbsandharvest",
+        "reason":  "recommendation seed: herbsandharvest-"
+    },
+    {
+        "file":  "HostileNeuralNetworks-1.21.1-6.3.0.jar",
+        "primary_id":  "hostilenetworks",
+        "ids":  "hostilenetworks",
+        "reason":  "recommendation seed: HostileNeuralNetworks-"
+    },
+    {
+        "file":  "illagerwarship-1.0.1-neoforge-1.21.1.jar",
+        "primary_id":  "illagerwarship",
+        "ids":  "illagerwarship",
+        "reason":  "recommendation seed: illagerwarship-"
+    },
+    {
+        "file":  "Immersive-Energistics-1.1.0-beta.jar",
+        "primary_id":  "immeng",
+        "ids":  "immeng",
+        "reason":  "orphaned required dependency after slimming: immersiveengineering"
+    },
+    {
+        "file":  "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+        "primary_id":  "immersiveengineering",
+        "ids":  "immersiveengineering",
+        "reason":  "recommendation seed: ImmersiveEngineering-"
+    },
+    {
+        "file":  "industrial-foregoing-souls-1.21.1-1.10.7.jar",
+        "primary_id":  "industrialforegoingsouls",
+        "ids":  "industrialforegoingsouls",
+        "reason":  "recommendation seed: industrial-foregoing-souls-"
+    },
+    {
+        "file":  "industrialforegoing-1.21-3.6.38.jar",
+        "primary_id":  "industrialforegoing",
+        "ids":  "industrialforegoing",
+        "reason":  "recommendation seed: industrialforegoing-"
+    },
+    {
+        "file":  "industrialization_overdrive-1.11.1%2B1.21.1.jar",
+        "primary_id":  "industrialization_overdrive",
+        "ids":  "industrialization_overdrive",
+        "reason":  "recommendation seed: industrialization_overdrive-"
+    },
+    {
+        "file":  "integratedcrafting-1.21.1-neoforge-1.4.5-539.jar",
+        "primary_id":  "integratedcrafting",
+        "ids":  "integratedcrafting",
+        "reason":  "recommendation seed: integratedcrafting-"
+    },
+    {
+        "file":  "integrateddynamics-1.21.1-neoforge-1.32.3.jar",
+        "primary_id":  "integrateddynamics",
+        "ids":  "integrateddynamics;integrateddynamicscompat",
+        "reason":  "recommendation seed: integrateddynamics-"
+    },
+    {
+        "file":  "integratedscripting-1.21.1-neoforge-1.0.21-339.jar",
+        "primary_id":  "integratedscripting",
+        "ids":  "integratedscripting",
+        "reason":  "recommendation seed: integratedscripting-"
+    },
+    {
+        "file":  "integratedterminals-1.21.1-neoforge-1.6.28.jar",
+        "primary_id":  "integratedterminals",
+        "ids":  "integratedterminals;integratedterminalscompat",
+        "reason":  "recommendation seed: integratedterminals-"
+    },
+    {
+        "file":  "integratedtunnels-1.21.1-neoforge-1.9.4-606.jar",
+        "primary_id":  "integratedtunnels",
+        "ids":  "integratedtunnels;integratedtunnelscompat",
+        "reason":  "recommendation seed: integratedtunnels-"
+    },
+    {
+        "file":  "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar",
+        "primary_id":  "interdimensionalwirelesstransmitter",
+        "ids":  "interdimensionalwirelesstransmitter",
+        "reason":  "orphaned required dependency after slimming: refinedstorage"
+    },
+    {
+        "file":  "irons_jewelry-1.21.1-1.6.1.jar",
+        "primary_id":  "irons_jewelry",
+        "ids":  "irons_jewelry",
+        "reason":  "recommendation seed: irons_jewelry-"
+    },
+    {
+        "file":  "irons_patreon_lib-1.21.1-1.0.1.jar",
+        "primary_id":  "irons_patreon_lib",
+        "ids":  "irons_patreon_lib",
+        "reason":  "recommendation seed: irons_patreon_lib-"
+    },
+    {
+        "file":  "irons_spellbooks-1.21.1-3.15.5.jar",
+        "primary_id":  "irons_spellbooks",
+        "ids":  "irons_spellbooks",
+        "reason":  "recommendation seed: irons_spellbooks-"
+    },
+    {
+        "file":  "journeymap-neoforge-1.21.1-6.0.0-beta.60.jar",
+        "primary_id":  "journeymap",
+        "ids":  "journeymap;journeymap-wrongloader",
+        "reason":  "recommendation seed: journeymap-"
+    },
+    {
+        "file":  "JustEnoughMekanismMultiblocks-1.21.1-7.14.jar",
+        "primary_id":  "jei_mekanism_multiblocks",
+        "ids":  "jei_mekanism_multiblocks",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "file":  "laserio-1.9.11.jar",
+        "primary_id":  "laserio",
+        "ids":  "laserio",
+        "reason":  "recommendation seed: laserio-"
+    },
+    {
+        "file":  "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+        "primary_id":  "legendarymonuments",
+        "ids":  "legendarymonuments",
+        "reason":  "recommendation seed: LegendaryMonuments-"
+    },
+    {
+        "file":  "mahoutsukai-1.21.1-v1.36.26.jar",
+        "primary_id":  "mahoutsukai",
+        "ids":  "mahoutsukai",
+        "reason":  "recommendation seed: mahoutsukai-"
+    },
+    {
+        "file":  "mcjtylib-1.21-9.0.20.jar",
+        "primary_id":  "mcjtylib",
+        "ids":  "mcjtylib",
+        "reason":  "recommendation seed: mcjtylib-"
+    },
+    {
+        "file":  "Mekanism-1.21.1-10.7.18.84.jar",
+        "primary_id":  "mekanism",
+        "ids":  "mekanism",
+        "reason":  "recommendation seed: Mekanism-"
+    },
+    {
+        "file":  "mekanismcovers-1.3-BETA+1.21.jar",
+        "primary_id":  "mekanismcovers",
+        "ids":  "mekanismcovers",
+        "reason":  "recommendation seed: mekanismcovers-"
+    },
+    {
+        "file":  "MekanismGenerators-1.21.1-10.7.18.84.jar",
+        "primary_id":  "mekanismgenerators",
+        "ids":  "mekanismgenerators",
+        "reason":  "recommendation seed: MekanismGenerators-"
+    },
+    {
+        "file":  "MekanismTools-1.21.1-10.7.18.84.jar",
+        "primary_id":  "mekanismtools",
+        "ids":  "mekanismtools",
+        "reason":  "recommendation seed: MekanismTools-"
+    },
+    {
+        "file":  "mekanisticrouters-1.2.0.jar",
+        "primary_id":  "mekanisticrouters",
+        "ids":  "mekanisticrouters",
+        "reason":  "recommendation seed: mekanisticrouters-"
+    },
+    {
+        "file":  "mekmm-1.21.1-1.3.1.jar",
+        "primary_id":  "mekmm",
+        "ids":  "mekmm",
+        "reason":  "recommendation seed: mekmm-"
+    },
+    {
+        "file":  "mffs-5.4.27.jar",
+        "primary_id":  "mffs",
+        "ids":  "mffs",
+        "reason":  "recommendation seed: mffs-"
+    },
+    {
+        "file":  "mifa-neoforge-1.21.x-2.1.0.jar",
+        "primary_id":  "mifa",
+        "ids":  "mifa",
+        "reason":  "orphaned required dependency after slimming: industrialforegoing"
+    },
+    {
+        "file":  "minecolonies-1.1.1299-1.21.1-snapshot.jar",
+        "primary_id":  "minecolonies",
+        "ids":  "minecolonies",
+        "reason":  "recommendation seed: minecolonies-"
+    },
+    {
+        "file":  "Modern-Dynamics-0.9.6.jar",
+        "primary_id":  "moderndynamics",
+        "ids":  "moderndynamics",
+        "reason":  "recommendation seed: Modern-Dynamics-"
+    },
+    {
+        "file":  "Modern-Industrialization-2.4.2.jar",
+        "primary_id":  "modern_industrialization",
+        "ids":  "modern_industrialization",
+        "reason":  "recommendation seed: Modern-Industrialization-"
+    },
+    {
+        "file":  "modonomicon-1.21.1-neoforge-1.120.1.jar",
+        "primary_id":  "modonomicon",
+        "ids":  "modonomicon",
+        "reason":  "recommendation seed: modonomicon-"
+    },
+    {
+        "file":  "moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar",
+        "primary_id":  "moogs_structures",
+        "ids":  "moogs_structures",
+        "reason":  "recommendation seed: moogs_structures-"
+    },
+    {
+        "file":  "MoogsEndStructures-1.21-2.0.1.jar",
+        "primary_id":  "mes",
+        "ids":  "mes",
+        "reason":  "recommendation seed: MoogsEndStructures-"
+    },
+    {
+        "file":  "MoogsNetherStructures-1.21-2.0.31.jar",
+        "primary_id":  "mns",
+        "ids":  "mns",
+        "reason":  "recommendation seed: MoogsNetherStructures-"
+    },
+    {
+        "file":  "MoogsSoaringStructures-1.21-2.0.2.jar",
+        "primary_id":  "mss",
+        "ids":  "mss",
+        "reason":  "recommendation seed: MoogsSoaringStructures-"
+    },
+    {
+        "file":  "MoogsVoyagerStructures-1.21-5.0.5.jar",
+        "primary_id":  "mvs",
+        "ids":  "mvs",
+        "reason":  "recommendation seed: MoogsVoyagerStructures-"
+    },
+    {
+        "file":  "moreconcrete-neoforge-1.6.0-1.21.1.jar",
+        "primary_id":  "moreconcrete",
+        "ids":  "moreconcrete",
+        "reason":  "recommendation seed: moreconcrete-"
+    },
+    {
+        "file":  "mostructures-neoforge-1.6.0+1.21.1.jar",
+        "primary_id":  "mostructures",
+        "ids":  "mostructures",
+        "reason":  "recommendation seed: mostructures-"
+    },
+    {
+        "file":  "multipiston-1.2.58-1.21.1.jar",
+        "primary_id":  "multipiston",
+        "ids":  "multipiston",
+        "reason":  "recommendation seed: multipiston-"
+    },
+    {
+        "file":  "MysticalAgradditions-1.21.1-8.0.13.jar",
+        "primary_id":  "mysticalagradditions",
+        "ids":  "mysticalagradditions",
+        "reason":  "recommendation seed: MysticalAgradditions-"
+    },
+    {
+        "file":  "MysticalAgriculture-1.21.1-8.0.24.jar",
+        "primary_id":  "mysticalagriculture",
+        "ids":  "mysticalagriculture",
+        "reason":  "recommendation seed: MysticalAgriculture-"
+    },
+    {
+        "file":  "MysticalCustomization-1.21.1-6.0.2.jar",
+        "primary_id":  "mysticalcustomization",
+        "ids":  "mysticalcustomization",
+        "reason":  "recommendation seed: MysticalCustomization-"
+    },
+    {
+        "file":  "NaturesAura-41.9.jar",
+        "primary_id":  "naturesaura",
+        "ids":  "naturesaura",
+        "reason":  "recommendation seed: NaturesAura-"
+    },
+    {
+        "file":  "not_enough_glyphs-1.21.1-4.2.9.jar",
+        "primary_id":  "not_enough_glyphs",
+        "ids":  "not_enough_glyphs",
+        "reason":  "recommendation seed: not_enough_glyphs-"
+    },
+    {
+        "file":  "notenoughanimations-neoforge-1.12.0-mc1.21.1.jar",
+        "primary_id":  "notenoughanimations",
+        "ids":  "notenoughanimations",
+        "reason":  "recommendation seed: notenoughanimations-"
+    },
+    {
+        "file":  "Nullscape_1.21.x_v1.2.14.jar",
+        "primary_id":  "nullscape",
+        "ids":  "nullscape",
+        "reason":  "recommendation seed: Nullscape_"
+    },
+    {
+        "file":  "occultism-1.21.1-neoforge-1.208.0.jar",
+        "primary_id":  "occultism",
+        "ids":  "occultism",
+        "reason":  "recommendation seed: occultism-"
+    },
+    {
+        "file":  "occultism_kubejs-1.21.1-neoforge-1.11.0.jar",
+        "primary_id":  "occultism_kubejs",
+        "ids":  "occultism_kubejs",
+        "reason":  "recommendation seed: occultism_kubejs-"
+    },
+    {
+        "file":  "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+        "primary_id":  "biomeswevegone",
+        "ids":  "biomeswevegone",
+        "reason":  "recommendation seed: Oh-The-Biomes-Weve-Gone-"
+    },
+    {
+        "file":  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar",
+        "primary_id":  "ohthetreesyoullgrow",
+        "ids":  "ohthetreesyoullgrow",
+        "reason":  "recommendation seed: Oh-The-Trees-Youll-Grow-"
+    },
+    {
+        "file":  "oritech-neoforge-1.21.1-1.1.0.jar",
+        "primary_id":  "oritech",
+        "ids":  "oritech",
+        "reason":  "recommendation seed: oritech-"
+    },
+    {
+        "file":  "pamhc2crops-NEOFORGE-1.21.1-1.0.7.jar",
+        "primary_id":  "pamhc2crops",
+        "ids":  "pamhc2crops",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "file":  "pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
+        "primary_id":  "pamhc2foodcore",
+        "ids":  "pamhc2foodcore",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "file":  "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+        "primary_id":  "pamhc2foodextended",
+        "ids":  "pamhc2foodextended",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "file":  "pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar",
+        "primary_id":  "pamhc2trees",
+        "ids":  "pamhc2trees",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "file":  "pipeorgans-0.8.2+1.21.1.jar",
+        "primary_id":  "pipeorgans",
+        "ids":  "pipeorgans",
+        "reason":  "recommendation seed: pipeorgans-"
+    },
+    {
+        "file":  "pipez-neoforge-1.21.1-1.2.19.jar",
+        "primary_id":  "pipez",
+        "ids":  "pipez",
+        "reason":  "recommendation seed: pipez-"
+    },
+    {
+        "file":  "pocketstorage-1.2.5+1.21.1-b3.jar",
+        "primary_id":  "pocketstorage",
+        "ids":  "pocketstorage",
+        "reason":  "recommendation seed: pocketstorage-"
+    },
+    {
+        "file":  "potionsmaster-21.1.113-1.0.1.jar",
+        "primary_id":  "potionsmaster",
+        "ids":  "potionsmaster",
+        "reason":  "recommendation seed: potionsmaster-"
+    },
+    {
+        "file":  "rechiseled-1.2.4-neoforge-mc1.21.jar",
+        "primary_id":  "rechiseled",
+        "ids":  "rechiseled",
+        "reason":  "recommendation seed: rechiseled-"
+    },
+    {
+        "file":  "rechiseled_chipped-2.0-1.21.1.jar",
+        "primary_id":  "rechiseled_chipped",
+        "ids":  "rechiseled_chipped",
+        "reason":  "recommendation seed: rechiseled_chipped-"
+    },
+    {
+        "file":  "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "primary_id":  "rechiseledcreate",
+        "ids":  "rechiseledcreate",
+        "reason":  "recommendation seed: rechiseledcreate-"
+    },
+    {
+        "file":  "refined-types-1.21.1-0.2.9.jar",
+        "primary_id":  "refinedtypes",
+        "ids":  "refinedtypes",
+        "reason":  "recommendation seed: refined-types-"
+    },
+    {
+        "file":  "refinedstorage-curios-integration-1.0.0.jar",
+        "primary_id":  "refinedstorage_curios_integration",
+        "ids":  "refinedstorage_curios_integration",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "file":  "refinedstorage-jei-integration-neoforge-1.0.0.jar",
+        "primary_id":  "refinedstorage_jei_integration",
+        "ids":  "refinedstorage_jei_integration",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "file":  "refinedstorage-mekanism-integration-1.1.1.jar",
+        "primary_id":  "refinedstorage_mekanism_integration",
+        "ids":  "refinedstorage_mekanism_integration",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "file":  "refinedstorage-neoforge-2.0.1.jar",
+        "primary_id":  "refinedstorage",
+        "ids":  "refinedstorage",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "file":  "refinedstorage-quartz-arsenal-neoforge-1.0.6.jar",
+        "primary_id":  "refinedstorage_quartz_arsenal",
+        "ids":  "refinedstorage_quartz_arsenal",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "file":  "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "primary_id":  "refurbished_furniture",
+        "ids":  "refurbished_furniture",
+        "reason":  "recommendation seed: refurbished_furniture-"
+    },
+    {
+        "file":  "restrictions-1.21-7.0.3.jar",
+        "primary_id":  "restrictions",
+        "ids":  "restrictions",
+        "reason":  "orphaned required dependency after slimming: mcjtylib"
+    },
+    {
+        "file":  "rftoolsbase-1.21-6.0.10.jar",
+        "primary_id":  "rftoolsbase",
+        "ids":  "rftoolsbase",
+        "reason":  "recommendation seed: rftoolsbase-"
+    },
+    {
+        "file":  "rftoolsbuilder-1.21-7.0.4.jar",
+        "primary_id":  "rftoolsbuilder",
+        "ids":  "rftoolsbuilder",
+        "reason":  "recommendation seed: rftoolsbuilder-"
+    },
+    {
+        "file":  "rftoolspower-1.21-7.0.5.jar",
+        "primary_id":  "rftoolspower",
+        "ids":  "rftoolspower",
+        "reason":  "recommendation seed: rftoolspower-"
+    },
+    {
+        "file":  "rftoolsstorage-1.21-6.0.4.jar",
+        "primary_id":  "rftoolsstorage",
+        "ids":  "rftoolsstorage",
+        "reason":  "recommendation seed: rftoolsstorage-"
+    },
+    {
+        "file":  "rftoolsutility-1.21-7.0.11.jar",
+        "primary_id":  "rftoolsutility",
+        "ids":  "rftoolsutility",
+        "reason":  "recommendation seed: rftoolsutility-"
+    },
+    {
+        "file":  "RootsClassic-1.21.1-1.5.7.jar",
+        "primary_id":  "rootsclassic",
+        "ids":  "rootsclassic",
+        "reason":  "recommendation seed: RootsClassic-"
+    },
+    {
+        "file":  "SimpleSplashScreen-NeoForge-1.21-1.3.2.jar",
+        "primary_id":  "simplesplashscreen",
+        "ids":  "simplesplashscreen",
+        "reason":  "recommendation seed: SimpleSplashScreen-"
+    },
+    {
+        "file":  "solcarrot-1.21.1-1.16.6.jar",
+        "primary_id":  "solcarrot",
+        "ids":  "solcarrot",
+        "reason":  "recommendation seed: solcarrot-"
+    },
+    {
+        "file":  "soulplied_energistics-1.0.2.jar",
+        "primary_id":  "soulplied_energistics",
+        "ids":  "soulplied_energistics",
+        "reason":  "orphaned required dependency after slimming: industrialforegoingsouls"
+    },
+    {
+        "file":  "starbunclemania-1.21.1-1.5.6.jar",
+        "primary_id":  "starbunclemania",
+        "ids":  "starbunclemania",
+        "reason":  "recommendation seed: starbunclemania-"
+    },
+    {
+        "file":  "stardew_fishing-3.7-1.21.1.jar",
+        "primary_id":  "stardew_fishing",
+        "ids":  "stardew_fishing",
+        "reason":  "recommendation seed: stardew_fishing-"
+    },
+    {
+        "file":  "storagedelight-25.12.09-1.21-neoforge.jar",
+        "primary_id":  "storagedelight",
+        "ids":  "storagedelight",
+        "reason":  "recommendation seed: storagedelight-"
+    },
+    {
+        "file":  "structurize-1.0.820-1.21.1-snapshot.jar",
+        "primary_id":  "structurize",
+        "ids":  "structurize",
+        "reason":  "recommendation seed: structurize-"
+    },
+    {
+        "file":  "stylecolonies-1.15.51-1.21.1.jar",
+        "primary_id":  "stylecolonies",
+        "ids":  "stylecolonies",
+        "reason":  "recommendation seed: stylecolonies-"
+    },
+    {
+        "file":  "sushigocrafting-1.21-0.6.5.jar",
+        "primary_id":  "sushigocrafting",
+        "ids":  "sushigocrafting",
+        "reason":  "recommendation seed: sushigocrafting-"
+    },
+    {
+        "file":  "the_bumblezone-7.13.1%2B1.21.1-neoforge.jar",
+        "primary_id":  "the_bumblezone",
+        "ids":  "the_bumblezone",
+        "reason":  "recommendation seed: the_bumblezone-"
+    },
+    {
+        "file":  "The_Undergarden-1.21.1-0.9.6.jar",
+        "primary_id":  "undergarden",
+        "ids":  "undergarden",
+        "reason":  "recommendation seed: The_Undergarden-"
+    },
+    {
+        "file":  "theurgy-1.21.1-neoforge-1.71.0.jar",
+        "primary_id":  "theurgy",
+        "ids":  "theurgy",
+        "reason":  "recommendation seed: theurgy-"
+    },
+    {
+        "file":  "theurgy_kubejs-1.21.1-neoforge-1.5.1.jar",
+        "primary_id":  "theurgy_kubejs",
+        "ids":  "theurgy_kubejs",
+        "reason":  "recommendation seed: theurgy_kubejs-"
+    },
+    {
+        "file":  "toms_storage-1.21-2.3.2.jar",
+        "primary_id":  "toms_storage",
+        "ids":  "toms_storage",
+        "reason":  "recommendation seed: toms_storage-"
+    },
+    {
+        "file":  "towntalk-1.2.0.jar",
+        "primary_id":  "towntalk",
+        "ids":  "towntalk",
+        "reason":  "recommendation seed: towntalk-"
+    },
+    {
+        "file":  "twilightforest-1.21.1-4.8.3345-universal.jar",
+        "primary_id":  "twilightforest",
+        "ids":  "twilightforest",
+        "reason":  "recommendation seed: twilightforest-"
+    },
+    {
+        "file":  "UndergroundVillages-neoforge-1.21.1-4.0.3.jar",
+        "primary_id":  "underground_villages",
+        "ids":  "underground_villages",
+        "reason":  "recommendation seed: UndergroundVillages-"
+    },
+    {
+        "file":  "universalgrid-neoforge-1.21.1-0.3.0.jar",
+        "primary_id":  "universalgrid",
+        "ids":  "universalgrid",
+        "reason":  "recommendation seed: universalgrid-"
+    },
+    {
+        "file":  "voxy-0.2.14-alpha-c54de23.jar",
+        "primary_id":  "voxy",
+        "ids":  "voxy",
+        "reason":  "recommendation seed: voxy-"
+    },
+    {
+        "file":  "xnet-1.21-7.0.6.jar",
+        "primary_id":  "xnet",
+        "ids":  "xnet",
+        "reason":  "recommendation seed: xnet-"
+    },
+    {
+        "file":  "xtonesreworked-1.1.1-1.21.1.jar",
+        "primary_id":  "xtonesreworked",
+        "ids":  "xtonesreworked",
+        "reason":  "recommendation seed: xtonesreworked-"
+    },
+    {
+        "file":  "xycraft_core-0.7.53-all.jar",
+        "primary_id":  "xycraft_core",
+        "ids":  "xycraft_core",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "file":  "xycraft_machines-0.7.53.jar",
+        "primary_id":  "xycraft_machines",
+        "ids":  "xycraft_machines",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "file":  "xycraft_override-0.7.53.jar",
+        "primary_id":  "xycraft_override",
+        "ids":  "xycraft_override",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "file":  "xycraft_world-0.7.53.jar",
+        "primary_id":  "xycraft_world",
+        "ids":  "xycraft_world",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "file":  "ZeroCore2-1.21.1-2.4.21.jar",
+        "primary_id":  "zerocore",
+        "ids":  "zerocore",
+        "reason":  "recommendation seed: ZeroCore2-"
+    },
+    {
+        "file":  "botanypotsmystical-neoforge-1.21.1-21.1.11.jar",
+        "primary_id":  "botanypotsmystical",
+        "ids":  "botanypotsmystical",
+        "reason":  "late cleanup: Mystical Agriculture addon after disabling Mystical Agriculture"
+    }
+]

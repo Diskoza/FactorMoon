@@ -3,6 +3,36 @@
 Date: 2026-06-05
 Runtime target: Minecraft 1.21.1 / NeoForge 21.1.228 / Create 6.0.10
 
+## Seventeenth pass Friend recommendation slim pass
+
+The user's friend's recommendations were applied as a broad but dependency-aware slimming pass before adding more performance mods.
+
+Direction:
+
+- Keep the pack centered on Create / Create Aeronautics, Cobblemon, AE2, JEI, worldgen, QoL, and performance.
+- Stop carrying the ATM-style duplicate progression layers while the pack is still struggling to launch and generate worlds.
+- Prefer reversible moves over permanent deletes.
+
+Applied changes:
+
+| Change | Reason |
+|---|---|
+| Moved 189 active jar files to `_disabled_mods/2026-06-06-friend-slim-pass` | Removes duplicate tech/magic/dimension/progression stacks while preserving local recovery copies. |
+| Moved 385 KubeJS script/data files to the same backup | Prevents recipes/data from referencing disabled mod namespaces during datapack reload. |
+| Disabled Refined Storage and RS integrations | AE2 is the chosen storage backbone for this direction. |
+| Disabled ATM leftovers, Mekanism, Modern Industrialization, Industrial Foregoing, Ender IO, Immersive Engineering, Ars stack, Occultism, Theurgy, Mystical Agriculture, MineColonies, and several extra dimensions | Matches the friend's recommendation and cuts worldgen/startup/performance pressure. |
+| Left passive `kubejs/assets/.../lang/ru_ru.json` translations in place | Avoids losing the user's translation work; passive lang assets should not break loading. |
+
+Post-pass static check:
+
+- Installed active jar files: 482
+- Unique primary mod ids: 479
+- Duplicate primary mod ids: 0
+- Missing required dependencies: 0
+- Fabric jars expected through Sinytra Connector: 1 (`trinkets-3.10.0.jar`)
+
+Detailed report: `_factor_moon_reports/friend_recommendation_slim_pass.md`.
+
 ## Applied fix
 
 The first-launch blocker jars were replaced in active `FactorMoon/mods`:

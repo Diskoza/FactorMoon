@@ -1,6 +1,6 @@
 # FactorMoon Build Report
 
-Updated: 2026-06-06 12:10
+Updated: 2026-06-06 15:22
 
 ## Direction
 - FactorMoon is based on the `aeronaftics` mega-pack line plus the CreateAERO/Cobblemon merge layer.
@@ -8,13 +8,14 @@ Updated: 2026-06-06 12:10
 - Firearms, artillery, Immersive Aircraft, Small Ships, NiftyCarts, and Infinite Music remain excluded for balance.
 
 ## Current Validation
-- Installed active jar files: 671
-- Unique primary mod ids: 668
+- Installed active jar files: 482
+- Unique primary mod ids: 479
 - Duplicate primary mod ids: 0
 - Missing required dependencies in static NeoForge/Forge/Fabric metadata check: 0
 - Weapon/artillery suspects left in active `mods`: 0
 - Fabric-only jars without support: 0
-- Fabric jars expected through Sinytra Connector: 3 (`LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar`, `trinkets-3.10.0.jar`, `voxy-0.2.14-alpha-c54de23.jar`)
+- Fabric jars expected through Sinytra Connector: 1 (`trinkets-3.10.0.jar`)
+- Active `mods` size after the friend recommendation slim pass: about 0.92 GiB, down from about 1.80 GiB.
 - First launch found version-range blockers in active `mods`: `AdvancementPlaques-1.21.11-neoforge-1.7.0.jar`, `BetterF3-17.0.0-NeoForge-1.21.11.jar`, and `trinkets-4.0.0-beta.2+26.1.jar`; these have now been replaced.
 - Second launch found a Java module split-package between Ars Nouveau's bundled `lambdynlights_api` and `sodiumdynamiclights`; this has now been patched by replacing Sodium Dynamic Lights and removing the duplicate `dynamiclights-26.1.2.1NF.jar`.
 - Third launch found a client mixin crash from `entity_model_features-3.2.4-1.21.11-neoforge.jar`; EMF and ETF have now been replaced with their `1.21` NeoForge line for the 1.21.1 pack target.
@@ -28,7 +29,8 @@ Updated: 2026-06-06 12:10
 - Eleventh through fourteenth launches reached Biome Replacer during world creation and exposed several 1.21.11-to-1.21.1 ABI mismatches. Active `biomereplacer-2.2.1-pinkeen-neo.jar` is now patched for `registryOrThrow`, `ResourceLocation` / `ResourceKey.location()`, `Registry.getHolder(ResourceKey)`, and TerraBlender's `Registry.getHolderOrThrow(ResourceKey)` holder lookup.
 - FactorMoon instance memory was adjusted from `minMemory=12288` / `maxMemory=25600` to `minMemory=8192` / `maxMemory=24576`. Recent crash reports showed Java launching with `-Xms28672M`, which reserved too much RAM up front and left Windows under heavy virtual-memory pressure.
 - Fifteenth launch reached spawn-chunk generation and then stalled after a critical mixin conflict: `artifacts` could not inject into `NaturalSpawner` because `tpsum` had already overwritten the same spawn method. Active `tpsum-1.21.1-0.0.3.jar` is now patched to keep its non-spawn optimizations while removing only the `entity_spawn` mixins from `tpsum.mixins.json`.
-- The visible recipe-browser conflict was reduced to the `aeronaftics` JEI stack. EMI, EMI addons, REI, and the EMI-only `extra_mod_integrations` addon are no longer active; active recipe-browser jars are `jei`, `ae2jeiintegration`, `ftb-jei-extras`, and `refinedstorage-jei-integration`.
+- The visible recipe-browser conflict was reduced to the `aeronaftics` JEI stack. EMI, EMI addons, REI, and the EMI-only `extra_mod_integrations` addon are no longer active; after the friend recommendation slim pass, active recipe-browser jars are `jei`, `ae2jeiintegration`, and `ftb-jei-extras`.
+- The friend recommendation slim pass moved 189 active jar files and 385 KubeJS script/data files out of active use, leaving local backups in `_disabled_mods/2026-06-06-friend-slim-pass`. The disabled areas include ATM leftovers, Refined Storage, duplicate tech stacks, large magic stacks, extra dimensions, MineColonies, and duplicate map/UI/food/decor layers.
 - The static validator now writes `_factor_moon_reports/validation_unsupported_dependency_versions.csv`; it is intentionally broad, so the focused first-launch interpretation is in `_factor_moon_reports/create_and_first_launch_audit.md`.
 
 ## Newly Ported Locally
@@ -112,6 +114,9 @@ Updated: 2026-06-06 12:10
 - `_factor_moon_reports/validation_first_launch_blockers.csv`
 - `_factor_moon_reports/validation_unsupported_dependency_versions.csv`
 - `_factor_moon_reports/create_and_first_launch_audit.md`
+- `_factor_moon_reports/friend_recommendation_slim_pass.md`
+- `_factor_moon_reports/friend_slim_pass_plan.json`
+- `_factor_moon_reports/friend_slim_pass_moved.json`
 - `_factor_moon_reports/port_candidate_analysis.csv`
 - `_factor_moon_reports/kubejs_ru_translation_overrides.csv`
 - `_factor_moon_reports/custom_reference_copy_manifest.csv`

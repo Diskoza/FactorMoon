@@ -1,0 +1,2872 @@
+﻿[
+    {
+        "kind":  "mod",
+        "path":  "mods\\actuallyadditions-1.3.25%2Bmc1.21.1.jar",
+        "reason":  "recommendation seed: actuallyadditions-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\AdditionalEnchantedMiner-1.21.1-neoforge-21.1.152.jar",
+        "reason":  "recommendation seed: AdditionalEnchantedMiner-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\aether-1.21.1-1.5.10-neoforge.jar",
+        "reason":  "recommendation seed: aether-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\allthearcanistgear-1.21.1-21.3.2.jar",
+        "reason":  "recommendation seed: allthearcanistgear-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\allthecompressed-1.21.1-4.4.0.jar",
+        "reason":  "recommendation seed: allthecompressed-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\alltheleaks-1.1.7+1.21.1-neoforge.jar",
+        "reason":  "recommendation seed: alltheleaks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\allthemodium-3.0.0_mc_1.21.1.jar",
+        "reason":  "recommendation seed: allthemodium-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\alltheores-3.2.0_neoforge_1.21.1.jar",
+        "reason":  "recommendation seed: alltheores-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\allthetweaks-1.21.1-2.9.2.jar",
+        "reason":  "recommendation seed: allthetweaks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\allthewizardgear-1.21.1-1.1.12.jar",
+        "reason":  "recommendation seed: allthewizardgear-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Applied-Mekanistics-1.6.3.jar",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Aquaculture-1.21.1-2.7.19.jar",
+        "reason":  "recommendation seed: Aquaculture-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_additions-1.21.1-21.3.0.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_controle-1.21.1-1.6.15.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_creo-1.21.1-5.2.0.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_elemancy-1.21.1-1.16.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_elemental-1.21.1-0.7.9_beta.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_nouveau-1.21.1-5.11.3.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_ocultas-1.21.1-2.4.0.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_polymorphia-1.0.3.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_technica-1.21.1-2.7.6.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ars_unification-1.2.18.jar",
+        "reason":  "recommendation seed: ars_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\arseng-2.1.1-beta.jar",
+        "reason":  "recommendation seed: arseng-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\bclib-21.0.21.jar",
+        "reason":  "recommendation seed: bclib-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\beautify-neoforge-1.21.1-2.0.2.jar",
+        "reason":  "recommendation seed: beautify-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\BetterNether-21.0.20.jar",
+        "reason":  "recommendation seed: BetterNether-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\BetterThirdPerson-neoforge-1.9.0.jar",
+        "reason":  "recommendation seed: BetterThirdPerson-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\bibliobiomes-1.21.1-1.6.1.jar",
+        "reason":  "recommendation seed: bibliobiomes-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\bibliocraft-1.21.1-1.6.5.jar",
+        "reason":  "recommendation seed: bibliocraft-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\bibliowoods-1.21.1-1.6.2.jar",
+        "reason":  "recommendation seed: bibliowoods-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\biomereplacer-2.2.1-pinkeen-neo.jar",
+        "reason":  "recommendation seed: biomereplacer-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\blockui-1.0.211-1.21.1-snapshot.jar",
+        "reason":  "recommendation seed: blockui-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\BrandonsCore-1.21.1-3.2.1.309.jar",
+        "reason":  "recommendation seed: BrandonsCore-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Byzantine-1.21.1-48.jar",
+        "reason":  "orphaned required dependency after slimming: minecolonies"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\cabletiers-neoforge-1.21.1-0.6.11.jar",
+        "reason":  "orphaned required dependency after slimming: refinedstorage"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\CCSecureBoot-1.0.2-neoforge-1.21.1.jar",
+        "reason":  "recommendation seed: CCSecureBoot-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\chipped-neoforge-1.21.1-4.0.2.jar",
+        "reason":  "recommendation seed: chipped-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\chisel-neoforge-2.0.0+mc1.21.1.jar",
+        "reason":  "recommendation seed: chisel-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\classicperipherals-0.4.2.1-neoforge-1.21.1.jar",
+        "reason":  "recommendation seed: classicperipherals-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\CloudGlass-1.21.1-1.0.1.jar",
+        "reason":  "recommendation seed: CloudGlass-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\commoncapabilities-1.21.1-neoforge-2.11.4.jar",
+        "reason":  "recommendation seed: commoncapabilities-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\compactmachines-neoforge-7.0.81.jar",
+        "reason":  "recommendation seed: compactmachines-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\connectedglass-1.1.14-neoforge-mc1.21.jar",
+        "reason":  "recommendation seed: connectedglass-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\cookingforblockheads-neoforge-1.21.1-21.1.20.jar",
+        "reason":  "recommendation seed: cookingforblockheads-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\createcontraptionterminals-1.21-1.3.0.jar",
+        "reason":  "orphaned required dependency after slimming: toms_storage"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\cyclopscore-1.21.1-neoforge-1.29.0-962.jar",
+        "reason":  "recommendation seed: cyclopscore-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\darkmodeeverywhere-1.21-1.3.5.jar",
+        "reason":  "recommendation seed: darkmodeeverywhere-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\deeperdarker-neoforge-1.21.1-1.3.5.jar",
+        "reason":  "recommendation seed: deeperdarker-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Design-n-Decor-1.21.1-2.1.0.jar",
+        "reason":  "recommendation seed: Design-n-Decor-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\DimStorage-1.21.1-9.1.1.jar",
+        "reason":  "recommendation seed: DimStorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\domum-ornamentum-1.0.233-snapshot-main.jar",
+        "reason":  "recommendation seed: domum-ornamentum-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Draconic-Evolution-1.21.1-3.1.4.632.jar",
+        "reason":  "recommendation seed: Draconic-Evolution-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+        "reason":  "recommendation seed: DungeonCrawl-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\DungeonsArise-1.21.1-2.1.68-release.jar",
+        "reason":  "recommendation seed: DungeonsArise-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\dyenamics-1.21.1-3.4.2.jar",
+        "reason":  "recommendation seed: dyenamics"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\dyenamicsandfriends-1.21.1-2.2.2.jar",
+        "reason":  "recommendation seed: dyenamics"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\dysoncubeproject-1.0.2.jar",
+        "reason":  "recommendation seed: dysoncubeproject-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\enderio-8.2.5-beta.jar",
+        "reason":  "recommendation seed: enderio-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\EnderStorage-1.21.1-2.13.0.191.jar",
+        "reason":  "recommendation seed: EnderStorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\entangled-1.3.21-neoforge-mc1.21.jar",
+        "reason":  "recommendation seed: entangled-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\eternalstarlight-0.6.4%2B1.21.1%2Bneoforge.jar",
+        "reason":  "recommendation seed: eternalstarlight-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\everythingcopper-1.21.1-2.4.5.jar",
+        "reason":  "recommendation seed: everythingcopper-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\evilcraft-1.21.1-neoforge-1.2.84-834.jar",
+        "reason":  "recommendation seed: evilcraft-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Explorify v1.6.4 f15-88.mod.jar",
+        "reason":  "recommendation seed: Explorify "
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\extended-industrialization-1.15.35-1.21.1.jar",
+        "reason":  "recommendation seed: extended-industrialization-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ExtraDisks-1.21.1-4.0.14.jar",
+        "reason":  "recommendation seed: ExtraDisks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ExtraStorage-1.21.1-5.0.8.jar",
+        "reason":  "recommendation seed: ExtraStorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ExtremeReactors2-1.21.1-2.4.28.jar",
+        "reason":  "recommendation seed: ExtremeReactors2-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\factormoon-legendarymonuments-patch-1.0.0.jar",
+        "reason":  "recommendation seed: factormoon-legendarymonuments-patch-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+        "reason":  "recommendation seed: factory_blocks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\farmingforblockheads-neoforge-1.21.1-21.1.12.jar",
+        "reason":  "recommendation seed: farmingforblockheads-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\FluxNetworks-1.21.1-8.0.0.jar",
+        "reason":  "recommendation seed: FluxNetworks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\forbidden_arcanus-2.6.1.jar",
+        "reason":  "recommendation seed: forbidden_arcanus-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\formations-1.0.4-neoforge-mc1.21.jar",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\formationsnether-1.0.5-mc1.21+.jar",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\formationsoverworld-1.0.5-mc1.21+.jar",
+        "reason":  "recommendation seed: formations"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\functionalstorage-1.21.1-1.5.5.jar",
+        "reason":  "recommendation seed: FunctionalStorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\garnished-april-foods-26-neoforged.jar",
+        "reason":  "recommendation seed: garnished-april-foods-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\generator-accelerator-neoforge-1.21.1-1.1.6.jar",
+        "reason":  "recommendation seed: generator-accelerator-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\generatorgalore-1.21.1-1.6.3.jar",
+        "reason":  "recommendation seed: generatorgalore-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Glassential-renewed-1.21.1-3.4.1.jar",
+        "reason":  "recommendation seed: Glassential-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\herbsandharvest-1.21.1-11.jar",
+        "reason":  "recommendation seed: herbsandharvest-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\HostileNeuralNetworks-1.21.1-6.3.0.jar",
+        "reason":  "recommendation seed: HostileNeuralNetworks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\illagerwarship-1.0.1-neoforge-1.21.1.jar",
+        "reason":  "recommendation seed: illagerwarship-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Immersive-Energistics-1.1.0-beta.jar",
+        "reason":  "orphaned required dependency after slimming: immersiveengineering"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+        "reason":  "recommendation seed: ImmersiveEngineering-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\industrial-foregoing-souls-1.21.1-1.10.7.jar",
+        "reason":  "recommendation seed: industrial-foregoing-souls-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\industrialforegoing-1.21-3.6.38.jar",
+        "reason":  "recommendation seed: industrialforegoing-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\industrialization_overdrive-1.11.1%2B1.21.1.jar",
+        "reason":  "recommendation seed: industrialization_overdrive-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\integratedcrafting-1.21.1-neoforge-1.4.5-539.jar",
+        "reason":  "recommendation seed: integratedcrafting-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\integrateddynamics-1.21.1-neoforge-1.32.3.jar",
+        "reason":  "recommendation seed: integrateddynamics-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\integratedscripting-1.21.1-neoforge-1.0.21-339.jar",
+        "reason":  "recommendation seed: integratedscripting-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\integratedterminals-1.21.1-neoforge-1.6.28.jar",
+        "reason":  "recommendation seed: integratedterminals-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\integratedtunnels-1.21.1-neoforge-1.9.4-606.jar",
+        "reason":  "recommendation seed: integratedtunnels-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar",
+        "reason":  "orphaned required dependency after slimming: refinedstorage"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\irons_jewelry-1.21.1-1.6.1.jar",
+        "reason":  "recommendation seed: irons_jewelry-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\irons_patreon_lib-1.21.1-1.0.1.jar",
+        "reason":  "recommendation seed: irons_patreon_lib-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\irons_spellbooks-1.21.1-3.15.5.jar",
+        "reason":  "recommendation seed: irons_spellbooks-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\journeymap-neoforge-1.21.1-6.0.0-beta.60.jar",
+        "reason":  "recommendation seed: journeymap-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\JustEnoughMekanismMultiblocks-1.21.1-7.14.jar",
+        "reason":  "orphaned required dependency after slimming: mekanism"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\laserio-1.9.11.jar",
+        "reason":  "recommendation seed: laserio-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+        "reason":  "recommendation seed: LegendaryMonuments-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mahoutsukai-1.21.1-v1.36.26.jar",
+        "reason":  "recommendation seed: mahoutsukai-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mcjtylib-1.21-9.0.20.jar",
+        "reason":  "recommendation seed: mcjtylib-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Mekanism-1.21.1-10.7.18.84.jar",
+        "reason":  "recommendation seed: Mekanism-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mekanismcovers-1.3-BETA+1.21.jar",
+        "reason":  "recommendation seed: mekanismcovers-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MekanismGenerators-1.21.1-10.7.18.84.jar",
+        "reason":  "recommendation seed: MekanismGenerators-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MekanismTools-1.21.1-10.7.18.84.jar",
+        "reason":  "recommendation seed: MekanismTools-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mekanisticrouters-1.2.0.jar",
+        "reason":  "recommendation seed: mekanisticrouters-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mekmm-1.21.1-1.3.1.jar",
+        "reason":  "recommendation seed: mekmm-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mffs-5.4.27.jar",
+        "reason":  "recommendation seed: mffs-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mifa-neoforge-1.21.x-2.1.0.jar",
+        "reason":  "orphaned required dependency after slimming: industrialforegoing"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\minecolonies-1.1.1299-1.21.1-snapshot.jar",
+        "reason":  "recommendation seed: minecolonies-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Modern-Dynamics-0.9.6.jar",
+        "reason":  "recommendation seed: Modern-Dynamics-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Modern-Industrialization-2.4.2.jar",
+        "reason":  "recommendation seed: Modern-Industrialization-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\modonomicon-1.21.1-neoforge-1.120.1.jar",
+        "reason":  "recommendation seed: modonomicon-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar",
+        "reason":  "recommendation seed: moogs_structures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MoogsEndStructures-1.21-2.0.1.jar",
+        "reason":  "recommendation seed: MoogsEndStructures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MoogsNetherStructures-1.21-2.0.31.jar",
+        "reason":  "recommendation seed: MoogsNetherStructures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MoogsSoaringStructures-1.21-2.0.2.jar",
+        "reason":  "recommendation seed: MoogsSoaringStructures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MoogsVoyagerStructures-1.21-5.0.5.jar",
+        "reason":  "recommendation seed: MoogsVoyagerStructures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\moreconcrete-neoforge-1.6.0-1.21.1.jar",
+        "reason":  "recommendation seed: moreconcrete-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\mostructures-neoforge-1.6.0+1.21.1.jar",
+        "reason":  "recommendation seed: mostructures-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\multipiston-1.2.58-1.21.1.jar",
+        "reason":  "recommendation seed: multipiston-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MysticalAgradditions-1.21.1-8.0.13.jar",
+        "reason":  "recommendation seed: MysticalAgradditions-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MysticalAgriculture-1.21.1-8.0.24.jar",
+        "reason":  "recommendation seed: MysticalAgriculture-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\MysticalCustomization-1.21.1-6.0.2.jar",
+        "reason":  "recommendation seed: MysticalCustomization-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\NaturesAura-41.9.jar",
+        "reason":  "recommendation seed: NaturesAura-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\not_enough_glyphs-1.21.1-4.2.9.jar",
+        "reason":  "recommendation seed: not_enough_glyphs-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\notenoughanimations-neoforge-1.12.0-mc1.21.1.jar",
+        "reason":  "recommendation seed: notenoughanimations-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Nullscape_1.21.x_v1.2.14.jar",
+        "reason":  "recommendation seed: Nullscape_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\occultism-1.21.1-neoforge-1.208.0.jar",
+        "reason":  "recommendation seed: occultism-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\occultism_kubejs-1.21.1-neoforge-1.11.0.jar",
+        "reason":  "recommendation seed: occultism_kubejs-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+        "reason":  "recommendation seed: Oh-The-Biomes-Weve-Gone-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar",
+        "reason":  "recommendation seed: Oh-The-Trees-Youll-Grow-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\oritech-neoforge-1.21.1-1.1.0.jar",
+        "reason":  "recommendation seed: oritech-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pamhc2crops-NEOFORGE-1.21.1-1.0.7.jar",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar",
+        "reason":  "recommendation seed: pamhc2"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pipeorgans-0.8.2+1.21.1.jar",
+        "reason":  "recommendation seed: pipeorgans-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pipez-neoforge-1.21.1-1.2.19.jar",
+        "reason":  "recommendation seed: pipez-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\pocketstorage-1.2.5+1.21.1-b3.jar",
+        "reason":  "recommendation seed: pocketstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\potionsmaster-21.1.113-1.0.1.jar",
+        "reason":  "recommendation seed: potionsmaster-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rechiseled-1.2.4-neoforge-mc1.21.jar",
+        "reason":  "recommendation seed: rechiseled-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rechiseled_chipped-2.0-1.21.1.jar",
+        "reason":  "recommendation seed: rechiseled_chipped-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "reason":  "recommendation seed: rechiseledcreate-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refined-types-1.21.1-0.2.9.jar",
+        "reason":  "recommendation seed: refined-types-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refinedstorage-curios-integration-1.0.0.jar",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refinedstorage-jei-integration-neoforge-1.0.0.jar",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refinedstorage-mekanism-integration-1.1.1.jar",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refinedstorage-neoforge-2.0.1.jar",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refinedstorage-quartz-arsenal-neoforge-1.0.6.jar",
+        "reason":  "recommendation seed: refinedstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "reason":  "recommendation seed: refurbished_furniture-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\restrictions-1.21-7.0.3.jar",
+        "reason":  "orphaned required dependency after slimming: mcjtylib"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rftoolsbase-1.21-6.0.10.jar",
+        "reason":  "recommendation seed: rftoolsbase-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rftoolsbuilder-1.21-7.0.4.jar",
+        "reason":  "recommendation seed: rftoolsbuilder-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rftoolspower-1.21-7.0.5.jar",
+        "reason":  "recommendation seed: rftoolspower-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rftoolsstorage-1.21-6.0.4.jar",
+        "reason":  "recommendation seed: rftoolsstorage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\rftoolsutility-1.21-7.0.11.jar",
+        "reason":  "recommendation seed: rftoolsutility-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\RootsClassic-1.21.1-1.5.7.jar",
+        "reason":  "recommendation seed: RootsClassic-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\SimpleSplashScreen-NeoForge-1.21-1.3.2.jar",
+        "reason":  "recommendation seed: SimpleSplashScreen-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\solcarrot-1.21.1-1.16.6.jar",
+        "reason":  "recommendation seed: solcarrot-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\soulplied_energistics-1.0.2.jar",
+        "reason":  "orphaned required dependency after slimming: industrialforegoingsouls"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\starbunclemania-1.21.1-1.5.6.jar",
+        "reason":  "recommendation seed: starbunclemania-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\stardew_fishing-3.7-1.21.1.jar",
+        "reason":  "recommendation seed: stardew_fishing-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\storagedelight-25.12.09-1.21-neoforge.jar",
+        "reason":  "recommendation seed: storagedelight-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\structurize-1.0.820-1.21.1-snapshot.jar",
+        "reason":  "recommendation seed: structurize-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\stylecolonies-1.15.51-1.21.1.jar",
+        "reason":  "recommendation seed: stylecolonies-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\sushigocrafting-1.21-0.6.5.jar",
+        "reason":  "recommendation seed: sushigocrafting-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\the_bumblezone-7.13.1%2B1.21.1-neoforge.jar",
+        "reason":  "recommendation seed: the_bumblezone-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\The_Undergarden-1.21.1-0.9.6.jar",
+        "reason":  "recommendation seed: The_Undergarden-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\theurgy-1.21.1-neoforge-1.71.0.jar",
+        "reason":  "recommendation seed: theurgy-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\theurgy_kubejs-1.21.1-neoforge-1.5.1.jar",
+        "reason":  "recommendation seed: theurgy_kubejs-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\toms_storage-1.21-2.3.2.jar",
+        "reason":  "recommendation seed: toms_storage-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\towntalk-1.2.0.jar",
+        "reason":  "recommendation seed: towntalk-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\twilightforest-1.21.1-4.8.3345-universal.jar",
+        "reason":  "recommendation seed: twilightforest-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\UndergroundVillages-neoforge-1.21.1-4.0.3.jar",
+        "reason":  "recommendation seed: UndergroundVillages-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\universalgrid-neoforge-1.21.1-0.3.0.jar",
+        "reason":  "recommendation seed: universalgrid-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\voxy-0.2.14-alpha-c54de23.jar",
+        "reason":  "recommendation seed: voxy-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xnet-1.21-7.0.6.jar",
+        "reason":  "recommendation seed: xnet-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xtonesreworked-1.1.1-1.21.1.jar",
+        "reason":  "recommendation seed: xtonesreworked-"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xycraft_core-0.7.53-all.jar",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xycraft_machines-0.7.53.jar",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xycraft_override-0.7.53.jar",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\xycraft_world-0.7.53.jar",
+        "reason":  "recommendation seed: xycraft_"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\ZeroCore2-1.21.1-2.4.21.jar",
+        "reason":  "recommendation seed: ZeroCore2-"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\crashing_items.js",
+        "reason":  "references disabled namespace: ars_additions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\Mekanism-Tooltips.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\RecipeViewer.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\registry_fix.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\tooltips.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fission_mek.js",
+        "reason":  "references disabled namespace: mekanismgenerators"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fission_mek_fuelrod.js",
+        "reason":  "references disabled namespace: mekanismgenerators"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fission_mek_logic.js",
+        "reason":  "references disabled namespace: mekanismgenerators"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fission_mek_port.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fusion_activate.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\fusion_reactor.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\induction_mek.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\sps.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\client_scripts\\ponder\\turbine_mek.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\atm_alloys.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\atm_alloy_tools.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\atm_star.js",
+        "reason":  "references disabled namespace: allthetweaks"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\atm_star_creative.js",
+        "reason":  "references disabled namespace: allthearcanistgear"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\att_items.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\miningDim.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\mini_portals.js",
+        "reason":  "references disabled namespace: allthetweaks"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\runic_multis\\controllers.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\runic_multis\\recipes\\auto_forge.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\runic_multis\\recipes\\runic_crucible.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\runic_multis\\recipes\\runic_enchanter.js",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\modpack\\runic_multis\\recipes\\star_altar.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Actually Additions\\Crusher.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Actually Additions\\Fluid_Fuels.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Actually Additions\\Recipes.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\AdditionalEnchantedMiner\\Recipes.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Adorned\\Tags.js",
+        "reason":  "references disabled namespace: evilcraft"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\AdvancedAE\\Recipes.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Allthemodium\\Recipes.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\AllTheOres\\Recipes.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\AllTheOres\\Tags.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\AllTheTweaks\\Recipes.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Applied Energistics\\Recipes.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Aquaculture_2\\tags.js",
+        "reason":  "references disabled namespace: aquaculture"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Bibliocraft\\Recipes.js",
+        "reason":  "references disabled namespace: bibliocraft"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Biomes Weve Gone\\tags.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Building Gadgets\\Recipes.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Building Gadgets\\tags.js",
+        "reason":  "references disabled namespace: enderstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Bumblezone\\Recipes.js",
+        "reason":  "references disabled namespace: the_bumblezone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Bumblezone\\tags.js",
+        "reason":  "references disabled namespace: functionalstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Draconic Evolution\\draconic_evo.js",
+        "reason":  "references disabled namespace: draconicevolution"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Dyenamics\\recipes.js",
+        "reason":  "references disabled namespace: dyenamics"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\dysoncubeproject\\recipes.js",
+        "reason":  "references disabled namespace: dysoncubeproject"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\EnderIO\\Recipes.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\EnderIO\\sagMill.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Entangled\\Recipes.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Eternal Starlight\\Datapacks.js",
+        "reason":  "references disabled namespace: eternal_starlight"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Eternal Starlight\\Recipes.js",
+        "reason":  "references disabled namespace: eternal_starlight"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Evilcraft\\tags.js",
+        "reason":  "references disabled namespace: evilcraft"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Explorer\u0027s Compass\\Recipes.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\ExtendedAE\\InfinityCellRecipes.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Extra Disks\\Recipes.js",
+        "reason":  "references disabled namespace: extradisks"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\ExtremeReactors\\Recipes.js",
+        "reason":  "references disabled namespace: bigreactors"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\ForbiddenArcanus\\Hephaestus_Forge.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\ForbiddenArcanus\\Recipes.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Functional Storage\\compacting_recipe.js",
+        "reason":  "references disabled namespace: functionalstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Hostile Neural Networks\\Recipes.js",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Immersive Engineering\\Compatibility.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Immersive Engineering\\Crusher.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Indusrial Foregoing\\Dissolution Chamber.js",
+        "reason":  "references disabled namespace: industrialforegoing"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Indusrial Foregoing\\Laser Drill.js",
+        "reason":  "references disabled namespace: industrialforegoing"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\industrialforegoingsouls\\recipes.js",
+        "reason":  "references disabled namespace: industrialforegoingsouls"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Integrated Dynamics\\Basin.js",
+        "reason":  "references disabled namespace: integrateddynamics"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Integrated Dynamics\\Squeezer.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Irons Spells Spellbooks\\Recipes.js",
+        "reason":  "references disabled namespace: irons_spellbooks"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mega Cells\\Recipes.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\Compatibility.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\ore_processing.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\Recipes.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\Rebalance\\Gear.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\Rebalance\\Items.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mekanism\\Rebalance\\Units.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\mekmm\\recipes.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\mifa\\recipes.js",
+        "reason":  "references disabled namespace: industrialforegoing"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Minecolonies\\Recipes.js",
+        "reason":  "references disabled namespace: minecolonies"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Minecolonies\\tags.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\minecraft\\recipes.js",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\minecraft\\tags.js",
+        "reason":  "references disabled namespace: functionalstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\AE_Compat.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Aluminum.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Cobble_Gen.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\distillation.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Electric_Blast_Furnace.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Quarry.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Replicator.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Modern Industrialization\\Vacuum Freezer.js",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\ModularForceFieldSystem\\recipes.js",
+        "reason":  "references disabled namespace: mffs"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\atm\\auto_hephaestus_forge.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\atm\\runic_crucible.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\atm\\runic_enchanter.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\atm\\runic_star_altar.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\chemical_crystallizer.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\chemical_dissolution_chamber.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\chemical_infuser.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\chemical_oxidizer.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\chemical_washer.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\electrolytic_seperator.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\isotopic_centrifuge.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\pressurized_reaction_chamber.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\multiblocks\\mekanism\\solar_neutron_activator.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\atm\\auto_hephaestus_forge.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\atm\\general.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\atm\\multiblock_parts.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\atm\\runic_crucible.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\atm\\runic_enchanter.js",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\chemical_crystallizer.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\chemical_dissolution_chamber.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\chemical_infuser.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\chemical_oxidizer.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\chemical_washer.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\controllers.js",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\electrolytic_seperator.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\isotopic_centrifuge.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\pressurized_reaction_chamber.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modular_machinery\\recipes\\mekanism\\solar_neutron_activator.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\AwakenedEssenceCrafting.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\Compatibility.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\cropInfo.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\Crops.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\FusionCrafting.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\Recipes.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\MysticalAgriculture\\Tags.js",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Oritech\\recipes.js",
+        "reason":  "references disabled namespace: oritech"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Oritech\\tags.js",
+        "reason":  "references disabled namespace: oritech"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Pams Harvestcraft\\salt.js",
+        "reason":  "references disabled namespace: minecolonies"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Powah\\tags.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Productive Bees\\Tags.js",
+        "reason":  "references disabled namespace: functionalstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Quarryplus\\Recipes.js",
+        "reason":  "references disabled namespace: quarryplus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Reliquary\\Recipes.js",
+        "reason":  "references disabled namespace: naturesaura"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\rftools\\Recipes.js",
+        "reason":  "references disabled namespace: rftoolsbase"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Silent Gear\\Recipes.js",
+        "reason":  "references disabled namespace: aether"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\SushiGoCrafting\\tags.js",
+        "reason":  "references disabled namespace: cookingforblockheads"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\The Bumblezone\\Tags.js",
+        "reason":  "references disabled namespace: the_bumblezone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Theurgy\\liquefaction.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Theurgy\\tags.js",
+        "reason":  "references disabled namespace: theurgy"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Time In A Bottle\\Recipes.js",
+        "reason":  "references disabled namespace: aquaculture"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Xycraft\\Extractor.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Xycraft\\Recipes.js",
+        "reason":  "references disabled namespace: xycraft_machines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Xycraft\\tags.js",
+        "reason":  "references disabled namespace: functionalstorage"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\clearing_recipes.js",
+        "reason":  "references disabled namespace: draconicevolution"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\disable_loot_table_ids.json",
+        "reason":  "references disabled namespace: bibliocraft"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\recipes.js",
+        "reason":  "references disabled namespace: mekanismtools"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\recipes_fix.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\registry_fix.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Tweaks\\tags.js",
+        "reason":  "references disabled namespace: actuallyadditions"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\coke.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\creosote.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\crops.js",
+        "reason":  "references disabled namespace: extended_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\gears.js",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\ingots.js",
+        "reason":  "references disabled namespace: bigreactors"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\sawing.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\Unification\\tools.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\CustomAdditions.js",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\eternal_starlight\\eternal_starlight.js",
+        "reason":  "references disabled namespace: eternal_starlight"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\ExtendedAE\\InfinityCells.js",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Farmer\u0027s Delight\\Compatibility.js",
+        "reason":  "references disabled namespace: biomeswevegone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Immersive Engineering\\chemthrower.js",
+        "reason":  "references disabled namespace: immersiveengineering"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Mekanism\\Compatibility.js",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\multiblocks\\auto_forge.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\multiblocks\\casing.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\multiblocks\\runic_crucible.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\multiblocks\\runic_enchanter.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\multiblocks\\runic_star_altar.js",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Theurgy\\SulfurAdditions.js",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\forbidden_arcanus\\hephaestus_forge\\ritual\\alloy_axe.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\forbidden_arcanus\\hephaestus_forge\\ritual\\alloy_paxel.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\forbidden_arcanus\\hephaestus_forge\\ritual\\alloy_pick.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\forbidden_arcanus\\hephaestus_forge\\ritual\\alloy_shovel.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\forbidden_arcanus\\hephaestus_forge\\ritual\\alloy_sword.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\allthemodium\\loot_table\\chest\\generic_loot.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_cinnabar.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_iridium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_lead.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_nickel.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_osmium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_platinum.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_silver.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_tin.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_uranium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\configured_feature\\ore_zinc.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\placed_feature\\ore_cinnabar_placed.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\placed_feature\\ore_iridium_placed.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\alltheores\\worldgen\\placed_feature\\ore_uranium_placed.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\apotheosis\\data_maps\\item\\loot_category_overrides.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\loot_table\\tree_drops\\allthemodium\\ancient.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\loot_table\\tree_drops\\allthemodium\\demonic.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\loot_table\\tree_drops\\allthemodium\\soul.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\recipe\\allthemodium\\ancient.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\recipe\\allthemodium\\demonic.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\botanytrees\\recipe\\allthemodium\\soul.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_colossal.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_farming.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_giant.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_large.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_normal.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_small.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_soaryn.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\advancement\\recipes\\misc\\new_machine_tiny.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_colossal.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_farming.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_giant.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_large.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_normal.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_small.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_soaryn.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\compactmachines\\recipe\\new_machine_tiny.json",
+        "reason":  "references disabled namespace: compactmachines"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\abandoned_temple_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\aviary_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\bandit_towers_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\bandit_village_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\bathhouse_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\ceryneian_hind_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\coliseum_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\fishing_hut_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\foundry_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\giant_mushroom_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\greenwood_pub_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\heavenly_challenger_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\heavenly_conqueror_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\heavenly_rider_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\illager_campsite_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\illager_corsair_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\illager_fort_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\illager_galley_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\illager_windmill_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\infested_temple_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\jungle_tree_house_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\keep_kayra_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\kisegi_sanctuary_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\lighthouse_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mechanical_nest_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\merchant_campsite_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mining_complex_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mining_system_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\monastery_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mushroom_house_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mushroom_mines_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\mushroom_village_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\plague_asylum_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\scorched_mines_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\shiraz_palace_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\small_blimp_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\small_prairie_house_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\thornborn_towers_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\typhon_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\undead_pirate_ship_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\dungeons_arise\\tags\\worldgen\\biome\\has_structure\\wishing_well_biomes.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\forbidden_arcanus\\forbidden_arcanus\\hephaestus_forge\\ritual\\eternal_stella.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\forbidden_arcanus\\neoforge\\biome_modifier\\add_lost_soul_overworld.json",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\hostilenetworks\\data_models\\warden.json",
+        "reason":  "references disabled namespace: deeperdarker"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\recipe\\dragonforge\\allthemodium-unobtainium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\recipe\\dragonforge\\allthemodium-vibranium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\recipe\\dragonforge\\vibranium-unobtainium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\amphithere.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\cockatrice.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\deathworm.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_black.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_brown.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_chestnut.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_creamy.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_dark_brown.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_gray.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\hippogryph_white.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\stymphalian_bird.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\troll_forest.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\troll_mountain.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\troll_snowy.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\entity_gen\\wandering_cyclops.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\cyclops_cave.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\fire.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\gorgon_temple.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\graveyard.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\hydra_cave.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\ice.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\lightning.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\mausoleum.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\myrmex_hive_desert.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\myrmex_hive_jungle.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\no_graveyard.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\pixie_village.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\iceandfire\\tags\\worldgen\\biome\\structure_gen\\siren_island.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\azure_silver.json",
+        "reason":  "references disabled namespace: atm10"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\glowstone_dust.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\obsidian.json",
+        "reason":  "references disabled namespace: atm10"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\raw_allthemodium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\raw_unobtainium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\laser_drill_ore\\raw_materials\\raw_vibranium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\industrialforegoing\\recipe\\stonework_generate\\deepslate.json",
+        "reason":  "references disabled namespace: industrialforegoing"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\mekanism\\data_maps\\mekanism\\chemical\\chemical_attribute_fuel.json",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\minecraft\\tags\\block\\enderman_holdable.json",
+        "reason":  "references disabled namespace: industrialforegoing"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\minecraft\\tags\\block\\needs_stone_tool.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\minecraft\\tags\\block\\mineable\\pickaxe.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\data_maps\\item\\machine_upgrades.json",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\auto_forge.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\ev_runic_transformer.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_crucible.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_enchanter.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_energy_input_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_energy_output_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_ev_transformer.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_fluid_input_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_fluid_output_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_item_input_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_item_output_hatch.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_storage_unit.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\runic_superconductor_transformer.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\star_altar.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\loot_table\\blocks\\superconductor_runic_transformer.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\assembler\\drill.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\assembler\\drill_head.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\compressor\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\compressor\\plate.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\cutting_machine\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\cutting_machine\\rod.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\assembler\\drill.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\assembler\\drill_head.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\compressor\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\compressor\\plate.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\cutting_machine\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\cutting_machine\\rod.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\assembler\\drill.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\assembler\\drill_head.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\compressor\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\compressor\\plate.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\cutting_machine\\main.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\cutting_machine\\rod.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\quarry\\allthemodium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\quarry\\unobtainium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\quarry\\vibranium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\mysticalagriculture\\recipe\\seed\\hop_graphite.json",
+        "reason":  "references disabled namespace: mysticalagriculture"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\occultism\\recipe\\ritual\\misc_miner_ancient_eldritch.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\oritech\\recipe\\pulverizer\\coal.json",
+        "reason":  "references disabled namespace: oritech"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\oritech\\worldgen\\configured_feature\\resource_node_common.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\oritech\\worldgen\\configured_feature\\resource_node_rare.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\pamhc2trees\\loot_table\\blocks\\pamavocado.json",
+        "reason":  "references disabled namespace: pamhc2trees"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\powah\\data_maps\\fluid\\heat_source.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\powah\\data_maps\\fluid\\magmator_fuel.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\forbidden_arcanus\\hephaestus_forge\\ritual\\stellarite_bee.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\productivebees\\ars_nouveau\\air_essence.json",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\productivebees\\ars_nouveau\\earth_essence.json",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\productivebees\\ars_nouveau\\fire_essence.json",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\productivebees\\ars_nouveau\\water_essence.json",
+        "reason":  "references disabled namespace: ars_nouveau"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\productivebees\\mekanism\\wasted_radioactive.json",
+        "reason":  "references disabled namespace: allthecompressed"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\recipe\\bee_conversion\\wasted_radioactive_bee.json",
+        "reason":  "references disabled namespace: mekanism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\productivebees\\recipe\\centrifuge\\fluids\\honeycomb_oily.json",
+        "reason":  "references disabled namespace: modern_industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\silentgear\\silentgear_materials\\allthemodium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\silentgear\\silentgear_materials\\unobtainium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\silentgear\\silentgear_materials\\vibranium.json",
+        "reason":  "references disabled namespace: allthemodium"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\arcane_crystal.json",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\bort.json",
+        "reason":  "references disabled namespace: theurgy"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\iesnium_ingot.json",
+        "reason":  "references disabled namespace: occultism"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\mithril_ingot.json",
+        "reason":  "references disabled namespace: irons_spellbooks"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\prosperity_shard.json",
+        "reason":  "references disabled namespace: mysticalagriculture"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\rune.json",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\salt.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\stellarite_piece.json",
+        "reason":  "references disabled namespace: forbidden_arcanus"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\theurgy\\recipe\\incubation\\sulfur.json",
+        "reason":  "references disabled namespace: alltheores"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\the_bumblezone\\bz_bee_queen_trades\\revival\\dead_bush.json",
+        "reason":  "references disabled namespace: the_bumblezone"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\xycraft_machines\\recipe\\extractor\\enderio\\grains_of_infinity_campfire.json",
+        "reason":  "references disabled namespace: enderio"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\startup_scripts\\Modern-Industrialization\\atm_stuff.js",
+        "reason":  "late cleanup: remaining Modern Industrialization / Allthemodium startup item registrations"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\modularbees\\recipes.js",
+        "reason":  "late cleanup: remaining All The Mods / Allthemodium recipe override for kept mod"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\server_scripts\\mods\\Mining Gadgets\\Recipes.js",
+        "reason":  "late cleanup: remaining All The Mods / Allthemodium recipe override for kept mod"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_bauxite.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_iridium.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_lead.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_lignite_coal.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_nickel.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_salt.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_tin.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\deepslate_ore_generator_uranium.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_bauxite.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_iridium.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_lead.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_lignite_coal.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_nickel.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_salt.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_tin.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\neoforge\\biome_modifier\\ore_generator_uranium.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\allthemodium\\crafting\\drill_head.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\unobtainium\\crafting\\drill_head.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "kubejs",
+        "path":  "kubejs\\data\\modern_industrialization\\recipe\\materials\\vibranium\\crafting\\drill_head.json",
+        "reason":  "late cleanup: Modern Industrialization datapack files after removing Modern Industrialization"
+    },
+    {
+        "kind":  "mod",
+        "path":  "mods\\botanypotsmystical-neoforge-1.21.1-21.1.11.jar",
+        "reason":  "late cleanup: Mystical Agriculture addon after disabling Mystical Agriculture"
+    }
+]
