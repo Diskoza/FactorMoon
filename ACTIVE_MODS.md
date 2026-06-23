@@ -1,492 +1,509 @@
 ﻿# Active Mods
 
-Generated at: 2026-06-07T00:49:33
+Generated from the cleaned FactorMoon publication folder on 2026-06-23.
 
-Active mod jar count: 484
+Active mod jar count: 499
+
+Large third-party mod files are shipped with the release archive. This manifest records the active filenames, sizes, and SHA-1 hashes used by the public build.
 
 | File | Size | SHA-1 |
 |---|---:|---|
-| `%5BNeoforge%5Dctov-3.6.3.jar` | 7139609 | `c5fe733d743af20f84eb87dd75b5bb57684f3e05` |
-| `[1.21.1] SecurityCraft v1.10.1.jar` | 4951098 | `692f81f4fdcd0d1298db96a9582eea41baeae252` |
-| `accelerated-decay-neoforge-21.0.0.jar` | 10478 | `b023fe4daf1379f0f4233bea02ba112f3854db3e` |
-| `accessories-neoforge-1.1.0-beta.53+1.21.1.jar` | 1078697 | `77d75c2e13cfdf56a45cdd29806c1c97c3d250fc` |
-| `additional_lights-neoforge-1.21-2.1.10.jar` | 514194 | `8dc485146437e8ac40dd29e10747601fd4e372ca` |
-| `AdvancedAE-1.6.11-1.21.1.jar` | 4797100 | `0af8033f7291b9f5062b229053e16b439a906db9` |
-| `AdvancedPeripherals-1.21.1-0.7.61b.jar` | 935498 | `3f05a8766862bbe8958750f7eb768220d30536a3` |
-| `advancementdisable-neoforge-1.0.1+1.21.jar` | 12747 | `d57c4837848d923aac791029ca3c19eb4e93b5eb` |
-| `AdvancementPlaques-1.21.1-neoforge-1.6.8.jar` | 195730 | `829d33e71b30e9158d772f5963bb6020f6026d78` |
-| `ae2ct-1.21.1-1.1.1.jar` | 437906 | `2e425a9dc8891bdcd3b2914506d1bc33414b61be` |
-| `ae2importexportcard-1.21.1-1.4.3.jar` | 190861 | `a64daebce42a609e2a4786393fc4398448a0aa35` |
-| `ae2jeiintegration-1.2.1.jar` | 91710 | `e99898b3e9c32bf6ac757e7ad50247746622cdfc` |
-| `AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar` | 1686091 | `c6cb26a2031687d801bf1763dc0c75cd92f3715c` |
-| `ae2wtlib-19.4.1.jar` | 242235 | `e5ac6b8ec0851d9fb23d92281842f1880f0979b7` |
-| `aeinfinitybooster-neoforge-1.21.1-1.0.0.54.jar` | 30409 | `d00daf281a852358022b936a21ae272578f00afd` |
-| `aerocopycats-1.1.1.jar` | 14702 | `3a93862421d0a8cdae1e3a3d7f0d4bd01e049007` |
-| `aeronauticscompat-1.1.2.jar` | 37307 | `64044986287367e7f638012c931d8a23528bee41` |
-| `aeroworks-1.2.9.jar` | 183858 | `f6f48e509202dca5443904ae077ade67e7f89d70` |
-| `AI-Improvements-1.21-0.5.3.jar` | 28984 | `b4a8e11384454bcc341043b251db7fb5afdfdf45` |
-| `AkashicTome-1.8-30.jar` | 50256 | `6493e575f295e18fac1f7c5399c05c53caa1f7ce` |
-| `almostunified-neoforge-1.21.1-1.4.1.jar` | 295072 | `69913ae6d63f2e10603b272bb8a957c7d0f3f0e4` |
-| `amendments-1.21-2.0.15-neoforge.jar` | 1143659 | `00056f29646f3bf86116b281c2362c0dabdb4533` |
-| `Apotheosis-1.21.1-8.5.2.jar` | 6964172 | `eb484177b383dc397bfa37d06ef09ec39053bb50` |
-| `ApothicAttributes-1.21.1-2.9.1.jar` | 314269 | `e7f669e1b45d75076200436f37c40a6dd3b6a6ff` |
-| `ApothicEnchanting-1.21.1-1.5.2.jar` | 5350906 | `aad9bb6b4e5ba7ea85af4d143467b99f0ed022fc` |
-| `ApothicSpawners-1.21.1-1.3.4.jar` | 125015 | `26d701238bdb76a497a64f588409419ad067e557` |
-| `appleskin-neoforge-mc1.21-3.0.9.jar` | 75804 | `81cf0e668f991f83ac8820c386fbd6c9c3602246` |
-| `appliedenergistics2-19.2.17.jar` | 8230896 | `49c18d6a4af487957d7e5a6ad5dcbf71090b8e14` |
-| `AppliedFlux-1.21-2.1.4-neoforge.jar` | 337796 | `741e856b0c928fc15b59e92d98ea75ef98541ee8` |
-| `architectury-13.0.8-neoforge.jar` | 584004 | `6ca11d3cc136bf69bb8f4d56982481eb85b5100b` |
-| `artifacts-neoforge-13.2.1.jar` | 1030252 | `3fe4d52cc0b11d91c75005030e83e3f675e62383` |
-| `athena-neoforge-1.21-4.0.2.jar` | 92698 | `069f397f1b3a30b3d5f5a98cac76304dfe345d76` |
-| `atlas_api-1.21.1-1.2.0.jar` | 28419 | `79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998` |
-| `attributefix-neoforge-1.21.1-21.1.3.jar` | 19809 | `7aae849f6d2a6cb1368227407ea5deb552e100ba` |
-| `Auroras-1.21-1.6.2.jar` | 2116122 | `2a27027b3c95823e4bf7e0aa635b92742ca407e0` |
-| `authme-neoforge-9.0.1+1.21.1.jar` | 364895 | `13d12989930705e645f82c625d25ac26bce589e5` |
-| `azurelib-neo-1.21.1-3.1.8.jar` | 871542 | `d7762c1e334ed9d654675e48782eea42057a3f7c` |
-| `BadOptimizations-2.4.1-1.21.1.jar` | 283566 | `1461d8e46391efd32a3085150e86094c9f6f5c9d` |
-| `balm-neoforge-1.21.1-21.0.56.jar` | 739709 | `c1c1d4859c7943c7d1c181c07fa7273a1d56df15` |
-| `baubley-heart-canisters-1.21.1-1.4.0.jar` | 177638 | `ccaae33c804d4897039b55a98e9da608b15fee8b` |
-| `bellsandwhistles-0.4.7-1.21.1.jar` | 193619 | `85944080f8bd47dad64a8193a70662cd9ddbb200` |
-| `better_tooltips-1.0.3.jar` | 64441 | `ac67bc12905121dc52d6403edd2c4cc8d39a6b67` |
-| `BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar` | 98641 | `870521cfaa1a4cb6c830e2409e8b9e4cf179aff2` |
-| `betterbeds-1.4.0.jar` | 65708 | `48f215da24598e4ad93efc7d0ca0a6f91660069f` |
-| `betterf1-NeoForge-1.0-1.21.1.jar` | 22350 | `b24b6b6511afae6e820d14c2ad62752e3592ccab` |
-| `BetterF3-11.0.3-NeoForge-1.21.1.jar` | 481646 | `8fa17df26d3650416bc124be7a264bc1566a3b26` |
-| `bigcontraptions-neoforge-1.0.jar` | 5861 | `cf1af44de7042f26fce74549130e1eb7d937ced8` |
-| `bits_n_bobs-0.0.44.jar` | 1613264 | `2d577eb7e47b860fc32e4ebd33405715252c5072` |
-| `blueflame-1.21.1-1.1.1.jar` | 17921 | `0e78defafd6cf08759c656a54f8a33315e3ab924` |
-| `bookshelf-neoforge-1.21.1-21.1.81.jar` | 328813 | `efc4cda6da4dd879f24d057ed0a6413764c9ba40` |
-| `botanypots-neoforge-1.21.1-21.1.41.jar` | 1065153 | `4f216887a3b95d6abde0f2458a94487523531a1c` |
-| `botanytrees-neoforge-1.21.1-21.1.3.jar` | 20389 | `a15237bff8e914c50a271ee498d7e2ee55ff017f` |
-| `brb-1.10.0-rc5+1.21.jar` | 1223044 | `9a6954f26361e174e92a4b5b8d36256d419580bc` |
-| `BridgingMod-2.6.2+1.21.1.neoforge-release.jar` | 5924051 | `18c4fdadf7d1b4632ae0e0914e4075847306b52f` |
-| `buildinggadgets2-1.3.9.jar` | 3858597 | `666a155981e3cd231f67809b9e2a0238377bbbfc` |
-| `bwncr-neoforge-1.21.1-3.20.3.jar` | 27537 | `ece7a31501bc3080e1c4263689c26e9154809b2d` |
-| `caelus-neoforge-7.0.1+1.21.1.jar` | 50235 | `e4c2e1af4e3082d68f7df75f7c8ce30116d71515` |
-| `camol-1.21.1-0.3.0.jar` | 61522 | `d87f56e5722b39ba1a20b968e5104feaaec9690f` |
-| `capturexp-neoforge-1.7.3-1.3.0.jar` | 22895 | `49bd6e318afc2d9f99d1bbd753012738ecc3c7ed` |
-| `Carved Wood-neoforge-1.21.1-1.9.5.jar` | 2438502 | `db330d731b5636ae614f46941b8e19515e32e87c` |
-| `catalogue-neoforge-1.21.1-1.11.2.jar` | 302750 | `6d67f855c20bc6392763cfb22e1152da4e8015b4` |
-| `catchindicator-neoforge-1.6.2.jar` | 312906 | `b621b57dadd85dfb021992844d829d92e0b10b87` |
-| `catchrate-display-neoforge-2.8.22.jar` | 261220 | `aad8deb2b48d982753753d5d9b9a360cd00c6907` |
-| `catjammies-1.21-1.7.1.jar` | 8784 | `9ce39347637e6209e031402e054d7cc93b1e1a03` |
-| `cc_sable-neoforge-1.2.3.jar` | 41813 | `848a6313795b8b067d2cb2cd7df7aae3b22cfd60` |
-| `ccbr-1.2.0-neoforge-1.21.1.jar` | 205473 | `7a59bc18d7994cd3fee3f8696864577dcf290954` |
-| `cccbridge-mc1.21.1-v1.7.2-neoforge.jar` | 488419 | `86fc996c61b5257c24efd2a4c7e48b256b21bd76` |
-| `ccgraphics-1.21.1-forge-0.1.5.jar` | 76555 | `607ff38044dfeba3ee7b78044d0efb92ff6c395e` |
-| `ccredstonelinkbridge-neoforge-1.0.3.jar` | 22344 | `b69762fa09601ae6283e8a12bcef033efd14d2ab` |
-| `ccterminals-1.21.1-forge-0.1.0.jar` | 52540 | `cdb8b7a1121f29639cf6715bb0aa160fca4847d6` |
-| `cc-tweaked-1.21.1-forge-1.118.0.jar` | 3122700 | `bbb1431befefbf56991ef0a0aad25fffedcfdfbc` |
-| `charginggadgets-1.14.1.jar` | 67206 | `3208ea2ca10d786895d03c2cd3a124d14393b357` |
-| `chat_heads-0.15.1-neoforge-1.21.jar` | 89272 | `650ff9d879051196c8c46b5718342db46c745cc9` |
-| `chromacarvings-1.21.1-0.2.0.jar` | 268974 | `b791809827bfd4e3d28fc208815d92bfed92c602` |
-| `Chunky-NeoForge-1.4.23.jar` | 340572 | `ab0c74743a653020fe2dfc4986b43e893947f3e9` |
-| `CleanF3-mc1.21.1-0.4.9.jar` | 18772 | `22d80aea0350dc34bfd30896fb76c0cebc172f96` |
-| `cleanswing-1.9.jar` | 8449 | `c4746d331a9a73158da1c330f0d46ce8714ce5d8` |
-| `cloth-config-15.0.140-neoforge.jar` | 1163890 | `c3e5733ba4503b102589a026000fd5ce0212f6f2` |
-| `Clumps-neoforge-1.21.1-19.0.0.1.jar` | 18382 | `fa2576297c7bd12b28aa7070e8141792bd66da4c` |
-| `cobble-caf-forms-5.0.0.jar` | 2884487 | `6ad87cbd0eb23e7a58157b48b4cca9924e66c7b9` |
-| `cobbledgacha-neoforge-1.21.1-3.0.3.jar` | 1114087 | `a2450dd08503743f4ac313f67f6007f7161afae9` |
-| `CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar` | 373240 | `caf03c43fca60906d176e1446ba35f2988b0c3e1` |
-| `CobbleFurnies-neoforge-1.1.jar` | 2343208 | `ede2d4c0735de9c96111567aa87b1f1868786ca7` |
-| `cobblegengalore-1.21.1-0.2.8.jar` | 87631 | `a799bf9d4818020bc41c009503f6d77f78eec247` |
-| `Cobblemon_Legends_Reborn-3.0.0-neoforge.jar` | 191622 | `00d6cc9a2761fb00528c8f5375ace1bb03a31909` |
-| `cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar` | 65748 | `735a118e41cb56eddca221bdd794315e4d756a09` |
-| `cobblemon_shiny_rarities-0.2.1.jar` | 12587812 | `fc971c97c96a6979d605028ba43b9c411025f275` |
-| `cobblemon_wonder_trade-neoforge-1.2.2.jar` | 2366628 | `17a2e6474353baf13329ba87b1e3356d4f96bbe4` |
-| `cobblemon-alphas-2.2.jar` | 919007 | `26ad77dbff6995cf81c7f0abf71c925793a9dbb6` |
-| `cobblemon-battle-extras-neoforge-1.13.45.jar` | 1651388 | `eb446be193bdd4981d16c86bb40410be3f0cb693` |
-| `cobblemon-battle-positions-1.1.3-factormoon-connector.jar` | 57263 | `92db1287cc6fd9a59df7517a1b7f1d82ac6f088a` |
-| `cobblemon-extra-ride-compat-neoforge-0.1.1.jar` | 16307 | `5e402f799447b5b806d70a92118ff3935e980891` |
-| `cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar` | 367654 | `4fc845cd25890164d000d11f24dbbecebd8df98a` |
-| `cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar` | 3508373 | `8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb` |
-| `Cobblemon-neoforge-1.7.3+1.21.1.jar` | 128748941 | `580ea363bbc391c98e548962a47c683155522f38` |
-| `cobblemonopponents-neoforge-1.7.0.jar` | 25720503 | `3fcbd47c3308be3855cebed85d3d4fc6fe924fce` |
-| `cobblemonraiddens-neoforge-0.11.1+1.21.1.jar` | 2710913 | `f971302251cb5a3310602a5a6fcf41dfc781ddad` |
-| `Cobblemon-TM-neoforge-1.3.jar` | 54100 | `a850f0677e8b11a8b38b10aa68e25422a2cc809d` |
-| `cobblenav-neoforge-2.3.3.jar` | 1084431 | `85c5dd7617c7031e43271ccab92c55c6a19cc6e2` |
-| `Cobblepedia-NeoForge-0.7.1.jar` | 8276599 | `c5f15ee58c16c7c54c505ec8f005449f3f145f7d` |
-| `cobbleversebadges-neoforge-1.3-port.1.jar` | 76349 | `c6c41860befd3604b6599809960b41feed0955fc` |
-| `Cobbreeding-neoforge-2.2.1.jar` | 467675 | `a0843ba354d627c1062332034e1f373884003b23` |
-| `cobweb-neoforge-1.21-1.4.0.jar` | 410948 | `5ae5dbf4184a62b9ff5bd31f6f8ba62943dd197d` |
-| `CodeChickenLib-1.21.1-4.6.1.526.jar` | 1538347 | `6a278b5a2788c2fee7ae52d17f24187332d436b2` |
-| `colorfulhearts-neoforge-1.21.1-10.5.9.jar` | 156588 | `ec63110d126cf95dabe220116bd394e701265de7` |
-| `colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar` | 210569 | `0e63780e5b8af294bf58609ac866b9866ab9537b` |
-| `colorwheel-neoforge-1.2.4+mc1.21.1.jar` | 384085 | `e70b717b6e681b2fdb5cd1788110ab4959328b33` |
-| `comforts-neoforge-9.0.5%2B1.21.1.jar` | 422658 | `21d6bee3821d62fe3356c51fb1d697871a3087ff` |
-| `ConfigManager-neoforge-1.21.x-1.0.1.jar` | 141558 | `4d9071cbb997b28c81215e16cf70eb430276f5d3` |
-| `connectivity-1.21.1-7.6.jar` | 114165 | `6adebe84f745dec8fa33bc3982383bc1cc24d49e` |
-| `connector-2.0.0-beta.14+1.21.1-full.jar` | 4526785 | `930067497b5c1249e51b3e33620ab4e72dc92f4c` |
-| `ConnectorExtras-1.12.1+1.21.1.jar` | 86284 | `8ea07df55b26c8343d06df77936505a23e0d2140` |
-| `ConstructionSticks-1.21.1-1.3.0.jar` | 262932 | `c73da674b08848c835ff45eadf47fdc8584fef82` |
-| `continuity-3.0.0+1.21.neoforge.jar` | 1014626 | `0aecd2d043ac25299254623fafdd9129ab2ba9c2` |
-| `Controlling-neoforge-1.21.1-19.0.5.jar` | 77555 | `8a34424fc1428778be2fdbfa4da67b21b70bcbfe` |
-| `copycats-3.0.4+mc.1.21.1-neoforge.jar` | 1791747 | `6a11d5806bcf521e08faba1ee6ef5f31af55ca0f` |
-| `Corgilib-NeoForge-1.21.1-5.0.0.9.jar` | 309763 | `6699f876f9e10f936910055f7fe1a283d8bb9e0f` |
-| `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` | 92722 | `5f1e699cd0888b857ec63f01adaeb3571848bfea` |
-| `crafting_on_a_stick-1.21.0.4.jar` | 78661 | `9ea4bcce2d468b13e20871789dde525d49454076` |
-| `craftingtweaks-neoforge-1.21.1-21.1.7.jar` | 255939 | `54379f303f3fba8a1026e3f18e88ec4d6e042f8b` |
-| `crashutilities-9.0.4.jar` | 225310 | `5117a448b0611f60fbe743a4a631e431dd31740e` |
-| `Create Encased-1.21.1-1.8-ht2.jar` | 2410332 | `957a7ee1741c7a8536bedd401a923d7fb73a7092` |
-| `create_aquatic_ambitions-1.21.1-2.0.2.jar` | 1041906 | `39945d25188f3cb8feb74d09b78d7f7f7a74aaa7` |
-| `create_bb-1.0.7-1.21.1-Neoforge.jar` | 2613213 | `7a6eae4bc851786c6519c8cac956b406cb71a8eb` |
-| `create_bic_bit-1.0.2C.jar` | 395943 | `7dfe3dc14f3a467e37ca8a2e64038fd6379b1988` |
-| `create_compatible_storage-2.11.0-neoforge.jar` | 151253 | `8b16de39c6a741bea1472285271b1c269d5c0df5` |
-| `create_connected-1.1.16-mc1.21.1.jar` | 6608605 | `11fafde06b25b872f8d5c4e927516188b831cf1a` |
-| `create_factory-0.7a-1.21.1.jar` | 211171 | `e01ca3c74453165c6914e3c655969543aaad0063` |
-| `create_hypertube-0.4.0-COMPAT-NEOFORGE.jar` | 423111 | `adbd8f617928af37b286cadf7b45707e2498f25a` |
-| `create_jetpack-forge-5.1.2.jar` | 481239 | `70b9f0f5464abea074416f10ab7745a6e732f9ba` |
-| `create_ltab-3.9.2.jar` | 2752729 | `572a66890702853709092529e3ed58c221e5eae3` |
-| `create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar` | 1216413 | `6c45ed6367ea9a90384b57b36d350f86f099996e` |
-| `create_ore_excavation_plus-0.2.5-1.21.1.jar` | 1386380 | `39f3e33528d5c1c7d0ff73b77bcc0bf7bdef1bd9` |
-| `create_power_loader-2.0.4-mc1.21.1.jar` | 439565 | `05d56062e6998a2897b10a0ea5e66685860f336e` |
-| `create_structures_arise NeoForge 1.21.1 -175.48.47.jar` | 1852594 | `3947caefe10538f70475e15af80425787498c322` |
-| `create_tweaked_controllers-1.21.1-1.2.7.jar` | 303343 | `6358da213d0eff982c3431a8d004a3e912f7957a` |
-| `create_ultimate_factory-2.2.4-neoforge-1.21.1.jar` | 235239 | `ed0ff71df9bfe3b66b97c51a2834031084300a65` |
-| `create_vibrant_vaults-0.3.2.jar` | 2687938 | `d0dbdde6318c4dd4ede1d2c091f1a64896ba872a` |
-| `create-1.21.1-6.0.10.jar` | 19123767 | `0e97e49837bed766e6f28a4c95b04885d6acc353` |
-| `createaddition-1.5.10.jar` | 1595173 | `2bd194da923dd38239ef49df30ecf1a720d38997` |
-| `create-aeronautics-bundled-1.21.1-1.2.1.jar` | 33030286 | `fdf1ae69e8b6437e0196b3a35dd2325aa904aba9` |
-| `createbetterfps-1.21.1-1.1.4.jar` | 26547 | `c594e20659b73a67bd0b0c2de45b29b78a2eb160` |
-| `create-central-kitchen-2.4.0.jar` | 342464 | `6a91f304a1e023e8b9b34ccf95f19dd74c3edd55` |
-| `create-confectionery1.21.1_v1.1.3b.jar` | 2127265 | `47e235efa862c5cbea53fdf8346d4c499674defa` |
-| `CreateCyberGoggles-1.21.1-7.5.9-NeoForge.jar` | 456064 | `33c4f4ee19809d7f3c4c39dbe91cf04b53ce152e` |
-| `createdeco-2.1.3.jar` | 3328498 | `93d9eff58b46c6953e907d071e6be4e3ce07be38` |
-| `createdieselgenerators-1.21.1-1.3.11.jar` | 3132480 | `4251563ec3c21048cf0f097dd0c6d21f2475507b` |
-| `CreateDragonsPlus-1.10.0b.jar` | 756460 | `e50ae4f50173b12232b8dbd6b85568b4b657c0cf` |
-| `create-dyn-light-2.3.1-sodium-sable.jar` | 151383 | `d8db69c0b72b750feaa2c4ed41de906bdebd1e5f` |
-| `createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar` | 575739 | `ed9a5cf654235f54a3c5aced27ac654d5258e393` |
-| `create-enchantment-industry-2.3.1.jar` | 684729 | `e9a57b322459bda9905e4287d2582ad600909b11` |
-| `createendertransmission-2.1.1-1.21.1.jar` | 84366 | `fbf165d068a3a9c6d24f1bcf68fb1af380ee2603` |
-| `CreateEntityControl-0.3.8.4-6.0.x-neoforge-1.21.1.jar` | 365509 | `ab92313b7798c6078c3b1f11bd441758b34f3de0` |
-| `CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar` | 74294 | `c9a7d099468adf6a011c4ce33fca62e1391b8c40` |
-| `createfood-neoforge-1.21.1-2.4.0.jar` | 8431301 | `ac5a9dd4c698342347d2ecffb3052df69bc53185` |
-| `creategoggles-1.21.1-6.1.1-[NEOFORGE].jar` | 180932 | `e0285c31a2d2501439264c33c965409c422cd5b1` |
-| `create-integrated-farming-1.2.2.jar` | 408066 | `5dd16c55c89c8e4bb72a28fd09f5d9824c3341de` |
-| `CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar` | 451597 | `cb2d8a344270bbf97bb5af6e42c369ff15736493` |
-| `createliquidfuel-2.1.1-1.21.1.jar` | 18140 | `a29f65eb4bbded2ca977a1453f90b6570e812b85` |
-| `create-new-age-1.1.7c+neoforge-mc1.21.1.jar` | 1590363 | `ee352726afeaf935098471f12102da4b2a6fe18e` |
-| `createoreexcavation-1.21-1.6.8.jar` | 476990 | `9a76b86ec7470d4bd7332f22d6e50a3693098c10` |
-| `createpickywheels-neoforge-1.21.1-6.0.9-6.jar` | 86995 | `ce1827ed62945c1922d6c74134176b241a4d1335` |
-| `createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar` | 2060438 | `749db1461e6ebca5a72154b2c75e14da82f64eb2` |
-| `createschematicchecker-1.21.23-6.0-neoforge-1.21.1.jar` | 292873 | `eaea54e4ea39269bce4085c6710756222958e67b` |
-| `create-stuff-additions1.21.1_v2.1.0e.jar` | 1318700 | `5de330acd44af9e09430a7710687ad176dabf1e2` |
-| `createthreadedtrains-neoforge-1.21.1-1.0.0.jar` | 77249 | `1dec765e324bf968a1685a173aff5a13c11d0856` |
-| `createtransmission-1.1.2+neoforge-create6-1.21.1.jar` | 243276 | `a2eaf85833ce935b97eaace47d93c874386a03d7` |
-| `CreeperOverhaul-neoforge-1.21.1-4.0.6.jar` | 1185088 | `5a07cc032df790e7d110ad3dedb7a76253ffd565` |
-| `cristellib-neoforge-1.21.1-3.0.3.jar` | 539899 | `8e61459df2c76caa19d3f1e218522389ad812f6c` |
-| `crowns-1.21.1-2.1.6.jar` | 1264981 | `98659cd366c027b4142f2f765badb935c9db9464` |
-| `cryonicconfig-neoforge-1.0.0%2Bmc1.21.11.jar` | 133851 | `45b7240ad5cd561511ae3f80eea4cbfc110dae70` |
-| `crystalix-3.0.0.jar` | 817004 | `b2e75acbbf2f86b88573e89d073533d63c9fc298` |
-| `CTM-1.21-1.2.1+3.jar` | 240791 | `284232c08d3b999f05417761a3efba9b08ba20a7` |
-| `Cucumber-1.21.1-8.0.15.jar` | 275523 | `e2928961f305d0a48e43a03b0a668ee123270f69` |
-| `cupboard-1.21-3.5.jar` | 26659 | `e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70` |
-| `curios-neoforge-9.5.1+1.21.1.jar` | 410690 | `418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4` |
-| `CustomPlayerModels-1.21-0.6.25a (1).jar` | 2780404 | `c896082b4fd9b6ee8895abead19ac29aa6c4df1f` |
-| `defaultoptions-neoforge-1.21.1-21.1.6.jar` | 95747 | `92c8695dff4b5143919c4e80e4940c6afe873750` |
-| `deimos-1.21.1-neoforge-2.5.jar` | 49360 | `8a4e197b3ee958b7ef6e0ff374a6afa04941cbc0` |
-| `disenchanting_table-merged-1.21.1-5.0.2.jar` | 306197 | `c054a8bef63addff4d4a9520ec4c7a915c3fc1d1` |
-| `DnDesires-1.21.1-2.3a-BETA.jar` | 1249099 | `72635119b4bcc49b050c50d6cbb1abb02bb3982a` |
-| `dragonlib-neoforge-1.21.1-beta-3.0.26.jar` | 2098083 | `df416137bae1b7205965c1a47b7f466da4564fd6` |
-| `dummmmmmy-1.21-2.0.11-neoforge.jar` | 218920 | `1bdaf699dd40c03c96a85f64ae9b54a8e40bb539` |
-| `dungeons-and-taverns-v4.4.4.jar` | 24859622 | `249a5bdd0e8622b8a11f88758e6f5fd5fda036a3` |
-| `easy-villagers-neoforge-1.21.1-1.1.41.jar` | 456649 | `8dae7a6bbd066a19c8f3571e5449bb47da3ba9b0` |
-| `EdivadLib-1.21-3.0.0.jar` | 14133 | `99de3c473aa0120514a27d5a959a81c058e3fbb9` |
-| `elevatorid-neoforge-1.21.1-1.11.4.jar` | 191190 | `87a5504efcd51de55cd4215a103cbfcf717fa022` |
-| `enchdesc-neoforge-1.21.1-21.1.9.jar` | 81847 | `e4fa515c5deab3165f250f2a1297ac836d496064` |
-| `enderdrives-neoforge-1.21.1-1.4.4.jar` | 317025 | `910f3c970434f0def3250e77226b6e3201a3f687` |
-| `endermanoverhaul-neoforge-1.21.1-2.0.3.jar` | 1330403 | `f71aa503738f2e23a8d939b7ea9f96f2fe203f11` |
-| `entity_model_features-3.2.4-1.21-neoforge.jar` | 567827 | `fcc0d7cfee5ace4dba159225edd151d90dd924b9` |
-| `entity_texture_features_1.21-neoforge-7.1.jar` | 752334 | `56de40b237ff44dbf1bb68844e0f118607902684` |
-| `entityculling-neoforge-1.10.1-mc1.21.1.jar` | 1578350 | `68759da313caf8990bcd5d961bc691fa85fa3f0e` |
-| `EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar` | 4210708 | `a8e8a45390d30b82f722acc669d5cb2a5d9fff79` |
-| `expandedae-2.1.1.jar` | 496713 | `c4db013f83e569b016da329b3ddc9c14acc75d7d` |
-| `experiencelib-1.21.1-1.2.1.jar` | 169856 | `82a964a6a68519ade986760e964bb3309933671a` |
-| `ExplorersCompass-1.21.1-3.4.0-neoforge.jar` | 174668 | `9f62af344988a6e2d855b113e61cf0e1611c7e0f` |
-| `ExtendedAE-1.21-2.2.31-neoforge.jar` | 5551958 | `8f5f84f922aec09bf77f67f525580aa61935c649` |
-| `extra-move-anims-cobblemon-1.7v1.0.2.jar` | 584731 | `88f5f5290a98311bed5e9ce68553f4447d18af9f` |
-| `ExtremeSoundMuffler-3.55_NeoForge-1.21.jar` | 270217 | `b17090ea6a7c302c648f7bab12b37bbb3dd786f0` |
-| `FarmersDelight-1.21.1-1.3.1.jar` | 3124506 | `49477fafca740e7ae348d934b552fb313358e8fe` |
-| `FastFurnace-1.21.1-9.0.1.jar` | 4623 | `acdcdc7c61b49b3b04490fce9843dcf8b531dfc3` |
-| `FastSuite-1.21.1-6.0.7.jar` | 28193 | `664e62684311f727f1fac18f0de28e5317874b7e` |
-| `FastWorkbench-1.21.1-9.1.3.jar` | 28635 | `7343b63ded70c0546811c768118d16d3a86418ee` |
-| `ferritecore-7.0.3-neoforge.jar` | 121559 | `9563692efb708b6b568df27a01ec52f6311928ef` |
-| `fightorflight-neoforge-0.10.7.jar` | 1418105 | `f4f468a3e88ab22e4fd36d78cfbc6223a2277332` |
-| `fireproofboats-1.21.1-1.0.4.jar` | 39734 | `9c1990abe5bcdc9a16cbfb9a9de3b0ac35dc752b` |
-| `flickerfix-1.21.1-6.1.0.jar` | 4566 | `3eadf069d9eeb7fb4e2295828a8aaefe6691d96d` |
-| `fluid-2.0.1.jar` | 2024827 | `0c3279db034e67514a1b4225f048683f8fcc53d5` |
-| `ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar` | 104654 | `14f2dd9f43254b8c06af04b6f0c8ae5192f658b5` |
-| `ForgedPaginatedAdvancements-0.0.2+1.21.1.jar` | 72603 | `a7c1d2d16babb7edb51c2fe0364a8ac25920b31c` |
-| `forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar` | 5569793 | `459b5f4c7297b2f7649d43137f3e5a069b69b707` |
-| `forgivingvoid-neoforge-1.21.1-21.1.7.jar` | 76432 | `bfcad985c5e335e2b712965c9b0d9028da01c845` |
-| `formicapi-1.21.1-2.2.5.jar` | 1026273 | `2df464baeb70e887bf7d682a678c8f5c9b0b5552` |
-| `FramedBlocks-10.5.3.jar` | 4301567 | `bbbd02f99ab559bc68a72e3441e821c5cf81d8f1` |
-| `framework-neoforge-1.21.1-0.13.11.jar` | 387334 | `e46eb138fbb13a12f37154fb4ec407d64b326475` |
-| `ftb-chunks-neoforge-2101.1.14.jar` | 642340 | `908b63b11d0e00ae6c9557d3fe6440bdbcf21bb7` |
-| `ftb-essentials-neoforge-2101.1.9.jar` | 209459 | `7d6f274b38d767215549ec066246390c49ac7ad8` |
-| `ftb-filter-system-neoforge-21.1.4.jar` | 211671 | `a48e54edeacc59aaba29a1b627799c052112ee0b` |
-| `ftb-jei-extras-21.1.7.jar` | 69759 | `ef01126201a805991bbfe5351cff7d0a9e3a077b` |
-| `ftb-library-neoforge-2101.1.31.jar` | 1411181 | `686d4e784c28c14f7760cc22b2de6a8573b56b74` |
-| `ftbquestslangsplitter-1.0.5.jar` | 201142 | `74652f1f845c7a31f12b50163164eba06beebbd7` |
-| `ftb-quests-neoforge-2101.1.24.jar` | 1466155 | `abe5eeccbddf10ae4e40c350cdb6e95ee9e4cde1` |
-| `ftb-ranks-neoforge-2101.1.3.jar` | 88382 | `07fdfa3a75c3481770ce0118090a347d89e3a560` |
-| `ftb-teams-neoforge-2101.1.10.jar` | 302712 | `363376ae0fb22cb0527170fdf6a066d1da9b0225` |
-| `ftb-ultimine-neoforge-2101.1.13.jar` | 176935 | `c6ca0360843e5dbac57f3c01aa80fba5a0518553` |
-| `ftb-xmod-compat-neoforge-21.1.8.jar` | 141328 | `0c25fc1a43c99eaa68c883dc77e3ebf4539629e6` |
-| `fuelgoeshere-1.21.1-1.2.0.jar` | 7564 | `8b5f1c77adb52641189961896e10aa47399eccde` |
-| `fusion-1.2.12-neoforge-mc1.21.1.jar` | 532912 | `d86f641b67d4b01d99da8424ba2a3edc0e6690b6` |
-| `fzzy_config-0.7.6+1.21+neoforge.jar` | 2369895 | `c0910f9b975aaab8545ce950539748fb33d704d1` |
-| `GatewaysToEternity-1.21.1-5.1.0.jar` | 646451 | `f91a593378209f527fe81e731ca60fe8f8da2319` |
-| `geckolib-neoforge-1.21.1-4.8.4.jar` | 622582 | `eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce` |
-| `getittogetherdrops-neoforge-1.21.5-1.4.jar` | 8825 | `ead940a50f69313802960c497e252acd3956334f` |
-| `globalpacks-fabric-1.21.1-21.0.6.jar` | 394707 | `6a0c4ccf2a8bc916173defc3c49c8e95285e66b9` |
-| `Glodium-1.21-2.2-neoforge.jar` | 61377 | `9f61a3162665ad0b37f6f268339ac98097af1a87` |
-| `gravestone-neoforge-1.21.1-1.0.35.jar` | 318685 | `91f5e2395081ac5f5034ce05f83bcbfca1e3fd5c` |
-| `guideme-21.1.15.jar` | 9309183 | `924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5` |
-| `handcrafted-neoforge-1.21.1-4.0.3.jar` | 7132842 | `8ecd27f1d66f9b742cfae3c8ffa773765f574b52` |
-| `hardenedarmadillos-1.21.1-0.2.0.jar` | 10389 | `1c9a37d6fe172580af5142c66b9157d21aa6c5f7` |
-| `HellishTrials-neoforge-1.0.5.jar` | 581988 | `0c03bf04e99b3e8a310c9f5b6f3e7613e3b69528` |
-| `heyberryshutup-1.21.0-2.0.4.jar` | 6186 | `a897b4ac33d0fc5a2a533d56381c272f1e49520b` |
-| `highlight-neoforge-1.21.9-3.9.0.jar` | 471520 | `85838dacfbcbf621a3a4b91fefbbbf5f674d7f1f` |
-| `huge-structure-blocks-neoforge-1.1.6.jar` | 100359 | `4123987771defe7f46899a332d9f858a661d99de` |
-| `IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar` | 20933691 | `c4d33745a8041465f2d12bb76fc048750288ce24` |
-| `Iceberg-1.21.1-neoforge-1.3.2.jar` | 213853 | `f6014d198be9503573cd9cb41cc789d282768ad8` |
-| `imfast-NEOFORGE-1.0.2.jar` | 4157 | `2a62ae984777ef81d63adfb358608b72fedfcaf9` |
-| `ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar` | 368598 | `f1f5cccd7cb59d875f44566b2e557ccecc8c33fb` |
-| `immersive_optimization-neoforge-1.21-0.1.4.jar` | 50887 | `3a1fde4119ccccaf39bcc738bf4db14f905c2b65` |
-| `incontrol-1.21-10.2.6.jar` | 347280 | `8b25ac143e5c2392336d0f899160bdfe1ee3d1a5` |
-| `interiors-1.21.1-neoforge-0.6.1.jar` | 486912 | `a558777ef4510da2f4d32ca3da6ac7384c9a9940` |
-| `invtweaks-1.21.1-1.3.2.jar` | 77127 | `76969e26520ab060d51515757db25282bed71b10` |
-| `iris-neoforge-1.8.12+mc1.21.1.jar` | 2438548 | `a3e6355915c7d3b2bc392724795113e51d289378` |
-| `ironfurnaces-neoforge-1.21.1-4.3.2.jar` | 576866 | `9a40f949ec9794cdef79bdabb61a12a918613194` |
-| `IronJetpacks-1.21.1-8.0.11.jar` | 154859 | `96bdaf7fa57b73a3c157edfc5d1afbfc2e23a65d` |
-| `itemcollectors-1.1.10-neoforge-mc1.21.jar` | 100837 | `2019bdbb89da0f61ce40448164bdd9a5b13cb2d7` |
-| `Jade-1.21.1-NeoForge-15.10.5.jar` | 725742 | `d5bf134b3dbde9f5258666823900e21341dc0a50` |
-| `JadeAddons-1.21.1-NeoForge-6.1.0.jar` | 74419 | `d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3` |
-| `jearchaeology-1.21.1-1.2.0.jar` | 53509 | `385e4937144b20c6cbf103945a73066f8dc1bc74` |
-| `jei-1.21.1-neoforge-19.27.0.340.jar` | 1529391 | `27d0d85e7e32e926fc3664ab6815df5cdabb7941` |
-| `jumpboat-1.21.0-1.0.5.jar` | 5328 | `8fa562264f3ffd030773b2744ff6b42c52080ce6` |
-| `jupiter-2.3.7-1.21.1-neoforge.jar` | 278988 | `569fb484ea5c8e8d690945ad4cd132131a719751` |
-| `justdirethings-1.5.7.jar` | 2853190 | `f0327d7d2f389020063849200a4128ac9dcb52da` |
-| `justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar` | 134388 | `4f47678f57e2cadebd42484897bf5417d7fa344a` |
-| `JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar` | 24449 | `e10a6b56bf838c457706be43e0ebe33745b68784` |
-| `justzoom_neoforge_2.1.0_MC_1.21.1.jar` | 43798 | `328da50972fa693b8e6f337d4a9560d4a6170ac3` |
-| `keybindbundles-1.4.0.jar` | 89565 | `02a9c2a3faf06eb46a0ec56cc2df7302e568ce27` |
-| `KeybindsPurger-1.4.0-neoforge-1.21.1.jar` | 39710 | `8e1baa9ab8aa4b2efaefd39df54b241bd64533df` |
-| `konkrete_neoforge_1.9.9_MC_1.21.jar` | 618842 | `97771eb287d5ac7fe667d1df9493d5e54c8ca1fa` |
-| `kotlinforforge-5.11.0-all.jar` | 6869790 | `4d83e8a8e8cb06b306d2cea1e903680fe513f1f3` |
-| `krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar` | 1015871 | `3b9253fcfaa11586ce528fbc0a26175991c9408f` |
-| `kubejs-neoforge-2101.7.2-build.348.jar` | 2240610 | `75f96b2e4157c0efdbfd9f6271d080fb6921aaf4` |
-| `kubejstweaks-1.0.6.jar` | 421764 | `6548ec47aa6b0498c3018cde40d9d0a203b67446` |
-| `L_Ender's Cataclysm 1.21.1-3.26.jar` | 73346508 | `5fff47ae29af42aa2a7e0d91e0d70dbb1c722061` |
-| `laserbridges-1.21.1-neoforge-5.3.jar` | 199979 | `7948963864bce55a574d7c254c39760e9653bcc0` |
-| `LegendaryTooltips-1.21.1-neoforge-1.5.5.jar` | 81808 | `e7d3b66f3afe115c709749739f26f807ca8e827b` |
-| `lenientdeath-1.1.2.jar` | 82265 | `17ed36a3074832fed216ee62195d55af82f8727b` |
-| `libjf-3.17.6+forge.jar` | 730478 | `b6c4ffb3260f495344fa56ef3489c01e2b9552de` |
-| `lionfishapi-2.6.jar` | 92312 | `3d9059ea05839e0daab926848d91ecb14ca5a4d4` |
-| `lithium-neoforge-0.15.3+mc1.21.1.jar` | 774148 | `9fd5fa9076044180ae7f51672de74669196ec72e` |
-| `lithostitched-1.6.5-neoforge-21.1.jar` | 793877 | `a09b255f975a5d108d01ad102b80cea5c4ffa44d` |
-| `little-big-redstone-1.5.2-beta-1.21.1.jar` | 1385906 | `17139b4409e1ff0cb0a354f2819acbd7914d7a68` |
-| `livingthings-neoforge-1.21.1-2.3.0.jar` | 962953 | `b5a54f8fd82c5e34558f3034e6c1fa00d3a3284c` |
-| `lmft-1.1.1+1.21.9-neoforge.jar` | 78624 | `492d597ca216f9d099be112e77a9a5c7ed138770` |
-| `lootrmon-neoforge-1.21.1-0.0.0.1.jar` | 46718 | `d5b06c65bbba9fd2d4f62768a413965a51bb6f42` |
-| `lootr-neoforge-1.21.1-1.11.37.118.jar` | 970642 | `95058da06c16441211619ce46950502fd5ac1f64` |
-| `luminax-1.3.1_neoforge_1.21.1.jar` | 704672 | `8ec996b9783d05d4c107a3ea727ff9c7d52ce452` |
-| `mcw-bridges-3.1.2-mc1.21.1neoforge.jar` | 661387 | `71ece28129789a2123cf07e79938f488d8675bb2` |
-| `mcw-doors-1.1.5-mc1.21.1neoforge.jar` | 1190404 | `c127904f23db1a641dd9e065ec51c5c177cb4cd7` |
-| `mcw-furniture-3.4.1-mc1.21.1neoforge.jar` | 2080436 | `3dccc819f14bcc60b3683edd82ca8c5e64964229` |
-| `mcw-holidays-1.1.2-mc1.21.1neoforge.jar` | 1012915 | `fbe2d2239fdab916120357ca3c45f582ca34f71d` |
-| `mcw-lights-1.1.5-mc1.21.1neoforge.jar` | 525744 | `13c1107caf26b2c60d8626b3658b26cc7f634b38` |
-| `mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar` | 673871 | `b5580c3fc521ed8bf4db3e407bd590efc317f74d` |
-| `mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar` | 777742 | `4bb7e1d28eef19f87438881b0f582a15297b95ae` |
-| `mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar` | 529082 | `1ee43d693c821efc955a74e551f94372af90a140` |
-| `mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar` | 1261268 | `eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c` |
-| `mcw-roofs-2.3.2-mc1.21.1neoforge.jar` | 1784829 | `05806ff152fab56f7c1b4b215d772ea73611283d` |
-| `mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar` | 572870 | `1f8b59e31f889f53b6296b42ee09d447e7e56620` |
-| `Measurements-neoforge-1.21.1-3.0.3.jar` | 47632 | `4c415df21ffe02b6619c204b84d20dbe94b5f3b1` |
-| `mechanicals-1.21.1-1.1.0.jar` | 507824 | `9fcb171d9191d7c2a76502eccb295520787c9e81` |
-| `mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar` | 17260759 | `60efa7de89d832ba7a80c9320fe89376a5d47089` |
-| `megacells-4.10.2.jar` | 1121004 | `ae82f2784d1c620db31e651ac03259eec0a6765c` |
-| `melody_neoforge_1.0.10_MC_1.21.jar` | 36096 | `e83052a92c4ca0016bcfe7f0207273983dc84698` |
-| `memorysettings-1.21-5.9.jar` | 22328 | `46358f0310ea43fb23de2f831ddba6628dcb5f94` |
-| `merequester-neoforge-1.21.1-1.4.2.jar` | 184487 | `22c87905f348dc4cbe6ef69d1d877d4e6ebcadee` |
-| `merrymaking-1.21.1-14.jar` | 21961335 | `388142a33e0db7f264208a1e0ddb17decc3d6968` |
-| `midnightlib-neoforge-1.9.3+1.21.1.jar` | 61217 | `e0c9a1ffc6a53435029a23d9c110c44620595469` |
-| `mininggadgets-1.18.6.jar` | 663946 | `3c0279d46a802cbbdb7c259691ae7254fe9e8183` |
-| `mob_grinding_utils-1.1.10+mc1.21.1.jar` | 1370085 | `3dffde016ec61eb3961453e7142c85d11a4f4127` |
-| `Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar` | 933248 | `075a0d5f30d1228f998e50c79e703bbd3037a836` |
-| `modelfix-1.21-1.10.jar` | 47035 | `9608b1bff92e075ad8c2feb07f7ef095f6887117` |
-| `modernfix-neoforge-5.27.5+mc1.21.1.jar` | 569062 | `1731baeac095b487edaf29693e4a7ee18430281a` |
-| `ModularBees-1.21.1-2.11-neoforge.jar` | 530463 | `9ae93e2abe4c31bfdfd2dff520cd51bb1b50563f` |
-| `modular-routers-13.2.4%2Bmc1.21.1.jar` | 1284439 | `f4d535579462dc6436e4896daac4d2dd4ce8e428` |
-| `molten_vents-1.21.1-2.1.1.jar` | 88500 | `0d645330128d1d7dc0b330760f4517d3ff4a2a9d` |
-| `monolib-neoforge-1.21.1-2.1.0.jar` | 179499 | `e618e28647fcbf931143f81bcd905d7c9c61f27b` |
-| `moonlight-neoforge-1.21.1-3.0.16.jar` | 1576577 | `494ac7255ab0321f01a980cc21f1a3a5e4c0cf74` |
-| `MoreCobblemonTweaks-neoforge-1.3.3.jar` | 138756 | `dcfce07ad4604a2a8a3a97f6c505ae6e015210d9` |
-| `moreculling-neoforge-1.21.1-1.0.7.jar` | 344279 | `834cc35294be3bb514bc0ba571ab7337961af383` |
-| `moredragoneggs-5.0.jar` | 6389 | `c9b26ad977aaa6c2d1bd1ad681edd77cf466537d` |
-| `moreoverlays-1.24.2-mc1.21.1-neoforge.jar` | 112984 | `21e8bd61c5e146a9574266015d3f64621c2d9e18` |
-| `morered-1.21.1-6.0.0.3.jar` | 535669 | `a69f18365301470c0fc2b07125c9ba3c10f270f6` |
-| `MoreRed-CCT-Compat-1.21.1-1.3.0.jar` | 7312 | `534c64c86798ca691f0565bbf3fe09c9795a12df` |
-| `MouseTweaks-neoforge-mc1.21-2.26.1.jar` | 73938 | `6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc` |
-| `naturalist-1.0.2-neoforge-1.21.1.jar` | 5028168 | `d026c2c4ac66a9bc656e9b894683d1131054a80a` |
-| `NaturesCompass-1.21.1-3.4.0-neoforge.jar` | 224657 | `e19721873bebc4dbc1674bb101af39d0ea406b95` |
-| `NeoAuth-1.21.1-1.0.1.jar` | 61287 | `1eeb2aad79e2d9bac1b1d793768eb0d3483358fe` |
-| `netherportalfix-neoforge-1.21.1-21.1.1.jar` | 211972 | `7cf40ec774392823e709da7659a6d4a5a04c8c9d` |
-| `NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar` | 306668 | `9edfc7861277ff661141304dc8216f83eacdd9af` |
-| `nolijium-0.5.6.jar` | 362983 | `7074fda15f70440eb1e30f74a7dc70feadd49592` |
-| `novillagerdm-1.21.1-6.0.0.jar` | 4884 | `284694712ae9c5a17dfff4c0830048574996a229` |
-| `observable-5.4.4.jar` | 388133 | `e17417eee213aac8291ff8bad1c6a5f710636b72` |
-| `OctoLib-NEOFORGE-0.6.1%2B1.21.jar` | 540285 | `052b71b4897b3a76b4b10afda4d9342e66fb19f1` |
-| `ok_zoomer-neo-10.0.0-beta.13.jar` | 208085 | `bf38fe686628eca79cc1b33c6e60a1eb765c6b39` |
-| `omegaconfig-neoforge-1.5.1.jar` | 20181 | `0361933f62ad92e2197566ceb1f06308ed63d65d` |
-| `only-bottle-caps-neoforge-1.3.0-port.1.jar` | 42142 | `222019d4e5cd640f43a9a86617906813de5e19a7` |
-| `OpenLoader-neoforge-1.21.1-21.1.5.jar` | 35602 | `b4b49fa0bbefcecd41aaba60aca38c3658ac2c46` |
-| `oracle_index-neoforge-1.1.1.jar` | 29779727 | `49c7c260aae8b3478621174ad83115c59d58ef5b` |
-| `overloadedarmorbar-neoforge-1.21-2.jar` | 22307 | `250b3f1a34bcaee383545761f102834475e86819` |
-| `owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar` | 1221583 | `48dda11a6710591cf162bdbedf982ea21dd1f2ed` |
-| `packetfixer-3.3.1-1.20.5-1.21.X-merged.jar` | 46623 | `a8bb6e25807682e72c23bf4065f3cd5f6373ece3` |
-| `particlerain-4.0.0-beta.10+1.21.1-neoforge.jar` | 605458 | `df2800c721e8a588dde48bc4b426707eccf712b6` |
-| `particular-1.21.1-NeoForge-1.5.3.jar` | 303657 | `4daa6343ed9e77596bb60d2bbf3f6c40c7312c56` |
-| `pasturelootnf-0.1.0+1.21.1.jar` | 33347 | `008f4790a954191bd2dce540b6832b01cb54b9b0` |
-| `Patchouli-1.21.1-93-NEOFORGE.jar` | 646777 | `5413bb9b8fc35ebe46b06b48bf9afafbd8471140` |
-| `petrolpark-1.21.1-1.4.32.jar` | 6474964 | `cde03e213aa443a9cfbc465bfafe7fb90e23cd5d` |
-| `petrolsparts-1.21.1-1.2.10.jar` | 509152 | `d228f81fb8d9f9501f0077bcbe6b62852eccf0a1` |
-| `Ping-Wheel-1.12.2-neoforge-1.21.1.jar` | 153528 | `bfc416a7bc2edde6ff98672a7df43a3d9930a396` |
-| `pipesnphysics-0.3.0.jar` | 29017 | `3b53e3c87a655e9830a1109a3c3301f670c9086c` |
-| `Placebo-1.21.1-9.9.1.jar` | 324056 | `1c2b8c38066d6f36209c5dadee25c184ef65202e` |
-| `Platform-neoforge-1.21.1-1.3.3.jar` | 489341 | `4132ad6809008698b7f489a878e5a33a3879bbfd` |
-| `player-animation-lib-forge-2.0.4+1.21.1.jar` | 203149 | `05be8ddcc78532b9a5520c718edc6c971cd0057c` |
-| `playerxp-neoforge-1.0.9+1.21.1.jar` | 10974 | `6812cb62b249eb2d011a79c0010f531d4339286d` |
-| `poke-clothing-neoforge-1.1.2-port.1.jar` | 118640 | `5e028e35647a44bef446d6aaf5c0bfd04e7b714a` |
-| `polyeng-0.4.1.jar` | 20130 | `4add4d9e854807ed2b10c0cabf972244f862b21f` |
-| `polylib-2100.1.0-build.183-neoforge.jar` | 1299974 | `2e77cd8a795c3171d8327e6b1f1b6413565c8da1` |
-| `polymorph-neoforge-1.1.0+1.21.1.jar` | 174972 | `84f8c539fa326dc723ae62b7a6916d6b01982d07` |
-| `ponderjs-neoforge-1.21.1-2.4.0.jar` | 1571893 | `9c35c5c31a613d58fc06e591e455bccfc3de6022` |
-| `Powah-6.2.8.jar` | 2737273 | `cddbf8d2a6adfbcd8f73c13515af0da9c8139179` |
-| `prickle-neoforge-1.21.1-21.1.11.jar` | 84812 | `5174059ecf97340a0de5ef211b938de26c4eaa36` |
-| `Prism-1.21.1-neoforge-1.0.11.jar` | 62031 | `1ae6f7be2ba8f963344dbf27e552920a7bc7a35f` |
-| `productivebees-1.21.1-13.13.3.jar` | 5214035 | `314d87dba79c3a09ef2131d9871608b9e8cdb6e8` |
-| `productivemetalworks-1.21.1-1.15.0.jar` | 3042019 | `994781120d75e17c21851d1d3c5a2789a006eb49` |
-| `productivetrees-1.21.1-0.8.1.jar` | 13534494 | `35e6e55dac1f1497068a71346c74aa3cfa0204a6` |
-| `pylons-1.21.1-5.4.2.jar` | 217973 | `7a17b8fda2557c9466bc871403ba3b6ea5990e58` |
-| `railcraft-reborn-1.21.1-1.2.10.jar` | 5290986 | `e6bad517eed5d60923b2a0b28d9f7f83d7299f10` |
-| `railways-0.2.0-beta.2+neoforge-mc1.21.1.jar` | 11904503 | `2767bb73a33358b7796239310416b13db476f0b4` |
-| `Rainbows-1.21-1.5.jar` | 2307740 | `82a789be56ea483e0ca94454c780da0b47e937d1` |
-| `rangedpumps-1.3.0.jar` | 25483 | `b2430e501d0c03d0464ec351e3e839cb2a56a06a` |
-| `rctapi-neoforge-1.21.1-0.15.2-beta.jar` | 235207 | `06914d0d3dde9e92d14b5944db4e494527d89df0` |
-| `rctmod-neoforge-1.21.1-0.18.1-beta.jar` | 7536984 | `98afe295a4ac17dc6fd1427df623b721fbf11b50` |
-| `reap-neoforge-1.21.1-1.1.2.jar` | 140551 | `c57c3bcfdaf55e4719cc785b72631a794e5381fc` |
-| `rebind_narrator-1.21.1-neoforge-2025.12.23.jar` | 213661 | `3e28da451f5d7eecb35d195fb08bfe4d7f9022ec` |
-| `redstonepen-1.21-neoforge-1.11.42.jar` | 513816 | `4c9a706061c0e303a02431905a4fbb63c28d14be` |
-| `reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar` | 78451 | `b03d05495be28d8cef7a34872941bb8d703d60e6` |
-| `regions_unexplored-neoforge-1.21.1-0.5.9.jar` | 5365182 | `064c2da020731fadd07e095707320431df12288d` |
-| `relics-1.21.1-0.11.14.jar` | 4121604 | `7d4c14db31ecba9029cb0e016989b84c1212acf3` |
-| `reliquified_artifacts-1.21.1-1.0.4.jar` | 658045 | `5c1717a11d105f33021d805eefd4184a450cfaf5` |
-| `repeatable_trial_vaults-neoforge-1.21-1.0.2.jar` | 12734 | `6559a203e264afacc40af5010ad6a85b21e20a17` |
-| `repurposed_structures-7.5.18%2B1.21.1-neoforge.jar` | 8238563 | `545fafd13197186038191d99c378ac4c04a6504c` |
-| `resource_gamma_util-neoforge-1.21.1-1.4.0.jar` | 40915 | `4b714160b35e06cdaf6960a5f8ed3580e4b24dcd` |
-| `resourcefulconfig-neoforge-1.21-3.0.11.jar` | 341009 | `6bf2b6ea9c071c00a2abcdc552667fb6f7d21031` |
-| `resourcefullib-neoforge-1.21-3.0.12.jar` | 484332 | `24389c8e48ff0e8594e4686b750c494c66a5f8df` |
-| `ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar` | 83035 | `42dddb70cc645a864596439ea95bd56e7a5561ed` |
-| `rhino-2101.2.7-build.81.jar` | 882032 | `5dcc80079095706645d567353095297948a41eea` |
-| `Ribbits-1.21.1-NeoForge-4.1.6.jar` | 2215572 | `22dfd6a52d31bcab58b93c2d4a637ae1b2a01895` |
-| `s_a_b-1.4.3-neoforge-1.21.1.jar` | 1815476 | `7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8` |
-| `sable-neoforge-1.21.1-1.2.2.jar` | 12719293 | `c5ecd3fcf60a31d84112c708abe29e341b2d1b73` |
-| `SafePastures-1.1.1+1.21.1.jar` | 8154 | `e2084f5e675cec071029492e13774f7ab71c9c1f` |
-| `sawmill-1.21-1.7.2-neoforge.jar` | 521504 | `877389e2bb3b462b8180d4fc998799adbce6ada1` |
-| `ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar` | 16872119 | `b96d133a016dde480458d6102d66353c7eeacf6a` |
-| `Searchables-neoforge-1.21.1-1.0.2.jar` | 77326 | `5b8a0b43a474c066371b2e16f9bfb88622552a74` |
-| `servercore-neoforge-1.5.10+1.21.1.jar` | 1429522 | `4524cd40cfa5019d8b5fbcb628b1616031838a0c` |
-| `sgearmetalworks-1.21.1-1.4.6.jar` | 624587 | `1951c74de72370cc3fc69f9bbb5248562a855d7b` |
-| `shiny-1.21.1-1.2.5.jar` | 961576 | `cb5572e9f23795065e45883accf10c82b42d70b8` |
-| `shrink-2.0.1.47-neoforge.jar` | 46062 | `17407b525c0c70a0f6f03a08024a14058f645d01` |
-| `silent-gear-1.21.1-neoforge-4.1.5.jar` | 2967321 | `41d4b5188a6305d9f9468d86297f868256c0a3a4` |
-| `silentgems-1.21.1-neoforge-5.1.3.jar` | 1457506 | `a296507e45f2a71cfc1e6cfcc6692340c4c4d913` |
-| `silent-lib-1.21.1-neoforge-10.5.1.jar` | 146707 | `b08b639706ce8cbc426045501b7f2da59eceb14f` |
-| `simple_weather-1.0.13-hotfix.jar` | 82792 | `45ee8e8bb49c599bb3d7db7cdf6c91f90d13bb0c` |
-| `SimpleBackups-1.21-4.0.29.jar` | 70247 | `df19ea0a4d1b42697f30b8ae057ad689948a511c` |
-| `simplehats-neoforge-1.21.1-0.4.0.jar` | 1400084 | `81748b4f728575d9bbab571ab07e6a24cf3ff126` |
-| `simplemagnets-1.1.12c-neoforge-mc1.21.jar` | 146262 | `abba7efcee3ae31bd3512147053279422e866ebf` |
-| `simplylight-1.5.3+1.21.1-b4.jar` | 1103352 | `d85bfed3824cb66d258acf11c73edaf11d583223` |
-| `sliceanddice-forge-4.2.4.jar` | 406699 | `13d8835813b3851d4818c59ec8f7124e4a826c14` |
-| `smart_particles-21.8.10.jar` | 50773 | `f6f017e9d3f36f871781a1647937527bdc8a2fad` |
-| `SmartBrainLib-neoforge-1.21.1-1.16.11.jar` | 391053 | `0310135a01eeceefbc7f1ab017498a65f3ad6836` |
-| `smithingtemplateviewer-1.0.4.jar` | 39702 | `4fea33926fafbd59f7434d1e4e64938ddee5d5db` |
-| `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar` | 299353 | `02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652` |
-| `sodium-extra-neoforge-0.6.0+mc1.21.1.jar` | 367047 | `7473bb42753902c639294821af13e9cd9ee735da` |
-| `sodium-neoforge-0.6.13+mc1.21.1.jar` | 1162994 | `38af70fa4dc4b2aaac636e92fdba3bedd5a025e1` |
-| `sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar` | 309122 | `5d014d031fa77ab600e07835b032ef4dcb79b442` |
-| `sophisticatedbackpacks-1.21.1-3.25.37.1646.jar` | 1018662 | `94b6244681c7666553d14bda679a452d04dfc480` |
-| `sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar` | 82316 | `51851c61e8be5b799b5ad8aa109b3416509605b7` |
-| `sophisticatedcore-1.21.1-1.4.39.1852.jar` | 1596646 | `6365d4d66c86c2a8f02c04513d6fd127e47801ff` |
-| `sophisticatedstorage-1.21.1-1.5.47.1724.jar` | 1679258 | `95705e7391880b84831abe3ef8c68dbfd75a7739` |
-| `sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar` | 133451 | `45a0318e8e49e7f3aab213df5cc32b3e7e128b6c` |
-| `sophisticatedstorageinmotion-1.21.1-0.10.27.208.jar` | 393442 | `5a25f3f0361578bc5829a8467551a95f51bf8810` |
-| `spark-1.10.124-neoforge.jar` | 3642581 | `9430cc2ab64ff89d698be593769fb9f9ee4efae6` |
-| `stevescarts-1.21-1.2.18-neoforge.jar` | 2133617 | `c613e2a17f012fd735ca72e8c726c5b9f108fb09` |
-| `Structory_26.1_v1.3.16.jar` | 1261336 | `ee48f145a3a09fdb3f492576cbc21ed26abc74bb` |
-| `Structory_Towers_26.1_v1.0.16.jar` | 491545 | `ed22fe659cb3020f2e86b7619ce721714b9546be` |
-| `Super%20Factory%20Manager%20(SFM)-MC1.21.1-4.32.0.jar` | 1604662 | `5f2ea7f8cd33e5a99829155f392fdc4bad33fbc9` |
-| `supermartijn642configlib-1.1.8-neoforge-mc1.21.jar` | 207514 | `07452242e389975e8a88b97066f4bae6a4ebe574` |
-| `supermartijn642corelib-1.1.21-neoforge-mc1.21.jar` | 558371 | `84802fbe1645de8caf61ccb07db6cf451e614f68` |
-| `supplementaries-neoforge-1.21.1-3.6.7.jar` | 13302516 | `a2a0d9bb5170b779863c2743f18c04b0964c9875` |
-| `sussysniffers-1.21.1-0.1.3.jar` | 95574 | `c7c838abeb62f6dc6b1c22336f2a96c592bc5948` |
-| `t_and_t-neoforge-fabric-1.13.7+1.21.1.jar` | 3641681 | `eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c` |
-| `tectonic-3.0.22-neoforge-21.1.jar` | 337253 | `12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314` |
-| `tempad-1.21.1-3.0.4-all.jar` | 1696464 | `7a4d6837c6f7a4c9a8f4e7054952df25c148033e` |
-| `TerraBlender-neoforge-1.21.1-4.1.0.8.jar` | 120364 | `2016eed89eac0eb0510d2190c3b0b80bf4346191` |
-| `Terralith_1.21.x_v2.5.8.jar` | 3115385 | `bee0cfb1a8cd4bf3d96bccea224fb45d74de9085` |
-| `tesseract-api-neoforge-1.11.10-1.21.1.jar` | 726159 | `250d7fa9cb3ee7211404c44a7f21d59b54f33b17` |
-| `tfmg-1.2.0.jar` | 4924243 | `b520f3687f60a69eb265ff5b9a16759b9e124103` |
-| `tiab-neoforge-6.5.4.jar` | 77755 | `3e6beaac5dbc48627263fee0a864db16eda53529` |
-| `timcore-neoforge-1.7.3-1.32.0.jar` | 306328 | `741eb2aeac006f87d0d413965b2d965118ddae22` |
-| `titanium-1.21-4.0.42.jar` | 605755 | `aa71953b17a0a3618c6a44be428cf98e6885665b` |
-| `ToastControl-1.21.1-9.0.1.jar` | 21079 | `33477c2db0479c9be33d1ca3b2fa47cf6c97988c` |
-| `tombstone-neoforge-1.21.1-9.4.8.jar` | 2304453 | `759633541e96254f4dd73ac1af936d9df2328b76` |
-| `toms-peripherals-1.21-1.3.0.jar` | 1339361 | `05b00990ede1804ef7030504ba051f55e199fed3` |
-| `ToolBelt-1.21.1-2.2.7.jar` | 216604 | `2833f695e72ec425de3cf30e6262680009462a1a` |
-| `torchmaster-neoforge-1.21.1-21.1.9.jar` | 130605 | `3f565ecc8560eba3ae3e15ff6542a3025d7377a2` |
-| `tpsum-1.21.1-0.0.3.jar` | 403810 | `1cba70a06458614692d6c56740ff3eea8715f0d3` |
-| `tracks-neoforge-1.21.1-1.0.1.jar` | 166455 | `cccd208606d7ac33f483e1e8a237092712a1a2c0` |
-| `trading_floor-3.0.16.jar` | 214343 | `7be6d8b24f3120fa6a2520c32a2e6c8c4254322c` |
-| `transfer_labels-0.1.7.jar` | 155537 | `c1561ca14e685742b2e28d83c2ba473f767d4f80` |
-| `trashcans-1.0.18c-neoforge-mc1.21.jar` | 159808 | `8e853e0784b01b36b4503ef5599be2724be74b07` |
-| `trashslot-neoforge-1.21.1-21.1.8.jar` | 123953 | `ba534887309f6ff9edd8985edd51972513aa9cf6` |
-| `travelersbackpack-neoforge-1.21.1-10.1.35.jar` | 1405593 | `ce4573819cd409101d5d64ea88883c172d1cb0f7` |
-| `treetap-1.21.1-0.4.5.jar` | 79670 | `b5bc7fc323fad9a9d1161f7e785c006e7e67c202` |
-| `trinkets-3.10.0.jar` | 272944 | `f54756f938c7c273713b9f97d4a987eec551e892` |
-| `trophymanager-1.21.1-2.4.3.jar` | 82529 | `ca168a84f903074d2feb5606fce22d630de67223` |
-| `uranus-2.4-1.21.1-neoforge.jar` | 847484 | `757d8dd20bf22c7157e275c2a7643cde76984e4d` |
-| `utilitarian-1.21.1-0.19.0.jar` | 621666 | `184ee8b6efc3c64fe60ee2b09b1b6cb53aa13444` |
-| `utilityvest-1.2.6.jar` | 214312 | `ca7237fdf876343117561d745ac10de534f35a42` |
-| `valhelsia_core-neoforge-1.21.1-1.1.5.jar` | 181277 | `e7498e89bd7347c6d0f4411f55bd312490dfe814` |
-| `VanillaBackport-neoforge-1.21.1-1.1.7.7.jar` | 54179814 | `98ac5799cae7cb0eefecdb77d8e2af6a77c5f54d` |
-| `variantsandventures-neoforge-1.0.23%2Bmc1.21.1.jar` | 1076276 | `7c988c922062aaf8c84ddec9d29fc24b7a2d137e` |
-| `villagerconfig-neoforge-4.5.3+1.21.1.jar` | 380583 | `66e37c0cfb44a452b6aefd57085f2fb5fd8e5516` |
-| `villagesandpillages-neoforge-mc1.21.1-1.0.3.jar` | 241257 | `f587626ba0b421f976f4bd1141bcdc3ca9d21abb` |
-| `vista-1.21-3.1.2-neoforge.jar` | 7021168 | `d9faca9d7931dfd5eca474af1fa7372d8d1ec741` |
-| `VistaAeronauricsFix-1.0.1.jar` | 6074 | `0596cfcd4703ef02c3044262caf2b4ee546c2ebb` |
-| `voicechat-neoforge-1.21.1-2.6.17.jar` | 4902096 | `55fc0d529318620bd2ce7a635657014c5c98e189` |
-| `waystones-neoforge-1.21.1-21.1.29.jar` | 876329 | `40f15e97d79e01ce65fe2fe752bef43689b32bff` |
-| `wirelesschargers-1.0.9a-neoforge-mc1.21.jar` | 315836 | `129e88001446f07d8d7c790d169f26814346befb` |
-| `WitherSkeletonTweaks-1.21.1-10.1.1.jar` | 21929 | `eda07efc2f5e47492abe205295b182c219c6199f` |
-| `wits-1.3.0+1.21-neoforge.jar` | 12231 | `4fb6e087325c70031fdb7fe6eb5278c5038511dd` |
-| `worldweaver-21.0.21.jar` | 2157863 | `5524090ba997262f1b38ffdc259ec164428e09f7` |
-| `wunderlib-21.0.10.jar` | 378820 | `330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a` |
-| `xaerominimap-neoforge-1.21.1-25.3.13.jar` | 2138329 | `06cdb37f394bdbebce94c64644ae4bc21bd98959` |
-| `xaeroworldmap-neoforge-1.21.1-1.40.16.jar` | 1387011 | `d0865b6153c4d0feaf1551fb5309884ec3568c03` |
-| `yeetusexperimentus-neoforge-87.0.0.jar` | 570057 | `7132c346103d75a7c84da64b35b92e3a6f1ce3da` |
-| `yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar` | 1118651 | `fe270c9f6e0a8142cf316944087f5109cef08bbb` |
-| `YungsApi-1.21.1-NeoForge-5.1.6.jar` | 388678 | `e1c394779fb9e038e4f7a1b4558d0432607d263b` |
-| `YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar` | 905839 | `90529257dbd92558998c65178294bc7b2fd16a64` |
-| `YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar` | 782160 | `73a660c13063450e555e5e2c015ae24d606b32b4` |
-| `YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar` | 398130 | `832f2c17425debe74a9f267f4136f1a0f0221d19` |
-| `YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar` | 795839 | `d6b7ce6cf351b09cbd23147ff166c35cfdc572e8` |
-| `YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar` | 493967 | `6a14e1d8201f068ca87ef8333e471c5378955906` |
-| `YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar` | 609639 | `4061ece2141475227646649046fc14c2da505922` |
-| `YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar` | 1025571 | `fba629defdb92ad99ec4f411895afb6e19555a18` |
-| `YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar` | 461244 | `5d06a5850af7c577612d4592706a8e156bbe1cbf` |
-| `YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar` | 174789 | `bbf6c91f4a2829c58bc024eaaab821986bc93de6` |
-| `YungsExtras-1.21.1-NeoForge-5.1.1.jar` | 198183 | `62833733aaf407f36bdacf648ed4b2ef9940662b` |
-| `zamega-neoforge-1.7.3.jar` | 2386377 | `a867f4a1eaa62418aa68c87cf45fe1d4514f0e07` |
+| `%5BNeoforge%5Dctov-3.6.3.jar` | 6.81 MiB | `c5fe733d743af20f84eb87dd75b5bb57684f3e05` |
+| `[1.21.1] SecurityCraft v1.10.1.jar` | 4.72 MiB | `692f81f4fdcd0d1298db96a9582eea41baeae252` |
+| `accelerated-decay-neoforge-21.0.0.jar` | 0.01 MiB | `b023fe4daf1379f0f4233bea02ba112f3854db3e` |
+| `accessories-neoforge-1.1.0-beta.53+1.21.1.jar` | 1.03 MiB | `77d75c2e13cfdf56a45cdd29806c1c97c3d250fc` |
+| `additional_lights-neoforge-1.21-2.1.10.jar` | 0.49 MiB | `8dc485146437e8ac40dd29e10747601fd4e372ca` |
+| `AdvancedPeripherals-1.21.1-0.7.61b.jar` | 0.89 MiB | `3f05a8766862bbe8958750f7eb768220d30536a3` |
+| `advancementdisable-neoforge-1.0.1+1.21.jar` | 0.01 MiB | `d57c4837848d923aac791029ca3c19eb4e93b5eb` |
+| `AdvancementPlaques-1.21.1-neoforge-1.6.8.jar` | 0.19 MiB | `829d33e71b30e9158d772f5963bb6020f6026d78` |
+| `aerocopycats-1.1.1.jar` | 0.01 MiB | `3a93862421d0a8cdae1e3a3d7f0d4bd01e049007` |
+| `aeronauticscompat-1.1.2.jar` | 0.04 MiB | `64044986287367e7f638012c931d8a23528bee41` |
+| `aeroworks-1.2.9.jar` | 0.18 MiB | `f6f48e509202dca5443904ae077ade67e7f89d70` |
+| `AI-Improvements-1.21-0.5.3.jar` | 0.03 MiB | `b4a8e11384454bcc341043b251db7fb5afdfdf45` |
+| `AkashicTome-1.8-30.jar` | 0.05 MiB | `6493e575f295e18fac1f7c5399c05c53caa1f7ce` |
+| `almostunified-neoforge-1.21.1-1.4.1.jar` | 0.28 MiB | `69913ae6d63f2e10603b272bb8a957c7d0f3f0e4` |
+| `amendments-1.21-2.0.15-neoforge.jar` | 1.09 MiB | `00056f29646f3bf86116b281c2362c0dabdb4533` |
+| `appleskin-neoforge-mc1.21-3.0.9.jar` | 0.07 MiB | `81cf0e668f991f83ac8820c386fbd6c9c3602246` |
+| `architectury-13.0.8-neoforge.jar` | 0.56 MiB | `6ca11d3cc136bf69bb8f4d56982481eb85b5100b` |
+| `athena-neoforge-1.21-4.0.2.jar` | 0.09 MiB | `069f397f1b3a30b3d5f5a98cac76304dfe345d76` |
+| `atlas_api-1.21.1-1.2.0.jar` | 0.03 MiB | `79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998` |
+| `attributefix-neoforge-1.21.1-21.1.3.jar` | 0.02 MiB | `7aae849f6d2a6cb1368227407ea5deb552e100ba` |
+| `Auroras-1.21-1.6.2.jar` | 2.02 MiB | `2a27027b3c95823e4bf7e0aa635b92742ca407e0` |
+| `authme-neoforge-9.0.1+1.21.1.jar` | 0.35 MiB | `13d12989930705e645f82c625d25ac26bce589e5` |
+| `azurelib-neo-1.21.1-3.1.8.jar` | 0.83 MiB | `d7762c1e334ed9d654675e48782eea42057a3f7c` |
+| `BadOptimizations-2.4.1-1.21.1.jar` | 0.27 MiB | `1461d8e46391efd32a3085150e86094c9f6f5c9d` |
+| `balm-neoforge-1.21.1-21.0.56.jar` | 0.71 MiB | `c1c1d4859c7943c7d1c181c07fa7273a1d56df15` |
+| `bellsandwhistles-0.4.7-1.21.1.jar` | 0.18 MiB | `85944080f8bd47dad64a8193a70662cd9ddbb200` |
+| `beltborne_lanterns-1.2.5-neoforge+1.21.1.jar` | 0.13 MiB | `3a30923e4ec5db8fd6838d20ce2743b24feb212d` |
+| `better_tooltips-1.0.3.jar` | 0.06 MiB | `ac67bc12905121dc52d6403edd2c4cc8d39a6b67` |
+| `BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar` | 0.09 MiB | `870521cfaa1a4cb6c830e2409e8b9e4cf179aff2` |
+| `betterarcheology-neoforge-1.21.1-1.3.4.jar` | 2.96 MiB | `f6d3e3f6d6602f438a06ff118fd05ef50f698a54` |
+| `betterbeds-1.4.0.jar` | 0.06 MiB | `48f215da24598e4ad93efc7d0ca0a6f91660069f` |
+| `betterf1-NeoForge-1.0-1.21.1.jar` | 0.02 MiB | `b24b6b6511afae6e820d14c2ad62752e3592ccab` |
+| `BetterF3-11.0.3-NeoForge-1.21.1.jar` | 0.46 MiB | `8fa17df26d3650416bc124be7a264bc1566a3b26` |
+| `bigcontraptions-neoforge-1.0.jar` | 0.01 MiB | `cf1af44de7042f26fce74549130e1eb7d937ced8` |
+| `BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar` | 21.3 MiB | `e277fba0c94fea3c3f58d23bfa53d2eb457555f6` |
+| `bits_n_bobs-0.0.44.jar` | 1.54 MiB | `2d577eb7e47b860fc32e4ebd33405715252c5072` |
+| `bl_accessories_layer-1.2.2-neoforge+1.21.1.jar` | 0.05 MiB | `f376a46fe48c61c9dacf76831253463354b73324` |
+| `blueflame-1.21.1-1.1.1.jar` | 0.02 MiB | `0e78defafd6cf08759c656a54f8a33315e3ab924` |
+| `bookshelf-neoforge-1.21.1-21.1.81.jar` | 0.31 MiB | `efc4cda6da4dd879f24d057ed0a6413764c9ba40` |
+| `bossesrise-1.21.1-neoforge-1.0.9.jar` | 20.66 MiB | `b9b41c2860025102da0b67895221ba1e83f9bfee` |
+| `botanypots-neoforge-1.21.1-21.1.41.jar` | 1.02 MiB | `4f216887a3b95d6abde0f2458a94487523531a1c` |
+| `botanytrees-neoforge-1.21.1-21.1.3.jar` | 0.02 MiB | `a15237bff8e914c50a271ee498d7e2ee55ff017f` |
+| `brb-1.10.0-rc5+1.21.jar` | 1.17 MiB | `10bf0a65afa3cf7d320466af08e9b271efc1e8d8` |
+| `BrewinAndChewin-neoforge-4.4.2+1.21.1.jar` | 1.49 MiB | `c01b9e39b4c116c3ce4b1b66f87c1921997337a5` |
+| `BridgingMod-2.6.2+1.21.1.neoforge-release.jar` | 5.65 MiB | `18c4fdadf7d1b4632ae0e0914e4075847306b52f` |
+| `brutalbosses-1.21-8.4.jar` | 0.19 MiB | `d87b9f5c86c2db9245cc4f6c89ea4851d1dbaed7` |
+| `buildinggadgets2-1.3.9.jar` | 3.68 MiB | `666a155981e3cd231f67809b9e2a0238377bbbfc` |
+| `bwncr-neoforge-1.21.1-3.20.3.jar` | 0.03 MiB | `ece7a31501bc3080e1c4263689c26e9154809b2d` |
+| `caelus-neoforge-7.0.1+1.21.1.jar` | 0.05 MiB | `e4c2e1af4e3082d68f7df75f7c8ce30116d71515` |
+| `camol-1.21.1-0.3.0.jar` | 0.06 MiB | `d87f56e5722b39ba1a20b968e5104feaaec9690f` |
+| `capturexp-neoforge-1.7.3-1.3.0.jar` | 0.02 MiB | `49bd6e318afc2d9f99d1bbd753012738ecc3c7ed` |
+| `Carved Wood-neoforge-1.21.1-1.9.5.jar` | 2.33 MiB | `db330d731b5636ae614f46941b8e19515e32e87c` |
+| `catalogue-neoforge-1.21.1-1.11.2.jar` | 0.29 MiB | `6d67f855c20bc6392763cfb22e1152da4e8015b4` |
+| `catchindicator-neoforge-1.6.2.jar` | 0.3 MiB | `b621b57dadd85dfb021992844d829d92e0b10b87` |
+| `catchrate-display-neoforge-2.8.22.jar` | 0.25 MiB | `000b0d257aef330cf9042f0c9916d8ada6876501` |
+| `catjammies-1.21-1.7.1.jar` | 0.01 MiB | `9ce39347637e6209e031402e054d7cc93b1e1a03` |
+| `cc_sable-neoforge-1.2.3.jar` | 0.04 MiB | `848a6313795b8b067d2cb2cd7df7aae3b22cfd60` |
+| `ccbr-1.2.0-neoforge-1.21.1.jar` | 0.2 MiB | `7a59bc18d7994cd3fee3f8696864577dcf290954` |
+| `cccbridge-mc1.21.1-v1.7.2-neoforge.jar` | 0.47 MiB | `86fc996c61b5257c24efd2a4c7e48b256b21bd76` |
+| `ccgraphics-1.21.1-forge-0.1.5.jar` | 0.07 MiB | `607ff38044dfeba3ee7b78044d0efb92ff6c395e` |
+| `ccredstonelinkbridge-neoforge-1.0.3.jar` | 0.02 MiB | `b69762fa09601ae6283e8a12bcef033efd14d2ab` |
+| `ccterminals-1.21.1-forge-0.1.0.jar` | 0.05 MiB | `cdb8b7a1121f29639cf6715bb0aa160fca4847d6` |
+| `cc-tweaked-1.21.1-forge-1.118.0.jar` | 2.98 MiB | `bbb1431befefbf56991ef0a0aad25fffedcfdfbc` |
+| `chat_heads-0.15.1-neoforge-1.21.jar` | 0.09 MiB | `650ff9d879051196c8c46b5718342db46c745cc9` |
+| `chromacarvings-1.21.1-0.2.0.jar` | 0.26 MiB | `b791809827bfd4e3d28fc208815d92bfed92c602` |
+| `Chunky-NeoForge-1.4.23.jar` | 0.32 MiB | `ab0c74743a653020fe2dfc4986b43e893947f3e9` |
+| `Clavis-NEOFORGE-0.2.13+1.21.1.jar` | 0.31 MiB | `0215f3c831df113f9e5cc7c8bfff969d291a4c04` |
+| `CleanF3-mc1.21.1-0.4.9.jar` | 0.02 MiB | `22d80aea0350dc34bfd30896fb76c0cebc172f96` |
+| `cleanswing-1.9.jar` | 0.01 MiB | `c4746d331a9a73158da1c330f0d46ce8714ce5d8` |
+| `cloth-config-15.0.140-neoforge.jar` | 1.11 MiB | `c3e5733ba4503b102589a026000fd5ce0212f6f2` |
+| `Clumps-neoforge-1.21.1-19.0.0.1.jar` | 0.02 MiB | `fa2576297c7bd12b28aa7070e8141792bd66da4c` |
+| `cobble-caf-forms-5.0.0.jar` | 2.75 MiB | `6ad87cbd0eb23e7a58157b48b4cca9924e66c7b9` |
+| `cobbledgacha-neoforge-1.21.1-3.0.3.jar` | 1.06 MiB | `a2450dd08503743f4ac313f67f6007f7161afae9` |
+| `CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar` | 0.36 MiB | `caf03c43fca60906d176e1446ba35f2988b0c3e1` |
+| `CobbleFurnies-neoforge-1.1.jar` | 2.23 MiB | `ede2d4c0735de9c96111567aa87b1f1868786ca7` |
+| `cobblegengalore-1.21.1-0.2.8.jar` | 0.08 MiB | `a799bf9d4818020bc41c009503f6d77f78eec247` |
+| `cobblemon_industries-neoforge-1.3.0.jar` | 0.08 MiB | `8238094b87f358034b7f343e5cad9cde2fe4acfa` |
+| `cobblemon_iwa-neoforge-1.0.0+1.21.1.jar` | 0.08 MiB | `975f4eab23aa946800042079e626ca6329d6925f` |
+| `Cobblemon_Legends_Reborn-3.0.0-neoforge.jar` | 0.18 MiB | `00d6cc9a2761fb00528c8f5375ace1bb03a31909` |
+| `cobblemon_poke_labs-neoforge-1.1.1.jar` | 0.04 MiB | `1e60c7e7dbe54549a2165ee60d3dd8a1f461b38f` |
+| `cobblemon_progress_items-4.0.0.jar` | 0.09 MiB | `c5391a4b509d7c5fab184a6b3a830ef80b9ec7b8` |
+| `cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar` | 0.06 MiB | `735a118e41cb56eddca221bdd794315e4d756a09` |
+| `cobblemon_shiny_rarities-0.2.1.jar` | 12 MiB | `fc971c97c96a6979d605028ba43b9c411025f275` |
+| `cobblemon_wonder_trade-neoforge-1.2.2.jar` | 2.26 MiB | `17a2e6474353baf13329ba87b1e3356d4f96bbe4` |
+| `cobblemon-alphas-2.2.jar` | 0.88 MiB | `26ad77dbff6995cf81c7f0abf71c925793a9dbb6` |
+| `Cobblemon-Ancient-Dogs-1.0+1.21.1+NeoForge.jar` | 0.09 MiB | `91207ccf0866030525070833bb8ba1c67464ba9c` |
+| `cobblemon-battle-extras-neoforge-1.13.45.jar` | 1.57 MiB | `eb446be193bdd4981d16c86bb40410be3f0cb693` |
+| `cobblemon-battle-positions-1.1.3-factormoon-connector.jar` | 0.05 MiB | `92db1287cc6fd9a59df7517a1b7f1d82ac6f088a` |
+| `cobblemon-extra-ride-compat-neoforge-0.1.1.jar` | 0.02 MiB | `5e402f799447b5b806d70a92118ff3935e980891` |
+| `cobblemonextrastructures-1.21.1-1.2.0-neoforge.jar` | 0.86 MiB | `33e082c5a0c62b8b57d49ac7e8db0c7f0b2045fd` |
+| `cobblemon-fight-them-all-1.0.4-cobblemon-1.7.3-factormoon-connector.jar` | 0.35 MiB | `692d6fb7f49d06d39f0e442ead6f605dfcb6c0db` |
+| `cobblemon-journey-mounts-1.7.30-cobbleverse-CF.jar` | 3.35 MiB | `8c6a5cb5fe20078dbaa236a83ef2823f8ba90beb` |
+| `Cobblemon-Legendary-Birds-1.2+1.21.1+NeoForge.jar` | 0.09 MiB | `2465445b6aa8dc3da5409984b85ba461b38571aa` |
+| `Cobblemon-Legendary-Dogs-1.1+1.21.1+NeoForge.jar` | 0.08 MiB | `74e70e05742133d96af5f3c3282f8eb364adac9d` |
+| `Cobblemon-Legendary-Lake-Guardians-1.1+1.21.1+NeoForge.jar` | 0.07 MiB | `b8d7ae7444079315eb87b794bddc0db743314d79` |
+| `Cobblemon-Mythical-Collection-1.1+1.21.1+NeoForge.jar` | 0.15 MiB | `eaba0909b6e1bf693df2f7b6dd080511c97ac242` |
+| `Cobblemon-neoforge-1.7.3+1.21.1.jar` | 122.79 MiB | `f071d7e874a5d10cd686b2baf2b974d7930c3bd4` |
+| `cobblemonopponents-neoforge-1.7.0.jar` | 24.53 MiB | `3fcbd47c3308be3855cebed85d3d4fc6fe924fce` |
+| `cobblemonraiddens-neoforge-0.11.1+1.21.1.jar` | 2.59 MiB | `f971302251cb5a3310602a5a6fcf41dfc781ddad` |
+| `Cobblemon-TM-neoforge-1.3.jar` | 0.05 MiB | `a850f0677e8b11a8b38b10aa68e25422a2cc809d` |
+| `Cobblemon-Ultra-Beasts-Collection-1.0-1.21.1-NeoForge.jar` | 0.12 MiB | `96e4a873ea36e21274637156e69d55cbd98a4f20` |
+| `cobblemore_lib-neoforge-1.2.5.jar` | 0.55 MiB | `d5c452572093dffaebe6d602a8df08eb2700122a` |
+| `cobblenav-neoforge-2.3.3.jar` | 1.05 MiB | `7667ab523f5df9ffae7b2adba2b4b152de2ca080` |
+| `Cobblepedia-NeoForge-0.7.1.jar` | 7.89 MiB | `c5f15ee58c16c7c54c505ec8f005449f3f145f7d` |
+| `cobbleversebadges-neoforge-1.3-port.1.jar` | 0.07 MiB | `c6c41860befd3604b6599809960b41feed0955fc` |
+| `Cobbreeding-neoforge-2.2.1.jar` | 0.45 MiB | `a0843ba354d627c1062332034e1f373884003b23` |
+| `cobeffectiveness-neoforge-0.2.jar` | 0.03 MiB | `1d01656bc2548011b398acd6868e1e8f04355b30` |
+| `cobweb-neoforge-1.21-1.4.0.jar` | 0.39 MiB | `5ae5dbf4184a62b9ff5bd31f6f8ba62943dd197d` |
+| `CodeChickenLib-1.21.1-4.6.1.526.jar` | 1.47 MiB | `6a278b5a2788c2fee7ae52d17f24187332d436b2` |
+| `colorfulhearts-neoforge-1.21.1-10.5.9.jar` | 0.15 MiB | `ec63110d126cf95dabe220116bd394e701265de7` |
+| `colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar` | 0.2 MiB | `0e63780e5b8af294bf58609ac866b9866ab9537b` |
+| `colorwheel-neoforge-1.2.4+mc1.21.1.jar` | 0.37 MiB | `e70b717b6e681b2fdb5cd1788110ab4959328b33` |
+| `comforts-neoforge-9.0.5%2B1.21.1.jar` | 0.4 MiB | `21d6bee3821d62fe3356c51fb1d697871a3087ff` |
+| `ConfigManager-neoforge-1.21.x-1.0.1.jar` | 0.14 MiB | `4d9071cbb997b28c81215e16cf70eb430276f5d3` |
+| `connectivity-1.21.1-7.6.jar` | 0.11 MiB | `6adebe84f745dec8fa33bc3982383bc1cc24d49e` |
+| `connector-2.0.0-beta.14+1.21.1-full.jar` | 4.32 MiB | `930067497b5c1249e51b3e33620ab4e72dc92f4c` |
+| `ConnectorExtras-1.12.1+1.21.1.jar` | 0.08 MiB | `8ea07df55b26c8343d06df77936505a23e0d2140` |
+| `ConstructionSticks-1.21.1-1.3.0.jar` | 0.25 MiB | `c73da674b08848c835ff45eadf47fdc8584fef82` |
+| `continuity-3.0.0+1.21.neoforge.jar` | 0.97 MiB | `0aecd2d043ac25299254623fafdd9129ab2ba9c2` |
+| `Controlling-neoforge-1.21.1-19.0.5.jar` | 0.07 MiB | `8a34424fc1428778be2fdbfa4da67b21b70bcbfe` |
+| `coolrain-1.21.1-NeoForge-1.0.1.jar` | 3.96 MiB | `a15df749534b7b2003282ffb5950dcf3767d1243` |
+| `copycats-3.0.4+mc.1.21.1-neoforge.jar` | 1.71 MiB | `6a11d5806bcf521e08faba1ee6ef5f31af55ca0f` |
+| `Corgilib-NeoForge-1.21.1-5.0.0.9.jar` | 0.3 MiB | `6699f876f9e10f936910055f7fe1a283d8bb9e0f` |
+| `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` | 0.09 MiB | `5f1e699cd0888b857ec63f01adaeb3571848bfea` |
+| `crafting_on_a_stick-1.21.0.4.jar` | 0.08 MiB | `9ea4bcce2d468b13e20871789dde525d49454076` |
+| `craftingtweaks-neoforge-1.21.1-21.1.7.jar` | 0.24 MiB | `54379f303f3fba8a1026e3f18e88ec4d6e042f8b` |
+| `crashutilities-9.0.4.jar` | 0.21 MiB | `5117a448b0611f60fbe743a4a631e431dd31740e` |
+| `Create Encased-1.21.1-1.8-ht2.jar` | 2.3 MiB | `957a7ee1741c7a8536bedd401a923d7fb73a7092` |
+| `create_aquatic_ambitions-1.21.1-2.0.2.jar` | 0.99 MiB | `39945d25188f3cb8feb74d09b78d7f7f7a74aaa7` |
+| `create_bb-1.0.7-1.21.1-Neoforge.jar` | 2.49 MiB | `7a6eae4bc851786c6519c8cac956b406cb71a8eb` |
+| `create_bic_bit-1.0.2C.jar` | 0.38 MiB | `7dfe3dc14f3a467e37ca8a2e64038fd6379b1988` |
+| `create_compatible_storage-2.11.0-neoforge.jar` | 0.14 MiB | `8b16de39c6a741bea1472285271b1c269d5c0df5` |
+| `create_connected-1.1.16-mc1.21.1.jar` | 6.3 MiB | `11fafde06b25b872f8d5c4e927516188b831cf1a` |
+| `create_factory-0.7a-1.21.1.jar` | 0.2 MiB | `e01ca3c74453165c6914e3c655969543aaad0063` |
+| `create_hypertube-0.4.0-COMPAT-NEOFORGE.jar` | 0.4 MiB | `adbd8f617928af37b286cadf7b45707e2498f25a` |
+| `create_jetpack-forge-5.1.2.jar` | 0.46 MiB | `70b9f0f5464abea074416f10ab7745a6e732f9ba` |
+| `create_klinks_n_klangs-2.0.1.jar` | 0.65 MiB | `725e1e3d60021c2344a6bc07017ab91f1c06ee03` |
+| `create_ltab-3.9.2.jar` | 2.63 MiB | `572a66890702853709092529e3ed58c221e5eae3` |
+| `create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar` | 1.16 MiB | `6c45ed6367ea9a90384b57b36d350f86f099996e` |
+| `create_ore_excavation_plus-0.2.5-1.21.1.jar` | 1.32 MiB | `39f3e33528d5c1c7d0ff73b77bcc0bf7bdef1bd9` |
+| `create_power_loader-2.0.4-mc1.21.1.jar` | 0.42 MiB | `05d56062e6998a2897b10a0ea5e66685860f336e` |
+| `create_structures_arise NeoForge 1.21.1 -175.48.47.jar` | 1.77 MiB | `3947caefe10538f70475e15af80425787498c322` |
+| `create_tweaked_controllers-1.21.1-1.2.7.jar` | 0.29 MiB | `6358da213d0eff982c3431a8d004a3e912f7957a` |
+| `create_ultimate_factory-2.2.4-neoforge-1.21.1.jar` | 0.22 MiB | `ed0ff71df9bfe3b66b97c51a2834031084300a65` |
+| `create_vibrant_vaults-0.3.2.jar` | 2.56 MiB | `d0dbdde6318c4dd4ede1d2c091f1a64896ba872a` |
+| `create_winery-2.0.2-neoforge-1.21.1.jar` | 0.49 MiB | `f6c40e927550c68c3091376d7279aa97c23cd2c2` |
+| `create-1.21.1-6.0.10.jar` | 18.24 MiB | `0e97e49837bed766e6f28a4c95b04885d6acc353` |
+| `createaddition-1.5.10.jar` | 1.52 MiB | `2bd194da923dd38239ef49df30ecf1a720d38997` |
+| `create-aeronautics-bundled-1.21.1-1.2.1.jar` | 31.5 MiB | `fdf1ae69e8b6437e0196b3a35dd2325aa904aba9` |
+| `createbetterfps-1.21.1-1.1.4.jar` | 0.03 MiB | `c594e20659b73a67bd0b0c2de45b29b78a2eb160` |
+| `create-central-kitchen-2.4.0.jar` | 0.33 MiB | `6a91f304a1e023e8b9b34ccf95f19dd74c3edd55` |
+| `createcobblemonballsoverhaul-0.0.4.jar` | 0.32 MiB | `92f9da9d765ef0e0317bbaac690133b07b6f141e` |
+| `create-confectionery1.21.1_v1.1.3b.jar` | 2.03 MiB | `47e235efa862c5cbea53fdf8346d4c499674defa` |
+| `CreateCyberGoggles-1.21.1-7.5.9-NeoForge.jar` | 0.43 MiB | `33c4f4ee19809d7f3c4c39dbe91cf04b53ce152e` |
+| `createdeco-2.1.3.jar` | 3.17 MiB | `93d9eff58b46c6953e907d071e6be4e3ce07be38` |
+| `createdieselgenerators-1.21.1-1.3.11.jar` | 2.99 MiB | `4251563ec3c21048cf0f097dd0c6d21f2475507b` |
+| `CreateDragonsPlus-1.10.0b.jar` | 0.72 MiB | `e50ae4f50173b12232b8dbd6b85568b4b657c0cf` |
+| `create-dyn-light-2.3.1-sodium-sable.jar` | 0.14 MiB | `d8db69c0b72b750feaa2c4ed41de906bdebd1e5f` |
+| `createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar` | 0.55 MiB | `ed9a5cf654235f54a3c5aced27ac654d5258e393` |
+| `create-enchantment-industry-2.3.1.jar` | 0.65 MiB | `e9a57b322459bda9905e4287d2582ad600909b11` |
+| `createendertransmission-2.1.1-1.21.1.jar` | 0.08 MiB | `fbf165d068a3a9c6d24f1bcf68fb1af380ee2603` |
+| `CreateEntityControl-0.3.8.4-6.0.x-neoforge-1.21.1.jar` | 0.35 MiB | `ab92313b7798c6078c3b1f11bd441758b34f3de0` |
+| `CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar` | 0.07 MiB | `c9a7d099468adf6a011c4ce33fca62e1391b8c40` |
+| `createfood-neoforge-1.21.1-2.4.0.jar` | 8.04 MiB | `ac5a9dd4c698342347d2ecffb3052df69bc53185` |
+| `creategoggles-1.21.1-6.1.1-[NEOFORGE].jar` | 0.17 MiB | `e0285c31a2d2501439264c33c965409c422cd5b1` |
+| `createhorsepower-1.21.1-1.1.0.jar` | 0.25 MiB | `3afe50f42d9677a77ae85af2aabbe7fbb7d5afdf` |
+| `create-integrated-farming-1.2.2.jar` | 0.39 MiB | `5dd16c55c89c8e4bb72a28fd09f5d9824c3341de` |
+| `CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar` | 0.43 MiB | `cb2d8a344270bbf97bb5af6e42c369ff15736493` |
+| `createliquidfuel-2.1.1-1.21.1.jar` | 0.02 MiB | `a29f65eb4bbded2ca977a1453f90b6570e812b85` |
+| `create-new-age-1.1.7c+neoforge-mc1.21.1.jar` | 1.52 MiB | `ee352726afeaf935098471f12102da4b2a6fe18e` |
+| `createoreexcavation-1.21-1.6.8.jar` | 0.45 MiB | `9a76b86ec7470d4bd7332f22d6e50a3693098c10` |
+| `createpickywheels-neoforge-1.21.1-6.0.9-6.jar` | 0.08 MiB | `ce1827ed62945c1922d6c74134176b241a4d1335` |
+| `createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar` | 1.96 MiB | `749db1461e6ebca5a72154b2c75e14da82f64eb2` |
+| `createschematicchecker-1.21.23-6.0-neoforge-1.21.1.jar` | 0.28 MiB | `eaea54e4ea39269bce4085c6710756222958e67b` |
+| `create-stuff-additions1.21.1_v2.1.0e.jar` | 1.26 MiB | `5de330acd44af9e09430a7710687ad176dabf1e2` |
+| `createthreadedtrains-neoforge-1.21.1-1.0.0.jar` | 0.07 MiB | `1dec765e324bf968a1685a173aff5a13c11d0856` |
+| `createtransmission-1.1.2+neoforge-create6-1.21.1.jar` | 0.23 MiB | `a2eaf85833ce935b97eaace47d93c874386a03d7` |
+| `CreeperOverhaul-neoforge-1.21.1-4.0.6.jar` | 1.13 MiB | `5a07cc032df790e7d110ad3dedb7a76253ffd565` |
+| `cristellib-neoforge-1.21.1-3.0.3.jar` | 0.51 MiB | `8e61459df2c76caa19d3f1e218522389ad812f6c` |
+| `cropsloverain-3.2.1.jar` | 0.03 MiB | `43c8ac81b90089d1b7825d7ab9465d440996fc95` |
+| `crowns-1.21.1-2.1.6.jar` | 1.21 MiB | `98659cd366c027b4142f2f765badb935c9db9464` |
+| `cryonicconfig-neoforge-1.0.0%2Bmc1.21.11.jar` | 0.13 MiB | `45b7240ad5cd561511ae3f80eea4cbfc110dae70` |
+| `crystalix-3.0.0.jar` | 0.78 MiB | `b2e75acbbf2f86b88573e89d073533d63c9fc298` |
+| `CTM-1.21-1.2.1+3.jar` | 0.23 MiB | `284232c08d3b999f05417761a3efba9b08ba20a7` |
+| `Cucumber-1.21.1-8.0.15.jar` | 0.26 MiB | `e2928961f305d0a48e43a03b0a668ee123270f69` |
+| `cupboard-1.21.1-3.8.jar` | 0.03 MiB | `39df849e5a338dfe9ccb7632b1849c20357e597b` |
+| `cupboard-1.21-3.5.jar` | 0.03 MiB | `e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70` |
+| `curios-neoforge-9.5.1+1.21.1.jar` | 0.39 MiB | `418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4` |
+| `CustomPlayerModels-1.21-0.6.25a (1).jar` | 2.65 MiB | `c896082b4fd9b6ee8895abead19ac29aa6c4df1f` |
+| `deeperdarker-neoforge-1.21.1-1.3.5.jar` | 17.06 MiB | `d73626e3d6623db55f37bedb9d48216b23c4fe07` |
+| `defaultoptions-neoforge-1.21.1-21.1.6.jar` | 0.09 MiB | `92c8695dff4b5143919c4e80e4940c6afe873750` |
+| `deimos-1.21.1-neoforge-2.5.jar` | 0.05 MiB | `8a4e197b3ee958b7ef6e0ff374a6afa04941cbc0` |
+| `DnDesires-1.21.1-2.3a-BETA.jar` | 1.19 MiB | `72635119b4bcc49b050c50d6cbb1abb02bb3982a` |
+| `dragonlib-neoforge-1.21.1-beta-3.0.26.jar` | 2 MiB | `df416137bae1b7205965c1a47b7f466da4564fd6` |
+| `dummmmmmy-1.21-2.0.11-neoforge.jar` | 0.21 MiB | `1bdaf699dd40c03c96a85f64ae9b54a8e40bb539` |
+| `DungeonCrawl-NeoForge-1.21-2.3.15.jar` | 0.7 MiB | `63dd4b4e73b400582540c2045f6a6ed12839a492` |
+| `dungeons-and-taverns-v4.4.4.jar` | 23.71 MiB | `249a5bdd0e8622b8a11f88758e6f5fd5fda036a3` |
+| `DungeonsArise-1.21.1-2.1.68-release.jar` | 11.29 MiB | `c651339154da7b9e9cf47a80fdef22c4d59cad5c` |
+| `DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar` | 0.23 MiB | `ac9edb266a1360e9e4c80ed0b2f931f1505307eb` |
+| `easy-villagers-neoforge-1.21.1-1.1.41.jar` | 0.44 MiB | `8dae7a6bbd066a19c8f3571e5449bb47da3ba9b0` |
+| `EdivadLib-1.21-3.0.0.jar` | 0.01 MiB | `99de3c473aa0120514a27d5a959a81c058e3fbb9` |
+| `elevatorid-neoforge-1.21.1-1.11.4.jar` | 0.18 MiB | `87a5504efcd51de55cd4215a103cbfcf717fa022` |
+| `emi_enchanting-0.1.2+1.21+neoforge.jar` | 0.01 MiB | `02ad74769ffcec259fd9bb14a1760593f6182b5c` |
+| `emi_loot-0.7.9+1.21+neoforge.jar` | 0.44 MiB | `bd0326eeda721c87a29efd78f9a52f46d572392c` |
+| `emi_ores-1.3+1.21.1+neoforge.jar` | 0.11 MiB | `26e3f998295bae5178530d4bb217e824a2637121` |
+| `emi-1.1.24+1.21.1+neoforge.jar` | 1.06 MiB | `3fd494b37027dfbc7f78414d7cbf251c9eb6738a` |
+| `emixx-2.0.0.jar` | 0.1 MiB | `cbf70eed52009ce3bfd33eaa30e057055062aba7` |
+| `enchdesc-neoforge-1.21.1-21.1.9.jar` | 0.08 MiB | `e4fa515c5deab3165f250f2a1297ac836d496064` |
+| `end_villager_outpost-1.0.0-neoforge-1.21.1.jar` | 0.07 MiB | `519db3ab64b92064036566f6ee71fd422d04d27e` |
+| `endermanoverhaul-neoforge-1.21.1-2.0.3.jar` | 1.27 MiB | `f71aa503738f2e23a8d939b7ea9f96f2fe203f11` |
+| `entity_model_features-3.2.4-1.21-neoforge.jar` | 0.54 MiB | `fcc0d7cfee5ace4dba159225edd151d90dd924b9` |
+| `entity_texture_features_1.21-neoforge-7.1.jar` | 0.72 MiB | `56de40b237ff44dbf1bb68844e0f118607902684` |
+| `entityculling-neoforge-1.10.1-mc1.21.1.jar` | 1.51 MiB | `68759da313caf8990bcd5d961bc691fa85fa3f0e` |
+| `EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar` | 4.02 MiB | `a8e8a45390d30b82f722acc669d5cb2a5d9fff79` |
+| `experiencelib-1.21.1-1.2.1.jar` | 0.16 MiB | `82a964a6a68519ade986760e964bb3309933671a` |
+| `ExplorersCompass-1.21.1-3.4.0-neoforge.jar` | 0.17 MiB | `9f62af344988a6e2d855b113e61cf0e1611c7e0f` |
+| `Explorify v1.6.4 f15-88.mod.jar` | 0.91 MiB | `5a9b99242bdb9437396f5a3c78decc567adab6a5` |
+| `extra-eeveelutions-1.2.jar` | 0.77 MiB | `d422086e0123870c7b1cfab42ff5cdac89ce118a` |
+| `extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar` | 0.3 MiB | `70429571ccf7faa4c1811092739fb7d645829eef` |
+| `extra-move-anims-cobblemon-1.7v1.0.2.jar` | 0.56 MiB | `88f5f5290a98311bed5e9ce68553f4447d18af9f` |
+| `ExtremeSoundMuffler-3.55_NeoForge-1.21.jar` | 0.26 MiB | `b17090ea6a7c302c648f7bab12b37bbb3dd786f0` |
+| `factormoon-client-startup-patch-1.0.0.jar` | 0 MiB | `11df6494142c50638eea7dba6ae189acb33eaaa7` |
+| `factormoon-permission-startupfix-1.0.0.jar` | 0 MiB | `9ffdf4263ce4e66124e67e0f35ba459fc519e626` |
+| `factormoon-tfmg-cylinder-nullfix-1.0.0.jar` | 0 MiB | `4b2b31b1f202e0702f20fda73eedd289218b214d` |
+| `farmers-cutting-biomes-o-plenty-2.0.0.jar` | 0.05 MiB | `39e402ef4c5f9336973c1a0017049e19ca4e97ef` |
+| `FarmersDelight-1.21.1-1.3.1.jar` | 2.98 MiB | `49477fafca740e7ae348d934b552fb313358e8fe` |
+| `FarmersStructures-1.0.2-1.21.1_neoforge.jar` | 0.47 MiB | `72c8a17af70dd78a045b4b2678b8ac2d1a2b7d39` |
+| `farsight-1.21.1-5.1.jar` | 0.37 MiB | `99b50f8d4fa8861444a7490aef9f4927a2427622` |
+| `FastFurnace-1.21.1-9.0.1.jar` | 0 MiB | `acdcdc7c61b49b3b04490fce9843dcf8b531dfc3` |
+| `fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar` | 0.01 MiB | `3e1a403f9298db23c163dbd85ab68210b4a8c688` |
+| `FastSuite-1.21.1-6.0.7.jar` | 0.03 MiB | `664e62684311f727f1fac18f0de28e5317874b7e` |
+| `FastWorkbench-1.21.1-9.1.3.jar` | 0.03 MiB | `7343b63ded70c0546811c768118d16d3a86418ee` |
+| `ferritecore-7.0.3-neoforge.jar` | 0.12 MiB | `9563692efb708b6b568df27a01ec52f6311928ef` |
+| `fightorflight-neoforge-0.10.7.jar` | 1.35 MiB | `f4f468a3e88ab22e4fd36d78cfbc6223a2277332` |
+| `fireproofboats-1.21.1-1.0.4.jar` | 0.04 MiB | `9c1990abe5bcdc9a16cbfb9a9de3b0ac35dc752b` |
+| `flickerfix-1.21.1-6.1.0.jar` | 0 MiB | `3eadf069d9eeb7fb4e2295828a8aaefe6691d96d` |
+| `fluid-2.0.1.jar` | 1.93 MiB | `0c3279db034e67514a1b4225f048683f8fcc53d5` |
+| `ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar` | 0.1 MiB | `14f2dd9f43254b8c06af04b6f0c8ae5192f658b5` |
+| `ForgedPaginatedAdvancements-0.0.2+1.21.1.jar` | 0.07 MiB | `a7c1d2d16babb7edb51c2fe0364a8ac25920b31c` |
+| `forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar` | 5.31 MiB | `459b5f4c7297b2f7649d43137f3e5a069b69b707` |
+| `forgivingvoid-neoforge-1.21.1-21.1.7.jar` | 0.07 MiB | `bfcad985c5e335e2b712965c9b0d9028da01c845` |
+| `formations-1.0.4-neoforge-mc1.21.jar` | 0.27 MiB | `3845f96c9304f6956688f7a35205e9354bf411b0` |
+| `formationsnether-1.0.5-mc1.21+.jar` | 0.9 MiB | `12b69c1cd22bbbe8c5888a030bef791b992b0d39` |
+| `formationsoverworld-1.0.5-mc1.21+.jar` | 0.83 MiB | `edbc169c78f9f1cdf5233e996f12b21e7e1cdf18` |
+| `formicapi-1.21.1-2.2.5.jar` | 0.98 MiB | `2df464baeb70e887bf7d682a678c8f5c9b0b5552` |
+| `FramedBlocks-10.5.3.jar` | 4.1 MiB | `bbbd02f99ab559bc68a72e3441e821c5cf81d8f1` |
+| `framework-neoforge-1.21.1-0.13.11.jar` | 0.37 MiB | `e46eb138fbb13a12f37154fb4ec407d64b326475` |
+| `friendsandfoes-neoforge-4.0.18+mc1.21.1.jar` | 4.75 MiB | `c4d24234af866b717a86c6e93a1aa68a2ab2f1d6` |
+| `ftb-chunks-neoforge-2101.1.14.jar` | 0.61 MiB | `908b63b11d0e00ae6c9557d3fe6440bdbcf21bb7` |
+| `ftb-essentials-neoforge-2101.1.9.jar` | 0.2 MiB | `7d6f274b38d767215549ec066246390c49ac7ad8` |
+| `ftb-filter-system-neoforge-21.1.4.jar` | 0.2 MiB | `a48e54edeacc59aaba29a1b627799c052112ee0b` |
+| `ftb-jei-extras-21.1.7.jar` | 0.07 MiB | `ef01126201a805991bbfe5351cff7d0a9e3a077b` |
+| `ftb-library-neoforge-2101.1.31.jar` | 1.35 MiB | `686d4e784c28c14f7760cc22b2de6a8573b56b74` |
+| `ftbquestslangsplitter-1.0.5.jar` | 0.19 MiB | `74652f1f845c7a31f12b50163164eba06beebbd7` |
+| `ftb-quests-neoforge-2101.1.24.jar` | 1.4 MiB | `abe5eeccbddf10ae4e40c350cdb6e95ee9e4cde1` |
+| `ftb-ranks-neoforge-2101.1.3.jar` | 0.08 MiB | `07fdfa3a75c3481770ce0118090a347d89e3a560` |
+| `ftb-teams-neoforge-2101.1.10.jar` | 0.29 MiB | `363376ae0fb22cb0527170fdf6a066d1da9b0225` |
+| `ftb-ultimine-neoforge-2101.1.13.jar` | 0.17 MiB | `c6ca0360843e5dbac57f3c01aa80fba5a0518553` |
+| `ftb-xmod-compat-neoforge-21.1.8.jar` | 0.13 MiB | `0c25fc1a43c99eaa68c883dc77e3ebf4539629e6` |
+| `fuelgoeshere-1.21.1-1.2.0.jar` | 0.01 MiB | `8b5f1c77adb52641189961896e10aa47399eccde` |
+| `fusion-1.2.12-neoforge-mc1.21.1.jar` | 0.51 MiB | `d86f641b67d4b01d99da8424ba2a3edc0e6690b6` |
+| `fzzy_config-0.7.6+1.21+neoforge.jar` | 2.26 MiB | `c0910f9b975aaab8545ce950539748fb33d704d1` |
+| `geckolib-neoforge-1.21.1-4.8.4.jar` | 0.59 MiB | `eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce` |
+| `getittogetherdrops-neoforge-1.21.5-1.4.jar` | 0.01 MiB | `ead940a50f69313802960c497e252acd3956334f` |
+| `GlitchCore-neoforge-1.21.1-2.1.0.2.jar` | 0.09 MiB | `e3d4bb80a06f619be989ab529d0cd4e33e076943` |
+| `globalpacks-fabric-1.21.1-21.0.6.jar` | 0.38 MiB | `6a0c4ccf2a8bc916173defc3c49c8e95285e66b9` |
+| `Glodium-1.21-2.2-neoforge.jar` | 0.06 MiB | `9f61a3162665ad0b37f6f268339ac98097af1a87` |
+| `goblintraders-neoforge-1.21.1-1.11.2.jar` | 0.44 MiB | `4507faefb977321b598daa3fb35d7e1a9a03eb80` |
+| `gravestone-neoforge-1.21.1-1.0.35.jar` | 0.3 MiB | `91f5e2395081ac5f5034ce05f83bcbfca1e3fd5c` |
+| `guardvillagers-2.4.5-1.21.1.jar` | 0.27 MiB | `5b4ae24ee9f7e2e6e941a2027f4c59e0c3f557fd` |
+| `handcrafted-neoforge-1.21.1-4.0.3.jar` | 6.8 MiB | `8ecd27f1d66f9b742cfae3c8ffa773765f574b52` |
+| `hardenedarmadillos-1.21.1-0.2.0.jar` | 0.01 MiB | `1c9a37d6fe172580af5142c66b9157d21aa6c5f7` |
+| `HellishTrials-neoforge-1.0.5.jar` | 0.56 MiB | `0c03bf04e99b3e8a310c9f5b6f3e7613e3b69528` |
+| `heyberryshutup-1.21.0-2.0.4.jar` | 0.01 MiB | `a897b4ac33d0fc5a2a533d56381c272f1e49520b` |
+| `highlight-neoforge-1.21.9-3.9.0.jar` | 0.45 MiB | `85838dacfbcbf621a3a4b91fefbbbf5f674d7f1f` |
+| `HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar` | 0.44 MiB | `52875dc5fd560c99721565bfced9c47dbff9acfa` |
+| `huge-structure-blocks-neoforge-1.1.6.jar` | 0.1 MiB | `4123987771defe7f46899a332d9f858a661d99de` |
+| `IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar` | 19.96 MiB | `c4d33745a8041465f2d12bb76fc048750288ce24` |
+| `Iceberg-1.21.1-neoforge-1.3.2.jar` | 0.2 MiB | `f6014d198be9503573cd9cb41cc789d282768ad8` |
+| `illagerwarship-1.0.1-neoforge-1.21.1.jar` | 0.07 MiB | `538db7de4264f6d07ca2a5e7a947777ad8216225` |
+| `imfast-NEOFORGE-1.0.2.jar` | 0 MiB | `2a62ae984777ef81d63adfb358608b72fedfcaf9` |
+| `ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar` | 0.35 MiB | `f1f5cccd7cb59d875f44566b2e557ccecc8c33fb` |
+| `immersive_optimization-neoforge-1.21-0.1.4.jar` | 0.05 MiB | `3a1fde4119ccccaf39bcc738bf4db14f905c2b65` |
+| `incontrol-1.21-10.2.6.jar` | 0.33 MiB | `8b25ac143e5c2392336d0f899160bdfe1ee3d1a5` |
+| `interiors-1.21.1-neoforge-0.6.1.jar` | 0.46 MiB | `a558777ef4510da2f4d32ca3da6ac7384c9a9940` |
+| `invtweaks-1.21.1-1.3.2.jar` | 0.07 MiB | `76969e26520ab060d51515757db25282bed71b10` |
+| `iris-neoforge-1.8.12+mc1.21.1.jar` | 2.33 MiB | `a3e6355915c7d3b2bc392724795113e51d289378` |
+| `ironfurnaces-neoforge-1.21.1-4.3.2.jar` | 0.55 MiB | `9a40f949ec9794cdef79bdabb61a12a918613194` |
+| `Jade-1.21.1-NeoForge-15.10.5.jar` | 0.69 MiB | `d5bf134b3dbde9f5258666823900e21341dc0a50` |
+| `JadeAddons-1.21.1-NeoForge-6.1.0.jar` | 0.07 MiB | `d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3` |
+| `jearchaeology-1.21.1-1.2.0.jar` | 0.05 MiB | `385e4937144b20c6cbf103945a73066f8dc1bc74` |
+| `jei-1.21.1-neoforge-19.27.0.340.jar` | 1.46 MiB | `27d0d85e7e32e926fc3664ab6815df5cdabb7941` |
+| `jumpboat-1.21.0-1.0.5.jar` | 0.01 MiB | `8fa562264f3ffd030773b2744ff6b42c52080ce6` |
+| `jupiter-2.3.7-1.21.1-neoforge.jar` | 0.27 MiB | `569fb484ea5c8e8d690945ad4cd132131a719751` |
+| `justdirethings-1.5.7.jar` | 2.72 MiB | `f0327d7d2f389020063849200a4128ac9dcb52da` |
+| `justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar` | 0.13 MiB | `4f47678f57e2cadebd42484897bf5417d7fa344a` |
+| `JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar` | 0.02 MiB | `e10a6b56bf838c457706be43e0ebe33745b68784` |
+| `justzoom_neoforge_2.1.0_MC_1.21.1.jar` | 0.04 MiB | `328da50972fa693b8e6f337d4a9560d4a6170ac3` |
+| `KeybindAtlas-v1.4.0-mc1.21.1-neoforge.jar` | 0.4 MiB | `5885143a620e11657af2b7f06ce94b819d6aec3b` |
+| `keybindbundles-1.4.0.jar` | 0.09 MiB | `02a9c2a3faf06eb46a0ec56cc2df7302e568ce27` |
+| `KeybindsPurger-1.4.0-neoforge-1.21.1.jar` | 0.04 MiB | `8e1baa9ab8aa4b2efaefd39df54b241bd64533df` |
+| `konkrete_neoforge_1.9.9_MC_1.21.jar` | 0.59 MiB | `97771eb287d5ac7fe667d1df9493d5e54c8ca1fa` |
+| `kotlinforforge-5.11.0-all.jar` | 6.55 MiB | `4d83e8a8e8cb06b306d2cea1e903680fe513f1f3` |
+| `krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar` | 0.97 MiB | `3b9253fcfaa11586ce528fbc0a26175991c9408f` |
+| `kubejs-neoforge-2101.7.2-build.348.jar` | 2.14 MiB | `75f96b2e4157c0efdbfd9f6271d080fb6921aaf4` |
+| `kubejstweaks-1.0.6.jar` | 0.4 MiB | `6548ec47aa6b0498c3018cde40d9d0a203b67446` |
+| `L_Ender's Cataclysm 1.21.1-3.26.jar` | 69.95 MiB | `5fff47ae29af42aa2a7e0d91e0d70dbb1c722061` |
+| `LegendaryTooltips-1.21.1-neoforge-1.5.5.jar` | 0.08 MiB | `e7d3b66f3afe115c709749739f26f807ca8e827b` |
+| `lenientdeath-1.1.2.jar` | 0.08 MiB | `17ed36a3074832fed216ee62195d55af82f8727b` |
+| `letsdo-brewery-neoforge-2.1.9.jar` | 1.58 MiB | `3748fdb69cbb5abfc419ec873dc3bf142f0072d0` |
+| `letsdo-farm_and_charm-neoforge-1.1.22.jar` | 2.46 MiB | `4f51276dc4faf318486fa6e4bca27c7f8508c8e9` |
+| `libjf-3.17.6+forge.jar` | 0.7 MiB | `b6c4ffb3260f495344fa56ef3489c01e2b9552de` |
+| `lionfishapi-2.6.jar` | 0.09 MiB | `3d9059ea05839e0daab926848d91ecb14ca5a4d4` |
+| `lithium-neoforge-0.15.3+mc1.21.1.jar` | 0.74 MiB | `9fd5fa9076044180ae7f51672de74669196ec72e` |
+| `lithostitched-1.6.5-neoforge-21.1.jar` | 0.76 MiB | `a09b255f975a5d108d01ad102b80cea5c4ffa44d` |
+| `livingthings-neoforge-1.21.1-2.3.0.jar` | 0.93 MiB | `a7022905a3753b5c10fc52719da7eb579a6e9ad3` |
+| `lmft-1.1.1+1.21.9-neoforge.jar` | 0.07 MiB | `492d597ca216f9d099be112e77a9a5c7ed138770` |
+| `lootrmon-neoforge-1.21.1-0.0.0.1.jar` | 0.04 MiB | `d5b06c65bbba9fd2d4f62768a413965a51bb6f42` |
+| `lootr-neoforge-1.21.1-1.11.37.118.jar` | 0.93 MiB | `95058da06c16441211619ce46950502fd5ac1f64` |
+| `luminax-1.3.1_neoforge_1.21.1.jar` | 0.67 MiB | `8ec996b9783d05d4c107a3ea727ff9c7d52ce452` |
+| `mcw-bridges-3.1.2-mc1.21.1neoforge.jar` | 0.63 MiB | `71ece28129789a2123cf07e79938f488d8675bb2` |
+| `mcw-doors-1.1.5-mc1.21.1neoforge.jar` | 1.14 MiB | `c127904f23db1a641dd9e065ec51c5c177cb4cd7` |
+| `mcw-furniture-3.4.1-mc1.21.1neoforge.jar` | 1.98 MiB | `3dccc819f14bcc60b3683edd82ca8c5e64964229` |
+| `mcw-holidays-1.1.2-mc1.21.1neoforge.jar` | 0.97 MiB | `fbe2d2239fdab916120357ca3c45f582ca34f71d` |
+| `mcw-lights-1.1.5-mc1.21.1neoforge.jar` | 0.5 MiB | `13c1107caf26b2c60d8626b3658b26cc7f634b38` |
+| `mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar` | 0.64 MiB | `b5580c3fc521ed8bf4db3e407bd590efc317f74d` |
+| `mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar` | 0.74 MiB | `4bb7e1d28eef19f87438881b0f582a15297b95ae` |
+| `mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar` | 0.5 MiB | `1ee43d693c821efc955a74e551f94372af90a140` |
+| `mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar` | 1.2 MiB | `eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c` |
+| `mcw-roofs-2.3.2-mc1.21.1neoforge.jar` | 1.7 MiB | `05806ff152fab56f7c1b4b215d772ea73611283d` |
+| `mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar` | 0.55 MiB | `1f8b59e31f889f53b6296b42ee09d447e7e56620` |
+| `Measurements-neoforge-1.21.1-3.0.3.jar` | 0.05 MiB | `4c415df21ffe02b6619c204b84d20dbe94b5f3b1` |
+| `mechanicals-1.21.1-1.1.0.jar` | 0.48 MiB | `9fcb171d9191d7c2a76502eccb295520787c9e81` |
+| `mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar` | 16.46 MiB | `60efa7de89d832ba7a80c9320fe89376a5d47089` |
+| `melody_neoforge_1.0.10_MC_1.21.jar` | 0.03 MiB | `e83052a92c4ca0016bcfe7f0207273983dc84698` |
+| `memorysettings-1.21-5.9.jar` | 0.02 MiB | `46358f0310ea43fb23de2f831ddba6628dcb5f94` |
+| `merrymaking-1.21.1-14.jar` | 20.94 MiB | `388142a33e0db7f264208a1e0ddb17decc3d6968` |
+| `midnightlib-neoforge-1.9.3+1.21.1.jar` | 0.06 MiB | `e0c9a1ffc6a53435029a23d9c110c44620595469` |
+| `Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar` | 0.89 MiB | `075a0d5f30d1228f998e50c79e703bbd3037a836` |
+| `modelfix-1.21-1.10.jar` | 0.04 MiB | `9608b1bff92e075ad8c2feb07f7ef095f6887117` |
+| `modernfix-neoforge-5.27.5+mc1.21.1.jar` | 0.54 MiB | `1731baeac095b487edaf29693e4a7ee18430281a` |
+| `molten_vents-1.21.1-2.1.1.jar` | 0.08 MiB | `0d645330128d1d7dc0b330760f4517d3ff4a2a9d` |
+| `monolib-neoforge-1.21.1-2.1.0.jar` | 0.17 MiB | `e618e28647fcbf931143f81bcd905d7c9c61f27b` |
+| `moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar` | 0.24 MiB | `cde9ef5e7d4d74bb6d5725367398a6dc4d02ee99` |
+| `MoogsVoyagerStructures-1.21-5.0.3.jar` | 2.54 MiB | `76779c5992bba7b1992f800697d17c03b68a3b31` |
+| `moonlight-neoforge-1.21.1-3.0.16.jar` | 1.5 MiB | `494ac7255ab0321f01a980cc21f1a3a5e4c0cf74` |
+| `MoreCobblemonTweaks-neoforge-1.3.3.jar` | 0.13 MiB | `dcfce07ad4604a2a8a3a97f6c505ae6e015210d9` |
+| `moreculling-neoforge-1.21.1-1.0.7.jar` | 0.33 MiB | `834cc35294be3bb514bc0ba571ab7337961af383` |
+| `moredragoneggs-5.0.jar` | 0.01 MiB | `c9b26ad977aaa6c2d1bd1ad681edd77cf466537d` |
+| `moreoverlays-1.24.2-mc1.21.1-neoforge.jar` | 0.11 MiB | `21e8bd61c5e146a9574266015d3f64621c2d9e18` |
+| `morered-1.21.1-6.0.0.3.jar` | 0.51 MiB | `a69f18365301470c0fc2b07125c9ba3c10f270f6` |
+| `MoreRed-CCT-Compat-1.21.1-1.3.0.jar` | 0.01 MiB | `534c64c86798ca691f0565bbf3fe09c9795a12df` |
+| `MouseTweaks-neoforge-mc1.21-2.26.1.jar` | 0.07 MiB | `6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc` |
+| `mowziesmobs-1.21.1-1.7.5.jar` | 33.63 MiB | `f462b46d4bd3071708cebd4b06c16857ad593e22` |
+| `naturalist-1.0.2-neoforge-1.21.1.jar` | 4.8 MiB | `d026c2c4ac66a9bc656e9b894683d1131054a80a` |
+| `NaturesCompass-1.21.1-3.4.0-neoforge.jar` | 0.21 MiB | `e19721873bebc4dbc1674bb101af39d0ea406b95` |
+| `nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar` | 0.08 MiB | `7da5cfba7dc968ee0587b375328acb124f655776` |
+| `NeoAuth-1.21.1-1.0.1.jar` | 0.06 MiB | `1eeb2aad79e2d9bac1b1d793768eb0d3483358fe` |
+| `netherportalfix-neoforge-1.21.1-21.1.1.jar` | 0.2 MiB | `7cf40ec774392823e709da7659a6d4a5a04c8c9d` |
+| `NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar` | 0.29 MiB | `9edfc7861277ff661141304dc8216f83eacdd9af` |
+| `nolijium-0.5.6.jar` | 0.35 MiB | `7074fda15f70440eb1e30f74a7dc70feadd49592` |
+| `novillagerdm-1.21.1-6.0.0.jar` | 0 MiB | `284694712ae9c5a17dfff4c0830048574996a229` |
+| `observable-5.4.4.jar` | 0.37 MiB | `e17417eee213aac8291ff8bad1c6a5f710636b72` |
+| `OctoLib-NEOFORGE-0.6.1%2B1.21.jar` | 0.52 MiB | `052b71b4897b3a76b4b10afda4d9342e66fb19f1` |
+| `ok_zoomer-neo-10.0.0-beta.13.jar` | 0.2 MiB | `bf38fe686628eca79cc1b33c6e60a1eb765c6b39` |
+| `omegaconfig-neoforge-1.5.1.jar` | 0.02 MiB | `0361933f62ad92e2197566ceb1f06308ed63d65d` |
+| `only-bottle-caps-neoforge-1.3.0-port.1.jar` | 0.04 MiB | `222019d4e5cd640f43a9a86617906813de5e19a7` |
+| `OpenLoader-neoforge-1.21.1-21.1.5.jar` | 0.03 MiB | `b4b49fa0bbefcecd41aaba60aca38c3658ac2c46` |
+| `oracle_index-neoforge-1.1.1.jar` | 28.4 MiB | `49c7c260aae8b3478621174ad83115c59d58ef5b` |
+| `overloadedarmorbar-neoforge-1.21-2.jar` | 0.02 MiB | `250b3f1a34bcaee383545761f102834475e86819` |
+| `owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar` | 1.16 MiB | `48dda11a6710591cf162bdbedf982ea21dd1f2ed` |
+| `packetfixer-3.3.1-1.20.5-1.21.X-merged.jar` | 0.04 MiB | `a8bb6e25807682e72c23bf4065f3cd5f6373ece3` |
+| `particlerain-4.0.0-beta.10+1.21.1-neoforge.jar` | 0.58 MiB | `df2800c721e8a588dde48bc4b426707eccf712b6` |
+| `particular-1.21.1-NeoForge-1.5.3.jar` | 0.29 MiB | `4daa6343ed9e77596bb60d2bbf3f6c40c7312c56` |
+| `pasturelootnf-0.1.0+1.21.1.jar` | 0.03 MiB | `008f4790a954191bd2dce540b6832b01cb54b9b0` |
+| `Patchouli-1.21.1-93-NEOFORGE.jar` | 0.62 MiB | `5413bb9b8fc35ebe46b06b48bf9afafbd8471140` |
+| `petrolpark-1.21.1-1.4.32.jar` | 6.18 MiB | `cde03e213aa443a9cfbc465bfafe7fb90e23cd5d` |
+| `petrolsparts-1.21.1-1.2.10.jar` | 0.49 MiB | `d228f81fb8d9f9501f0077bcbe6b62852eccf0a1` |
+| `pet-your-cobblemon-1.3.3.jar` | 0.03 MiB | `62848cc1546d8cef5cbe19a789a75a09674340cf` |
+| `Ping-Wheel-1.12.2-neoforge-1.21.1.jar` | 0.15 MiB | `bfc416a7bc2edde6ff98672a7df43a3d9930a396` |
+| `pipesnphysics-0.3.0.jar` | 0.03 MiB | `3b53e3c87a655e9830a1109a3c3301f670c9086c` |
+| `Placebo-1.21.1-9.9.1.jar` | 0.31 MiB | `1c2b8c38066d6f36209c5dadee25c184ef65202e` |
+| `Platform-neoforge-1.21.1-1.3.3.jar` | 0.47 MiB | `4132ad6809008698b7f489a878e5a33a3879bbfd` |
+| `player-animation-lib-forge-2.0.4+1.21.1.jar` | 0.19 MiB | `05be8ddcc78532b9a5520c718edc6c971cd0057c` |
+| `playerxp-neoforge-1.0.9+1.21.1.jar` | 0.01 MiB | `6812cb62b249eb2d011a79c0010f531d4339286d` |
+| `poke-clothing-neoforge-1.1.2-port.1.jar` | 0.11 MiB | `5e028e35647a44bef446d6aaf5c0bfd04e7b714a` |
+| `polylib-2100.1.0-build.183-neoforge.jar` | 1.24 MiB | `2e77cd8a795c3171d8327e6b1f1b6413565c8da1` |
+| `polymorph-neoforge-1.1.0+1.21.1.jar` | 0.17 MiB | `84f8c539fa326dc723ae62b7a6916d6b01982d07` |
+| `ponderjs-neoforge-1.21.1-2.4.0.jar` | 1.5 MiB | `9c35c5c31a613d58fc06e591e455bccfc3de6022` |
+| `powergrid-mc1.21.1-0.5.5.1.jar` | 5.96 MiB | `06b0500d7101c5846e9e2c5bb4b53646a50ef133` |
+| `prefab-neoforge-1.0.4.jar` | 8.76 MiB | `abbb6c52e90b96df9a45e8f0c0ca8d6b0134580c` |
+| `prickle-neoforge-1.21.1-21.1.11.jar` | 0.08 MiB | `5174059ecf97340a0de5ef211b938de26c4eaa36` |
+| `Prism-1.21.1-neoforge-1.0.11.jar` | 0.06 MiB | `1ae6f7be2ba8f963344dbf27e552920a7bc7a35f` |
+| `railways-0.2.0-beta.2+neoforge-mc1.21.1.jar` | 11.35 MiB | `2767bb73a33358b7796239310416b13db476f0b4` |
+| `Rainbows-1.21-1.5.jar` | 2.2 MiB | `82a789be56ea483e0ca94454c780da0b47e937d1` |
+| `rctapi-neoforge-1.21.1-0.15.2-beta.jar` | 0.22 MiB | `06914d0d3dde9e92d14b5944db4e494527d89df0` |
+| `rctmod-neoforge-1.21.1-0.18.1-beta.jar` | 7.19 MiB | `98afe295a4ac17dc6fd1427df623b721fbf11b50` |
+| `reap-neoforge-1.21.1-1.1.2.jar` | 0.13 MiB | `c57c3bcfdaf55e4719cc785b72631a794e5381fc` |
+| `rebind_narrator-1.21.1-neoforge-2025.12.23.jar` | 0.2 MiB | `3e28da451f5d7eecb35d195fb08bfe4d7f9022ec` |
+| `redstonepen-1.21-neoforge-1.11.42.jar` | 0.49 MiB | `4c9a706061c0e303a02431905a4fbb63c28d14be` |
+| `reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar` | 0.07 MiB | `b03d05495be28d8cef7a34872941bb8d703d60e6` |
+| `regions_unexplored-neoforge-1.21.1-0.5.9.jar` | 5.12 MiB | `064c2da020731fadd07e095707320431df12288d` |
+| `repeatable_trial_vaults-neoforge-1.21-1.0.2.jar` | 0.01 MiB | `6559a203e264afacc40af5010ad6a85b21e20a17` |
+| `repurposed_structures-7.5.18%2B1.21.1-neoforge.jar` | 7.86 MiB | `545fafd13197186038191d99c378ac4c04a6504c` |
+| `resource_gamma_util-neoforge-1.21.1-1.4.0.jar` | 0.04 MiB | `4b714160b35e06cdaf6960a5f8ed3580e4b24dcd` |
+| `resourcefulconfig-neoforge-1.21-3.0.11.jar` | 0.33 MiB | `6bf2b6ea9c071c00a2abcdc552667fb6f7d21031` |
+| `resourcefullib-neoforge-1.21-3.0.12.jar` | 0.46 MiB | `24389c8e48ff0e8594e4686b750c494c66a5f8df` |
+| `ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar` | 0.08 MiB | `42dddb70cc645a864596439ea95bd56e7a5561ed` |
+| `rhino-2101.2.7-build.81.jar` | 0.84 MiB | `5dcc80079095706645d567353095297948a41eea` |
+| `Ribbits-1.21.1-NeoForge-4.1.6.jar` | 2.11 MiB | `22dfd6a52d31bcab58b93c2d4a637ae1b2a01895` |
+| `s_a_b-1.4.3-neoforge-1.21.1.jar` | 1.73 MiB | `7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8` |
+| `sable-neoforge-1.21.1-1.2.2.jar` | 12.13 MiB | `c5ecd3fcf60a31d84112c708abe29e341b2d1b73` |
+| `SafePastures-1.1.1+1.21.1.jar` | 0.01 MiB | `e2084f5e675cec071029492e13774f7ab71c9c1f` |
+| `sawmill-1.21-1.7.2-neoforge.jar` | 0.5 MiB | `877389e2bb3b462b8180d4fc998799adbce6ada1` |
+| `ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar` | 16.09 MiB | `b96d133a016dde480458d6102d66353c7eeacf6a` |
+| `Searchables-neoforge-1.21.1-1.0.2.jar` | 0.07 MiB | `5b8a0b43a474c066371b2e16f9bfb88622552a74` |
+| `servercore-neoforge-1.5.10+1.21.1.jar` | 1.36 MiB | `4524cd40cfa5019d8b5fbcb628b1616031838a0c` |
+| `shiny-1.21.1-1.2.5.jar` | 0.92 MiB | `cb5572e9f23795065e45883accf10c82b42d70b8` |
+| `shrink-2.0.1.47-neoforge.jar` | 0.04 MiB | `17407b525c0c70a0f6f03a08024a14058f645d01` |
+| `silent-lib-1.21.1-neoforge-10.5.1.jar` | 0.14 MiB | `b08b639706ce8cbc426045501b7f2da59eceb14f` |
+| `simple_weather-1.0.13-hotfix.jar` | 0.08 MiB | `45ee8e8bb49c599bb3d7db7cdf6c91f90d13bb0c` |
+| `simplehats-neoforge-1.21.1-0.4.0.jar` | 1.34 MiB | `81748b4f728575d9bbab571ab07e6a24cf3ff126` |
+| `simplylight-1.5.3+1.21.1-b4.jar` | 1.05 MiB | `d85bfed3824cb66d258acf11c73edaf11d583223` |
+| `SkyVillages-1.0.6-1.21.x-neoforge-release.jar` | 0.24 MiB | `645eb49d4019e5550afd4055f380c26edd126611` |
+| `sliceanddice-forge-4.2.4.jar` | 0.39 MiB | `13d8835813b3851d4818c59ec8f7124e4a826c14` |
+| `smart_particles-21.8.10.jar` | 0.05 MiB | `f6f017e9d3f36f871781a1647937527bdc8a2fad` |
+| `SmartBrainLib-neoforge-1.21.1-1.16.11.jar` | 0.37 MiB | `0310135a01eeceefbc7f1ab017498a65f3ad6836` |
+| `smithingtemplateviewer-1.0.4.jar` | 0.04 MiB | `4fea33926fafbd59f7434d1e4e64938ddee5d5db` |
+| `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar` | 0.29 MiB | `02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652` |
+| `sodium-extra-neoforge-0.6.0+mc1.21.1.jar` | 0.35 MiB | `7473bb42753902c639294821af13e9cd9ee735da` |
+| `sodium-neoforge-0.6.13+mc1.21.1.jar` | 1.11 MiB | `38af70fa4dc4b2aaac636e92fdba3bedd5a025e1` |
+| `sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar` | 0.29 MiB | `5d014d031fa77ab600e07835b032ef4dcb79b442` |
+| `sophisticatedbackpacks-1.21.1-3.25.37.1646.jar` | 0.97 MiB | `94b6244681c7666553d14bda679a452d04dfc480` |
+| `sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar` | 0.08 MiB | `51851c61e8be5b799b5ad8aa109b3416509605b7` |
+| `sophisticatedcore-1.21.1-1.4.39.1852.jar` | 1.52 MiB | `6365d4d66c86c2a8f02c04513d6fd127e47801ff` |
+| `sophisticatedstorage-1.21.1-1.5.47.1724.jar` | 1.6 MiB | `95705e7391880b84831abe3ef8c68dbfd75a7739` |
+| `sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar` | 0.13 MiB | `45a0318e8e49e7f3aab213df5cc32b3e7e128b6c` |
+| `sophisticatedstorageinmotion-1.21.1-0.10.27.208.jar` | 0.38 MiB | `5a25f3f0361578bc5829a8467551a95f51bf8810` |
+| `spark-1.10.124-neoforge.jar` | 3.47 MiB | `9430cc2ab64ff89d698be593769fb9f9ee4efae6` |
+| `Structory_26.1_v1.3.16.jar` | 1.2 MiB | `ee48f145a3a09fdb3f492576cbc21ed26abc74bb` |
+| `Structory_Towers_26.1_v1.0.16.jar` | 0.47 MiB | `ed22fe659cb3020f2e86b7619ce721714b9546be` |
+| `supermartijn642configlib-1.1.8-neoforge-mc1.21.jar` | 0.2 MiB | `07452242e389975e8a88b97066f4bae6a4ebe574` |
+| `supermartijn642corelib-1.1.21-neoforge-mc1.21.jar` | 0.53 MiB | `84802fbe1645de8caf61ccb07db6cf451e614f68` |
+| `supplementaries-neoforge-1.21.1-3.6.7.jar` | 12.69 MiB | `a2a0d9bb5170b779863c2743f18c04b0964c9875` |
+| `sussysniffers-1.21.1-0.1.3.jar` | 0.09 MiB | `c7c838abeb62f6dc6b1c22336f2a96c592bc5948` |
+| `t_and_t-neoforge-fabric-1.13.7+1.21.1.jar` | 3.47 MiB | `eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c` |
+| `tectonic-3.0.22-neoforge-21.1.jar` | 0.32 MiB | `12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314` |
+| `TerraBlender-neoforge-1.21.1-4.1.0.8.jar` | 0.11 MiB | `744394d979b422be560babf9df7a6800ede9ac5b` |
+| `Terralith_1.21.x_v2.5.8.jar` | 2.97 MiB | `bee0cfb1a8cd4bf3d96bccea224fb45d74de9085` |
+| `tesseract-api-neoforge-1.11.10-1.21.1.jar` | 0.69 MiB | `250d7fa9cb3ee7211404c44a7f21d59b54f33b17` |
+| `tfmg-1.2.0.jar` | 4.7 MiB | `b520f3687f60a69eb265ff5b9a16759b9e124103` |
+| `timcore-neoforge-1.7.3-1.32.0.jar` | 0.29 MiB | `741eb2aeac006f87d0d413965b2d965118ddae22` |
+| `titanium-1.21-4.0.42.jar` | 0.58 MiB | `aa71953b17a0a3618c6a44be428cf98e6885665b` |
+| `ToastControl-1.21.1-9.0.1.jar` | 0.02 MiB | `33477c2db0479c9be33d1ca3b2fa47cf6c97988c` |
+| `toms-peripherals-1.21-1.3.0.jar` | 1.28 MiB | `05b00990ede1804ef7030504ba051f55e199fed3` |
+| `ToolBelt-1.21.1-2.2.7.jar` | 0.21 MiB | `2833f695e72ec425de3cf30e6262680009462a1a` |
+| `torchmaster-neoforge-1.21.1-21.1.9.jar` | 0.12 MiB | `3f565ecc8560eba3ae3e15ff6542a3025d7377a2` |
+| `totw_modded-neoforge-1.21-1.0.9.jar` | 0.27 MiB | `c7b03934cce6eb7a8253ee0a8c416f137710f6ee` |
+| `tpsum-1.21.1-0.0.3.jar` | 0.39 MiB | `1cba70a06458614692d6c56740ff3eea8715f0d3` |
+| `tracks-neoforge-1.21.1-1.0.1.jar` | 0.16 MiB | `cccd208606d7ac33f483e1e8a237092712a1a2c0` |
+| `trading_floor-3.0.16.jar` | 0.2 MiB | `7be6d8b24f3120fa6a2520c32a2e6c8c4254322c` |
+| `transfer_labels-0.1.7.jar` | 0.15 MiB | `c1561ca14e685742b2e28d83c2ba473f767d4f80` |
+| `trashcans-1.0.18c-neoforge-mc1.21.jar` | 0.15 MiB | `8e853e0784b01b36b4503ef5599be2724be74b07` |
+| `trashslot-neoforge-1.21.1-21.1.8.jar` | 0.12 MiB | `ba534887309f6ff9edd8985edd51972513aa9cf6` |
+| `travelersbackpack-neoforge-1.21.1-10.1.35.jar` | 1.34 MiB | `ce4573819cd409101d5d64ea88883c172d1cb0f7` |
+| `treetap-1.21.1-0.4.5.jar` | 0.08 MiB | `b5bc7fc323fad9a9d1161f7e785c006e7e67c202` |
+| `trinkets-3.10.0.jar` | 0.26 MiB | `f54756f938c7c273713b9f97d4a987eec551e892` |
+| `trophymanager-1.21.1-2.4.3.jar` | 0.08 MiB | `ca168a84f903074d2feb5606fce22d630de67223` |
+| `UndergroundVillages-neoforge-1.21.1-4.0.3.jar` | 0.27 MiB | `7eb055cfadf940882aac57dcc4a7162774a53a95` |
+| `uranus-2.4-1.21.1-neoforge.jar` | 0.81 MiB | `757d8dd20bf22c7157e275c2a7643cde76984e4d` |
+| `valhelsia_core-neoforge-1.21.1-1.1.5.jar` | 0.17 MiB | `e7498e89bd7347c6d0f4411f55bd312490dfe814` |
+| `VanillaBackport-neoforge-1.21.1-1.1.7.7.jar` | 51.67 MiB | `98ac5799cae7cb0eefecdb77d8e2af6a77c5f54d` |
+| `variantsandventures-neoforge-1.0.23%2Bmc1.21.1.jar` | 1.03 MiB | `7c988c922062aaf8c84ddec9d29fc24b7a2d137e` |
+| `villagerconfig-neoforge-4.5.3+1.21.1.jar` | 0.36 MiB | `66e37c0cfb44a452b6aefd57085f2fb5fd8e5516` |
+| `villagesandpillages-neoforge-mc1.21.1-1.0.3.jar` | 0.23 MiB | `f587626ba0b421f976f4bd1141bcdc3ca9d21abb` |
+| `voicechat-neoforge-1.21.1-2.6.17.jar` | 4.68 MiB | `55fc0d529318620bd2ce7a635657014c5c98e189` |
+| `voicemessages-neoforge-1.0.12-1.21.1.jar` | 0.11 MiB | `3411d816bd7b950a4960a7e27c413df5b8dd37bf` |
+| `voxy-0.2.9-alpha.jar` | 84.98 MiB | `71b1ca2e5f0ad30b7537d8e90da88767ba791db2` |
+| `waystones-neoforge-1.21.1-21.1.29.jar` | 0.84 MiB | `40f15e97d79e01ce65fe2fe752bef43689b32bff` |
+| `WitherSkeletonTweaks-1.21.1-10.1.1.jar` | 0.02 MiB | `eda07efc2f5e47492abe205295b182c219c6199f` |
+| `wits-1.3.0+1.21-neoforge.jar` | 0.01 MiB | `4fb6e087325c70031fdb7fe6eb5278c5038511dd` |
+| `worldweaver-21.0.21.jar` | 2.06 MiB | `5524090ba997262f1b38ffdc259ec164428e09f7` |
+| `wunderlib-21.0.10.jar` | 0.36 MiB | `330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a` |
+| `xaerominimap-neoforge-1.21.1-25.3.13.jar` | 2.04 MiB | `06cdb37f394bdbebce94c64644ae4bc21bd98959` |
+| `xaeroworldmap-neoforge-1.21.1-1.40.16.jar` | 1.32 MiB | `d0865b6153c4d0feaf1551fb5309884ec3568c03` |
+| `yeetusexperimentus-neoforge-87.0.0.jar` | 0.54 MiB | `7132c346103d75a7c84da64b35b92e3a6f1ce3da` |
+| `yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar` | 1.07 MiB | `fe270c9f6e0a8142cf316944087f5109cef08bbb` |
+| `YungsApi-1.21.1-NeoForge-5.1.6.jar` | 0.37 MiB | `e1c394779fb9e038e4f7a1b4558d0432607d263b` |
+| `YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar` | 0.86 MiB | `90529257dbd92558998c65178294bc7b2fd16a64` |
+| `YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar` | 0.75 MiB | `73a660c13063450e555e5e2c015ae24d606b32b4` |
+| `YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar` | 0.38 MiB | `832f2c17425debe74a9f267f4136f1a0f0221d19` |
+| `YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar` | 0.76 MiB | `d6b7ce6cf351b09cbd23147ff166c35cfdc572e8` |
+| `YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar` | 0.47 MiB | `6a14e1d8201f068ca87ef8333e471c5378955906` |
+| `YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar` | 0.58 MiB | `4061ece2141475227646649046fc14c2da505922` |
+| `YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar` | 0.98 MiB | `fba629defdb92ad99ec4f411895afb6e19555a18` |
+| `YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar` | 0.44 MiB | `5d06a5850af7c577612d4592706a8e156bbe1cbf` |
+| `YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar` | 0.17 MiB | `bbf6c91f4a2829c58bc024eaaab821986bc93de6` |
+| `YungsExtras-1.21.1-NeoForge-5.1.1.jar` | 0.19 MiB | `62833733aaf407f36bdacf648ed4b2ef9940662b` |
+| `zamega-neoforge-1.7.3.jar` | 2.28 MiB | `a867f4a1eaa62418aa68c87cf45fe1d4514f0e07` |
