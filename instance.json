@@ -1,8 +1,8 @@
 {
   "name": "FactorMoon",
   "author": "WoolfMen + Codex",
-  "description": "NeoForge merge draft: aeronaftics semantic base plus CreateAERO/Cobblemon FactorMoon layer.",
-  "version": "0.1-neoforge-21.1.228",
+  "description": "NeoForge FactorMoon modpack with Create, Aeronautics and Cobblemon progression.",
+  "version": "1.0.0-neoforge-21.1.228",
   "runtime": {
     "minecraft": "1.21.1",
     "forge": "",
@@ -14,16 +14,11 @@
   },
   "java": "",
   "minMemory": 8192,
-  "maxMemory": 24576,
+  "maxMemory": 12288,
   "assignMemory": true,
   "env": {},
   "url": "",
-  "icon": "https://media.forgecdn.net/avatars/thumbnails/1798/187/256/256/639138763743010170.png",
+  "icon": "FactorMoon_ICO.png",
   "fileApi": "",
-  "server": null,
-  "lastAccessDate": 1780738637013,
-  "lastPlayedDate": 1780738641319,
-  "playtime": 8185508,
-  "creationDate": 1780608166421,
-  "path": "C:\\Users\\teres\\.minecraftx\\instances\\FactorMoon"
+  "server": null
 }

@@ -1,28 +1,80 @@
-# FactorMoon
+<h1 align="center">FactorMoon</h1>
 
-FactorMoon is a NeoForge 1.21.1 modpack merge draft based on the `aeronaftics` / CreateAERO direction plus a Cobblemon expansion layer.
+<p align="center">
+  <strong>NeoForge 1.21.1 сборка про индустрию, полеты, исследование мира и Cobblemon.</strong>
+</p>
 
-This repository is meant for analysis and iteration. It tracks configs, KubeJS scripts, datapack/resource-pack metadata, reports, and active mod manifests. Large third-party mod jars, save data, logs, caches, and local backups are intentionally ignored.
+<p align="center">
+  <img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/Minecraft-1.21.1-2f8f46?style=for-the-badge">
+  <img alt="NeoForge 21.1.228" src="https://img.shields.io/badge/NeoForge-21.1.228-f16436?style=for-the-badge">
+  <img alt="Public build" src="https://img.shields.io/badge/Build-1.0.0-blue?style=for-the-badge">
+  <img alt="Mods" src="https://img.shields.io/badge/Mods-about%20500-7b4bd6?style=for-the-badge">
+</p>
 
-## Current Target
+## О сборке
 
-- Minecraft: 1.21.1
-- NeoForge: 21.1.228
-- Pack focus: Create / Create Aeronautics + Cobblemon + AE2
-- Recipe browser baseline: JEI stack from `aeronaftics`
-- Active jar count after the friend recommendation slim pass: 482
-- Balance exclusions: firearms, artillery, Immersive Aircraft, Small Ships, NiftyCarts, Infinite Music
+FactorMoon соединяет инженерную часть Create, воздушные механизмы Create: Aeronautics, автоматизацию Applied Energistics 2 и большую Cobblemon-прогрессию в одну приключенческую сборку. Идея простая: игрок не просто ловит покемонов или строит завод, а использует оба направления вместе - исследует мир, добывает ресурсы, развивает базу, автоматизирует производство и отправляется за новыми целями.
 
-## Important Files
+Сборка ориентирована на одиночную игру и небольшие кооперативные миры. Внутри есть квестовые ветки, Cobblemon-дополнения, структуры, данжи, визуальные ресурспаки, шейдеры и оптимизационные правки для комфортного старта.
 
-- `FACTOR_MOON_CHANGELOG.md` - human-readable chronology of the merge and fixes.
-- `FACTOR_MOON_BUILD_REPORT.md` - current state and repair notes.
-- `_factor_moon_reports/create_and_first_launch_audit.md` - detailed launch/crash audit.
-- `_factor_moon_reports/friend_recommendation_slim_pass.md` - slimming pass based on the friend's recommendations.
-- `ACTIVE_MODS.md` / `ACTIVE_MODS.json` - active jar manifest with sizes and SHA-1 hashes.
-- `RESOURCEPACKS.md` / `RESOURCEPACKS.json` - active resource-pack manifest with sizes and SHA-1 hashes.
-- `_factor_moon_reports/mandatory_neoforge_ports.md` - manual Fabric-to-NeoForge port queue.
+## Что внутри
 
-## Not Tracked
+- **Create и инженерия:** механизмы, автоматизация, транспортные решения и связка с Cobblemon-крафтами.
+- **Cobblemon:** покемоны, прогрессия, дополнительные структуры, интерфейсные улучшения, Poke Rods и визуальные дополнения.
+- **Applied Energistics 2:** хранение, логистика предметов и поздняя автоматизация.
+- **Исследование:** новые структуры, данжи, подземные поселения, морские и наземные точки интереса.
+- **Квесты и прогресс:** ветки для ориентира по сборке, включая Cobblemon и технологическое развитие.
+- **Визуал:** Cobblemon-ресурспаки, Fresh Animations, миникарт-иконки, Complementary Unbound + Euphoria Patches.
+- **Оптимизация:** настроенный клиентский набор производительности без функции принудительной предзагрузки чанков.
 
-The active `mods/*.jar`, `resourcepacks/*`, and local `_disabled_mods/` backups are not committed to Git because the pack includes third-party binaries and large local recovery copies. Rebuild/reconstruction should use the manifests, the reports, and local backups.
+## Текущий публичный билд
+
+| Параметр | Значение |
+|---|---|
+| Версия сборки | `1.0.0-neoforge-21.1.228` |
+| Minecraft | `1.21.1` |
+| NeoForge | `21.1.228` |
+| Активные моды | около `500` jar-файлов |
+| Ресурспаки | `24` активных zip-пака |
+| Шейдеры | `Complementary Unbound r5.8.1 + Euphoria Patches 1.9.3` |
+| Размер подготовленного архива | около `1.38 GB` |
+
+Публичный архив очищен от личных миров, логов, crash-reports, локальных кэшей, списков серверов и временных файлов. В архив входят только нужные для сборки папки: `mods`, `config`, `defaultconfigs`, `kubejs`, `datapacks`, `resourcepacks`, `shaderpacks` и связанные игровые данные.
+
+## Установка
+
+1. Установите лаунчер, который поддерживает пользовательские NeoForge-инстансы.
+2. Импортируйте релизный архив FactorMoon со страницы публикации сборки.
+3. Убедитесь, что используется Minecraft `1.21.1` и NeoForge `21.1.228`.
+4. Выделите сборке от `8 GB` до `12 GB` оперативной памяти.
+5. Первый запуск может идти дольше обычного: сборка тяжелая, клиенту нужно подготовить конфиги, ресурсы и кэши.
+
+Не используйте зеленую кнопку **Code** на GitHub как установщик сборки. Этот репозиторий нужен как витрина, технический паспорт и история правок; готовый игровой архив публикуется отдельно на странице сборки.
+
+## Требования к ПК
+
+| Уровень | Пример конфигурации |
+|---|---|
+| Минимум | 16 GB RAM, Java 21, 4-ядерный CPU, GTX 1050 Ti / RX 570, SSD, выделить игре 8 GB RAM |
+| Рекомендовано | 32 GB RAM, 6-8-ядерный CPU, GTX 1660 Super / RTX 3060 / RX 6600, SSD или NVMe, выделить игре 10-12 GB RAM |
+
+Слабые ПК могут запускать сборку, но на первом создании мира и при исследовании новых территорий возможны просадки. Для публикационной версии лучше сразу советовать игрокам SSD и не меньше 16 GB общей оперативной памяти.
+
+## Файлы для анализа
+
+- [`FACTOR_MOON_CHANGELOG.md`](FACTOR_MOON_CHANGELOG.md) - история крупных изменений и фиксов.
+- [`FACTOR_MOON_BUILD_REPORT.md`](FACTOR_MOON_BUILD_REPORT.md) - технический отчет по сборке и запуску.
+- [`ACTIVE_MODS.md`](ACTIVE_MODS.md) - манифест модов для анализа состава сборки.
+- [`RESOURCEPACKS.md`](RESOURCEPACKS.md) - активные ресурспаки публикационного архива.
+- [`QUESTS_FILE_GUIDE.md`](QUESTS_FILE_GUIDE.md) - заметки по квестовым файлам.
+- [`_factor_moon_reports`](./_factor_moon_reports) - подробные служебные отчеты и аудиты.
+
+Игрокам эти файлы читать не обязательно. Они оставлены для прозрачности, проверки состава и дальнейшей настройки сборки.
+
+## Что не входит в репозиторий
+
+Большие сторонние `.jar`, личные сохранения, логи, crash-reports, локальные бэкапы и временные кэши не должны храниться в Git. Это защищает репозиторий от лишнего веса и не смешивает публичный билд с личными данными разработчика.
+
+## Авторы и права
+
+FactorMoon собирает и настраивает контент множества авторов модов, ресурспаков и библиотек. Все права на сторонние проекты принадлежат их авторам. Сборка не связана официально с Mojang, Microsoft, The Pokemon Company, Cobblemon или командами отдельных модов.
